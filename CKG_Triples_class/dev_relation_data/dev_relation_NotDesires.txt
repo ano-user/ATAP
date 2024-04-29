@@ -1,0 +1,8 @@
+NotDesires	person	break leg
+NotDesires	cat	get wet
+NotDesires	actor	bad review
+NotDesires	person	lose his friend
+NotDesires	person	make mistake
+NotDesires	person	be burn
+NotDesires	person	burn
+NotDesires	person	be diseased

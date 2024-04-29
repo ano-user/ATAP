@@ -1,0 +1,6 @@
+LocationOfAction	wash	bathroom
+LocationOfAction	study	school
+LocationOfAction	learn	school
+LocationOfAction	wash	bathroom
+LocationOfAction	study	school
+LocationOfAction	learn	school

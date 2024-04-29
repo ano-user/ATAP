@@ -1,0 +1,2000 @@
+John pays John's taxes	oWant	none
+John meets for dinner	xWant	go home
+John goes  from work	xNeed	to of gone to work
+John offers  on this book when ordered	xNeed	to approach customers
+John visits the city	xAttr	curious
+John thanks  for comments	xIntent	to make  feel good
+John gives it a bath	oWant	none
+John splashes  on Tom's face	xWant	dry face
+John spills coffee	oWant	none
+John wants to come	xReact	happy
+John manages John's  well	xWant	reduce cost
+John dyes Tom's hair blue	xIntent	to do their job
+John thanks the  for Tom's contributions	xAttr	thankful
+John has a nice dinner	xAttr	relaxed
+John passes John's exam	xAttr	proud
+John walks into Tom's room	oEffect	Tom is creeped out
+John works really hard	xAttr	diligent
+John does the best Tom could	xNeed	to work hard
+John places  to end	oWant	none
+John does not have a lot of money	xAttr	poor
+John buys a dog	xAttr	hopeful
+John takes as Tom example	xAttr	illustrative
+John wants to play baseball	xAttr	hopeful
+John includes another 	xEffect	spends more time on the project
+John has a fear of heights	xWant	to get over the fear
+John gets burned	xNeed	to be near something hot
+John pays well	xReact	generous
+John takes  sitting down	xNeed	to grab a chair
+John comes again	xWant	to post something anonymously on fb
+John spits nails	xIntent	to be clean
+John blows Tom's mind	xNeed	to walk to Tom
+John plays the gender card	xNeed	none
+John gives Tom instruction	oEffect	does something new
+John gets the  into Tom's hands	oWant	to refuse the item
+John sees  out of the corner of John's eye	xReact	curious
+John plays dodgeball	xWant	to win
+John assigns  to groups	oEffect	organization makes things easier for them
+John drops the phone	xAttr	amused
+John casts Tom's eyes	xWant	none
+John beats  easily	xEffect	becomes a champion
+John brings  to Tom's house	xIntent	to surprise them
+John wants to play football	xNeed	to go for try outs
+John appoints a  to investigate	xAttr	dominant
+John advances another 	xIntent	to make advancement
+John visits John's mother 's 	xIntent	to see someone or something
+John achieves Tom level	xWant	drink champagne
+John is short on money	xReact	sad
+John wastes John's day	oReact	none
+John gets beer	oWant	none
+John waters John's garden	xAttr	wise
+John does well in school	xAttr	smart
+John reaches exiting customers	xIntent	to be a good worker
+John pleases  to make	xAttr	loving
+John pays John's  to the king	xWant	to gain respect from the king
+John puts it all together	xNeed	make a plan
+John meets someone	oWant	hang out
+John gets something for nothing	xNeed	to ask for something
+John watches Tom's face	xNeed	to be near
+John accidentally kicked	xNeed	sits too close
+John gets it to work	xNeed	to put it in car
+John begs Tom's parents	oReact	sad
+John buys the house	xNeed	to find the house
+John spends a  working	xWant	to get paid
+John gives Tom what for 	xAttr	giving
+John overflows Tom's banks	oWant	John to refill the bank account
+John purchases a lottery ticket	oEffect	none
+John rears Tom's children	xIntent	to play and have fun with them
+John can n't take it anymore	xEffect	shock
+John is a good person	xWant	to be well liked
+John pries open	xAttr	strong
+John helps Tom's move	xReact	tired
+John casts  before swine	xAttr	curious
+John holds the  in place	xWant	to click photograph
+John moves John's car	oEffect	none
+John takes Tom's place	xReact	more involved
+John buys John's wife 	xEffect	smiles
+John opens John's doors	oEffect	none
+John talks on the phone	xNeed	to answer the phone
+John asks  for money	xAttr	needy
+John reads John's diary	xReact	thoughtful
+John sits on Tom's couch	xEffect	their leg falls asleep
+John refuses to pay	xIntent	to show disgruntlement with the product
+John crosses the road	oEffect	none
+John would be fun	oEffect	none
+John paces back and forth	oReact	none
+John bosses Tom around	xEffect	gets what they want
+John borrows Tom's car	xNeed	to go somewheree
+John catches Tom's eye	xIntent	to clean eye
+John plays a  in the movement	oWant	to protest against John
+John puts  together	xNeed	to join
+John tells  about John's day	xNeed	any plan for celebrate
+John manages Tom's  well	xEffect	estate
+John pays John's  to the king	xWant	to stay in good standing
+John elects  to office	oWant	to help people
+John feels very embarrassed	oWant	none
+John increases Tom's knowledge	xIntent	to teach something
+John pumps iron	xIntent	to get in shape
+John raises Tom's glass	oReact	happy
+John practices together	xNeed	to be part of a band
+John stares back at Tom	oWant	to laugh
+John buys Tom a dog	xNeed	to ask Tom if they want a dog
+John gets  at the store	xReact	accomplished
+John pulls the car over	xAttr	curious
+John is finally pregnant	xWant	buy crib
+John gives  an f	xReact	irritated
+John seeks Tom's advice	xNeed	find the words to say it
+John enters John's office	xAttr	motivated
+John thanks Tom's profusely	xNeed	to accept a gift
+John meets Tom husband	xAttr	being introduced
+John waves  around	xNeed	send out signal
+John snatches  away	xEffect	is caught and put in jail
+John communicates  to others	xIntent	to share his knowledge
+John pulls out all the stops	xReact	happy
+John gets John's hands dirty	oWant	none
+John thanks  for comments	xIntent	to be kind
+John asks Tom's dad for help	xWant	receive answer
+John confronts John's roommate	xReact	angry
+John eats  for weeks	xIntent	to make her father understand
+John takes Tom's toll	xNeed	to inform Tom of the toll amount
+John watches Tom go	xReact	sad that person is gone
+John sees John's girlfriend	xEffect	grows closer to their girlfriend
+John is a good soccer player	xReact	strong
+John takes  sitting down	xIntent	surprised
+John drops my phone	xNeed	to find my phone
+John leaves it at that	xAttr	straight forward
+John throws the book	xAttr	violent
+John gets something to drink	xNeed	to look at beverage choices
+John puts it together	xAttr	skilled
+John slips under the radar	xIntent	to hide
+John increases Tom's knowledge	oReact	englightened
+John goes to the doctor 's office	xNeed	to be sick
+John looks the other way	xEffect	see good things
+John drives all the way	oWant	none
+John catches Tom's attention	oWant	ignore them
+John pats Tom on the head	xIntent	show affection
+John finds it anywhere	xWant	to ignore something
+John dyes John's hair pink	oWant	to cooperate with John
+John goes from zero to hero	xIntent	to protect others
+John gets shot	xNeed	to be a thief
+John spends the summer	xWant	soak up sunshine
+John buys Tom a dog	oWant	to take care of the dog
+John wants to wear	xNeed	to buy it
+John sees  on the street	xAttr	concerned
+John bites the dust	xWant	to get up
+John passes gas	xAttr	uncomfortable
+John confronts John's roommate	oEffect	started arguments
+John catches a cold	xReact	unhappy
+John changes  frequently	xIntent	to find a job they enjoy
+John wears John's clothes	xAttr	normal
+John covers John's head	xEffect	thinking about drinking a hot drinks
+John gives you Tom opinion	oWant	reiterate
+John beats Tom easily	xNeed	to be strong physically
+John practices really hard	xNeed	to be persistent
+John stops at the store	xNeed	money
+John protects  from harm	xNeed	to put the children inside
+John comes into John's own	xAttr	thoughtful
+John draws John's sword	xReact	defiant
+John plays John's new game	oEffect	none
+John finds every 	xAttr	conscientous
+John returns the next day	xWant	do what they came to do
+John hits the road	oWant	none
+John needs a bath	xWant	take a bath
+John advances another 	xWant	to get a raise
+John pays taxes	xEffect	is relieved
+John fits Tom's needs	xWant	to have a partnership
+John calls the  together	oWant	to learn from John
+John looks in Tom's cupboard	xAttr	nosy
+John looks like a Tom	xReact	like an imposter because he looks like someone else
+John shouts Tom's name	xEffect	runs towards Tom
+John talks on the phone	xAttr	talkative
+John makes some pasta	oWant	none
+John pulls Tom's arm	xEffect	shout in anger
+John employs another 	xWant	them to start working
+John challenges John's friend to a race	xEffect	breathes heavily
+John finds Tom's ball	oReact	thankful
+John finds  though	xEffect	explains it
+John can n't believe John's luck	xEffect	smiles for being so lucky
+John casts Tom's eyes	xAttr	fearful
+John moves past Tom	oEffect	pull
+John replaces  with another	oEffect	none
+John does n't want to fight	oWant	to follow John
+John seems larger and heavier at that elevation	xWant	to reduce his weight
+John eats toast	xAttr	strong
+John gives Tom children	xEffect	gets to have children
+John lasts forever	xNeed	to have done a lot of good deeds
+John is Tom's maid of honor	xNeed	to buy dress
+John spends the  at John's house	xEffect	has a good leisure time
+John makes a perfect score	xIntent	to win
+John is a waste of money	xWant	to improve themselves
+John moves to florida	xReact	financially secure
+John loves the experience	xAttr	delighted
+John takes matters into John's hands	xIntent	to achieve an accomplishment
+John is mother	oWant	to be protected
+John spends the summer	xNeed	make plans to stay
+John loves  than anything	oEffect	none
+John wins the match	xWant	to play another game
+John becomes a lawyer	xNeed	skill
+John gives John's opinion	xWant	to finish with the meeting
+John calls Tom the next day	oReact	happy
+John finishes Tom's homework	xEffect	has less free time
+John preheats the oven	xNeed	light the oven
+John meets some friends	oWant	to socialize with John
+John protects Tom from harm	xAttr	helpful
+John fails to even go platinum	xWant	to make more music
+John attends John's father 's 	xWant	to make a toast
+John knows how to dance	xEffect	gets a great workout
+John meets for dinner	xWant	take a shower
+John gives the children 	xNeed	to find a group of children
+John accomplishes John's ends	xEffect	gets trophy
+John sees Tom's brother	xWant	to yell at Tom's brother
+John tries sushi	xReact	disgusted
+John makes  every morning	xNeed	get the eggs out of the refridgerator
+John sees every day	xAttr	reflective
+John states and local 	oEffect	none
+John plays a new instrument	oEffect	none
+John tries John's  at making	xEffect	gains knowledge
+John is able to fix it	xAttr	handy
+John brings  to John's eyes	oWant	none
+John makes Tom appeal	oWant	to be persuaded
+John goes rock climbing	xIntent	to practice skills
+John asks John's grandmother	oWant	to decline the request
+John gives Tom confidence	xIntent	help the person aspire to take on greater roles
+John can not believe John's eyes	xEffect	gets excited and moves around
+John makes John's speech	xWant	thank people
+John continues Tom's journey	xNeed	to be entered into relay race
+John develops web presence	xNeed	to put in more efforts
+John finds gold	xAttr	rich
+John drives straight	xAttr	talented
+John leaned back in John's chair	xReact	relieved
+John does n't want to waste it	xReact	judicious
+John follows  carefully	oWant	hide
+John prevents  from working	xAttr	bad
+John practices singing	oEffect	critiques John
+John follows  carefully	xWant	to prepare a nice dinner
+John travels across the country	xAttr	brave
+John does n't have many friends	xAttr	shy
+John fills Tom's lungs	oWant	fill in paramedics of their condition
+John meets the love of John's life	xIntent	to meet his love
+John sits on Tom's couch	xReact	friendly
+John wants to play hockey	xNeed	none
+John withdraws money	xWant	go shopping
+John takes things as they come	xWant	to go with the flow
+John throws the book	xAttr	exasperated
+John wears gloves	xWant	to keep their hands warm
+John needs a good grade	oReact	none
+John beats  easily	xAttr	talented
+John buys cookies	xWant	to exercise ie burn off the calories
+John watches for Tom opportunity	xReact	like they are keeping an look out on them
+John offers  on this book when ordered	xWant	to make money
+John lights another cigarette	xEffect	becomes unhealthy
+John puts on Tom's hat	xAttr	kind
+John bites John's nails	xWant	spit out nails
+John follows John's instructions	oReact	none
+John opposes every 	xNeed	to realize they disagree
+John prevents the  from entering	xNeed	to close the doors
+John gets some work done	oReact	none
+John wants to wear	xNeed	go to your clothing store
+John challenges  to a basketball game	xAttr	athletic
+John loves reading	xNeed	to be interested in reading
+John tunes Tom's guitar	xAttr	generous
+John never been to one	oEffect	none
+John goes white water rafting	xWant	get wet
+John is in a good mood	xWant	to have fun
+John writes  using	oReact	none
+John takes  off roading	xReact	energized
+John would work	oWant	none
+John takes Tom place	oWant	to go away and never talk to John
+John comes to see Tom	xEffect	no effect
+John gives a small smile	oEffect	none
+John applies for jobs	xReact	pessimistic
+John gets   though	oWant	none
+John comes and see Tom	oWant	to talk
+John passionately rucked Tom	xWant	to propose to her
+John cooks spaghetti	xIntent	to make dinner
+John protects  from harm	xNeed	to look out for possible dangers
+John makes  every night	xIntent	to eat well
+John loves football	xAttr	eager
+John covers the  completely	xReact	satisfied about his work
+John does very well in school	xReact	good about themselves
+John leaves the class	xEffect	does not become smarter
+John sees  every day	oEffect	becomes part of a memory
+John throws money away	xAttr	spendthrift
+John feels sad	oWant	none
+John does n't know what to expect	xEffect	moves hesitantly
+John is a freshman in college	xNeed	to go to orientation
+John pulls Tom's hand back	xReact	happy to help
+John wants to play an instrument	xReact	open to new experiences
+John jumps ship	xEffect	drowns
+John turns John's nose up	xEffect	misses chance to try something different
+John puts it in the oven	oWant	none
+John borrows Tom's car	xWant	to get to their destination
+John leads Tom expedition	xReact	happy to help
+John brings  to John's eyes	xAttr	sentimental
+John goes white water rafting	xIntent	to spend time with his friends
+John restores the  to John's condition	xNeed	to know the condition before restoring
+John opens Tom's doors	xAttr	helpful
+John breaks Tom's heart	oReact	sad
+John leaves the class	xWant	to go relax
+John practices  for weeks	xNeed	to continuously do it
+John looks Tom's way	xAttr	interested
+John takes Tom stand	oWant	to win election
+John brings  to Tom's mouth	xNeed	to buy soda
+John has to take Tom to the hospital	oWant	receive medical attention
+John sits across	xAttr	tired
+John forms John's opinion	oWant	to tell them what they think
+John walks to John's room	xEffect	starts to relax
+John sets  on the table	oWant	to admire the beauty of the table
+John makes contact with Tom	xNeed	to have a phone
+John follows a recipe	oWant	none
+John buys a car	xWant	to show it to friends
+John agrees to disagree	xAttr	accepting
+John gets Tom's license	oEffect	take the license back
+John fails John's math class	xIntent	none
+John covers every 	xEffect	more is expected of him or her
+John peers inside	xReact	sneaky
+John turns John's  to the wall	oEffect	arrests x
+John shouts Tom's name	oEffect	run towards John
+John loves another 	xEffect	is untruthful
+John leaves class	xAttr	rushed
+John needs a lot of work	xWant	to do their assignments
+John reaches Tom's ears	oWant	to ignore x
+John watches  one night	xEffect	rests
+John improves John's sales	xAttr	intelligent
+John leaves alone	oWant	to approach John
+John makes that mistake again	xNeed	none
+John raises Tom's glass	xAttr	benfactor
+John works fine	xAttr	successful
+John expresses John's belief	xAttr	honest
+John drives to the office	xWant	to give a colleague a ride
+John puts Tom's phone	xIntent	to keep the phone safe
+John taketh John's  in vain	xNeed	misbehaviour
+John improves Tom's appearance	xReact	helpful
+John takes place 	oEffect	none
+John finally meet Tom	xIntent	to meet someone new
+John puts Tom's  together	xAttr	friendly
+John challenges John's friend to a race	xIntent	to see who is faster
+John uses  to communicate	xReact	understood
+John gives it Tom's name	xReact	happy
+John asks the doctor	xReact	knowledgable
+John passes the exam	xNeed	to work hard
+John renews  by day	xNeed	to exercise
+John skips class	xEffect	fails
+John takes a bow	xEffect	exits the stage
+John babysits Tom's cousin	xAttr	loving
+John loves cake	xAttr	excited
+John leaves the car	xWant	get far away from there
+John reaches behind Tom	oEffect	is comfortable
+John thanks  profusely	oWant	to help x
+John gets  from the store	xAttr	decisive
+John gets John's foot in the door	oWant	to help him learn the trade
+John tells Tom's mother	xIntent	to get someone in trouble
+John eventually bought 	xEffect	gets to drive around
+John passes  around	oWant	to have a nice dinner
+John plays a  in the movement	xEffect	makes new friends
+John always makes 	xReact	prideful
+John claps Tom on the shoulder	xEffect	smiles
+John beats Tom easily	xAttr	competitive
+John gets beer	xAttr	considerate
+John makes the cookies	oReact	happy
+John is walking along the beach	xNeed	to go there
+John solves the world 's 	xIntent	to win name and fame
+John gains Tom appreciation	xAttr	kind
+John takes  out for a ride	xIntent	to have fun
+John studies extra hard	xAttr	dedicated
+John plays dodgeball	xNeed	to get friends together
+John presents  in a manner	xNeed	develp presentation
+John jumps before John is pushed	xAttr	brave
+John loves sweets	xReact	an urge for sweets
+John is always busy	xAttr	speeding
+John gives it a bath	xWant	to dry off
+John finds  Tom wanted	xAttr	thoughtful
+John buys a snack	xIntent	an energy boost
+John gets sunburned	xAttr	careless
+John teaches  in schools	xWant	to cash a paychck
+John visits Tom's mother	oEffect	gets a surprise visit
+John catches Tom eye	xEffect	they start talking
+John gives  an allowance	xAttr	kind
+John writes music	xEffect	got published
+John walks in the park 	xNeed	decides when he wants to walk
+John sprains John's leg	xNeed	to have tripped over a rock
+John helps Tom in personz way	xAttr	helpful
+John takes  up on the offer	oWant	express contentment
+John alters Tom's course	oEffect	none
+John measures the  in terms	xAttr	thoughtful
+John finishes shopping	oWant	none
+John gets the book	xIntent	to read
+John enjoys John's night	xEffect	John smiles
+John creates the  in days	oEffect	none
+John plays Tom's favorite songs	xReact	happy
+John takes matters into John's hands	xWant	to be self reliant
+John has a new car	xWant	pick up friends
+John cuts open 	xIntent	to get what's inside the delivered box
+John makes Tom smile	oReact	cheerful
+John sends a letter	xNeed	to type it
+John dates a girl	xEffect	surprises
+John abuses John's power	xWant	to collect money
+John is in a good mood	oWant	none
+John helps  along	oEffect	none
+John covers Tom's mouth	xEffect	gets bitten
+John mentions another 	xEffect	is told not to talk so much
+John moves Tom's car	xEffect	he character
+John derives John's name	xNeed	class
+John can care less	xEffect	none
+John eats it quickly	xEffect	swallows
+John cleans Tom's bedroom	xWant	chill out
+John has to cancel John's plans	xAttr	busy
+John purchases a lottery ticket	oWant	none
+John is a good person	oEffect	none
+John sees Tom away	xEffect	parts ways
+John loses Tom's temper	xAttr	annoying
+John does very well in school	xReact	hopeful
+John obeys every 	xWant	to avoid trouble with the law
+John reduces John's dependence	xNeed	to move out on their own
+John dawns upon Tom	oReact	happy
+John fails John's math class	xReact	sad
+John jumps before John is pushed	oEffect	misses
+John calls the fire department	xIntent	to stop a fire
+John dyes Tom's hair red	xIntent	they were working as a hairstylist
+John gets a small loan	xReact	satisfied
+John prevents  from entering	xAttr	protective
+John makes arrangements	xEffect	smiles at the possibilities
+John wants to sleep	xAttr	exhausted
+John mentions another 	xEffect	is laughed at
+John loses John's  in the war	oEffect	cries
+John busts a nut	oReact	none
+John knows the  from the dance	xNeed	go to the dance place
+John covers Tom's mouth	xAttr	careful
+John nurses Tom back to health	xReact	happy
+John hits Tom's friend	xAttr	cruel
+John grants a  by ccc	xNeed	apply for licence
+John is as good as new	xWant	start doing things
+John drives down the highway	xAttr	mature
+John gets milk	xAttr	capable
+John sits with Tom at lunch	xNeed	to of gone to lunch
+John buys  at a garage sale	xIntent	to have something interesting
+John takes place in the century	oEffect	none
+John finds John's shoes	oEffect	none
+John tells Tom's friend	oWant	to visit Tom in the hospital
+John gets knocked out	xWant	to seek medically attention
+John laughs Tom's asses off	xAttr	glad
+John always made 	xWant	to show off her baking skills
+John sees Tom's girlfriend	xAttr	observant
+John shares John's experience	xIntent	to help people learn
+John visits  every day	xAttr	kind
+John links the  together	xEffect	checks progress
+John sees every 	xAttr	observant
+John makes Tom's day	oWant	enjoyment
+John lights another cigarette	oReact	none
+John thanks the  for Tom's comments	xAttr	grateful
+John takes  to ensure	xWant	to make sure they succeed
+John becomes great friends	oWant	smile
+John takes Tom's toll	xAttr	nervous
+John visits the zoo	xEffect	see's the seals
+John goes from zero to hero	oReact	relieved
+John cuts bait	xEffect	is ready to fish
+John offers  on this book when ordered	oEffect	get a deal on books
+John drops Tom's phone	xWant	to replace the item
+John needs a good grade	oEffect	none
+John gets more exercise	oWant	none
+John divideth John's  from the goats	xIntent	to count the sheep and goats
+John rents an apartment	xAttr	happy
+John understands Tom's nature	xAttr	involved
+John compares  with another	xAttr	inquisitive
+John buys a computer	xWant	connect to network
+John nurses Tom back	oReact	grateful
+John has to cancel John's plans	xWant	to reschedule the original activity
+John wants to hurt Tom	xAttr	upset
+John thanks  for comments	xEffect	gets a like
+John scratches the surface	xAttr	hopeful
+John makes the team	xWant	celebrate
+John visits Tom's friend	xEffect	spends some time
+John looks on Tom's face	xReact	ecstatic
+John hurts like hell	xEffect	express his irritated feeling
+John fails John's classes	xWant	to let off some steam
+John meets Tom husband	xWant	to thank Tom's husband
+John discovers in Tom's bed	xEffect	goes to eat
+John spends the  working	xWant	to submit the work to the boss
+John gets a call back	xNeed	to have called the person first
+John nurses Tom back	oReact	good
+John makes contact with Tom	oEffect	gets thanked
+John buys Tom a car	xWant	Tom to pay them back
+John takes it outside	xWant	to keep it outside
+John does n't want to waste it	xWant	put it on a storage container
+John divides  into groups	oEffect	none
+John buys a house	xAttr	rich
+John mixes it up	xWant	to use it
+John passes around Tom	xWant	to share
+John buys the house	oEffect	buys a new house
+John looks like a Tom	xAttr	sneaky
+John gets a surprise	oEffect	none
+John gets the  into Tom's hands	xNeed	to retire
+John gives Tom a note	xAttr	stealthy
+John uses  anyway	xAttr	defiant
+John consolidates John's position	xAttr	sharing
+John provides Tom estimate	xEffect	get's an answer about the job
+John wants to learn how to swim	oEffect	none
+John goes downhill	xReact	sick
+John shares and share alike	xWant	to help other people
+John plants  in John's yard	xWant	to water the plant
+John shows Tom effect	oWant	show importance
+John trips balls	oWant	none
+John sees Tom's brother	xNeed	to find Toms brothers
+John broadens the  to include	xNeed	to figure out the parameters to be broadened
+John challenges John's friend to a race	xReact	competitive
+John puts it in Tom's purse	xWant	to frame Tom
+John puts the  together	xWant	double check their work
+John pays Tom well	oReact	happy
+John makes  quickly	xIntent	to finish quikly
+John moves to florida	xReact	richer
+John grants Tom's request	xWant	listen to another request
+John mails Tom in bulk	xWant	to spam him
+John owes Tom's  to the fact	xAttr	wealthy
+John sends  home	oEffect	none
+John hits the roof	xAttr	hot headed
+John reports every 	xIntent	best future
+John reaches behind Tom	xWant	move away from Tom
+John practices all day	xReact	exhausted
+John watches Tom intently	oWant	get a restraining order
+John tells  Tom had a surprise	xReact	helpful
+John likes the movie	xAttr	open minded
+John learns the printer 's 	xAttr	hard working
+John sees John's crush Tom	xIntent	none
+John takes things for granted	oWant	to stay away from John
+John sends Tom a letter	xWant	to send the letter
+John catches Tom's attention	xWant	to talk to Tom
+John crosses the road	xAttr	careful
+John takes Tom outside	oEffect	person breathes deeply
+John defines  as real	xIntent	truthness
+John wants to play baseball	xWant	to win the game
+John replaces the tire	xAttr	effective
+John nurses it back to health	xReact	happy
+John gives the children	xNeed	to find the kids
+John hits John's friend	xAttr	mean
+John drives  on the highway	xEffect	gets shouted at
+John sits patiently	xAttr	calm
+John hangs John's  in shame	xReact	unhappy
+John spends John's  working	xAttr	tired
+John brings  to the eyes	xEffect	gets smiled at
+John works fine	oEffect	cries
+John makes Tom concessions	xEffect	becomes tired from cooking
+John has seen John's day	xEffect	is not quite as sharp as before
+John puts Tom's  into execution	oEffect	praised
+John buys Tom a dog	xWant	to cuddle with the dog
+John argues with Tom's boyfriend	oWant	to take up for the other side
+John throws the baby out with the bathwater	xIntent	none
+John breaks wind	xReact	more comfortable not holding in a fart
+John trails behind Tom	xAttr	competent
+John falls on Tom's neck	oEffect	screams
+John draws John's conclusions	xAttr	smart
+John gets a manicure	xReact	refreshed
+John misses work	xWant	to rest
+John wants  so badly	xNeed	money
+John grants a  by the ccc	oReact	helpful to John
+John blows smoke	xWant	to grill steak
+John wants to play basketball	xAttr	playful
+John comes to Tom's eyes	oEffect	got up
+John rents an apartment	xNeed	to look through classified ads
+John is coming to an end	xWant	to take a break
+John finds  the next day	oWant	none
+John gets a call from Tom's boss	xWant	to keep their job
+John washes the car	xAttr	accomplished
+John feels unappreciated	oEffect	none
+John leans Tom's head	xReact	relaxed
+John washes Tom's car	xNeed	to fill the bucket
+John gets right back	xEffect	gets caught up
+John looks in Tom's cupboard	xReact	happy
+John cooks spaghetti	xAttr	hungry
+John takes Tom's place	oWant	to do their work when they can
+John becomes great	xAttr	special
+John looks better	xEffect	receives compliments
+John smooths Tom's hair	xAttr	beautiful
+John shoves Tom back	xNeed	to be shoved
+John advertises Tom's business	oEffect	gains money
+John grants a  by ccc	xReact	happy
+John tells  Tom had a surprise	xIntent	to be mean
+John wants to learn	xWant	to do research
+John takes a ride	xWant	to get to their destination
+John believes also in Tom	xAttr	trusting
+John looks a  in the face	oWant	none
+John does n't have a lot of money	xWant	to save whatever little they have
+John takes place 	xReact	happy
+John meets John's father	xNeed	to drive to meet father
+John gives Tom impression	oWant	to think like John does
+John crashes into another car	xAttr	furious
+John is a web developer	oEffect	none
+John brings  to Tom's eyes	oWant	to be proud of John
+John french kisses	xNeed	to be standing close to partner
+John puts out feelers	xWant	to trap someone
+John gives Tom a small smile	xIntent	express love
+John gives the children	xWant	to be a teacher
+John wants to learn how to cook	xNeed	to read cookbooks
+John looks like something	xReact	good
+John raises John's  to look	oReact	none
+John burns the  at both ends	oEffect	none
+John puts  on top	xWant	put utensil away
+John learns a new instrument	xAttr	capable
+John tips Tom's head back	oWant	to go to bed
+John practices hard 	xReact	tired
+John leaned back in John's chair	xAttr	inquisitive
+John goes to the sporting goods store	xEffect	buys a baseball mitt
+John skateboards with John's friends	oWant	to see what the others do
+John claps Tom on the shoulder	xAttr	good natured
+John hits the road	oEffect	none
+John practices together	xNeed	to follow a training plan
+John gives the  Tom's name	xReact	relieved
+John becomes very happy	xAttr	elated
+John wears John's boots	xWant	to go out
+John sheds John's blood	xEffect	lose blood
+John pulls John's car over	xEffect	is approached by police
+John goes to the doctor for help	xNeed	to get sick
+John spends  at the beach	xWant	to enjoy the great weather
+John gives the  Tom's name	xAttr	honorable
+John is  years old	xIntent	none
+John makes pasta	xIntent	to eat good food
+John leans back against the wall	xEffect	folds arms
+John wants  badly	xEffect	person asks his friends where he can get it
+John likes  though	xNeed	learn global activity
+John feels very nervous	xAttr	fretful
+John takes Tom's laptop	oWant	to make plans for when John is going to return the laptop
+John gives Tom confidence	xWant	to get a raise
+John does better in school	xAttr	ambitious
+John says Tom's goodbyes	xAttr	heartbroken
+John visits Tom's mother 's 	oEffect	Tom smiles at John and the mother
+John invites Tom to play	oReact	grateful
+John prevents  from engaging	xAttr	willful
+John shakes the pagoda tree	oWant	none
+John visits my friend	xWant	to play with friends
+John spends a lot of time together	oWant	to spend quality time together
+John loses Tom's temper	oWant	to calm Tom down
+John seems larger and heavier at that elevation	oWant	none
+John attention whores	xWant	to say they are popular
+John asks Tom to sit	oWant	to stay still
+John makes contact	oWant	talk
+John gives  a name	oWant	he ran away
+John looks the other way	xReact	conflicted
+John starts training	xWant	to win the dance contest
+John rides  without training wheels	xReact	excited
+John never been to one	xIntent	to try something new
+John becomes a lawyer	xEffect	feels excitement
+John is losing weight	xReact	happy
+John sees John's wife	oWant	to catch up with John
+John spends John's  making	xWant	look after it
+John leaves Tom alone	xAttr	lonely
+John saves Tom's  from Tom's sins	xEffect	John gets a nobel peace prize
+John is at Tom's grandmother 's house	xAttr	good
+John asks John's grandmother	xEffect	gets help
+John wins every 	xReact	happy
+John starts walking	oWant	none
+John camps with John's family	xReact	enjoyable
+John looks awful	xReact	ugly
+John makes  every morning	xIntent	to be ready to go
+John makes perfect	oWant	none
+John refuses to move	xEffect	looks grumpy
+John jumps before John is pushed	xEffect	loses balance
+John doeth all  well	xWant	to keep doing well
+John works Tom's way	xNeed	to understand how they work
+John plants  in John's yard	xEffect	hands get dirty
+John takes Tom outside	oWant	to get some sun
+John makes much sense	oWant	none
+John crashes into another car	oWant	to go to the hospital
+John buys the computer	xAttr	interested in working
+John knows the  from the dance	xEffect	learns a new dance
+John covers the  completely	xAttr	able
+John sees Tom's brother	oReact	none
+John goes rock climbing	xIntent	to exercise
+John links together 	xNeed	to find the sources
+John performs John's  in a manner	oWant	to collaborate
+John works really well	xNeed	to be efficient
+John really wants	xNeed	none
+John stays by Tom's side	xNeed	to be a certified nurse
+John is really disappointed	xReact	let down
+John grabs Tom's keys	oWant	act stupid
+John transmits in Tom form	oReact	very bad and cheated
+John gets  at work	xAttr	hardworking
+John sees Tom's crush	xWant	to ignore the crush
+John looks like a fool	xWant	to tell everyone they are not as they look
+John takes the bag	oEffect	they help another customer
+John finds  the next day	xIntent	to make sure that the cat is found
+John visits the city	xWant	to sleep
+John disposes of John's property	xAttr	rude
+John calls  immediately	xAttr	careful
+John watches a scary movie	xIntent	entertainment
+John changes John's direction	oWant	none
+John saves John's  from Tom's sins	xEffect	John is very generous
+John drags Tom along	oEffect	yells
+John becomes another 	oWant	none
+John feels refreshed	xAttr	renewed
+John pierces Tom's ears	xAttr	skilled
+John is ready to go	xWant	rest
+John broadens John's  to include	oReact	none
+John conceals Tom's identity	oEffect	hides from the law
+John reaches John's potential	xReact	good about themselves
+John heads to the beach	xIntent	to relax
+John claps Tom on the shoulder	oReact	friendly
+John takes Tom everywhere	oReact	happy and excited
+John paces back and forth	xAttr	anxious
+John bullies at school	oEffect	cries
+John calls the ambulance	xEffect	waits for the ambulance
+John goes to work the next day	xReact	professional
+John meets someone	oEffect	relationship is developed
+John drives John's new car	xIntent	to go shopping
+John drops Tom's head	xWant	pick head up
+John grants a  by the ccc	xNeed	to analyze the company
+John conceals John's identity	xReact	ashamed
+John gives Tom help	xReact	proud
+John takes  of things	xReact	accomplished
+John makes a shot	xEffect	have an indent in their finger from pulling the bow string
+John publishes  in journals	xAttr	well read
+John eventually bought	oEffect	none
+John follows the recipe exactly	xEffect	invite friends
+John reaches around Tom	xEffect	John can't quite grasp it
+John leaves  alone	oEffect	stays safe as well
+John is on Tom's school 's basketball team	xIntent	to be a basket ball player
+John walks to the bathroom	xWant	to take a shower
+John gives Tom opinion	xAttr	educated
+John loves Tom more than anything	oWant	kiss John
+John goes to the doctor for help	oEffect	doctor makes money
+John sings John's heart	oWant	none
+John meets Tom's husband	oEffect	Tom's husband acknowledges John's greeting
+John finds  the next day	xAttr	determined
+John handles  well	xWant	to succeed at what they do
+John starts crying	xWant	a tissue
+John gets some exercise	xAttr	dependable
+John drives to the office	xNeed	put gas in the car
+John catches Tom's dog	xAttr	playful
+John waits tables	xEffect	gets a tip
+John feels lucky	xReact	excited
+John sifts out 	xWant	find the good ones
+John reduces Tom's dependence	xWant	to fire Tom
+John teaches Tom things	xNeed	to make him agree
+John draws another 	xNeed	hands
+John withdraws money	xWant	spend money
+John gives John's name	xAttr	helpful
+John bows John's heads	xReact	respectful
+John buys a used one	oReact	none
+John takes a ride	xWant	to stop and walk around in the country
+John understands the  in terms	xAttr	knowledgeable
+John is a freshman in college	xWant	make some friends
+John packs heat	xAttr	prepared
+John gives Tom an f	oWant	to study harder
+John puts Tom to death	xEffect	frowns
+John includes another 	xWant	to demonstrate their theory
+John finally got back	xWant	to take a break
+John gets the shoes	oEffect	none
+John orders a cake	oWant	none
+John abuses John's power	xWant	to rule others
+John hits the headlines	xAttr	quick
+John studies for an exam	xAttr	capable
+John falls back to sleep	xAttr	tired
+John gets everything	xNeed	to have enough money
+John sends Tom home	xReact	like a responsible boss
+John waits all day	xAttr	patient
+John has a dinner party	xEffect	smiles and laughs
+John plays lots of games	xNeed	pick out a game to play
+John is still angry	xWant	to get over his anger
+John puts  to death	xReact	bad
+John misses work	oEffect	none
+John faces  alone	xEffect	fails
+John takes Tom step	oWant	start to run
+John commits  with Tom in John's heart	xEffect	gets caught
+John needs a lot of work	xReact	poor
+John hosts a party	oReact	good about John's ability to throw a party
+John leaves  on the table	oEffect	they have to take the place away
+John kisses Tom on the cheek	xAttr	affectionate
+John thanks  profusely	xIntent	polite
+John swings the bat	oReact	happy
+John stops but Tom did n't listen	oWant	run away
+John thanks  for Tom's comments	xNeed	to look at Tom
+John puts Tom to death	xAttr	powerful
+John comes to see Tom	oWant	to relax at home
+John takes Tom step	xReact	satisfied
+John meets some friends	xNeed	make some plans
+John pulls Tom's hand away	xIntent	to stop person from hurting themselves
+John earns the money	oEffect	none
+John lasts all day	xAttr	energetic
+John takes selfies	xAttr	photographic
+John refuses to pay	oEffect	put  systems in place to prevent loss
+John puts the phone	xAttr	complete
+John starves the  into submission	xEffect	waits expectantly
+John takes Tom up on the offer	oWant	to walk away with what they accepted
+John feels better	xNeed	to take medicine
+John spends  at Tom's house	oReact	happy
+John throws some bread	xNeed	take the bread from package
+John buys one anyway	xWant	to satisfy want
+John helps Tom stay awake	xAttr	kind
+John screams bloody murder	xIntent	to accuse someone of murder
+John gets the part	oEffect	none
+John wants to play football	xAttr	athletic
+John drops Tom off at home	xReact	helpful
+John shares John's experience	oReact	thankful for John giving thsm insight on the job
+John cuts swathes	xEffect	gets a manicured lawn
+John gets a second opinion	xAttr	thoughtful
+John plays a  in the movement	xWant	help the movement
+John wants money	xReact	broke
+John gets beer	oWant	none
+John gives Tom children	xNeed	make arrangements for adoption
+John cuts the umbilical cord	xReact	anticipation
+John chooses one 's 	xAttr	smart
+John wants to sleep	oWant	none
+John delivers Tom address	xWant	to thank Tom for the help
+John gets everything	xAttr	lucky
+John has lost Tom's phone	xIntent	none
+John eats toast	oReact	none
+John begs my parents	xIntent	something from my parents
+John is playing ball	oWant	to rest
+John plays John's favorite songs	xIntent	to dance
+John desperately needed 	xEffect	made a plan
+John is still angry	xNeed	sees something to make angry
+John follows the recipe	xNeed	makes noodles
+John thanks the  for Tom's contributions	xNeed	to receive contributions
+John pulls John's car over	xWant	to get out of the car
+John buys  for John's house	oWant	none
+John helps Tom along	xAttr	competent
+John wins the match	oWant	to storm off angry for losing
+John plays John's favorite songs	xIntent	to dance
+John tells  that Tom had cancer	oReact	nervous
+John comes looking for Tom	oReact	that they want to be found
+John demands Tom's attention	oWant	to listen to John
+John gets burned	xEffect	burned area blisters
+John arches Tom's back	xWant	Tom's pain to go away
+John gets work	xWant	to get paid
+John eats everything	xEffect	gains weight
+John looks like was going	xIntent	to leave a place
+John takes  of things	oReact	none
+John sends  home	oReact	helped
+John tops it off	xReact	satisfied
+John likes hiking	xIntent	to be fit
+John says Tom nay	xIntent	to give in
+John gets the shot	xNeed	to aim
+John practices all day	xAttr	diligent
+John visits Tom's mother 's 	oEffect	Tom shakes with nervousness to the two meeting for the first time
+John mails Tom in bulk	xNeed	go to post office
+John leaves Tom's  alone	xAttr	thoughtful
+John covers Tom's mouth	oReact	surprised
+John finally got up	oReact	none
+John wins the match	xNeed	to practice
+John puts  in the oven	xReact	delighted
+John throws a ball	xNeed	to pick up the ball
+John is offered the job	xReact	excited
+John sees  away	xAttr	observant
+John smooths away the 	xWant	to finish making the bed
+John buys a house	xEffect	John got a new house
+John does some yard work	xNeed	get the shovel out
+John presents John's views	xAttr	knowledgeable
+John loses John's sight	xIntent	none
+John changes  quickly	xNeed	have a notion it needs to be done different
+John catches John's dog	xAttr	caring
+John gets Tom's driver 's license	oEffect	wants to get a car
+John accomplishes god 's 	xAttr	spiritual
+John would take care of it	xAttr	generous
+John advertises John's business	xNeed	to start a company
+John works Tom's way up	xWant	to do well
+John feels very lucky	xWant	to ask out his crush
+John kisses Tom gently	xWant	to kiss Tom harder
+John leads Tom expedition	xEffect	reaches the top
+John wants to read	xEffect	disappointed about the conclusion
+John teaches Tom  tricks	xNeed	to practice
+John finally meet Tom	oEffect	receives a hug
+John completes John's studies	xIntent	to gain knowledge
+John repels  by force	xAttr	aggressive
+John buys a television	xAttr	a consumer
+John accepts Tom's apology	xAttr	kind
+John gets burned	xAttr	injured
+John casts Tom's eyes	xAttr	oubtfuld
+John smells something	xAttr	sick
+John uses Tom's middle finger	xIntent	to flip the bird
+John asks John's dad for help	oEffect	pats son on the back
+John works tirelessly	xAttr	determined
+John rides  without training wheels	oWant	none
+John loves the cake	xEffect	gets a sugar rush
+John takes John's laptop	xEffect	opens the laptop
+John loves  with John's heart	oEffect	is given flowers
+John claps Tom on the shoulder	oWant	get away from John
+John loses John's sense	oReact	none
+John leaves Tom  alone	xWant	sacrifing
+John gets Tom's license	xReact	helpful
+John loves the dog	oWant	none
+John preheats the oven	xReact	hungry
+John loves  than anything	xWant	to explore the world
+John drives down the highway	xAttr	discipline
+John wipes Tom's hands	xAttr	neat
+John needs a shot	oWant	make him a snack
+John takes place in the course	xReact	ready
+John is pulled over for speeding	xAttr	violator
+John throws a frisbee	xAttr	fun
+John plays  today	xAttr	playful
+John gets milk	xAttr	responsible
+John has a long way to go	xWant	to reach the end
+John changes Tom's lives	xReact	vindicated that the other person didn't get away with something
+John realizes Tom was lost	xAttr	excited
+John brings  to the eyes	oEffect	none
+John unbuckles Tom's belt	xAttr	capable
+John rises to the challenge	oWant	reward John
+John loves to garden	xWant	to grow their own veggies
+John takes the offer	xEffect	execute the work properly
+John meets Tom for lunch	oEffect	none
+John is on John's school 's basketball team	xNeed	join the team
+John puts the phone away	xAttr	tensed to throw the mobile
+John puts Tom in the oven	xIntent	to be a funeral director and needs to learn to use a crematorium
+John has seen John's day	xEffect	is slower than before
+John hides under the covers	oReact	neutral
+John shrugs Tom's shoulders	xAttr	playful
+John gets   though	xWant	to interact with it
+John reaches Tom's ears	oEffect	ponders about John
+John becomes a pilot	xNeed	to go to aviation school
+John keeps John's fingers crossed	xReact	happy
+John prevents Tom's return	xWant	make it impossible for Tom to return
+John starts to date	xWant	to meet new people
+John lays on top of Tom	xAttr	hot
+John hurts like hell	oReact	none
+John gets close enough	xAttr	active
+John improves John's appearance	oReact	none
+John lights another cigarette	xAttr	unwell
+John tries different things	xWant	continue to try different things
+John looks a  in the face	xWant	to see what they look like
+John gets a stain	xAttr	suspicious
+John puts the  together	xAttr	crafty
+John maintains Tom equilibrium	xAttr	balanced
+John believes also in Tom	xAttr	capable
+John loves football	xReact	happy
+John gives it Tom's name	oWant	receive a call
+John runs errands	xNeed	a car
+John enters a baking competition	xEffect	loses
+John sings John's heart out	xEffect	wins karaoke
+John sees Tom later	xReact	satisfied
+John takes Tom view	xReact	happy because of the view
+John hightails it	xWant	to be done with what they are doing
+John becomes a pilot	xEffect	learns to fly
+John splits hairs	xAttr	crafted
+John forms John's opinion	xWant	to see what they think
+John drops my phone	xWant	to apologize
+John practices for weeks	xReact	nervous
+John takes a stand	xAttr	protesting
+John is selling lemonade	xWant	to throw all trash away
+John waits at home	xWant	to wonder how long it will take
+John covers every 	xWant	to be prepared
+John rings hollow	oEffect	none
+John storms out of the blocks	xEffect	looks angry
+John makes cakes	oWant	none
+John loves the  with all John's heart	xReact	spiritually complete
+John starts training	oWant	to be as good as they can be
+John pays very well	oWant	to benefit from John
+John loves the meal	xEffect	John smiles
+John takes Tom's toll	oReact	like they're doing their part to pay what's due
+John is much more careful	xAttr	nervous
+John turns Tom's life	xEffect	rewarded
+John knows Tom from a can of paint	oEffect	none
+John meets Tom for dinner	oEffect	has someone to eat with
+John wipes the  from Tom's forehead	xAttr	sweaty
+John camps with John's family	xAttr	gregarious
+John chooses one 's 	xIntent	to be specific
+John wipes the slate clean	xNeed	to meditate
+John puts Tom's  together	oWant	to see what they thought
+John smells something bad	xEffect	disgusts it
+John reproduces this  regardless	xWant	to prove naysayers wrong
+John learns a new skill	xEffect	John become more marketable
+John sits in Tom's lap	xEffect	gets kissed
+John searches for a job	xNeed	write a resume
+John puts  to Tom's lips	oEffect	Tom moves John's finger away
+John provides Tom estimate	xEffect	push the sale
+John asks Tom to try	xWant	to be persuasive
+John creates the  in days	xWant	to finish the work
+John makes friendship bracelets	xNeed	to be creative
+John increases John's  at the expense	xEffect	does something
+John loves John's dog	xWant	to take it for a walk
+John takes  to the er	xReact	waiting and hopeful
+John is able to sleep	xEffect	has a nightmare
+John not knows which end is up	xEffect	searches for help
+John wants  badly	xAttr	wanting
+John curls Tom's hair	oReact	cared for
+John invites  over to play	xReact	anxious
+John packs my bags	xNeed	to ask what items you want in your bags
+John studies as much	xAttr	smart
+John persuades the  to allow	xAttr	convincing
+John fears would lose	oEffect	none
+John starts cooking	xEffect	gets hungry
+John leaves  in Tom's car	oWant	to return item
+John earns the money	xNeed	to work
+John sees  on the ground	xAttr	observant
+John plays John's favorite song	xAttr	indulgent
+John retains John's position	xWant	to remain in power
+John loves riding Tom's bike	xWant	to get exercise
+John displays  proudly	xEffect	feels proud
+John sees Tom's wife	xReact	happy
+John puts Tom's mind at ease	xNeed	find out what is bother y
+John earns money	xIntent	to provide for family
+John finishes  last night	xIntent	to be efficient
+John pays Tom well	xEffect	to pays well
+John passionately rucked Tom	oWant	to marry him
+John is playing ball	xIntent	to be with friends
+John loves the  with all John's heart	xAttr	religious
+John measures directly the 	xWant	to measure other things
+John decides to have a picnic	xWant	go for a picnic
+John feels very nervous	oReact	none
+John sees every 	xNeed	go to work
+John starts working again	xNeed	stop playing video games
+John calls Tom at work	oReact	loved
+John is twenty minutes late	xNeed	to take their time getting there
+John tells my mother	oReact	shocked and surprised
+John runs straight	xEffect	stops to take a rest
+John commits  with Tom in John's heart	xAttr	selfish
+John wants a cat	oWant	none
+John conceals John's identity	xNeed	to need to
+John saves John's  from John's sins	oWant	to thank John
+John fails John's class	xWant	to cry and report to their parents
+John gets dressed	oWant	none
+John taketh Tom's  in vain	xEffect	is chastised
+John finds Tom's daughter	oWant	to tell them they love them
+John watches scary movies	xEffect	screams
+John tells  about John's day	xAttr	silly
+John thinks would happen	xNeed	to have a gut feeling about it
+John gets John's hands dirty	oEffect	none
+John starts to date	xEffect	obtains a significant other
+John goes to the doctor for a checkup	xNeed	talk to a nurse
+John comes of age	xWant	to act more mature
+John directs Tom's attention	oWant	ask questions
+John invites people over	xNeed	to have food
+John prevents Tom from coming	oEffect	forces their way into the event
+John surmounts every 	oReact	none
+John defines  as real	xReact	nice
+John looks  in the face	xWant	to examine them
+John drops Tom's head	oWant	get their head back
+John puts Tom to death	xNeed	to in fight with y
+John throws the baby out with the bathwater	oWant	to get up
+John throws John's hat in the ring	xNeed	to challenge someone to a fight
+John has never been on one before	xAttr	young
+John sees Tom thing	xAttr	surprised
+John spits nails	xAttr	vengeful
+John would n't make any friends	oReact	none
+John talks to John's friends	oReact	gregarious
+John walks behind Tom	oEffect	chases John
+John comes looking for Tom	xIntent	to find them
+John is coming to an end	xIntent	none
+John gets dressed up	xEffect	they go to work
+John calls a shovel a shovel	oEffect	none
+John settles every 	oReact	none
+John completes John's studies	xNeed	to be appeared in exam
+John replaces the old one	xEffect	John gains a new one
+John gives Tom a bit	xEffect	they are wanting it back
+John rents Tom apartment	xEffect	has somewhere to sleep
+John pulls  out of the water	xIntent	save Tom
+John gets  right away	xWant	sit down at a desk
+John practices singing	xIntent	to get better
+John wants to play with Tom	oReact	happy
+John convinces Tom's parents	xNeed	to talk to them
+John grinds  for a week	xReact	glad
+John charges Tom's phone	xAttr	considerate
+John wraps Tom's hand	xNeed	medical supplies
+John follows  carefully	xNeed	to search for it
+John wants to learn to swim	xReact	nervous
+John lit another cigarette	xEffect	coughs
+John tries John's  at making	xIntent	to make cookies
+John beats around the bush	xReact	kind
+John brings down the house	xAttr	entertaining
+John wants to come	xWant	to buy a ticket
+John finds Tom's car keys	oWant	to thank John
+John visits John's daughter	xNeed	to go to daughter's hostel
+John understands  in terms	xAttr	thoughtful
+John throws the frisbee	oWant	to exercise
+John publishes  in journals	xEffect	gets credit for work
+John spills Tom's coffee	xWant	to clean up the mess
+John loses Tom's wallet	xNeed	none
+John is a good swimmer	oEffect	none
+John sees a rabbit	xWant	want to play with rabbit
+John makes Tom's day	xWant	gift
+John arches Tom's back	xNeed	to bend Tom over there knee
+John is also nervous	xNeed	buys plane ticket
+John falls from the tree	oEffect	none
+John commits another 	xWant	go to court
+John sees John's crush	xWant	to call John's crush
+John throws the  overboard	xWant	to get rid of the evidence
+John calls Tom ambulance	oEffect	goes to hospital
+John lights another cigarette	xNeed	to purchase cigs
+John spends  making	oEffect	none
+John looks like a fool	xIntent	none
+John becomes a great basketball player	xNeed	joins a team
+John practices hard 	xEffect	gets hear chair in orchestra
+John makes friendship bracelets	xAttr	crafty
+John finds  anywhere	xIntent	to draw connections
+John is selling lemonade	xWant	clean up
+John grants a  by ccc	oWant	none
+John spends  working	xReact	like a good man
+John would n't make any friends	oEffect	they make friends with John
+John enjoys Tom's company	oReact	enjoyed
+John pumps John's gas	xNeed	to want to speed up
+John squares Tom's shoulders	xReact	better
+John pushes it	oEffect	none
+John loves  with John's heart	xWant	to strengthen their bond
+John would like it	oEffect	none
+John puts  all together	xNeed	to have another person to help
+John catches my attention	xNeed	to be extremely beautiful
+John plays the gender card	xReact	sad
+John advances another 	xReact	happy
+John misses work	xNeed	to be ill
+John catches the bus to work	xIntent	to be there on time
+John gives bob 	xWant	to help bob
+John waits at home	oWant	none
+John breaks Tom's heart	xNeed	date
+John challenges Tom's friend	xAttr	aggressive
+John examines critically the 	xWant	to write it down
+John casts  before swine	oEffect	none
+John starts with a clean slate	xNeed	to want to do things right
+John puts out feelers	xAttr	concerned
+John receives a phone call	xEffect	went the police station
+John can n't believe John's eyes	xReact	amazed
+John knows much about Tom	xNeed	to talk to Tom
+John visits the zoo	oReact	none
+John advertises Tom's business	xReact	happy
+John lets Tom see	oReact	obliged
+John always made	xReact	proud
+John sheds John's blood	xNeed	to shoot themselves
+John convinces John's parents	xNeed	calls person's parents
+John turns the tables	xNeed	to learn about someone
+John agrees on anything	xNeed	to read the material
+John gets Tom view	xIntent	help
+John sees  online	xWant	turn on laptop
+John studies for a quiz	xNeed	get learning materials for the quiz
+John finally got back	xNeed	to head back
+John puts together 	xWant	rides the bike
+John meets someone	xIntent	to have more friends
+John is watching a scary movie	oWant	none
+John feels a  better	oReact	none
+John opens the lid	xWant	to see inside
+John burns  badly	xReact	upset
+John helps  with Tom's problems	xNeed	to understand Tom
+John throws the book	xEffect	there is a mark on the wall where the book hit
+John drives to the office	xWant	to get there on time
+John practices really hard	xReact	strong
+John changes Tom's lives	xReact	satisfied
+John makes a salad	xEffect	John's hand gets dirty from salad dressing
+John puts everything together	oEffect	none
+John takes Tom's laptop	xNeed	sneak up to the laptop
+John makes some cookies	oWant	none
+John walks humbly with John's god	xWant	to be kind to others
+John opens doors	oReact	welcomed
+John rests on John's laurels	oWant	none
+John asks Tom's dad for help	oWant	to be included
+John puts Tom's  into execution	xNeed	gather the materials needed to make the design an actuality
+John makes  quickly	xWant	to wear the clothes that they have made
+John finds another place	xEffect	thinks about the new area
+John kisses Tom's ring	xWant	to bow down
+John gets the call	xIntent	to get called for his interview in a company
+John starts a family	oReact	like they exist
+John receives a phone call	xIntent	to talk to the caller
+John asks John's dad for help	xIntent	information
+John buys a used one	oWant	to get one also
+John forms John's opinion	xNeed	to know something about the topic
+John starts to swell	xIntent	none
+John throws some bread	xAttr	unfaithful
+John has to go to a new school	xAttr	excited
+John makes the team 	oWant	none
+John kisses Tom's feet	oWant	return the favor
+John turns John's nose up	xAttr	stuck up
+John loves to skateboard	xNeed	to put on skateboarding shoes
+John shakes the pagoda tree	xNeed	to be standing near pagoda tree
+John stands on John's head	xIntent	to practice balance
+John feels elated	xEffect	groans
+John enters John's car	xIntent	to go somewhere
+John distributes in forms without figure	xWant	to add in a figure
+John quits  for good	oWant	none
+John sees John's wife	oWant	to go to lunch
+John pulls Tom's car	xAttr	heroic
+John smells something	xEffect	reflects something different is taking in place
+John books a ticket	xReact	interested
+John sees  out of the corner of John's eye	xEffect	John jumps
+John holds a grudge	xEffect	refuses to cooperate
+John gets  right away	xEffect	money
+John replaces Tom's old one	xWant	to replace with something new
+John gives Tom what for 	oEffect	smiles at John
+John keeps  with the growth	xReact	like a good worker
+John puts John's pants on John leg at a time	xNeed	to get the pants
+John wipes Tom's forehead	xAttr	sweaty
+John gets Tom's share	oWant	share more
+John must fix manually	xNeed	concept
+John walks up behind Tom	oReact	surprised
+John drives to the beach	oWant	none
+John notices a wallet	oEffect	accepts money and wallet back
+John uses Tom's coupons	xEffect	saves money he shouldnt have saved
+John meets Tom for lunch	xWant	to enjoy a nice meal
+John sees Tom's wife	xAttr	observant
+John gets something to drink	xWant	to drink something
+John agrees to disagree	oWant	to make their counterclaims
+John enters an art contest	oEffect	none
+John takes  as a result	xWant	to be complete
+John gets the milk	xAttr	caring
+John reaches exiting customers	xReact	assured
+John trembles in every limb	xAttr	scared
+John buys John's own house	xWant	to unpack their things
+John challenges Tom's friend	xNeed	meet friends
+John takes a cruise	xAttr	happy
+John makes  quickly	oReact	none
+John drops  on the floor	xAttr	clumsy
+John graduates  at the university	xNeed	pay tuition
+John sits and watch	xEffect	they stand and stretch
+John gets the part	xReact	surprised
+John enjoys Tom's company	xAttr	outgoing
+John brings  to the eyes	xNeed	none
+John sees Tom brother	oWant	to go over and talk to John
+John lights another 	xWant	to get warm
+John visits  every day	xEffect	promises Tom that he is there for her
+John sees Tom's wife	xIntent	to communicate with Tom's wife
+John becomes great	xAttr	celebrated
+John makes too much noise	oWant	to encourage the noise
+John helps Tom stay awake	xReact	tired
+John buys Tom's one	oReact	grateful
+John builds muscle	xNeed	gym
+John abuses John's power	oWant	to hurt John
+John misses  at work	oWant	him to finish the project
+John enjoys Tom's class	xWant	to leave the class
+John sees Tom naked	oReact	also very ashamed
+John practices all day	oEffect	notices improvement in x
+John asks Tom's dad for help	xNeed	try it himself first
+John looks like figure	oWant	none
+John prevents Tom from taking	xReact	care to person
+John practices really hard	xWant	improve skills
+John uses  anymore	xWant	to give it away
+John treats  in children	xAttr	intelligent
+John conceals John's identity	xAttr	scared
+John gets John's hands dirty	xReact	tired and worked hard
+John opens doors	xWant	to be helpful
+John quits  for good	xAttr	determined
+John leans Tom's head	xEffect	goes to hospital
+John walks to John's room	xEffect	closes the door behind himher
+John pushes John's luck	oReact	none
+John looks into Tom's face	oWant	to appreciate attention
+John puts it together	xEffect	paints it
+John walks to Tom's room	oEffect	asks person to sit
+John uses  to communicate	xAttr	intelligent
+John takes horseback riding lessons	xEffect	develops skills
+John reschedules Tom's appointment	oReact	mad
+John does an amazing job	xAttr	persistent
+John sits together	oReact	happy
+John reluctantly agreed	oReact	relieved
+John develops along lines	xIntent	to be successful in a certain area of their life
+John forgives  Tom's trespasses	oEffect	changes their ways
+John visits the city	xEffect	sees many people
+John gets John's belly button pierced	xWant	put ice on piercing
+John paints the town red	xNeed	to be able to persuade others to fight for the cause
+John tells  it was okay	xIntent	them to know it's not a problem
+John pleases  to make	oEffect	the other one is being pleased
+John renders Tom account	xWant	cheerful
+John has never been on one before	xEffect	screws up
+John gets the shot	xIntent	to be healthy
+John catches the bus	xAttr	responsible
+John asks the doctor	oWant	to see their next patient
+John leaves  alone	oEffect	learns from John
+John communicates John's  to others	xReact	excited that other people know of his experiences
+John kisses Tom gently	oReact	loved
+John begs Tom's parents for one	oReact	embarassed
+John raises Tom's glass	xReact	joyous
+John confronts Tom's roommate	oReact	supported
+John meets John's customers ' 	xAttr	friendly
+John applies for jobs	xIntent	to have his own apartment
+John finds Tom's car keys	xNeed	to look for Tom's car keys
+John beats  easily	xReact	proud
+John burns  badly	xNeed	to burn something
+John gets Tom's dad	oWant	get to destination
+John lays Tom on the bed	oWant	to get up and use the restroom
+John meets Tom husband	xAttr	pleased
+John develops web presence	xReact	successful
+John gets hurt	oEffect	none
+John advertises Tom's business	oWant	to attract more customers
+John endures  and free	xAttr	patient
+John spills John's coffee	xReact	upset
+John talks on John's phone	oEffect	none
+John leaves class	xWant	to eat luch
+John finds a good deal	xNeed	to search social media
+John possesses Tom knowledge	xWant	to share Tom's knowledge
+John puts the  to death	xIntent	to put an end to the misery of a captive
+John has a say	oEffect	none
+John waters Tom's garden	oEffect	gets change
+John makes some cookies	oEffect	none
+John shares John's experience	xNeed	to stand in front of the class
+John passes John's exam	xNeed	study
+John argues with John's boyfriend	xEffect	yells
+John looks on Tom's face	xReact	satisfied
+John thanks Tom profusely	oWant	to be nice to John
+John dyes Tom's hair pink	xAttr	creative
+John meets the user 's 	xWant	to check with the users if they are okay
+John gets  as a result	xNeed	a hard days work
+John drives  to the beach	oEffect	none
+John sees an opening	oReact	irritated
+John tricks or treat	oEffect	hand out candy
+John asks John's doctor	xAttr	conversating
+John solves the world 's 	xAttr	smart
+John challenges Tom's friend	xWant	bet money
+John runs laps	xAttr	athletic
+John lights another 	oEffect	none
+John says sure	oWant	none
+John eats  for weeks	xAttr	boring
+John kisses Tom's ring	xNeed	to see Tom's ring
+John tips Tom's head	oWant	to hit him
+John puts  in the oven	xAttr	competent
+John walks to the bathroom	xWant	to put on make up
+John crosses the road	xAttr	rushed
+John saves Tom's people	xNeed	to assess the situation
+John fudges the issue	xNeed	think of consequences of actions
+John loves Tom's work	xIntent	enjoy other's creativity
+John catches Tom's eye	xAttr	intruiged
+John takes  up on the offer	xEffect	they start to strain
+John falls on Tom's neck	xEffect	go to the hospital
+John sees Tom graduate	xAttr	loving
+John makes arrangements	xNeed	to have invited friends for dinner
+John puts the phone away	xAttr	disciplined
+John creates Tom structure	xIntent	to help out y
+John looks at Tom like that	oReact	looked at
+John tans Tom's hide	xWant	ground them
+John starts working again	xNeed	shoes
+John comes and see Tom	xWant	to talk
+John shares and share alike	oWant	to help other people
+John hits by lightning	xReact	dead
+John gets  to make	oEffect	none
+John is walking to the store	xReact	good
+John keeps  at bay	xIntent	to maintain good health and lean body weight
+John gives  a name	oReact	none
+John learns how to bake a cake	xAttr	creative
+John asks Tom's little brother	oWant	answer
+John drives on the highway	xWant	go back home
+John is right next to Tom	xWant	to tease him
+John wants to play an instrument	xEffect	picks up instrument
+John spends John's  making	xReact	dedicated
+John puts Tom in mind	oReact	loved
+John puts the moves on 	xIntent	to date her
+John changes John's direction	xAttr	nervous
+John creates the  in days	xWant	to wrap up
+John sets things right	oEffect	doesn't worry about it now
+John asks Tom's sister	xIntent	to find something out
+John is rather upset	xAttr	hurt
+John thinks would happen	xWant	to warn everyone
+John sends Tom a letter	xEffect	they get a sticky tongue from licking the stamp
+John announces Tom's decision	xWant	she does what she wants
+John fails all of John's classes	xEffect	uncertainty
+John overflows Tom's banks	xWant	to help Tom
+John buys a house	xReact	smart
+John convinces Tom's parents	xIntent	to take his friend on a trip
+John wants Tom to come	xWant	receive a response
+John leaves Tom time	xIntent	give Tom hisher opportunity
+John throws the food	xAttr	messy
+John visits a friend	xReact	responsible
+John pulls the car over	xAttr	upset
+John sees Tom every 	xReact	happy
+John rings hollow	xWant	to make better sounds
+John pays well	oReact	grateful
+John gets  from the store	xNeed	notices it's making her animal sick
+John finally joined	xAttr	welcomed
+John is a good person	xIntent	to do right by others
+John starts training	xReact	happy
+John quits  for good	oEffect	none
+John waters Tom's garden	xNeed	to know Tom
+John understands Tom's nature	xReact	close to y
+John gives Tom warning	xIntent	to do something nice
+John owns a dog	xNeed	want a pet
+John takes the stage	xAttr	prepared
+John walks humbly with Tom's god	xWant	go home
+John nurses Tom back	xNeed	plan on what medicines to give
+John makes John's parents proud	xReact	proud of himself
+John sees Tom away	xNeed	to say goodbye
+John tries to relax	xEffect	breathes evenly
+John serves  in prison	xAttr	bored
+John explains fully the 	xWant	to find out more
+John tries different things	xWant	to see what works
+John sits behind Tom	xWant	to listen
+John joins a gym	xNeed	to pay
+John wins several awards	xEffect	receives recognition
+John tries to relax	oEffect	none
+John finds John's daughter	oEffect	John's daughter is no longer lost
+John is working at a diner	xIntent	a job
+John loves Tom more than anything	oReact	loved
+John waters Tom's garden	xWant	to be helpful
+John plays a  in the movement	xNeed	to come up with arguments
+John accomplishes god 's 	xIntent	to be saved
+John wants to play an instrument	xAttr	inspired
+John takes a ride to tyburn	xWant	to thank the driver
+John sees Tom frequently	xReact	happy
+John continues Tom's journey	xNeed	to grasp baton from Tom
+John gets the milk	oEffect	none
+John gets the stain out	xNeed	to know how to get stains out
+John opens the doors	xWant	to walk through the door
+John gives it Tom's name	xNeed	speak to someone
+John packs my bags	xWant	to see if anything else needs to be done
+John checks everywhere	xEffect	finds it
+John fails John's classes	xWant	to retake the class
+John catches flies	xEffect	stops being mean
+John brings people together	oEffect	show appreciation
+John appoints a  to investigate	xAttr	suspicious
+John looks like a fool	xAttr	silly
+John loses track of time	xAttr	absorbed
+John starts to date	xWant	to get a girlfriend
+John misses  a lot	xIntent	none
+John takes the offer	xWant	sign a contract
+John puts  in a box	oEffect	none
+John catches John's dog	xAttr	helpful
+John cuts the crap	xWant	to stop things they do not like
+John gets a shot	oWant	none
+John hits Tom's friend	oEffect	yells
+John finds a good spot	xAttr	efficient
+John abuses John's power	xEffect	becomes authoratarian
+John broadens the  to include	oWant	to find what is sought
+John uses  anyway	xWant	dry it
+John becomes scared	xAttr	affected
+John walks Tom to John's car	xNeed	to stand up
+John is deferred until test results are in	oWant	to review updated application
+John makes cookies	xWant	clean kitchen
+John nurses  back	xAttr	helpful
+John prevents Tom from entering	oReact	excluded
+John watches old movies	xWant	keep remote
+John is fired from John's job	xNeed	to be a late comer
+John stops being friends with Tom	xNeed	witness something bad
+John enjoys Tom's class	xReact	happy
+John throws  at the wall	xWant	to buy new one
+John cuts John's leg	xReact	pain hurt
+John visits Tom's mother	xIntent	to meet her because she is sick and in critical condition
+John looks like new	xIntent	to look younger after the plastic surgery
+John brings  to a head	xReact	satisfied
+John asks Tom to read	xReact	happy
+John sees if could make	xAttr	inquisitive
+John brings  to Tom's eyes	xEffect	gets thanked
+John enjoys  that night	xWant	to go home
+John grinds Tom for a week	xReact	guilty
+John uses John's coupons	oReact	none
+John walks instead	xIntent	to do it their way
+John practices hard 	xAttr	proud
+John sees Tom away	xAttr	loving
+John takes things for granted	xIntent	to trust everyone
+John develops cancer	xWant	to tell their family and friends about it
+John leans back against the wall	xWant	to rest their legs
+John finds gold	xReact	rich
+John visits Tom's friend	xWant	to tell Tom
+John wants to learn	xNeed	to think about the future
+John works tirelessly	xAttr	rich
+John hangs John's  in shame	xWant	to go and hide
+John sends  a manuscript	xNeed	to write a manuscript
+John asks John's grandmother	oWant	to answer
+John measures the  directly	xWant	to finish the work
+John calls John's best friend	xReact	intrigued
+John has a nice dinner	xNeed	to get out the ingredients
+John gets frustrated	xNeed	none
+John realizes Tom was lost	xAttr	worried
+John drives  in Tom's new car	oReact	annoyed
+John wears gloves	xIntent	to protect his hands
+John gets a book	xNeed	check book
+John plays hockey	xWant	beat somebody with the hockey stick
+John walks in the park	xAttr	relaxed
+John finds another job	xEffect	becomes employed
+John sees all the animals	xEffect	John observes all the animals before him
+John throws some bread	xAttr	kind
+John flies across the room	xWant	to check his invention
+John is  years old	xIntent	none
+John knows by Tom's name	oWant	none
+John rains on John's parade	oWant	none
+John studies as much as Tom could	xReact	satisfied
+John loves  than anything	xAttr	affectionate
+John settles every 	xReact	accomplished
+John uses the restroom	xEffect	gets wet
+John solves the world 's 	xNeed	learn information
+John helps Tom's move	xWant	to get paid
+John visits Tom's friend	xEffect	wastes an afternoon with them
+John is pretty happy	oReact	none
+John waits at the bus stop	xAttr	adventurous
+John always worked	xAttr	dedicated
+John treats  in children	xAttr	altruistic
+John prevents Tom from coming	xAttr	forceful
+John sits across	xWant	to converse
+John watches for Tom opportunity	xEffect	John stares at Tom
+John takes a cruise	xWant	to go home
+John pulls Tom's hand away	xReact	better
+John prevents  from entering	oWant	none
+John restores the  to John's condition	xEffect	to condition to pail
+John comes see Tom	xAttr	connected
+John gives a small smile	xIntent	to show her joy
+John stops being friends with Tom	xIntent	to be vengeful
+John alters Tom's course	oEffect	none
+John gives it Tom's name	xAttr	sentimental
+John enjoys  that night	xNeed	plan the event
+John hits Tom's friend	xReact	more frustrated
+John keeps the  from the door	xNeed	to lock the door
+John seeks Tom answer	xWant	to make the right choice
+John throws the ball	xEffect	none
+John applies for jobs	xAttr	desperate
+John makes the cookies	xNeed	turn on oven
+John states and local 	oWant	none
+John throws  in Tom's face	xNeed	cup
+John starts using it	xReact	determined
+John wants to learn to swim	xNeed	pay the fee for lessons
+John gazes upon Tom	xAttr	interested
+John desperately needed 	xReact	frustrated
+John must fix manually	xWant	to use it
+John walks to the park	oEffect	none
+John smells something foul	xAttr	disgusted
+John understands the  in terms	xEffect	pays his loan on time
+John keeps  at bay	xReact	determined
+John pays Tom taxes	xAttr	kind
+John meets Tom for lunch	xAttr	joyful
+John gets a stain	xAttr	clumsy
+John gets the  into Tom's hands	xIntent	Tom to score a touchdown
+John spends  making	xIntent	to make something
+John sits across from Tom	xWant	talk to Tom
+John enters a baking competition	xWant	to win first place
+John provides  to women	oWant	to be grateful
+John looks Tom's  in the face	oWant	to understand intent
+John scars  away	xNeed	get close to Tom
+John grants Tom's request	xEffect	is thanked
+John wants to play an instrument	oEffect	none
+John eats grass	xEffect	John gets sick
+John looks Tom  in the face	xAttr	angry
+John finds  to describe	xIntent	to convey an idea
+John is rather excited	xIntent	none
+John puts Tom to use	xEffect	finishes on time
+John gives Tom the slip	xNeed	to be scared of Tom
+John skates around	xAttr	skilled
+John gives Tom the impression	oWant	to keep it up
+John finally worked up the courage	xWant	to ask a question
+John starts cooking	xAttr	hot
+John feels so sad	xAttr	lonely
+John wins some money	xNeed	to enter a raffle
+John is a waste of money	xEffect	owes a lot of money
+John covers John's nakedness	xNeed	find clothes
+John feels cheated	xEffect	loses trust
+John is at the bar with friends	xEffect	comes home late at night fully drunk
+John makes thanksgiving dinner	xNeed	buy ingredients
+John puts Tom in the oven	xWant	turns it on
+John opens Tom's legs	xNeed	to talk to Tom
+John takes  off roading	xReact	excited
+John comes see Tom	xNeed	go in building
+John protects the  from harm	xAttr	strong
+John finishes the test	oReact	none
+John obtains a  as possible	xWant	to paste the picture in the home
+John buys one anyway	xAttr	gullible
+John blows up Tom's phone	xWant	hide
+John reads John's diary	xEffect	recalls memories
+John eats the whole thing	xEffect	burps loudly
+John crosses the road	oEffect	none
+John looks like Tom	xIntent	to be similar
+John increases Tom's knowledge	oReact	grateful
+John casts  before swine	xEffect	they are taken for granted
+John sees an opening	xWant	looks through opening
+John would n't like Tom	oWant	find another friend
+John checks everywhere	xAttr	thorough
+John chokes the chicken	oWant	none
+John is mother	xAttr	crafty
+John makes a date	oReact	happy
+John wants to play basketball	oEffect	none
+John comes see Tom	xReact	happy
+John finally meet Tom	oWant	keep talking to the person
+John stops being friends with Tom	xIntent	to avoid them
+John passes John's exam	xIntent	to graduate
+John sifts out 	xEffect	to sifts to cell
+John is working at a diner	xReact	entertained
+John loves Tom with all my heart	oWant	to make the relationship work
+John puts Tom in mind	xWant	to think about Tom
+John considers the  carefully	xNeed	to assess the situation
+John conducts Tom investigation	xNeed	to find out that Tom did something wrong
+John covers John's nakedness	xAttr	shy
+John prevents the  from entering	xNeed	make a barricade
+John buys cookies	xReact	satisfied
+John wants  very badly	xWant	to buy one
+John decides to order pizza	xReact	happy
+John broadens John's  to include	xAttr	open minded
+John seems perfect	xIntent	none
+John tells Tom's daughter	oReact	happy joyful informed
+John lets Tom's guard down	oEffect	arms lower
+John plays laser tag	xIntent	to play a game
+John becomes a great basketball player	xEffect	gets a deal
+John laughs Tom's asses	xAttr	entertained
+John forms Tom opinion	xReact	learned
+John lays Tom on the bed	xAttr	caring
+John gets everything together	xWant	to pack it all up
+John dawns upon Tom	xAttr	loud
+John is still angry	xAttr	bitter
+John sees Tom's brother	xWant	to talk to Tom's brother
+John saves Tom's  from John's sins	oEffect	has a fresh perspective on life
+John is coming to an end	xWant	to finish their task
+John grabs Tom's keys	oWant	to punch John
+John changes Tom's lives	oEffect	get a new job
+John drives anyway	xEffect	gets in an accident
+John is excited and nervous	xNeed	to hear some good news
+John feels better today	xAttr	much improved
+John beats it	xAttr	guarded
+John learns new things	xNeed	a subject
+John examines critically the 	oReact	none
+John can n't believe Tom's luck	xAttr	envious
+John gives Tom the courage	xAttr	confident
+John puts it all together	xWant	to line up all the facts
+John follows a recipe	xAttr	culinary
+John becomes frustrated	oEffect	none
+John gets John's hands on 	xAttr	bold
+John restores the  to John's condition	xEffect	takes steps to preserve that condition
+John improves Tom's appearance	oEffect	look better
+John opens John's legs	oWant	none
+John is able to fix it	xEffect	John is thanked by their coworkers
+John finds a ring	xEffect	they get thanked when they find them
+John wants to fly	xWant	to invent wings
+John loves shoes	xReact	excited
+John tries sushi before	xNeed	none
+John obeys every 	xNeed	join an organization
+John is coming to an end	xEffect	is asked about his will
+John improves John's grades	xAttr	hardworking
+John starts working out	xWant	enjoyed
+John leaves Tom's car	oReact	none
+John gives John's all	xWant	to enjoy the fruits of their labor
+John sees a pretty girl	oEffect	blush
+John steals anything	xEffect	goes to jail
+John feels the heat	xAttr	sensitive
+John puts it all together	oEffect	none
+John catches a cold	xEffect	spreads the cold to person
+John is at John's grandmother 's house	xWant	to spend time with family
+John feels a  better	oWant	none
+John finds another gear	xNeed	to downshift
+John uses the card	xEffect	must by new card
+John begins to eat it	xEffect	stomach growls
+John takes  in the campaign	xNeed	to go to the place
+John waits at the bus stop	xIntent	to get a ride
+John is a good person	oReact	inspired to be good as well
+John enjoys life	xNeed	none
+John walks to Tom's room	oEffect	gets calmed
+John tans Tom's hide	xWant	makes him realise
+John buys  for my wife	xAttr	thoughtful
+John gets it to work	xReact	accomlished
+John goes to the library to study	xNeed	starts car to drive to library
+John sits at the dinning room table	oEffect	none
+John asks  for a raise	xEffect	gets a raise
+John sits across from Tom	oEffect	greets
+John smells something	oWant	to thank John for noticing
+John reaches around Tom	xReact	accomplished
+John renews  by day	xNeed	maintain a blog
+John cuts the umbilical cord	xEffect	helps give birth
+John tries different things	xAttr	open minded
+John splashes  on Tom's face	oEffect	yelled at John
+John settles every 	xEffect	they made things ok
+John lights another 	xEffect	lungs fail
+John cuts John's leg	xNeed	to be unaware of their environment
+John looks on Tom's face	xAttr	observant
+John tells  that Tom had cancer	xIntent	to let them know they're sick
+John rests  on Tom's shoulder	oWant	John to move away
+John finds  in the attic	oWant	none
+John bats John's eyes	xAttr	flirty
+John helps  with Tom's problems	xWant	to finish his job with Tom's problems
+John is finally pregnant	xReact	happy
+John calls John's best friend	xIntent	to see if he wants go out tonight
+John covers John's head	oWant	none
+John asks Tom's sister	oWant	to get dressed up
+John finds it anywhere	oEffect	none
+John walks to Tom's room	xEffect	gets stopped
+John finds another gear	xEffect	gains confidence
+John slides Tom's tongue	oWant	to wipe their face
+John opens the lid	xWant	to pour out the food inside
+John sits in Tom's lap	xAttr	friendly
+John has a new toy	xWant	keep playing with it
+John throws food	xAttr	mean
+John sees  in the corner	xReact	curious
+John shakes the  to Tom's foundations	oWant	to hit John
+John gives Tom a name	xAttr	a king
+John transforms  into outputs	xAttr	smart
+John finds  that Tom liked	xAttr	pleased
+John breaks Tom heart	xWant	to move on from Tom
+John scrambles eggs	xNeed	to buy eggs
+John wants to come	xIntent	none
+John has always made good grades	xNeed	to pass all exams
+John loses John's sense	oWant	none
+John throws money away	xNeed	finds out it don't fit her
+John knows Tom's name	xAttr	friendly
+John looks like Tom	xAttr	similar
+John brings the  to a head	xWant	to move on to better things
+John finds  to play with	xReact	happy
+John tests Tom's ability	xNeed	to doubt
+John slides Tom's tongue	oWant	to make love
+John goes white water rafting	oWant	to see John's white water rafting pictures
+John lights a candle	xEffect	can smell the candle
+John sees  out of the corner of John's eye	xEffect	John perceives something
+John donates  to charity	xReact	superior
+John takes Tom in Tom's arms	xWant	to show affection
+John has a wonderful trip	xNeed	to go on the trip
+John wants to learn how to sing	xWant	practice
+John brushes Tom's hair	oWant	to tell John they are pulling their hair
+John pulls Tom's arm	xAttr	antagonistic
+John makes John's arrangements	xWant	log arrangements into phone
+John does some yard work	xWant	take rest
+John tells  never	xNeed	prepare to speak
+John grabs a towel	oWant	none
+John pays taxes	xIntent	to fulfill his duty
+John regulates commerce with nations	xIntent	to have a global market
+John spends John's  working	oReact	impressed
+John saves another 	xEffect	goes back for more to save
+John accidentally kicked	xReact	sorry
+John camps with Tom's family	xWant	to tell scary stories
+John dyes Tom's hair red	xWant	to take photos of Tom's new hair
+John is ready to go home	oWant	none
+John finds Tom's father	oWant	Tom wants to meet their father
+John makes cakes	xEffect	thinks about eating cake
+John sees Tom wife	oEffect	Tom yells at John
+John puts  in John's purse	xReact	prepared
+John arches Tom's back	oEffect	back cracks
+John moves John's car	xWant	to get out of the car
+John is a long drive	xAttr	determined
+John gets Tom's driver 's license	xNeed	money
+John turns the music	xEffect	smiles
+John helps  with problems	oWant	to give thanks
+John tells Tom's daughter	xIntent	to inform daughter about news updates
+John notices someone	xEffect	turns head towards someone
+John teaches  to use	xAttr	astute
+John catches the bus	oReact	none
+John meets the band	xReact	glad they were able to give the compliment
+John keeps  with the growth	xReact	up to date
+John builds a  on the site	xNeed	to buy land
+John finds what Tom wanted	xAttr	mature
+John gets more exercise	xReact	fitter
+John decides to purchase it	xAttr	decisive
+John catches Tom's attention	oEffect	blushes
+John finds John's shoes	oWant	none
+John chooses one 's 	xNeed	to look at their options
+John calls  the next day	oWant	hang up
+John lays on top of Tom	xAttr	humorous
+John takes a step forward	xReact	brave
+John gets a call from Tom's boss	xReact	worried
+John gets something to drink	xAttr	content
+John stands on John's head	xNeed	to try doing it
+John obeys every 	xWant	to go home and relax
+John teaches Tom  tricks	xNeed	to know how
+John watches one	xWant	to complete watching
+John rains on John's parade	xReact	depressed
+John sees where Tom was going	xEffect	gains information
+John becomes Tom agent	xEffect	markets y
+John understands the  in terms	xEffect	gains success at work
+John borrows Tom's car	oWant	to wait for John to come back
+John makes  every night	xReact	happy
+John does an amazing job	xAttr	capable
+John loses track of the time	xAttr	enthralled
+John tells Tom's daughter	xWant	to get a point accross
+John makes some cookies	xWant	to have some cookies with milk
+John arches Tom's back	xReact	happy
+John replaces Tom's tire	oWant	pay John some money
+John chooses another 	xNeed	find the best one
+John thanks  for Tom's comments	xReact	they've effectively acknowledged a response
+John goes downhill	xEffect	sucks dick for crack
+John feels hopeless	xNeed	encounter a tough situation
+John brings  to Tom's house	xEffect	John gives Tom food and drink
+John grabs Tom by the hair	xWant	apologize to the person
+John takes a hike	xNeed	to wear hiking shoes
+John prevents Tom from coming	xWant	ghost their relationship
+John faces the  alone	xNeed	have something to confront
+John declares  on france	xEffect	they are killed
+John pays John's taxes	xAttr	ethical
+John loses Tom's dog	xReact	sad
+John exercises every 	xNeed	to read all manuals
+John sits on Tom's couch	xWant	to talk with Tom
+John exchanges numbers	xWant	to make money of someone
+John makes Tom smile	xAttr	thoughtful
+John hosts a party	xReact	as if they've met new people
+John becomes a pilot	xWant	to get hired
+John watches a scary movie	oReact	none
+John finds  that Tom liked	oWant	thank John for the cat
+John hears a phone ring	oReact	none
+John advertises Tom's business	xEffect	earns a profit
+John jumps before John is pushed	xEffect	is tired
+John does a wonderful job	xWant	to congratulate herself on a job well done
+John visits Tom's cousin	xAttr	social
+John visits John's daughter	xEffect	gets hugged
+John dates for years	xReact	loved
+John drives  to the beach	oReact	none
+John reluctantly agreed	xReact	passive
+John replaces Tom's tire	xWant	to complete the transaction
+John dances all night	xReact	happy
+John exerts John's influence	xWant	to change rules
+John cuts Tom's leg	oWant	call the cops
+John puts everything	oWant	none
+John fails John's math class	xAttr	stupid
+John walks behind Tom	xNeed	to get out of class
+John lit another 	xWant	to keep it going
+John gets dressed	xEffect	receives compliments from peers
+John puts  together	xNeed	to make a plan
+John gives Tom an allowance	xAttr	remittence
+John meets Tom for dinner	xReact	happy
+John learns how to bake a cake	oWant	none
+John helps Tom in personz way	xWant	wants to assist
+John likes cheese	xAttr	very foody
+John sees Tom thing	xEffect	they show Tom their thing
+John cuts Tom's leg	xWant	wash the knife
+John buys John's own house	xIntent	to have a home
+John desperately needed	oEffect	none
+John puts it in the oven	xAttr	diligent
+John enters John's car	oWant	none
+John wants a car	xWant	to save money
+John gets John's foot in the door	xNeed	to close the door without putting foot in
+John calls around	xEffect	picks up ohone
+John gets the book	xIntent	to read
+John divides the  into groups	xAttr	dominant
+John gets everything Tom needed	xReact	helpful and useful
+John tells  it was okay	oReact	a bit less worried
+John feels very sad	oWant	none
+John leaves the  alone	xAttr	indifferent
+John splits hairs	xReact	focused
+John cleans Tom's bedroom	xWant	to rest
+John passes around Tom	xAttr	quick
+John chews the cud	xWant	crew
+John goes rock climbing	xReact	healthy
+John gives the  John's name	oWant	to make someone change the name
+John takes a hike	xAttr	nature lover
+John looks  in the face	xAttr	brave
+John keeps Tom from starving	xAttr	generous
+John studies extra	xIntent	to pass the test in school
+John shares Tom experience	xNeed	to talk to Tom
+John advertises Tom's business	xReact	accomplished
+John would like	xIntent	a piece of cake
+John meets Tom father	xAttr	sociable
+John always beat 	oReact	sad
+John dyes Tom's hair	xIntent	to help person
+John gives the children 	xIntent	to be nice
+John gives Tom confidence	oEffect	learn something
+John always beat	xNeed	to take a stick
+John sees a boy	oWant	give money
+John wants a cat	xNeed	get food and supplies for a cat
+John finds  in John's attic	xNeed	to look around
+John gives Tom help	xWant	to see if they need anything else
+John sets the thames on fire	xAttr	rebellious
+John breaks free	xAttr	determined
+John takes as Tom example	oEffect	receives compliments
+John stings by a jellyfish	xWant	to get some ointment
+John wants to learn how to drive	xWant	get out of the vehicle
+John covers the  completely	xNeed	to find the first aid kit
+John not knows which end is up	xWant	get unconfused
+John dresses in John's clothes	xAttr	stylish
+John grants a  by ccc	xIntent	to approve
+John babysits Tom's cousin	xReact	secure
+John puts  on top	xNeed	gather the items
+John reaches exiting customers	xNeed	to reach out to customers
+John buys a laptop	xReact	satisfied
+John runs errands	oReact	calm
+John wants to sleep	xNeed	to want to rest
+John goes  in the lake	oEffect	none
+John asks Tom's doctor	oWant	to have understanding
+John lights another cigarette	oEffect	earn money
+John takes Tom step	xWant	apologize
+John has lost Tom's phone	xReact	apologetic
+John pulls out all the stops	xNeed	to plan the party
+John posts it online	xNeed	purchase internet service
+John takes Tom on a hike	xWant	to get in shape
+John drops a log	oEffect	none
+John passionately rucked Tom	xAttr	loving
+John earns the money	xReact	sleepy
+John spills Tom's coffee	xAttr	out of bounds
+John cracks the eggs	xNeed	to grab the eggs
+John makes every 	oReact	none
+John gets Tom's hands	xNeed	to get Tom's attention
+John spends the  working	xIntent	to finish his job successfully
+John gives Tom warning	xNeed	have reasons ready so Tom heeds warning
+John is really disappointed	xNeed	see something disappointing
+John handles  well	xIntent	to feel better
+John endures  and free	xIntent	i likr this free
+John watches  anymore	oReact	none
+John uses the restroom	xAttr	fresh
+John gives  an f	xReact	neutral
+John holds Tom place	xNeed	Tom to have to temporarily leave
+John meets John's goal	xNeed	to buy tools to meet goal
+John really love Tom	xAttr	loving
+John is right next to Tom	xAttr	near
+John gives Tom a note	xReact	happy
+John looks like someone	xAttr	common
+John looks like a man	xAttr	self conscious
+John opens Tom's doors	xAttr	motivated
+John drives  to the beach	xWant	to relax
+John determines one 's 	xEffect	makes future plan
+John covers Tom's mouth	xWant	to lower their hand
+John curls John's hair	xWant	brag about her work on fb
+John eats  for days	oWant	none
+John keeps straight	xAttr	disciplined
+John gives Tom a note	oWant	to reply to John
+John recovers quickly	xReact	grateful
+John sees Tom later that day	xReact	fated
+John wins every game	xWant	to test their abilities
+John plays Tom's favorite songs	xReact	good
+John finds Tom's shoes	oReact	grateful
+John is as good as new	xAttr	energized
+John plays many sports	xNeed	join teams
+John pumps Tom's gas	xIntent	to be noticed
+John always goes	xReact	like he enjoys being there
+John loves reading books	oWant	none
+John smiles happily	xReact	joyful
+John shrugs Tom's shoulders	xEffect	to shoulders
+John lets Tom on the team	xReact	like a good person
+John takes place as a result	xWant	to feel better
+John loses  pounds	oReact	none
+John puts it all together	xNeed	to know everything that is there
+John begins crying	oEffect	none
+John puts it in a box	xAttr	tidy
+John finishes the test	oWant	none
+John cuts Tom's leg	xWant	to run away
+John lets Tom on the team	oEffect	hit by ball
+John takes a step forward	xAttr	daring
+John beats Tom easily	xWant	celebrate
+John affects Tom deeply	xIntent	none
+John meets the user 's 	xAttr	standards
+John treats  in children	oEffect	children are alleviated of pain
+John wipes John's forehead	xNeed	to go jogging
+John becomes a pilot	xWant	stop flying
+John gets right back	xWant	to keep working
+John visits John's mother 's 	oReact	happy
+John is right next to Tom	xReact	connected to this person
+John misses school	xAttr	irresponsible
+John hears the end of 	oEffect	none
+John drives  in John's new car	xNeed	get in the car
+John gives Tom John's opinion	xEffect	thanked
+John breaks John's toe	oEffect	none
+John sees Tom later that day	xReact	happy
+John eats toast	xReact	full
+John comes  from school	xEffect	feels thankful to not be at school any longer
+John often went	xWant	to experience more
+John takes matters into John's own hands	xAttr	reckless
+John confronts John's roommate	oEffect	hug
+John gets a small loan	xReact	happy
+John storms out of the blocks	xAttr	ambitious
+John tells Tom to give	oEffect	keeps something
+John searches for a job	xNeed	read job ads
+John does n't want to waste it	xIntent	to do the right thing
+John makes Tom arrangements	xWant	to be helpful
+John thanks  for comments	xAttr	humble
+John looks awful	xEffect	making getep
+John eats it	xNeed	puts food in hand
+John reschedules John's appointment	xReact	satisfied
+John gets a second opinion	xIntent	to be healthy
+John conducts Tom investigation	oWant	to tell John to keep off
+John tightens Tom's arms	xAttr	threatening
+John sheds John's blood	xAttr	aggressive
+John hosts a party	xWant	everyone to go home
+John catches Tom's attention	xEffect	smiles
+John goes  first	xNeed	to get in a car
+John gets a call for an interview	xWant	to be punctual
+John never been on one	oWant	none
+John makes John's speech	xEffect	delivers speech
+John sees every day	xAttr	jolly
+John throws  in John's face	xNeed	aims at John's face
+John orders delivery food	xReact	satisfied
+John examines critically the 	xEffect	John's eyes become strained
+John puts together 	xAttr	car parts
+John sees Tom later	oWant	to greet John
+John prevents  from accessing	oEffect	punches wall
+John is running down the street	xAttr	speedy
+John follows the recipe exactly	xEffect	getting job
+John takes Tom place	oEffect	lose popularity
+John refuses to move	xEffect	gets deported
+John goes  in the lake	xWant	to dry off
+John loves the  with John's heart	xAttr	friendly
+John wants money	xWant	spend the money
+John loses Tom's dog	xEffect	starts yelling
+John sees John's crush Tom	oEffect	none
+John gets a replacement	xWant	to draw unemployment
+John tells my friend	oWant	to find out gossip
+John passes Tom's lips	xNeed	to get her permission
+John falls off the back of a truck	xNeed	lose balance
+John applies for jobs	xEffect	gets hired
+John drives to the beach	xAttr	alert
+John makes John's exit	oWant	to say goodbye
+John kisses  on the cheek	oEffect	is surprised
+John looks like someone	xAttr	familiar
+John meets John's standards	xNeed	be moral
+John opens Tom's legs	oReact	aroused
+John peers inside	xWant	to look at everything
+John packs Tom's bags	xWant	to pack their own things
+John learns how to bake a cake	xNeed	she puts a cooking channel on
+John writes  using	xNeed	to have a notebook
+John casts  before swine	oReact	none
+John posts it online	xAttr	happy
+John sees  online	oWant	none
+John flies towards Tom	xWant	to have fun
+John follows Tom's instructions	xEffect	gets better
+John plays Tom's favorite songs	xIntent	share
+John increases John's knowledge	xEffect	John's head aches from thinking critically
+John gives Tom what for	xAttr	mad
+John is the best trip	xAttr	doesn't make sense
+John meets some friends	xAttr	collegial
+John hits John's friend	oEffect	gets injured
+John gets burned	oWant	give medical treatment
+John packs heat	xNeed	to pass background check
+John enjoys Tom's class	xEffect	is energized by new information
+John leaves it alone	oReact	none
+John would like Tom	xNeed	express his needs
+John goes  from work	xIntent	to go somewhere else
+John gives Tom the slip	oEffect	fails on their mission
+John comes  from school	oWant	to welcome John back
+John gets shot	xReact	terrified
+John takes things as they come	xEffect	gets ripped off
+John gets the part	xNeed	to try out for the part
+John uses Tom's middle finger	oReact	offended
+John loses Tom's wallet	xEffect	will have to cover losses
+John looks  in the face	xAttr	confrontational
+John would like Tom	xReact	socialable
+John advertises Tom's business	xNeed	to know about it
+John loves the dog	oReact	none
+John hears a phone ring	xAttr	keen
+John stays by Tom's side	oEffect	agrees
+John protects the  from harm	xEffect	fetus
+John finds Tom at home	xAttr	investigative
+John evens saw 	xReact	surprised
+John leads Tom expedition	xWant	to explore
+John gets John's nails done	xAttr	creative
+John does n't have a lot of money	xWant	to make some
+John turns Tom's backs	xWant	to command Tom
+John needs a shot	xReact	annoyed
+John calls the fire department	oEffect	get timely help
+John practices hard 	xAttr	hard working
+John meets the love of John's life	oReact	also in love

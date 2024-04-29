@@ -1,0 +1,3484 @@
+Desires	person	vacation
+Desires	bird	fly
+Desires	person	good life
+Desires	person	be happy
+Desires	student	learn
+Desires	child	hear story
+Desires	person	play game
+Desires	teacher	interest student
+Desires	person	good thing in life
+Desires	person	praise
+Desires	person	goal
+Desires	person	good luck
+Desires	animal	reproduce
+Desires	cat	milk to drink
+Desires	cat	eat plant
+Desires	dog	chew on thing
+Desires	baby	suck on pacifier
+Desires	cow	eat grass
+Desires	dog	bury bone
+Desires	cat	play with string
+Desires	kid	play
+Desires	person	more time off
+Desires	person	orgasm
+Desires	person	relaxation
+Desires	person	receive gift
+Desires	person	sunny day
+Desires	person	gift
+Desires	homosexual	have sex with same gender
+Desires	person	other person
+Desires	person	compete
+Desires	person	accomplish goal
+Desires	person	read interest book
+Desires	nobody	die
+Desires	person	feel happy
+Desires	person	food clothe and shelter
+Desires	person	candy
+Desires	person	life
+Desires	person	live well
+Desires	person	hapiness
+Desires	person	fast car
+Desires	person	get lay
+Desires	person	good eyesight
+Desires	person	stay healthy
+Desires	person	see
+Desires	person	communicate
+Desires	person	take vacation
+Desires	person	be cherish
+Desires	person	lot of fun
+Desires	person	good job
+Desires	person	well pay job
+Desires	person	have good memory
+Desires	person	be safe
+Desires	person	new experience
+Desires	person	be recognize
+Desires	person	be praise
+Desires	human	money
+Desires	child	learn
+Desires	monkey	banana
+Desires	teacher	student to learn
+Desires	cat	nap
+Desires	baby	suck thing
+Desires	person	watch television
+Desires	person	play with ball
+Desires	baby	play with toy
+Desires	men and woman	dance together
+Desires	baby	suck
+Desires	person	dance to music
+Desires	mouse	eat cheese
+Desires	lot of person	ride roller coaster
+Desires	person	eat together
+Desires	person	admiration
+Desires	person	sit in chair
+Desires	person	be with other person
+Desires	person	be educate
+Desires	horse	play
+Desires	some person	give order
+Desires	child	be love
+Desires	person	acknowledgment
+Desires	person	trust himself
+Desires	person	time
+Desires	person	enjoy
+Desires	person	eat every day
+Desires	person	understand themselves
+Desires	person	read book
+Desires	dog	chase car
+Desires	child	grow up
+Desires	person	be excite
+Desires	person	own nice thing
+Desires	person	help
+Desires	person	liberty
+Desires	person	dsl
+Desires	person	nice place to live
+Desires	person	delicious food
+Desires	person	comfortable shoe
+Desires	person	computer
+Desires	person	healthy life
+Desires	person	leisure time
+Desires	person	enough sleep
+Desires	person	meaningful work
+Desires	person	fairness
+Desires	person	clean clothe
+Desires	person	be independent
+Desires	person	luck
+Desires	person	not feel pain
+Desires	teacher	teach
+Desires	cat	milk
+Desires	plant	water
+Desires	person	rest
+Desires	child	toy
+Desires	child	candy
+Desires	cat	eat
+Desires	dog	go outside
+Desires	person	long life
+Desires	suicidal person	die
+Desires	dog	lot of attention
+Desires	humanity	live
+Desires	thirsty person	something to drink
+Desires	cat	eat fish
+Desires	some person	ride on horse
+Desires	person	understand their world
+Desires	person	have good friend
+Desires	person	drink clean water
+Desires	person	explore
+Desires	person	know what time it be
+Desires	person	swim
+Desires	some person	die
+Desires	person	playfulness
+Desires	person	blowjob
+Desires	person	large house
+Desires	person	something
+Desires	person	more information
+Desires	person	be like by other person
+Desires	person	be feed
+Desires	person	more leisure time
+Desires	person	live long and healthy life
+Desires	person	world peace
+Desires	person	intellectual stimulation
+Desires	person	hug
+Desires	person	acquire wealth
+Desires	person	hamburger
+Desires	person	many good friend
+Desires	person	talk about themselves
+Desires	person	understand world
+Desires	person	communication
+Desires	person	be good-looking
+Desires	person	free time
+Desires	person	clean air to breath
+Desires	person	cookie
+Desires	person	have safe home
+Desires	person	someone to be with
+Desires	person	be intelligent
+Desires	person	feel safe
+Desires	person	leisure
+Desires	person	live life
+Desires	person	see good movie
+Desires	person	new toy
+Desires	person	more
+Desires	person	american dream
+Desires	person	be know
+Desires	person	good night sleep
+Desires	person	snack from time to time
+Desires	person	vengence
+Desires	person	dog
+Desires	person	good weather when they go camp
+Desires	person	music
+Desires	person	20-20 vision
+Desires	person	good sex
+Desires	person	comfortable bed
+Desires	person	good sense of humor
+Desires	person	reliable car
+Desires	person	good friend
+Desires	person	be well think of
+Desires	person	eat well
+Desires	person	breathe
+Desires	person	eat food
+Desires	person	have many good friend
+Desires	person	be fair
+Desires	person	know truth
+Desires	person	be literate
+Desires	person	feel special
+Desires	person	someone to hold them
+Desires	person	feel joy
+Desires	person	be talented
+Desires	person	live in good neighborhood
+Desires	person	reproduce
+Desires	person	go home
+Desires	person	be perfect
+Desires	person	husband or wife
+Desires	person	make others happy
+Desires	person	know time
+Desires	person	justice
+Desires	person	more time
+Desires	person	smell nice
+Desires	person	be able to read
+Desires	person	look beautiful
+Desires	person	dedication
+Desires	person	company
+Desires	person	person to love
+Desires	person	financial security
+Desires	person	light
+Desires	person	simplicity
+Desires	person	mean
+Desires	person	warm coat
+Desires	person	three square meal day
+Desires	person	good look
+Desires	person	avoid pain
+Desires	person	good review
+Desires	person	short travel time
+Desires	person	positive attention from others
+Desires	person	high wage
+Desires	person	study
+Desires	animal	live
+Desires	masturbater	masturbate
+Desires	girl	play
+Desires	politician	power
+Desires	alcoholic	liquor
+Desires	everyone	be happy
+Desires	dog	affection
+Desires	man	honesty
+Desires	man	respect
+Desires	hungry person	food
+Desires	dog	play frisbee
+Desires	dog	play fetch
+Desires	dog	eat lot
+Desires	person	easy life
+Desires	person	know everything
+Desires	person	good night of sleep
+Desires	person	talent
+Desires	person	be expressive
+Desires	person	honor
+Desires	person	wellness
+Desires	person	be treat with respect
+Desires	person	eat variety of food
+Desires	person	be right
+Desires	person	their space
+Desires	person	fuck
+Desires	brain	make comparison
+Desires	person	know all
+Desires	some dog	chase car
+Desires	most person	peace
+Desires	person	answer to universe
+Desires	person	popularity
+Desires	person	good themself
+Desires	person	good memory
+Desires	person	be pretty
+Desires	person	eat pussy
+Desires	person	be love by other person
+Desires	most person	be like
+Desires	person	read good book
+Desires	person	be content
+Desires	person	intellectual challenge
+Desires	person	be mobile
+Desires	person	healthy child
+Desires	person	play sport
+Desires	person	live long healthy life
+Desires	one	sleep when one be tire
+Desires	person	be successful in life
+Desires	person	be fuck
+Desires	many person	ban firearm
+Desires	person	be value
+Desires	person	see clearly
+Desires	person	have home to live in
+Desires	person	be smart
+Desires	person	ipod
+Desires	person dont	ignorance
+Desires	person	watch sport
+Desires	person	fortune
+Desires	person	compassion
+Desires	person	his child to be happy
+Desires	person	excite music
+Desires	person	love each other
+Desires	person	love family
+Desires	person	good book to read
+Desires	person	quiet
+Desires	some person	ride horse
+Desires	person	pleasant thing
+Desires	person	everything
+Desires	person	achieve
+Desires	person	someone to care about them
+Desires	person	own unique thing
+Desires	person	protect their family
+Desires	kid	play with them
+Desires	person	make more money
+Desires	person	thing to be clean
+Desires	person	have good day
+Desires	person	harmony between all
+Desires	person	feel smart
+Desires	person	god
+Desires	person	home to live in
+Desires	person	other person to respect him her
+Desires	person	play
+Desires	person	have inner peace
+Desires	dog	chase cat
+Desires	person who feel lose	guidance
+Desires	explorer	adventure
+Desires	printer	paper
+Desires	new person to group	acceptance
+Desires	person	other person to like them
+Desires	dictator	power
+Desires	cat	mouse
+Desires	pirate	booty
+Desires	tax collector	money
+Desires	person	good house
+Desires	person	peace and harmony
+Desires	person	stability in his life
+Desires	person	ridicule
+Desires	person	not to die
+Desires	person	some variety but consistency as well
+Desires	person	time alone
+Desires	person	nice haircut
+Desires	person	fresh air
+Desires	person	fresh water
+Desires	person	sunshine
+Desires	person	spare time
+Desires	person	more of everthing
+Desires	person	have healthy life
+Desires	waiter	person to tip well
+Desires	person	her boss not be asshole
+Desires	person	good sex life
+Desires	person	life forever
+Desires	dog	be love by his master
+Desires	person	chance to be creative
+Desires	person	comfortable bed at night
+Desires	person	self-gratification
+Desires	person	self-knowledge
+Desires	mayor	motivate city counselor
+Desires	tourist	room with view
+Desires	person	bliss
+Desires	person	clean cloth
+Desires	person	day off
+Desires	person	get more vacation day
+Desires	person	weekend to arrive
+Desires	person	suger
+Desires	person	big yacht
+Desires	person	lot of stuff
+Desires	person	cup of tea
+Desires	person	contribute to world peace
+Desires	person	more money
+Desires	person	support from his spouse
+Desires	person	beautiful day
+Desires	person	good breakfast
+Desires	person	comfort food
+Desires	person	discount
+Desires	person	lemonade
+Desires	person	freedom to travel
+Desires	person	safety hapiness
+Desires	person	positive relationship
+Desires	person	total honesty
+Desires	person	professional satisfaction
+Desires	person	stimulation
+Desires	person	tto have knowledge
+Desires	person	cheesecake because it taste good
+Desires	person	different thing all time
+Desires	person	white cheese and red wine
+Desires	person	red sock for christmas
+Desires	person	large computer monitor
+Desires	person	good salary
+Desires	person	nice weather
+Desires	person	interest thing to happen
+Desires	person	spell checker
+Desires	person	acute hear
+Desires	person	accurate watch
+Desires	person	ice cream to be freeze
+Desires	person	honest politician
+Desires	person	no park ticket
+Desires	person	keen sense of smell
+Desires	person	clean shirt
+Desires	person	nice shoe
+Desires	person	clothe that fit
+Desires	person	his coffee hot usually
+Desires	person	good entertainment
+Desires	person	strong body
+Desires	person	good education
+Desires	person	self esteem
+Desires	person	be good look
+Desires	person	plenty of sleed
+Desires	person	park place
+Desires	person	nice hair
+Desires	person	boadband internet access
+Desires	person	cable modem
+Desires	person	nice surround
+Desires	person	enjoyable hobby
+Desires	person	college degree
+Desires	person	revenge for serious wrong
+Desires	person	good boss
+Desires	person	good vacation
+Desires	person	ice cream cone
+Desires	person	good brake
+Desires	person	eternal salvation
+Desires	person	three hot meal day
+Desires	person	broadband internet connection
+Desires	parasite	host
+Desires	judge	justice
+Desires	person	reliability
+Desires	person	good value
+Desires	person	health coverage
+Desires	person	good deal
+Desires	person	sanity
+Desires	person	quality
+Desires	person	fall good
+Desires	person	win lot of money
+Desires	person	autonomy
+Desires	person	tobacco
+Desires	person	have peace in their life
+Desires	person	status symbol
+Desires	person	coca-cola
+Desires	person	clarity
+Desires	person	lover
+Desires	person	right
+Desires	person	something sweet
+Desires	person	be hug
+Desires	person	stable relationship
+Desires	person	good pet
+Desires	person	sexual encounter
+Desires	person	mother
+Desires	person	prosperity
+Desires	person	birthday party
+Desires	person	surprise
+Desires	person	life with purpose
+Desires	person	kiss from their mate
+Desires	person	love relationship
+Desires	person	nice pet
+Desires	person	meaningful life
+Desires	person	their own home
+Desires	person	their mate to notice them
+Desires	person	have fortune
+Desires	person	nice boss
+Desires	person	perfect life
+Desires	person	recognition of their effort
+Desires	person	fitness
+Desires	person	be good then next person
+Desires	cat	tuna fish
+Desires	fish	food
+Desires	person	love and company
+Desires	person	others to understand
+Desires	person	mutual respect
+Desires	person	moral
+Desires	person	self confidence
+Desires	person	save
+Desires	person	pay for work
+Desires	person	faith
+Desires	person	more of material thing
+Desires	person	basic necessity
+Desires	person	war
+Desires	person	diamond
+Desires	person	new model of item
+Desires	person	very high speed internet connection
+Desires	person	tv
+Desires	person	partner
+Desires	person	nice view from their window
+Desires	person	support from their love one
+Desires	person	weekend to last forever
+Desires	person	unrequited love
+Desires	person	enough money to live without worry
+Desires	person	have clean clothe
+Desires	person	pat on back
+Desires	person	comfort from others
+Desires	person	other person to smile at them
+Desires	person	commitment from others
+Desires	person	have good eyesight
+Desires	person	peace not war
+Desires	person	entertainment such as discover magazine
+Desires	person	have someone there all time
+Desires	person	his friend to call
+Desires	person	sec
+Desires	person	tastey food
+Desires	person	independence
+Desires	person	hobby
+Desires	person	more for less
+Desires	person	result
+Desires	person	space
+Desires	person	good feel
+Desires	person	way to move
+Desires	person	see thing
+Desires	life-form	food
+Desires	person	nice glass of wine
+Desires	person	love and respect
+Desires	person	room to spread out
+Desires	person aften	peer to judge him
+Desires	person	recognition of their own importance
+Desires	person	many choice
+Desires	person	clean bathroom
+Desires	person	clear vision
+Desires	cat	food
+Desires	person	forgiveness
+Desires	person	be famous
+Desires	person	affection
+Desires	person	glory
+Desires	person	sleep
+Desires	person	big tv
+Desires	company	money
+Desires	plant	light
+Desires	company	employee
+Desires	woman	man
+Desires	animal	drink
+Desires	child	love
+Desires	child	play
+Desires	employee	get raise
+Desires	zombie	eat person
+Desires	monster	eat person
+Desires	nazi	commit genocide
+Desires	flower	grow toward sun
+Desires	dog	run
+Desires	zombie	eat brain
+Desires	dog	eat bone
+Desires	teacher	have good student
+Desires	person	win game
+Desires	dog	eat
+Desires	cat	eat mouse
+Desires	baby be cute which make person	be near them
+Desires	police	know when crime be commit
+Desires	person	medium rare steak
+Desires	person	imac
+Desires	person	fall in love
+Desires	person	dream
+Desires	person	challenge
+Desires	person	happy life
+Desires	person	lot of money
+Desires	person	good teacher
+Desires	person	peace of mind
+Desires	person	good meal
+Desires	person	have sex
+Desires	person	understand
+Desires	athlete	win
+Desires	misery	company
+Desires	question	answer
+Desires	horse	carrot
+Desires	illegal alien	good life
+Desires	sailor	wind
+Desires	lady	diamond
+Desires	my dog	go for walk
+Desires	cat	warm place to live
+Desires	comedian	make person laugh
+Desires	person	stable relationship with interest person
+Desires	man	be famous
+Desires	pilot	fly
+Desires	man	attentive lover
+Desires	woman	lover
+Desires	lover	stable relationship
+Desires	woman	attention from her partner
+Desires	boss	more and more productivity from worker
+Desires	goat	food
+Desires	normal person	love and respect
+Desires	cat	be stroke
+Desires	teacher	educate student
+Desires	father	son
+Desires	rabbit	carrot
+Desires	homeless person	shelter
+Desires	kid	have fun
+Desires	person	be together
+Desires	men	wear hat
+Desires	family	do thing together
+Desires	some person	wear hat
+Desires	child	learn thing
+Desires	person	do thing together
+Desires	family	be together
+Desires	dog	play with frizbees
+Desires	many human	take holiday
+Desires	some dog	play with frizbee
+Desires	person	there to be nice weather
+Desires	kitten	explore
+Desires	some dog	fetch frisbee
+Desires	boy	wrestle
+Desires	child	play with yo-yo
+Desires	boy	play socker
+Desires	most dog	catch fly frisbee
+Desires	boy	play rough game
+Desires	men and woman	kiss
+Desires	person	programme
+Desires	dog	chase thing
+Desires	person	fresh fruit
+Desires	person	achieve enlightenment
+Desires	person	hope
+Desires	some person	watch comedy
+Desires	person	creativity
+Desires	person	live long and happy life
+Desires	person	convenient park
+Desires	person	strong bone
+Desires	person	free food
+Desires	person	be compliment
+Desires	information	be free
+Desires	child	play with ball
+Desires	person	time to rest
+Desires	person	be well-fed
+Desires	person	solution
+Desires	boy	play with basketball
+Desires	person	work computer
+Desires	person	comfortable clothe
+Desires	person	their team to win
+Desires	person	excel
+Desires	person	win lottery
+Desires	person	equality
+Desires	person	be fulfil
+Desires	person	understand world around them
+Desires	person	clean air to breathe
+Desires	person	see beauty
+Desires	person	intelligent child
+Desires	person	be remember
+Desires	person	jewelry
+Desires	person	complete collection
+Desires	person	recover from nervous breakdown
+Desires	person	fly
+Desires	person	adorn themselves with object
+Desires	person	logical answer to her question
+Desires	person	develop her talent
+Desires	person	spouse to be faithful
+Desires	person	fact
+Desires	person	equal pay for equal work
+Desires	person	detail
+Desires	person	move
+Desires	person	prosper
+Desires	person	think
+Desires	person	live long and prosper
+Desires	person	sing
+Desires	person	read story
+Desires	person	their family to be healthy
+Desires	person	be complement
+Desires	person	feel in charge
+Desires	person	feel be in charge
+Desires	person	love partner
+Desires	person	perfect world
+Desires	person	have long live
+Desires	person	have fun weekend
+Desires	person	drink water
+Desires	person	other person to love him
+Desires	some person	eat raw fish
+Desires	some person	swim in ocean
+Desires	child	play sport
+Desires	child	play with yo yos
+Desires	person	look attractive
+Desires	person	source of income
+Desires	most person	have friend
+Desires	many person	play game
+Desires	person	reliable friend
+Desires	person	personal freedom
+Desires	person	nice family
+Desires	person	interest challenge
+Desires	person	clean air
+Desires	person	fair trial
+Desires	person	flat tummy
+Desires	person	soft skin
+Desires	person	some spare time
+Desires	person	watch good movie
+Desires	person	strong fingernail
+Desires	person	meaningful employment
+Desires	person	smooth skin
+Desires	person	cassette player in her truck
+Desires	person	indoor plumb
+Desires	person	lot of space
+Desires	person	good vodka
+Desires	person	be treat like someone special
+Desires	person	slim waist
+Desires	person	adoration
+Desires	person	fresh water to drink
+Desires	person	equal opportunity
+Desires	person	bargain
+Desires	person	understand computer
+Desires	some person	read story
+Desires	person	fresh produce
+Desires	person	be number 1
+Desires	person	be clean
+Desires	person	eat in group
+Desires	person	sympathy
+Desires	person	beer
+Desires	person	good credit
+Desires	person	dinner
+Desires	person	run
+Desires	person	low crime
+Desires	person	other person to be polite
+Desires	person	cake
+Desires	person	procrastinate
+Desires	person	freedom from want
+Desires	person	defeat his enemy
+Desires	person	best thing from life
+Desires	most child	play sport
+Desires	person	passionate kiss
+Desires	person	pass grade
+Desires	person	white tooth
+Desires	person	inner peace
+Desires	person	all kind of thing
+Desires	person	free stuff
+Desires	person	trust person
+Desires	person	dignity
+Desires	person	make good decision
+Desires	person	itch to be scratch
+Desires	person	improve their lot in life
+Desires	person	oral sex
+Desires	person	good car
+Desires	person	good relationship
+Desires	person	mankind to explore universe
+Desires	person	interest experience
+Desires	person	patient spouse
+Desires	person	open mind
+Desires	person	fair society
+Desires	person	wisdom
+Desires	person	pass on idea to future generation
+Desires	person	hear sincerity
+Desires	person	second chance
+Desires	person	influence
+Desires	person	feel pleasure
+Desires	person	be confident
+Desires	person	nice jewelry
+Desires	person	good park place
+Desires	person	cotton candy
+Desires	person	clean water to drink
+Desires	gambler	win
+Desires	person	be moral
+Desires	person	have meaningful life
+Desires	person	more rice
+Desires	person	have enough food
+Desires	person	status among peer
+Desires	person	live comfortably
+Desires	boy	camp
+Desires	person	new computer
+Desires	child	throw thing
+Desires	some person	read book
+Desires	person	electricity
+Desires	person	reach goal
+Desires	person	go to zoo
+Desires	person	be with cat
+Desires	person	true love
+Desires	person	fulfil job
+Desires	person	freedom of expression
+Desires	person	shelter
+Desires	person	sleep regularly
+Desires	your doctor	you to be healthy
+Desires	person	caregiver
+Desires	person	parent
+Desires	person	much money
+Desires	person	peace in life
+Desires	person	have vacation some time
+Desires	person	computer to work properly
+Desires	everyone	happiness
+Desires	person	stay alive
+Desires	person	love other person
+Desires	person	accomplish
+Desires	person	feel desirable
+Desires	person	save money
+Desires	person	english house
+Desires	person	new bicycle
+Desires	person	well adjust child
+Desires	person	worldwide peace and love
+Desires	person	inspiration
+Desires	person	smooth sail
+Desires	person	thirty hour work week
+Desires	person	more civil liberty
+Desires	person	good lover
+Desires	person	sound sleep
+Desires	person	drink fresh water
+Desires	person	secure home
+Desires	person	soothe music
+Desires	person	short work hour
+Desires	person	fresh coffee in morning
+Desires	person	quality bicycle
+Desires	person	human contact
+Desires	person	nice hug
+Desires	person	great weather over long weekend
+Desires	person	few close friend
+Desires	person	several way to escape wage slavery
+Desires	person	short work day
+Desires	person	have fun in life
+Desires	men and woman	kiss each other
+Desires	person	have choice
+Desires	person	egg sandwich
+Desires	person	box of fox
+Desires	person	green thumb
+Desires	person	meet mot hoople
+Desires	person	receive phd
+Desires	person	have money to buy chocolate
+Desires	person	have diamond
+Desires	dog	sleep
+Desires	person	ice cream
+Desires	person	peaceful sleep
+Desires	person	tan
+Desires	person	be leave alone sometimes
+Desires	person	be young forever
+Desires	person	reward
+Desires	person	happy family
+Desires	person	be sexy
+Desires	person	be congratulate
+Desires	person	gratification
+Desires	person	get enough sleep
+Desires	person	make difference
+Desires	person	good conversation
+Desires	person	hot meal
+Desires	person	fly safely
+Desires	person	meet expectation
+Desires	person	be witty
+Desires	person	be knowledgable
+Desires	person	respect from others
+Desires	person	be surprise
+Desires	person	hear good news
+Desires	dog	go for walk
+Desires	person	successful career
+Desires	person	be sucessful
+Desires	person	laughter
+Desires	person	best thing for their friend
+Desires	person	wet clothe to dry
+Desires	person	good fit clothe
+Desires	person	own their own business
+Desires	person	something in mail
+Desires	person	have everyone happy with them
+Desires	person	use acronym instead of long name
+Desires	person	be celebrate
+Desires	person	thing to be good
+Desires	person	thing to improve
+Desires	person	be mentally challenge
+Desires	person	loyal friend
+Desires	person	food and water
+Desires	person	beer and slut
+Desires	person	sweet thing
+Desires	person	global freedom
+Desires	person	appropiate empathy
+Desires	person	live with respect
+Desires	person	technology to help them
+Desires	person	critical think
+Desires	person	science
+Desires	person	understand event of history
+Desires	person	wonderful memory
+Desires	person	connection and vital psychological well-being
+Desires	person	freedom of information
+Desires	person	enjoy friendship of others
+Desires	person	others to be content
+Desires	person	contribution to society
+Desires	dog	eat person food
+Desires	person	belief
+Desires	child	play ball
+Desires	person	material thing
+Desires	person	stability in their life
+Desires	person	have great sex
+Desires	person	flower
+Desires	person	gift at christmas
+Desires	person	self-esteem
+Desires	person	prompt response from computer
+Desires	person	life-partner
+Desires	person	answer to their question
+Desires	person	feel they be make difference
+Desires	person	other person company
+Desires	person	best thing in life
+Desires	person	have someone to hold
+Desires	cat	eat anything with fish in it
+Desires	only crazy person	go to war
+Desires	some criminal	get catch
+Desires	person	experience
+Desires	person who	ride horse be equestrian
+Desires	hobo	pie
+Desires	person	magick
+Desires	person	flex time
+Desires	person	cold beer
+Desires	person	love and security
+Desires	person	live in luxury
+Desires	person	companion
+Desires	person	be care for
+Desires	person	wash your face
+Desires	cinderella	fine dress
+Desires	cinderella	her fairy god mother
+Desires	cinderella	prince charm
+Desires	librarian	help person
+Desires	all life form	survive
+Desires	businessman	run business
+Desires	electricity	grind
+Desires	whore	get pay
+Desires	drug dealer	make money
+Desires	john safran	warp your mind
+Desires	evil man	commit genocide
+Desires	john safran	make you think he funny
+Desires	lover	be love
+Desires	slut	have alot of sex
+Desires	provocateur	provoke
+Desires	john safran	upset person
+Desires	dictator	rule
+Desires	killer	kill
+Desires	person	smoke cannabis
+Desires	goat	eat
+Desires	gay	man
+Desires	pedobear	have sex with young child
+Desires	pedobear	child porn
+Desires	juggler	juggle
+Desires	christian	please christ
+Desires	student	get good grade
+Desires	john mccain	be president of unite state of america
+Desires	person	not be tell what to do
+Desires	home buyer	mortgage
+Desires	my little brother	playground equipment
+Desires	yarn	nothing
+Desires	artist	paint picture
+Desires	pharmaceutical industry	extend patent life on new drug
+Desires	pharmaceutical industry	less regulation
+Desires	government	order
+Desires	old man	retire
+Desires	some person	watch sport
+Desires	person	walk
+Desires	person	be attractive to opposite sex
+Desires	person	their achievement to be recognize
+Desires	person	future
+Desires	satisfy person	for nothing
+Desires	person	cold beer and warm woman
+Desires	person	thing to happen fast
+Desires	employee	more money
+Desires	employee	recognition
+Desires	employee	have fun on job
+Desires	employee	stable work environment
+Desires	christian	pray
+Desires	christian	convert person to christianity
+Desires	jew	count his money
+Desires	jewish person	count his money
+Desires	water	go down hill
+Desires	busy mom	break
+Desires	diva	sing
+Desires	young woman	new clothe
+Desires	student	easy exam
+Desires	employee	raise
+Desires	teen-aged girl	boyfriend
+Desires	soldier	get out alive
+Desires	bady	bottle
+Desires	spy	snoop
+Desires	hooker	trick
+Desires	junkie	fix
+Desires	dry lawn	rain
+Desires	bum	handout
+Desires	little kid	christmas every day
+Desires	mathmatician	equality
+Desires	sale clerk	commission
+Desires	young man	cool car
+Desires	politician	be re-elected
+Desires	politician	serve their constituency
+Desires	troll	kill person
+Desires	astronaut	travel in space
+Desires	priest	you to confess your sin
+Desires	scientist	test his hypothesis
+Desires	vegetarian	avoid eat meat
+Desires	american	be protect by constitution
+Desires	firefighter	put out fire
+Desires	american	pursue happiness
+Desires	doctor	heal sick
+Desires	addict	his drug
+Desires	student	get degree
+Desires	american	enjoy her civil right
+Desires	person	find simple solution
+Desires	suffer person	relief
+Desires	dictator	total control over person
+Desires	person	put different piece of information together
+Desires	judge	good reputation
+Desires	person	ask question
+Desires	landlord	tenant to pay rent
+Desires	defesnse lawyer	defend his client
+Desires	cactus	very little water
+Desires	angry person	vent
+Desires	aol	everyone to use aol
+Desires	exhibitionist	their private part to be see
+Desires	spot	run
+Desires	unite device think project	find cure for cancer
+Desires	conservationist	help environment
+Desires	good person	recognition of their deed
+Desires	hamster	food water and nice burrow
+Desires	wise man	help improve world
+Desires	baby	comfort
+Desires	victim	closure
+Desires	everyone	be understand
+Desires	rabies	host
+Desires	musician	make music
+Desires	alexander jude goodfriend in danbury connecticut	friend
+Desires	rich person	be recognize as be rich
+Desires	marxist	class equality
+Desires	everyone	love deep down
+Desires	no one	be forget
+Desires	raiad1024	help humanity and robot
+Desires	raiad	friend
+Desires	comedian	entertain person
+Desires	person	power over others
+Desires	nudist	be naked
+Desires	man	peace
+Desires	alissa	me
+Desires	baby	it mother
+Desires	universe	be mess
+Desires	soldier	fight
+Desires	ming	guineia
+Desires	maria isabel	mingz
+Desires	horse	room to run
+Desires	politician	bribe
+Desires	little girl	pony
+Desires	chihuahua	be keep warm
+Desires	plant	water and sun
+Desires	doctor	big fancy house
+Desires	dog	attention
+Desires	axe murderer	helpless victim
+Desires	jockey	win race
+Desires	insecure man	flashy car
+Desires	saint	be good
+Desires	dog	food
+Desires	speeder	radar detector
+Desires	buzzard	dead carcass
+Desires	hillary	bill to get lose
+Desires	man	woman just like his mother
+Desires	thoroughbred	run
+Desires	narcissist	admiration
+Desires	hen	bread crumb
+Desires	cat	control
+Desires	golddigger	rich man
+Desires	boy	b.b
+Desires	squirrel	nut
+Desires	terrier	dig
+Desires	azalea	acidic soil
+Desires	jockey	stay on top of horse
+Desires	hiker	sturdy comfortable shoe
+Desires	lion	mate
+Desires	teacher	attention
+Desires	turtle	water
+Desires	bee	flower
+Desires	teacher	vacation
+Desires	virus	live
+Desires	professor	smart student
+Desires	person	bagel
+Desires	insecure person	lot of attention from others
+Desires	cat	food now
+Desires	person	spiritual fulfillment
+Desires	person	feel connect to others
+Desires	nealy everyone	hae more money
+Desires	spider	eat insect
+Desires	penguin	enough to eat
+Desires	chef	cook well
+Desires	politician	win election
+Desires	everybody	be happy
+Desires	in general western democracy	peace
+Desires	child	ice cream
+Desires	missionary	person to believe his religion
+Desires	game show contestant	right answer
+Desires	your mother	you to be happy
+Desires	banker	his loan to be repay
+Desires	kangaroo	jump
+Desires	woman	fashionable clothe
+Desires	crocodile	be in river
+Desires	everybody	go to heaven
+Desires	world	be cheat
+Desires	everybody	it good
+Desires	every live thing	survive
+Desires	nobody	constructive criticism
+Desires	no one	war
+Desires	butt	fart and poop
+Desires	sex	person to have it
+Desires	that girl	get fuck
+Desires	america	bunch of war
+Desires	my butt	fart
+Desires	gay man	anal sex
+Desires	jelly	be put on bread
+Desires	this computer	learn to understand human language
+Desires	if you	get ph.d
+Desires	thirsty person	drink
+Desires	cat	be pet
+Desires	lazy person	sleep
+Desires	politician	be elect
+Desires	dog	be walk
+Desires	person	be tell truth
+Desires	person	be challenge but not too much
+Desires	dog	meat
+Desires	company	profit
+Desires	lazy person	do very little
+Desires	richard stallman	free software
+Desires	no one	be hungry
+Desires	koala bear	eucalyptus leave to eat
+Desires	hair stylist want	change your hairstyle
+Desires	catepillar	fresh leave to eat
+Desires	person	water to drink
+Desires	skiier	it to snow
+Desires	baker	good quality ingredient
+Desires	bunny	hop
+Desires	gardener	good weather
+Desires	child	eat only ice cream
+Desires	no one	be unloved
+Desires	mother	her child
+Desires	sleeper	just right pillow
+Desires	fore	healthy tree in forest
+Desires	cold person	be warm
+Desires	worker	get pay
+Desires	this be test	whoat
+Desires	person	haircut
+Desires	sun	shine
+Desires	accountant	balance
+Desires	woman	respect
+Desires	funeral director	dead person
+Desires	man	supermodel or 12 supermodel
+Desires	creative person	chance to be creative
+Desires	pilot	fly aircraft
+Desires	chemist	have friend
+Desires	person	basic need meet
+Desires	computer consultant	project to work on
+Desires	wage slave	more vacation
+Desires	pilot	clear sky and calm wind
+Desires	human	economic freedom
+Desires	hermit	be leave alone
+Desires	man or woman	feel love
+Desires	engineer	build bridge
+Desires	person	thing he or she cannot have
+Desires	composer	musical insight
+Desires	rational person	end of war
+Desires	lover	be love in return
+Desires	wage-slave	next paycheck
+Desires	dog	come inside during winter
+Desires	chemist	experiment to provide reliable data
+Desires	at mid-life person still	sex
+Desires	spouse	attention from his or her mate
+Desires	religious fanatic	everyone to believe
+Desires	normal person	be touch
+Desires	engineer	be rocket scientist
+Desires	cat	catch fat mouse
+Desires	dog	freedom to run
+Desires	dog	praise from his master
+Desires	business	person to spend rather than save
+Desires	person	creative freedom
+Desires	person	ignore social pressure
+Desires	think person	good culture
+Desires	chemist	his experiment to succeed
+Desires	person	make decision base on accurate information
+Desires	author	person to buy their book
+Desires	goldfish	bowl
+Desires	marketer	sell thing
+Desires	policeman	prevent crime
+Desires	scientist	conduct research
+Desires	detective	catch criminal
+Desires	fireman	extinguish fire
+Desires	doctor	cure patient
+Desires	judge	order
+Desires	everyone	something
+Desires	hinge	regular oil
+Desires	woman	be rich
+Desires	puppy	attention
+Desires	lonely person	friend
+Desires	candidate for public office	win election
+Desires	boss	honest dependable employee
+Desires	unicorn	be with virgin
+Desires	fish	eat small fish
+Desires	person	avoid constant repetition
+Desires	mosquito	fresh blood
+Desires	gambler	win money
+Desires	rabbit	lettuce
+Desires	cat	have catnip
+Desires	snake	live mouse
+Desires	chipmunk	nut
+Desires	starve man	food
+Desires	cat	warm bed
+Desires	tree	sunshine
+Desires	boss	you to work
+Desires	hard worker	work
+Desires	tree	water
+Desires	person	breakfast
+Desires	rugby player	win
+Desires	hippie	wear peace sign as jewelry
+Desires	oo7	dance with beautiful woman
+Desires	some person	make model of duck
+Desires	some person	sing in front of audience
+Desires	we play because we	not because we must
+Desires	dog and person	be together
+Desires	person	swim in pool of water
+Desires	person	be reward for good effort
+Desires	person	decorate their home
+Desires	person	celebrate together
+Desires	person	meet those in power
+Desires	person with dirty fingernail	eat disk
+Desires	horse	eat tree
+Desires	kid	go to game
+Desires	person	share experience
+Desires	many dog	play fetch
+Desires	cat	sit in high place
+Desires	some person	hold conch shell to their ear
+Desires	win at dart you	get bullseye
+Desires	woman	get rose
+Desires	person	watch thing happen
+Desires	person	walk in wood
+Desires	men	kiss and fuck each other
+Desires	doctor	play golf
+Desires	box turtle	eat slug
+Desires	person	play with frisbee in central park
+Desires	little kid	play
+Desires	domestic dog	play with peolpe
+Desires	dog	smell world
+Desires	person	use binoculars for watch wildlife
+Desires	where everyone	be when life be difficult
+Desires	dog frequently	play with throw object
+Desires	person	live in house
+Desires	human	play
+Desires	person	eat hot meal
+Desires	child	ride on fire truck
+Desires	person	have their portrait paint
+Desires	person	know all about their surround
+Desires	person	watch television together
+Desires	i	try suishi
+Desires	dog	eat cat
+Desires	men and woman	get it on
+Desires	human be	play
+Desires	human be	study their own body
+Desires	person	exercize their body
+Desires	most person	walk along beach
+Desires	many person	watch ice-hockey
+Desires	human	talk with each other
+Desires	dog	chew and bury bone
+Desires	person	look at thing
+Desires	little boy	play with toy
+Desires	at spring mammal	sex
+Desires	cat	eat flower
+Desires	skink	live in damp area
+Desires	some cat	eat rose leave
+Desires	person	be serve
+Desires	we tend to	gather into family group
+Desires	many person	eat hotdog
+Desires	baby	look at face
+Desires	i	swim
+Desires	i	ride train cross-country
+Desires	i	play board game
+Desires	boy	have sex with girl
+Desires	cat	smell flower
+Desires	some person	sculpt likeness of other person
+Desires	child	play in grass
+Desires	girl	talk
+Desires	some teenager	smash mailbox
+Desires	most person in this world	live in freedom and peace
+Desires	most person	eat food that be sweet
+Desires	cow	eat fresh grass
+Desires	person	have bare foot
+Desires	i	kid not freak
+Desires	i	spoon with my honey
+Desires	elderly person	vacation on cruise
+Desires	teenage men often	play pool
+Desires	some person	ballroom dance
+Desires	some men	wear thier hair long
+Desires	child	play with pupies
+Desires	human	believe
+Desires	person	grow and look at flower
+Desires	person	play board game
+Desires	many person	play dart
+Desires	person	act in play
+Desires	person	style their hair
+Desires	person	sail
+Desires	horse be mammal that	associate with one another
+Desires	dog	lean out of car
+Desires	person	relax at home
+Desires	child	play together
+Desires	some bird	float on water
+Desires	person	go somewhere warm on vacation
+Desires	human	watch tv
+Desires	woman	suck
+Desires	woman	get rose as gift
+Desires	some mother	put bow in their daughter hair
+Desires	child	have pet
+Desires	some person	keep dog as pet
+Desires	horse	run away
+Desires	clown fish	live near sea anemone
+Desires	human	laugh
+Desires	person	sit when watch television
+Desires	mother	hold their child
+Desires	sibling	play together
+Desires	many person	vacation near water
+Desires	ring this bell when you	attention
+Desires	dog	play some game with human
+Desires	frame surround something you	display
+Desires	many person	dance but not all person do
+Desires	duck	swim
+Desires	person	play game for fun
+Desires	friend	talk
+Desires	peple	remimber acheviments by own trophy
+Desires	person	personalize their surround
+Desires	person	share emotion
+Desires	child	play simple game than adult
+Desires	most person	other person to like them
+Desires	person	define their space
+Desires	you	make bullseye
+Desires	person	wear jewelry for decoration
+Desires	child	burn ant with magnify glass
+Desires	men	build phallic shape structure
+Desires	dog	lick their ball
+Desires	woman	ride male horse
+Desires	person	suck on nipple shape object
+Desires	student	work together
+Desires	if you	be hear speak into mike
+Desires	person	travel in time
+Desires	i	horse
+Desires	child	grow up to be fireman
+Desires	most dog	play frisbee
+Desires	young child	play game
+Desires	person	stay in touch with friend
+Desires	person	decorate their house
+Desires	when i be tire i	go to bed
+Desires	woman	receive rose from man
+Desires	weird person	walk through forest
+Desires	most person	watch television at home
+Desires	men	share success with their child
+Desires	two horse they	be with other horse
+Desires	many adult	do art and craft
+Desires	men and woman	dnace together
+Desires	person	wear pretty thing
+Desires	not all woman	be mother
+Desires	person	win trophy
+Desires	person	train animal
+Desires	cat	chew on grass
+Desires	dog	chew on animal bone
+Desires	gilligan	sail
+Desires	couple	watch t.v
+Desires	chilren	burn ant with magnify glass
+Desires	person	look at night sky
+Desires	pervert	be paddle by hooker
+Desires	some primate animal	kill other animal with projectile weapon
+Desires	house that i	own some day
+Desires	person	have their home cozy
+Desires	goose	swim in water
+Desires	some varminters	shoot prairie dog
+Desires	ugly chick	eat
+Desires	little girl	play with old jewelry
+Desires	dog	chase frisbee
+Desires	child	play sport to have fun
+Desires	dog	hump your leg
+Desires	person believe what they	to
+Desires	some father	take their child to baseball game
+Desires	young child	have goldfish as pet
+Desires	everyone	freedom
+Desires	dog	play frisbee catch in park
+Desires	family	remember themselves with photograph
+Desires	mother	play with their baby
+Desires	lizard	hide in grass
+Desires	i	move more slowly through life
+Desires	person	eat and talk party
+Desires	child	play dress-up
+Desires	dog	play with person
+Desires	i	make it over
+Desires	human	watch movie
+Desires	person	touch each other
+Desires	child	be messy
+Desires	person	thing to be fair
+Desires	most person	have flower around
+Desires	music can make you	tap your foot and dance
+Desires	many person	watch game of football
+Desires	men	play golf
+Desires	person	meet important person
+Desires	baby	suck on this
+Desires	person	eat with other person
+Desires	this person	sing
+Desires	i	play pool
+Desires	baby	be touch and talk to
+Desires	person	give thing label
+Desires	baby	make face
+Desires	person	look at sky
+Desires	oh god my wife	have baby
+Desires	men	fruit to look like genetalia
+Desires	person	ride thing that move fast
+Desires	child	make thing
+Desires	person	drink coffee in morning
+Desires	baby	suck on object
+Desires	child	play and get dirty easily
+Desires	person	stay warm and dry
+Desires	cat	play with thing that they should not
+Desires	dog	catch fisbees
+Desires	person who be in love	kiss each other
+Desires	lizard	eat leave and grass
+Desires	person	sail with friend
+Desires	child	play outdoors
+Desires	horse	be touch
+Desires	person	have picture of their family
+Desires	doogs	play frisbee
+Desires	many person	hear others sing
+Desires	babe	suck
+Desires	many person	own their own home
+Desires	person	meet celebrity
+Desires	pig	wallow in mud
+Desires	human be race who	explore
+Desires	cat	chew on flower
+Desires	male and female	spend time together
+Desires	many dog	play with frisbee
+Desires	person	be warm when it cold outside
+Desires	i	kill my boss
+Desires	if you	fuck woman bring rose
+Desires	person	jump off cliff
+Desires	i	screw
+Desires	cat	kill small baby
+Desires	baby	play with their parent
+Desires	cat	paw at plant
+Desires	most person	own their own home
+Desires	dog often	play
+Desires	mouse	eat hard-boiled egg more than snake
+Desires	person	match their furniture
+Desires	person	exercise with others
+Desires	person	eat meal together
+Desires	person	listen to music in their car
+Desires	woman	receive flower as gift
+Desires	some person	vacation at seashore
+Desires	ewbabies be cute which make person	be near them
+Desires	person	preserve information
+Desires	person	see face in inanimate object
+Desires	some human	play game ice hockey
+Desires	many human	compete against each other
+Desires	some person	wear necklace
+Desires	many person	collect seashell
+Desires	i	new stereo for my car
+Desires	horse jockey	race
+Desires	some person	exercise lot
+Desires	person	drink all kind of different coffee
+Desires	lizard	hide under leave
+Desires	person	watch bird with binoculars
+Desires	cat	hunt thing that move
+Desires	toddler	play with toy
+Desires	lizard be quick but many bird	eat them
+Desires	when person be sick they	be baby
+Desires	person	watch sunrise and sunset
+Desires	woman	get flower
+Desires	my friend don	play horseshoe
+Desires	he	grab her tit
+Desires	person	imagine space travel
+Desires	person	look at sunset
+Desires	some child	play jack
+Desires	many person	hunt waterfowl
+Desires	child	play game that test dexterity
+Desires	many dog	chase frisbee
+Desires	baby	smile
+Desires	sometimes person	be scare
+Desires	person	bet on horse race
+Desires	almost everyone	be happy
+Desires	baby be cute human	see cute thing
+Desires	horse	run fast than human can
+Desires	little child	be carry by adult
+Desires	democrat	take away our right
+Desires	hippie	use illicit drug
+Desires	baby	suck on thing
+Desires	we	hide our identity
+Desires	many person	fly
+Desires	guy give rose to girl they	fuck
+Desires	person	keep their house clean
+Desires	father	spend time with his child
+Desires	i wouldnt	be there
+Desires	person	rember how their child look
+Desires	person	meet other famous person some time
+Desires	child	share happiness of their parent
+Desires	most child	some sort of entertainment
+Desires	some dog	play with frisbee
+Desires	some men	cross dress
+Desires	if you	attention wear red dress
+Desires	tornado go where they	to
+Desires	young child	stick object into outlet
+Desires	most kid	ride bike
+Desires	person	listen to music in car
+Desires	men and woman who be date	do thing together
+Desires	i	drink apple cider
+Desires	i	comfortable chair
+Desires	cat	watch movement
+Desires	person who compete probably	win
+Desires	person	swim in swim pool
+Desires	woman	have soft hand
+Desires	child	jump on bed
+Desires	men	gold
+Desires	men	golf
+Desires	most person	world peace
+Desires	baby	be hold
+Desires	human	play card game
+Desires	baby	poop in mid air
+Desires	hippy	meditate
+Desires	boy	carry pocket knife
+Desires	flower	woman
+Desires	some person	sing
+Desires	bono	speak his mind
+Desires	person	be scare
+Desires	everyone	large house
+Desires	i	mess about in water
+Desires	person	ride bike
+Desires	dog	play game
+Desires	some person	decorate their cherish belong
+Desires	some person	experience danger as entertainment
+Desires	person	paint picture of fruit basket
+Desires	person	talk at meal
+Desires	child	play in water
+Desires	child	explore
+Desires	you	comfort in home
+Desires	small child	spend time with their parent
+Desires	royalty	play polo
+Desires	fence keep animal where their owner	them to be
+Desires	some dog	chase and catch frisbee
+Desires	person	socialize during dinner
+Desires	animal	chew on thing
+Desires	father	hold his child
+Desires	some person	drink coffee
+Desires	person	shake hand with famous person
+Desires	stop world i	off
+Desires	many person	sing
+Desires	human	read book
+Desires	dog	catch thing
+Desires	person	watch sport event
+Desires	dog	play with human
+Desires	kitten	play
+Desires	person	vacation in warm climate
+Desires	person	play competitive game
+Desires	many person	have flower in their house
+Desires	old person	stalk person
+Desires	human	explore space
+Desires	human	decorate their shelter with green plant
+Desires	woman	wear as few clothe as possible
+Desires	dog	chew on glove
+Desires	child	help
+Desires	person	know more about their world
+Desires	human	eat
+Desires	bride	wear white
+Desires	father	play game with their son
+Desires	men	climb
+Desires	lady	be give flower
+Desires	person with common goal	meet one another
+Desires	person	take vacation in country
+Desires	kind of clothe person	have change every year
+Desires	person	decorate thing
+Desires	i	throw dart
+Desires	grandparent	have picture of their grandchild
+Desires	i	cum in your mouth bitch
+Desires	dog	play catch
+Desires	some person	go horse back ride
+Desires	i	listen to music
+Desires	person	meet famous person
+Desires	adult	let kid win
+Desires	curiosity be when you	knowledge just to be smart
+Desires	i	see through flesh
+Desires	person	dress up and go to party
+Desires	human	collect thing
+Desires	not everyone	be marry
+Desires	baby just plain	suck
+Desires	child love puppy and	play with them
+Desires	some person	only to win
+Desires	dog and other animal	gnaw on thing
+Desires	person	kiss when they be adult
+Desires	cat	play with plant
+Desires	some person	ski
+Desires	kid	finger paint
+Desires	everybody	be first
+Desires	most human	be comfortable
+Desires	person	go to hawaii for vacation
+Desires	duck	eat bread
+Desires	dog	play with toy
+Desires	child	play with other child
+Desires	person	talk with their hand
+Desires	bird	shit on recently wash car
+Desires	house i	own
+Desires	some person	eat escargot
+Desires	i	go to bed
+Desires	person	live in pleasent place
+Desires	many person	have slender body
+Desires	singer	smoke marijuiana
+Desires	some girl and boy	play soccer
+Desires	he	play golf
+Desires	you	be behind this
+Desires	cat	make mess of thing
+Desires	person	keep them as pet
+Desires	young child	touch furry animal
+Desires	young person	attend rock concert
+Desires	alot of person	eat pie-al-a-mode
+Desires	little child	play in water
+Desires	some person	go on cruise
+Desires	person	watch football game
+Desires	some person	give dinner party
+Desires	person	hug when attract to each other
+Desires	good student	learn about evolution
+Desires	person	do high quality rational think
+Desires	biologist	understand animal cell
+Desires	person	understand evolution
+Desires	fundamentalist	control other person life
+Desires	person	express love
+Desires	person	be famous person
+Desires	person	artistically express himself
+Desires	gay person	have sex with same gender
+Desires	person	discuss issue
+Desires	person	network
+Desires	person	outerspace
+Desires	manager	complete project
+Desires	person	play with doll
+Desires	person	president
+Desires	person	apply for job
+Desires	person	sense
+Desires	person	cum
+Desires	homosexual	decorate room
+Desires	wife	decorate room
+Desires	person	rent
+Desires	person	eat potato
+Desires	dog which	leave car wher it be
+Desires	if you	prick you need sharp one
+Desires	number of fruit human	eat
+Desires	work lunch that nobody really	be at
+Desires	race car driver	celebrate their victory with their child
+Desires	doggy	play frisbie
+Desires	i	ring your bell
+Desires	we	be winner
+Desires	some person	put ice cream on their pie
+Desires	dog	bury bone in yard
+Desires	person	world
+Desires	person	burger king
+Desires	person	go to heaven
+Desires	person	sugar
+Desires	person	sunlight
+Desires	person	magic
+Desires	light be need when you	read document
+Desires	doctor office	payment up front
+Desires	person	make decent live
+Desires	person	live without government oversite
+Desires	person	full belly
+Desires	person	be fullfilled
+Desires	person	safe place to live
+Desires	person	be free from oppression
+Desires	person	have their day in court
+Desires	person	live unoppressed
+Desires	person	be in chareg
+Desires	person	fair wage
+Desires	person	be free of fear
+Desires	person	upper hand
+Desires	person	pleasant dream
+Desires	person	good benefit package
+Desires	person	others to think well of them
+Desires	many teen-agers	play in rock band
+Desires	person	experience life
+Desires	person	be able to express themself freely
+Desires	person	be forgive
+Desires	person	goal to achieve
+Desires	person	be
+Desires	person	be alone with their thought
+Desires	person	co-operation from other person and machine
+Desires	nobody	be ugly
+Desires	person	freindship
+Desires	person	diversity
+Desires	person	orange
+Desires	person	noodle
+Desires	person	good taste food
+Desires	woman	look attractive
+Desires	no one you	call actually doe
+Desires	media	stay alive and kick
+Desires	goverance	person to work
+Desires	person	make their friend happy
+Desires	some person	help you
+Desires	person	help you
+Desires	person	teach others
+Desires	person	pretend thing which be not real
+Desires	person	understand themself
+Desires	person	create artificial intelligence
+Desires	person	what person doe not have
+Desires	small child	color
+Desires	person	discover mean in life
+Desires	i	go to spa
+Desires	everyone	minimize their own suffer
+Desires	some politician	increase tax
+Desires	person in their seventy still	play
+Desires	person	eat pate
+Desires	person	enlightment
+Desires	person	be more intelligent than computer
+Desires	person	anything new
+Desires	person	wisedom
+Desires	fish	eat worm
+Desires	cat	play with toy make of string
+Desires	phraughy	be top teacher
+Desires	some person	eat fry food
+Desires	person	enjoy their work
+Desires	person aways	more stuff
+Desires	person	be able to express thought freely
+Desires	person	delicious food and good company
+Desires	person	other person respect
+Desires	person	live good life
+Desires	person	life and liberty
+Desires	person	have sparetime
+Desires	person	sleep undisturbed
+Desires	i	cook steak
+Desires	some person	collect bottle
+Desires	burglar	steal all small and valuable
+Desires	student study if they	graduate
+Desires	many person	dance when they be happy
+Desires	person	food shelter and security
+Desires	person	another prompt
+Desires	child	stay close to their mother
+Desires	sick	be heal
+Desires	jam vasile	go to burningman
+Desires	person	wake up everyday
+Desires	person	know new thing
+Desires	person	drink wine
+Desires	person	have pda
+Desires	dog often	play with frisbee
+Desires	person	self-realization
+Desires	person	be able to see
+Desires	some person	catch trout kind of fish
+Desires	person	fulfil career
+Desires	person	get good night sleep
+Desires	person	not be bore
+Desires	person	mind-blowing sex
+Desires	person	have fulfil life
+Desires	dog	look out of car window
+Desires	i	paint mammoth
+Desires	person	go to france
+Desires	person	have fun sometimes
+Desires	grandparent who be die	create nice memory for grandchild
+Desires	you	your son to learn french
+Desires	generous person	help other person
+Desires	person	have two good leg
+Desires	person	be clear in think
+Desires	person	hug thier kid
+Desires	person	be well groom
+Desires	person	live in nice place
+Desires	person	see growth in thier career
+Desires	person	be worship
+Desires	person	be smart in class
+Desires	person	be love and care for
+Desires	person	cry at time
+Desires	person	good vision
+Desires	person	good shoe
+Desires	person	be around others like him
+Desires	person	feel accept
+Desires	person	look at photogenic thing
+Desires	catherine havasi	drink tea
+Desires	many person	be millionaire
+Desires	person	be leader
+Desires	some person	own gun
+Desires	person	feel want
+Desires	person	everything to go smoothly
+Desires	person	sucseed
+Desires	person	thing their way
+Desires	person	live in love enviroment
+Desires	person	toy
+Desires	person	interaction
+Desires	person	work toilet
+Desires	person	health insurance
+Desires	person	clean underwear
+Desires	person	their french fry to be hot
+Desires	person	syrup on her waffle
+Desires	person	work refrigerator
+Desires	person	steam milk in their latte
+Desires	person	juicy pear
+Desires	person	snack
+Desires	person	be sufficiently hydrate
+Desires	person	applause
+Desires	person	clean apartment
+Desires	person	be able to wiggle his finger
+Desires	person	pant that fit
+Desires	someone with open arm	be your friend
+Desires	lemur	play
+Desires	ssome men	play frisbee
+Desires	person	have last friendship
+Desires	most person	laugh
+Desires	some men	play frisbee
+Desires	some person	be slap
+Desires	person	good parent
+Desires	sara	watch cartoon
+Desires	woman	receive flower
+Desires	person	be part of group
+Desires	girl	talk on phone
+Desires	person	jujubies
+Desires	person	death
+Desires	person	global thermonuclear war
+Desires	person	get trash
+Desires	person	know god
+Desires	person	vacation
+Desires	bird	fly
+Desires	person	good life
+Desires	person	be happy
+Desires	student	learn
+Desires	child	hear story
+Desires	person	play game
+Desires	teacher	interest student
+Desires	person	good thing in life
+Desires	person	praise
+Desires	person	goal
+Desires	person	good luck
+Desires	animal	reproduce
+Desires	cat	milk to drink
+Desires	cat	eat plant
+Desires	dog	chew on thing
+Desires	baby	suck on pacifier
+Desires	cow	eat grass
+Desires	dog	bury bone
+Desires	cat	play with string
+Desires	kid	play
+Desires	person	more time off
+Desires	person	orgasm
+Desires	person	relaxation
+Desires	person	receive gift
+Desires	person	sunny day
+Desires	person	gift
+Desires	homosexual	have sex with same gender
+Desires	person	other person
+Desires	person	compete
+Desires	person	accomplish goal
+Desires	person	read interest book
+Desires	nobody	die
+Desires	person	feel happy
+Desires	person	food clothe and shelter
+Desires	person	candy
+Desires	person	life
+Desires	person	live well
+Desires	person	hapiness
+Desires	person	fast car
+Desires	person	get lay
+Desires	person	good eyesight
+Desires	person	stay healthy
+Desires	person	see
+Desires	person	communicate
+Desires	person	take vacation
+Desires	person	be cherish
+Desires	person	lot of fun
+Desires	person	good job
+Desires	person	well pay job
+Desires	person	have good memory
+Desires	person	be safe
+Desires	person	new experience
+Desires	person	be recognize
+Desires	person	be praise
+Desires	human	money
+Desires	child	learn
+Desires	monkey	banana
+Desires	teacher	student to learn
+Desires	cat	nap
+Desires	baby	suck thing
+Desires	person	watch television
+Desires	person	play with ball
+Desires	baby	play with toy
+Desires	men and woman	dance together
+Desires	baby	suck
+Desires	person	dance to music
+Desires	mouse	eat cheese
+Desires	lot of person	ride roller coaster
+Desires	person	eat together
+Desires	person	admiration
+Desires	person	sit in chair
+Desires	person	be with other person
+Desires	person	be educate
+Desires	horse	play
+Desires	some person	give order
+Desires	child	be love
+Desires	person	acknowledgment
+Desires	person	trust himself
+Desires	person	time
+Desires	person	enjoy
+Desires	person	eat every day
+Desires	person	understand themselves
+Desires	person	read book
+Desires	dog	chase car
+Desires	child	grow up
+Desires	person	be excite
+Desires	person	own nice thing
+Desires	person	help
+Desires	person	liberty
+Desires	person	dsl
+Desires	person	nice place to live
+Desires	person	delicious food
+Desires	person	comfortable shoe
+Desires	person	computer
+Desires	person	healthy life
+Desires	person	leisure time
+Desires	person	enough sleep
+Desires	person	meaningful work
+Desires	person	fairness
+Desires	person	clean clothe
+Desires	person	be independent
+Desires	person	luck
+Desires	person	not feel pain
+Desires	teacher	teach
+Desires	cat	milk
+Desires	plant	water
+Desires	person	rest
+Desires	child	toy
+Desires	child	candy
+Desires	cat	eat
+Desires	dog	go outside
+Desires	person	long life
+Desires	suicidal person	die
+Desires	dog	lot of attention
+Desires	humanity	live
+Desires	thirsty person	something to drink
+Desires	cat	eat fish
+Desires	some person	ride on horse
+Desires	person	understand their world
+Desires	person	have good friend
+Desires	person	drink clean water
+Desires	person	explore
+Desires	person	know what time it be
+Desires	person	swim
+Desires	some person	die
+Desires	person	playfulness
+Desires	person	blowjob
+Desires	person	large house
+Desires	person	something
+Desires	person	more information
+Desires	person	be like by other person
+Desires	person	be feed
+Desires	person	more leisure time
+Desires	person	live long and healthy life
+Desires	person	world peace
+Desires	person	intellectual stimulation
+Desires	person	hug
+Desires	person	acquire wealth
+Desires	person	hamburger
+Desires	person	many good friend
+Desires	person	talk about themselves
+Desires	person	understand world
+Desires	person	communication
+Desires	person	be good-looking
+Desires	person	free time
+Desires	person	clean air to breath
+Desires	person	cookie
+Desires	person	have safe home
+Desires	person	someone to be with
+Desires	person	be intelligent
+Desires	person	feel safe
+Desires	person	leisure
+Desires	person	live life
+Desires	person	see good movie
+Desires	person	new toy
+Desires	person	more
+Desires	person	american dream
+Desires	person	be know
+Desires	person	good night sleep
+Desires	person	snack from time to time
+Desires	person	vengence
+Desires	person	dog
+Desires	person	good weather when they go camp
+Desires	person	music
+Desires	person	20-20 vision
+Desires	person	good sex
+Desires	person	comfortable bed
+Desires	person	good sense of humor
+Desires	person	reliable car
+Desires	person	good friend
+Desires	person	be well think of
+Desires	person	eat well
+Desires	person	breathe
+Desires	person	eat food
+Desires	person	have many good friend
+Desires	person	be fair
+Desires	person	know truth
+Desires	person	be literate
+Desires	person	feel special
+Desires	person	someone to hold them
+Desires	person	feel joy
+Desires	person	be talented
+Desires	person	live in good neighborhood
+Desires	person	reproduce
+Desires	person	go home
+Desires	person	be perfect
+Desires	person	husband or wife
+Desires	person	make others happy
+Desires	person	know time
+Desires	person	justice
+Desires	person	more time
+Desires	person	smell nice
+Desires	person	be able to read
+Desires	person	look beautiful
+Desires	person	dedication
+Desires	person	company
+Desires	person	person to love
+Desires	person	financial security
+Desires	person	light
+Desires	person	simplicity
+Desires	person	mean
+Desires	person	warm coat
+Desires	person	three square meal day
+Desires	person	good look
+Desires	person	avoid pain
+Desires	person	good review
+Desires	person	short travel time
+Desires	person	positive attention from others
+Desires	person	high wage
+Desires	person	study
+Desires	animal	live
+Desires	masturbater	masturbate
+Desires	girl	play
+Desires	politician	power
+Desires	alcoholic	liquor
+Desires	everyone	be happy
+Desires	dog	affection
+Desires	man	honesty
+Desires	man	respect
+Desires	hungry person	food
+Desires	dog	play frisbee
+Desires	dog	play fetch
+Desires	dog	eat lot
+Desires	person	easy life
+Desires	person	know everything
+Desires	person	good night of sleep
+Desires	person	talent
+Desires	person	be expressive
+Desires	person	honor
+Desires	person	wellness
+Desires	person	be treat with respect
+Desires	person	eat variety of food
+Desires	person	be right
+Desires	person	their space
+Desires	person	fuck
+Desires	brain	make comparison
+Desires	person	know all
+Desires	some dog	chase car
+Desires	most person	peace
+Desires	person	answer to universe
+Desires	person	popularity
+Desires	person	good themself
+Desires	person	good memory
+Desires	person	be pretty
+Desires	person	eat pussy
+Desires	person	be love by other person
+Desires	most person	be like
+Desires	person	read good book
+Desires	person	be content
+Desires	person	intellectual challenge
+Desires	person	be mobile
+Desires	person	healthy child
+Desires	person	play sport
+Desires	person	live long healthy life
+Desires	one	sleep when one be tire
+Desires	person	be successful in life
+Desires	person	be fuck
+Desires	many person	ban firearm
+Desires	person	be value
+Desires	person	see clearly
+Desires	person	have home to live in
+Desires	person	be smart
+Desires	person	ipod
+Desires	person dont	ignorance
+Desires	person	watch sport
+Desires	person	fortune
+Desires	person	compassion
+Desires	person	his child to be happy
+Desires	person	excite music
+Desires	person	love each other
+Desires	person	love family
+Desires	person	good book to read
+Desires	person	quiet
+Desires	some person	ride horse
+Desires	person	pleasant thing
+Desires	person	everything
+Desires	person	achieve
+Desires	person	someone to care about them
+Desires	person	own unique thing
+Desires	person	protect their family
+Desires	kid	play with them
+Desires	person	make more money
+Desires	person	thing to be clean
+Desires	person	have good day
+Desires	person	harmony between all
+Desires	person	feel smart
+Desires	person	god
+Desires	person	home to live in
+Desires	person	other person to respect him her
+Desires	person	play
+Desires	person	have inner peace
+Desires	dog	chase cat
+Desires	person who feel lose	guidance
+Desires	explorer	adventure
+Desires	printer	paper
+Desires	new person to group	acceptance
+Desires	person	other person to like them
+Desires	dictator	power
+Desires	cat	mouse
+Desires	pirate	booty
+Desires	tax collector	money
+Desires	person	good house
+Desires	person	peace and harmony
+Desires	person	stability in his life
+Desires	person	ridicule
+Desires	person	not to die
+Desires	person	some variety but consistency as well
+Desires	person	time alone
+Desires	person	nice haircut
+Desires	person	fresh air
+Desires	person	fresh water
+Desires	person	sunshine
+Desires	person	spare time
+Desires	person	more of everthing
+Desires	person	have healthy life
+Desires	waiter	person to tip well
+Desires	person	her boss not be asshole
+Desires	person	good sex life
+Desires	person	life forever
+Desires	dog	be love by his master
+Desires	person	chance to be creative
+Desires	person	comfortable bed at night
+Desires	person	self-gratification
+Desires	person	self-knowledge
+Desires	mayor	motivate city counselor
+Desires	tourist	room with view
+Desires	person	bliss
+Desires	person	clean cloth
+Desires	person	day off
+Desires	person	get more vacation day
+Desires	person	weekend to arrive
+Desires	person	suger
+Desires	person	big yacht
+Desires	person	lot of stuff
+Desires	person	cup of tea
+Desires	person	contribute to world peace
+Desires	person	more money
+Desires	person	support from his spouse
+Desires	person	beautiful day
+Desires	person	good breakfast
+Desires	person	comfort food
+Desires	person	discount
+Desires	person	lemonade
+Desires	person	freedom to travel
+Desires	person	safety hapiness
+Desires	person	positive relationship
+Desires	person	total honesty
+Desires	person	professional satisfaction
+Desires	person	stimulation
+Desires	person	tto have knowledge
+Desires	person	cheesecake because it taste good
+Desires	person	different thing all time
+Desires	person	white cheese and red wine
+Desires	person	red sock for christmas
+Desires	person	large computer monitor
+Desires	person	good salary
+Desires	person	nice weather
+Desires	person	interest thing to happen
+Desires	person	spell checker
+Desires	person	acute hear
+Desires	person	accurate watch
+Desires	person	ice cream to be freeze
+Desires	person	honest politician
+Desires	person	no park ticket
+Desires	person	keen sense of smell
+Desires	person	clean shirt
+Desires	person	nice shoe
+Desires	person	clothe that fit
+Desires	person	his coffee hot usually
+Desires	person	good entertainment
+Desires	person	strong body
+Desires	person	good education
+Desires	person	self esteem
+Desires	person	be good look
+Desires	person	plenty of sleed
+Desires	person	park place
+Desires	person	nice hair
+Desires	person	boadband internet access
+Desires	person	cable modem
+Desires	person	nice surround
+Desires	person	enjoyable hobby
+Desires	person	college degree
+Desires	person	revenge for serious wrong
+Desires	person	good boss
+Desires	person	good vacation
+Desires	person	ice cream cone
+Desires	person	good brake
+Desires	person	eternal salvation
+Desires	person	three hot meal day
+Desires	person	broadband internet connection
+Desires	parasite	host
+Desires	judge	justice
+Desires	person	reliability
+Desires	person	good value
+Desires	person	health coverage
+Desires	person	good deal
+Desires	person	sanity
+Desires	person	quality
+Desires	person	fall good
+Desires	person	win lot of money
+Desires	person	autonomy
+Desires	person	tobacco
+Desires	person	have peace in their life
+Desires	person	status symbol
+Desires	person	coca-cola
+Desires	person	clarity
+Desires	person	lover
+Desires	person	right
+Desires	person	something sweet
+Desires	person	be hug
+Desires	person	stable relationship
+Desires	person	good pet
+Desires	person	sexual encounter
+Desires	person	mother
+Desires	person	prosperity
+Desires	person	birthday party
+Desires	person	surprise
+Desires	person	life with purpose
+Desires	person	kiss from their mate
+Desires	person	love relationship
+Desires	person	nice pet
+Desires	person	meaningful life
+Desires	person	their own home
+Desires	person	their mate to notice them
+Desires	person	have fortune
+Desires	person	nice boss
+Desires	person	perfect life
+Desires	person	recognition of their effort
+Desires	person	fitness
+Desires	person	be good then next person
+Desires	cat	tuna fish
+Desires	fish	food
+Desires	person	love and company
+Desires	person	others to understand
+Desires	person	mutual respect
+Desires	person	moral
+Desires	person	self confidence
+Desires	person	save
+Desires	person	pay for work
+Desires	person	faith
+Desires	person	more of material thing
+Desires	person	basic necessity
+Desires	person	war
+Desires	person	diamond
+Desires	person	new model of item
+Desires	person	very high speed internet connection
+Desires	person	tv
+Desires	person	partner
+Desires	person	nice view from their window
+Desires	person	support from their love one
+Desires	person	weekend to last forever
+Desires	person	unrequited love
+Desires	person	enough money to live without worry
+Desires	person	have clean clothe
+Desires	person	pat on back
+Desires	person	comfort from others
+Desires	person	other person to smile at them
+Desires	person	commitment from others
+Desires	person	have good eyesight
+Desires	person	peace not war
+Desires	person	entertainment such as discover magazine
+Desires	person	have someone there all time
+Desires	person	his friend to call
+Desires	person	sec
+Desires	person	tastey food
+Desires	person	independence
+Desires	person	hobby
+Desires	person	more for less
+Desires	person	result
+Desires	person	space
+Desires	person	good feel
+Desires	person	way to move
+Desires	person	see thing
+Desires	life-form	food
+Desires	person	nice glass of wine
+Desires	person	love and respect
+Desires	person	room to spread out
+Desires	person aften	peer to judge him
+Desires	person	recognition of their own importance
+Desires	person	many choice
+Desires	person	clean bathroom
+Desires	person	clear vision
+Desires	cat	food
+Desires	person	forgiveness
+Desires	person	be famous
+Desires	person	affection
+Desires	person	glory
+Desires	person	sleep
+Desires	person	big tv
+Desires	company	money
+Desires	plant	light
+Desires	company	employee
+Desires	woman	man
+Desires	animal	drink
+Desires	child	love
+Desires	child	play
+Desires	employee	get raise
+Desires	zombie	eat person
+Desires	monster	eat person
+Desires	nazi	commit genocide
+Desires	flower	grow toward sun
+Desires	dog	run
+Desires	zombie	eat brain
+Desires	dog	eat bone
+Desires	teacher	have good student
+Desires	person	win game
+Desires	dog	eat
+Desires	cat	eat mouse
+Desires	baby be cute which make person	be near them
+Desires	police	know when crime be commit
+Desires	person	medium rare steak
+Desires	person	imac
+Desires	person	fall in love
+Desires	person	dream
+Desires	person	challenge
+Desires	person	happy life
+Desires	person	lot of money
+Desires	person	good teacher
+Desires	person	peace of mind
+Desires	person	good meal
+Desires	person	have sex
+Desires	person	understand
+Desires	athlete	win
+Desires	misery	company
+Desires	question	answer
+Desires	horse	carrot
+Desires	illegal alien	good life
+Desires	sailor	wind
+Desires	lady	diamond
+Desires	my dog	go for walk
+Desires	cat	warm place to live
+Desires	comedian	make person laugh
+Desires	person	stable relationship with interest person
+Desires	man	be famous
+Desires	pilot	fly
+Desires	man	attentive lover
+Desires	woman	lover
+Desires	lover	stable relationship
+Desires	woman	attention from her partner
+Desires	boss	more and more productivity from worker
+Desires	goat	food
+Desires	normal person	love and respect
+Desires	cat	be stroke
+Desires	teacher	educate student
+Desires	father	son
+Desires	rabbit	carrot
+Desires	homeless person	shelter
+Desires	kid	have fun
+Desires	person	be together
+Desires	men	wear hat
+Desires	family	do thing together
+Desires	some person	wear hat
+Desires	child	learn thing
+Desires	person	do thing together
+Desires	family	be together
+Desires	dog	play with frizbees
+Desires	many human	take holiday
+Desires	some dog	play with frizbee
+Desires	person	there to be nice weather
+Desires	kitten	explore
+Desires	some dog	fetch frisbee
+Desires	boy	wrestle
+Desires	child	play with yo-yo
+Desires	boy	play socker
+Desires	most dog	catch fly frisbee
+Desires	boy	play rough game
+Desires	men and woman	kiss
+Desires	person	programme
+Desires	dog	chase thing
+Desires	person	fresh fruit
+Desires	person	achieve enlightenment
+Desires	person	hope
+Desires	some person	watch comedy
+Desires	person	creativity
+Desires	person	live long and happy life
+Desires	person	convenient park
+Desires	person	strong bone
+Desires	person	free food
+Desires	person	be compliment
+Desires	information	be free
+Desires	child	play with ball
+Desires	person	time to rest
+Desires	person	be well-fed
+Desires	person	solution
+Desires	boy	play with basketball
+Desires	person	work computer
+Desires	person	comfortable clothe
+Desires	person	their team to win
+Desires	person	excel
+Desires	person	win lottery
+Desires	person	equality
+Desires	person	be fulfil
+Desires	person	understand world around them
+Desires	person	clean air to breathe
+Desires	person	see beauty
+Desires	person	intelligent child
+Desires	person	be remember
+Desires	person	jewelry
+Desires	person	complete collection
+Desires	person	recover from nervous breakdown
+Desires	person	fly
+Desires	person	adorn themselves with object
+Desires	person	logical answer to her question
+Desires	person	develop her talent
+Desires	person	spouse to be faithful
+Desires	person	fact
+Desires	person	equal pay for equal work
+Desires	person	detail
+Desires	person	move
+Desires	person	prosper
+Desires	person	think
+Desires	person	live long and prosper
+Desires	person	sing
+Desires	person	read story
+Desires	person	their family to be healthy
+Desires	person	be complement
+Desires	person	feel in charge
+Desires	person	feel be in charge
+Desires	person	love partner
+Desires	person	perfect world
+Desires	person	have long live
+Desires	person	have fun weekend
+Desires	person	drink water
+Desires	person	other person to love him
+Desires	some person	eat raw fish
+Desires	some person	swim in ocean
+Desires	child	play sport
+Desires	child	play with yo yos
+Desires	person	look attractive
+Desires	person	source of income
+Desires	most person	have friend
+Desires	many person	play game
+Desires	person	reliable friend
+Desires	person	personal freedom
+Desires	person	nice family
+Desires	person	interest challenge
+Desires	person	clean air
+Desires	person	fair trial
+Desires	person	flat tummy
+Desires	person	soft skin
+Desires	person	some spare time
+Desires	person	watch good movie
+Desires	person	strong fingernail
+Desires	person	meaningful employment
+Desires	person	smooth skin
+Desires	person	cassette player in her truck
+Desires	person	indoor plumb
+Desires	person	lot of space
+Desires	person	good vodka
+Desires	person	be treat like someone special
+Desires	person	slim waist
+Desires	person	adoration
+Desires	person	fresh water to drink
+Desires	person	equal opportunity
+Desires	person	bargain
+Desires	person	understand computer
+Desires	some person	read story
+Desires	person	fresh produce
+Desires	person	be number 1
+Desires	person	be clean
+Desires	person	eat in group
+Desires	person	sympathy
+Desires	person	beer
+Desires	person	good credit
+Desires	person	dinner
+Desires	person	run
+Desires	person	low crime
+Desires	person	other person to be polite
+Desires	person	cake
+Desires	person	procrastinate
+Desires	person	freedom from want
+Desires	person	defeat his enemy
+Desires	person	best thing from life
+Desires	most child	play sport
+Desires	person	passionate kiss
+Desires	person	pass grade
+Desires	person	white tooth
+Desires	person	inner peace
+Desires	person	all kind of thing
+Desires	person	free stuff
+Desires	person	trust person
+Desires	person	dignity
+Desires	person	make good decision
+Desires	person	itch to be scratch
+Desires	person	improve their lot in life
+Desires	person	oral sex
+Desires	person	good car
+Desires	person	good relationship
+Desires	person	mankind to explore universe
+Desires	person	interest experience
+Desires	person	patient spouse
+Desires	person	open mind
+Desires	person	fair society
+Desires	person	wisdom
+Desires	person	pass on idea to future generation
+Desires	person	hear sincerity
+Desires	person	second chance
+Desires	person	influence
+Desires	person	feel pleasure
+Desires	person	be confident
+Desires	person	nice jewelry
+Desires	person	good park place
+Desires	person	cotton candy
+Desires	person	clean water to drink
+Desires	gambler	win
+Desires	person	be moral
+Desires	person	have meaningful life
+Desires	person	more rice
+Desires	person	have enough food
+Desires	person	status among peer
+Desires	person	live comfortably
+Desires	boy	camp
+Desires	person	new computer
+Desires	child	throw thing
+Desires	some person	read book
+Desires	person	electricity
+Desires	person	reach goal
+Desires	person	go to zoo
+Desires	person	be with cat
+Desires	person	true love
+Desires	person	fulfil job
+Desires	person	freedom of expression
+Desires	person	shelter
+Desires	person	sleep regularly
+Desires	your doctor	you to be healthy
+Desires	person	caregiver
+Desires	person	parent
+Desires	person	much money
+Desires	person	peace in life
+Desires	person	have vacation some time
+Desires	person	computer to work properly
+Desires	everyone	happiness
+Desires	person	stay alive
+Desires	person	love other person
+Desires	person	accomplish
+Desires	person	feel desirable
+Desires	person	save money
+Desires	person	english house
+Desires	person	new bicycle
+Desires	person	well adjust child
+Desires	person	worldwide peace and love
+Desires	person	inspiration
+Desires	person	smooth sail
+Desires	person	thirty hour work week
+Desires	person	more civil liberty
+Desires	person	good lover
+Desires	person	sound sleep
+Desires	person	drink fresh water
+Desires	person	secure home
+Desires	person	soothe music
+Desires	person	short work hour
+Desires	person	fresh coffee in morning
+Desires	person	quality bicycle
+Desires	person	human contact
+Desires	person	nice hug
+Desires	person	great weather over long weekend
+Desires	person	few close friend
+Desires	person	several way to escape wage slavery
+Desires	person	short work day
+Desires	person	have fun in life
+Desires	men and woman	kiss each other
+Desires	person	have choice
+Desires	person	egg sandwich
+Desires	person	box of fox
+Desires	person	green thumb
+Desires	person	meet mot hoople
+Desires	person	receive phd
+Desires	person	have money to buy chocolate
+Desires	person	have diamond
+Desires	dog	sleep
+Desires	person	ice cream
+Desires	person	peaceful sleep
+Desires	person	tan
+Desires	person	be leave alone sometimes
+Desires	person	be young forever
+Desires	person	reward
+Desires	person	happy family
+Desires	person	be sexy
+Desires	person	be congratulate
+Desires	person	gratification
+Desires	person	get enough sleep
+Desires	person	make difference
+Desires	person	good conversation
+Desires	person	hot meal
+Desires	person	fly safely
+Desires	person	meet expectation
+Desires	person	be witty
+Desires	person	be knowledgable
+Desires	person	respect from others
+Desires	person	be surprise
+Desires	person	hear good news
+Desires	dog	go for walk
+Desires	person	successful career
+Desires	person	be sucessful
+Desires	person	laughter
+Desires	person	best thing for their friend
+Desires	person	wet clothe to dry
+Desires	person	good fit clothe
+Desires	person	own their own business
+Desires	person	something in mail
+Desires	person	have everyone happy with them
+Desires	person	use acronym instead of long name
+Desires	person	be celebrate
+Desires	person	thing to be good
+Desires	person	thing to improve
+Desires	person	be mentally challenge
+Desires	person	loyal friend
+Desires	person	food and water
+Desires	person	beer and slut
+Desires	person	sweet thing
+Desires	person	global freedom
+Desires	person	appropiate empathy
+Desires	person	live with respect
+Desires	person	technology to help them
+Desires	person	critical think
+Desires	person	science
+Desires	person	understand event of history
+Desires	person	wonderful memory
+Desires	person	connection and vital psychological well-being
+Desires	person	freedom of information
+Desires	person	enjoy friendship of others
+Desires	person	others to be content
+Desires	person	contribution to society
+Desires	dog	eat person food
+Desires	person	belief
+Desires	child	play ball
+Desires	person	material thing
+Desires	person	stability in their life
+Desires	person	have great sex
+Desires	person	flower
+Desires	person	gift at christmas
+Desires	person	self-esteem
+Desires	person	prompt response from computer
+Desires	person	life-partner
+Desires	person	answer to their question
+Desires	person	feel they be make difference
+Desires	person	other person company
+Desires	person	best thing in life
+Desires	person	have someone to hold
+Desires	cat	eat anything with fish in it
+Desires	only crazy person	go to war
+Desires	some criminal	get catch
+Desires	person	experience
+Desires	person who	ride horse be equestrian
+Desires	hobo	pie
+Desires	person	magick
+Desires	person	flex time
+Desires	person	cold beer
+Desires	person	love and security
+Desires	person	live in luxury
+Desires	person	companion
+Desires	person	be care for
+Desires	person	wash your face
+Desires	cinderella	fine dress
+Desires	cinderella	her fairy god mother
+Desires	cinderella	prince charm
+Desires	librarian	help person
+Desires	all life form	survive
+Desires	businessman	run business
+Desires	electricity	grind
+Desires	whore	get pay
+Desires	drug dealer	make money
+Desires	john safran	warp your mind
+Desires	evil man	commit genocide
+Desires	john safran	make you think he funny
+Desires	lover	be love
+Desires	slut	have alot of sex
+Desires	provocateur	provoke
+Desires	john safran	upset person
+Desires	dictator	rule
+Desires	killer	kill
+Desires	person	smoke cannabis
+Desires	goat	eat
+Desires	gay	man
+Desires	pedobear	have sex with young child
+Desires	pedobear	child porn
+Desires	juggler	juggle
+Desires	christian	please christ
+Desires	student	get good grade
+Desires	john mccain	be president of unite state of america
+Desires	person	not be tell what to do
+Desires	home buyer	mortgage
+Desires	my little brother	playground equipment
+Desires	yarn	nothing
+Desires	artist	paint picture
+Desires	pharmaceutical industry	extend patent life on new drug
+Desires	pharmaceutical industry	less regulation
+Desires	government	order
+Desires	old man	retire
+Desires	some person	watch sport
+Desires	person	walk
+Desires	person	be attractive to opposite sex
+Desires	person	their achievement to be recognize
+Desires	person	future
+Desires	satisfy person	for nothing
+Desires	person	cold beer and warm woman
+Desires	person	thing to happen fast
+Desires	employee	more money
+Desires	employee	recognition
+Desires	employee	have fun on job
+Desires	employee	stable work environment
+Desires	christian	pray
+Desires	christian	convert person to christianity
+Desires	jew	count his money
+Desires	jewish person	count his money
+Desires	water	go down hill
+Desires	busy mom	break
+Desires	diva	sing
+Desires	young woman	new clothe
+Desires	student	easy exam
+Desires	employee	raise
+Desires	teen-aged girl	boyfriend
+Desires	soldier	get out alive
+Desires	bady	bottle
+Desires	spy	snoop
+Desires	hooker	trick
+Desires	junkie	fix
+Desires	dry lawn	rain
+Desires	bum	handout
+Desires	little kid	christmas every day
+Desires	mathmatician	equality
+Desires	sale clerk	commission
+Desires	young man	cool car
+Desires	politician	be re-elected
+Desires	politician	serve their constituency
+Desires	troll	kill person
+Desires	astronaut	travel in space
+Desires	priest	you to confess your sin
+Desires	scientist	test his hypothesis
+Desires	vegetarian	avoid eat meat
+Desires	american	be protect by constitution
+Desires	firefighter	put out fire
+Desires	american	pursue happiness
+Desires	doctor	heal sick
+Desires	addict	his drug
+Desires	student	get degree
+Desires	american	enjoy her civil right
+Desires	person	find simple solution
+Desires	suffer person	relief
+Desires	dictator	total control over person
+Desires	person	put different piece of information together
+Desires	judge	good reputation
+Desires	person	ask question
+Desires	landlord	tenant to pay rent
+Desires	defesnse lawyer	defend his client
+Desires	cactus	very little water
+Desires	angry person	vent
+Desires	aol	everyone to use aol
+Desires	exhibitionist	their private part to be see
+Desires	spot	run
+Desires	unite device think project	find cure for cancer
+Desires	conservationist	help environment
+Desires	good person	recognition of their deed
+Desires	hamster	food water and nice burrow
+Desires	wise man	help improve world
+Desires	baby	comfort
+Desires	victim	closure
+Desires	everyone	be understand
+Desires	rabies	host
+Desires	musician	make music
+Desires	alexander jude goodfriend in danbury connecticut	friend
+Desires	rich person	be recognize as be rich
+Desires	marxist	class equality
+Desires	everyone	love deep down
+Desires	no one	be forget
+Desires	raiad1024	help humanity and robot
+Desires	raiad	friend
+Desires	comedian	entertain person
+Desires	person	power over others
+Desires	nudist	be naked
+Desires	man	peace
+Desires	alissa	me
+Desires	baby	it mother
+Desires	universe	be mess
+Desires	soldier	fight
+Desires	ming	guineia
+Desires	maria isabel	mingz
+Desires	horse	room to run
+Desires	politician	bribe
+Desires	little girl	pony
+Desires	chihuahua	be keep warm
+Desires	plant	water and sun
+Desires	doctor	big fancy house
+Desires	dog	attention
+Desires	axe murderer	helpless victim
+Desires	jockey	win race
+Desires	insecure man	flashy car
+Desires	saint	be good
+Desires	dog	food
+Desires	speeder	radar detector
+Desires	buzzard	dead carcass
+Desires	hillary	bill to get lose
+Desires	man	woman just like his mother
+Desires	thoroughbred	run
+Desires	narcissist	admiration
+Desires	hen	bread crumb
+Desires	cat	control
+Desires	golddigger	rich man
+Desires	boy	b.b
+Desires	squirrel	nut
+Desires	terrier	dig
+Desires	azalea	acidic soil
+Desires	jockey	stay on top of horse
+Desires	hiker	sturdy comfortable shoe
+Desires	lion	mate
+Desires	teacher	attention
+Desires	turtle	water
+Desires	bee	flower
+Desires	teacher	vacation
+Desires	virus	live
+Desires	professor	smart student
+Desires	person	bagel
+Desires	insecure person	lot of attention from others
+Desires	cat	food now
+Desires	person	spiritual fulfillment
+Desires	person	feel connect to others
+Desires	nealy everyone	hae more money
+Desires	spider	eat insect
+Desires	penguin	enough to eat
+Desires	chef	cook well
+Desires	politician	win election
+Desires	everybody	be happy
+Desires	in general western democracy	peace
+Desires	child	ice cream
+Desires	missionary	person to believe his religion
+Desires	game show contestant	right answer
+Desires	your mother	you to be happy
+Desires	banker	his loan to be repay
+Desires	kangaroo	jump
+Desires	woman	fashionable clothe
+Desires	crocodile	be in river
+Desires	everybody	go to heaven
+Desires	world	be cheat
+Desires	everybody	it good
+Desires	every live thing	survive
+Desires	nobody	constructive criticism
+Desires	no one	war
+Desires	butt	fart and poop
+Desires	sex	person to have it
+Desires	that girl	get fuck
+Desires	america	bunch of war
+Desires	my butt	fart
+Desires	gay man	anal sex
+Desires	jelly	be put on bread
+Desires	this computer	learn to understand human language
+Desires	if you	get ph.d
+Desires	thirsty person	drink
+Desires	cat	be pet
+Desires	lazy person	sleep
+Desires	politician	be elect
+Desires	dog	be walk
+Desires	person	be tell truth
+Desires	person	be challenge but not too much
+Desires	dog	meat
+Desires	company	profit
+Desires	lazy person	do very little
+Desires	richard stallman	free software
+Desires	no one	be hungry
+Desires	koala bear	eucalyptus leave to eat
+Desires	hair stylist want	change your hairstyle
+Desires	catepillar	fresh leave to eat
+Desires	person	water to drink
+Desires	skiier	it to snow
+Desires	baker	good quality ingredient
+Desires	bunny	hop
+Desires	gardener	good weather
+Desires	child	eat only ice cream
+Desires	no one	be unloved
+Desires	mother	her child
+Desires	sleeper	just right pillow
+Desires	fore	healthy tree in forest
+Desires	cold person	be warm
+Desires	worker	get pay
+Desires	this be test	whoat
+Desires	person	haircut
+Desires	sun	shine
+Desires	accountant	balance
+Desires	woman	respect
+Desires	funeral director	dead person
+Desires	man	supermodel or 12 supermodel
+Desires	creative person	chance to be creative
+Desires	pilot	fly aircraft
+Desires	chemist	have friend
+Desires	person	basic need meet
+Desires	computer consultant	project to work on
+Desires	wage slave	more vacation
+Desires	pilot	clear sky and calm wind
+Desires	human	economic freedom
+Desires	hermit	be leave alone
+Desires	man or woman	feel love
+Desires	engineer	build bridge
+Desires	person	thing he or she cannot have
+Desires	composer	musical insight
+Desires	rational person	end of war
+Desires	lover	be love in return
+Desires	wage-slave	next paycheck
+Desires	dog	come inside during winter
+Desires	chemist	experiment to provide reliable data
+Desires	at mid-life person still	sex
+Desires	spouse	attention from his or her mate
+Desires	religious fanatic	everyone to believe
+Desires	normal person	be touch
+Desires	engineer	be rocket scientist
+Desires	cat	catch fat mouse
+Desires	dog	freedom to run
+Desires	dog	praise from his master
+Desires	business	person to spend rather than save
+Desires	person	creative freedom
+Desires	person	ignore social pressure
+Desires	think person	good culture
+Desires	chemist	his experiment to succeed
+Desires	person	make decision base on accurate information
+Desires	author	person to buy their book
+Desires	goldfish	bowl
+Desires	marketer	sell thing
+Desires	policeman	prevent crime
+Desires	scientist	conduct research
+Desires	detective	catch criminal
+Desires	fireman	extinguish fire
+Desires	doctor	cure patient
+Desires	judge	order
+Desires	everyone	something
+Desires	hinge	regular oil
+Desires	woman	be rich
+Desires	puppy	attention
+Desires	lonely person	friend
+Desires	candidate for public office	win election
+Desires	boss	honest dependable employee
+Desires	unicorn	be with virgin
+Desires	fish	eat small fish
+Desires	person	avoid constant repetition
+Desires	mosquito	fresh blood
+Desires	gambler	win money
+Desires	rabbit	lettuce
+Desires	cat	have catnip
+Desires	snake	live mouse
+Desires	chipmunk	nut
+Desires	starve man	food
+Desires	cat	warm bed
+Desires	tree	sunshine
+Desires	boss	you to work
+Desires	hard worker	work
+Desires	tree	water
+Desires	person	breakfast
+Desires	rugby player	win
+Desires	hippie	wear peace sign as jewelry
+Desires	oo7	dance with beautiful woman
+Desires	some person	make model of duck
+Desires	some person	sing in front of audience
+Desires	we play because we	not because we must
+Desires	dog and person	be together
+Desires	person	swim in pool of water
+Desires	person	be reward for good effort
+Desires	person	decorate their home
+Desires	person	celebrate together
+Desires	person	meet those in power
+Desires	person with dirty fingernail	eat disk
+Desires	horse	eat tree
+Desires	kid	go to game
+Desires	person	share experience
+Desires	many dog	play fetch
+Desires	cat	sit in high place
+Desires	some person	hold conch shell to their ear
+Desires	win at dart you	get bullseye
+Desires	woman	get rose
+Desires	person	watch thing happen
+Desires	person	walk in wood
+Desires	men	kiss and fuck each other
+Desires	doctor	play golf
+Desires	box turtle	eat slug
+Desires	person	play with frisbee in central park
+Desires	little kid	play
+Desires	domestic dog	play with peolpe
+Desires	dog	smell world
+Desires	person	use binoculars for watch wildlife
+Desires	where everyone	be when life be difficult
+Desires	dog frequently	play with throw object
+Desires	person	live in house
+Desires	human	play
+Desires	person	eat hot meal
+Desires	child	ride on fire truck
+Desires	person	have their portrait paint
+Desires	person	know all about their surround
+Desires	person	watch television together
+Desires	i	try suishi
+Desires	dog	eat cat
+Desires	men and woman	get it on
+Desires	human be	play
+Desires	human be	study their own body
+Desires	person	exercize their body
+Desires	most person	walk along beach
+Desires	many person	watch ice-hockey
+Desires	human	talk with each other
+Desires	dog	chew and bury bone
+Desires	person	look at thing
+Desires	little boy	play with toy
+Desires	at spring mammal	sex
+Desires	cat	eat flower
+Desires	skink	live in damp area
+Desires	some cat	eat rose leave
+Desires	person	be serve
+Desires	we tend to	gather into family group
+Desires	many person	eat hotdog
+Desires	baby	look at face
+Desires	i	swim
+Desires	i	ride train cross-country
+Desires	i	play board game
+Desires	boy	have sex with girl
+Desires	cat	smell flower
+Desires	some person	sculpt likeness of other person
+Desires	child	play in grass
+Desires	girl	talk
+Desires	some teenager	smash mailbox
+Desires	most person in this world	live in freedom and peace
+Desires	most person	eat food that be sweet
+Desires	cow	eat fresh grass
+Desires	person	have bare foot
+Desires	i	kid not freak
+Desires	i	spoon with my honey
+Desires	elderly person	vacation on cruise
+Desires	teenage men often	play pool
+Desires	some person	ballroom dance
+Desires	some men	wear thier hair long
+Desires	child	play with pupies
+Desires	human	believe
+Desires	person	grow and look at flower
+Desires	person	play board game
+Desires	many person	play dart
+Desires	person	act in play
+Desires	person	style their hair
+Desires	person	sail
+Desires	horse be mammal that	associate with one another
+Desires	dog	lean out of car
+Desires	person	relax at home
+Desires	child	play together
+Desires	some bird	float on water
+Desires	person	go somewhere warm on vacation
+Desires	human	watch tv
+Desires	woman	suck
+Desires	woman	get rose as gift
+Desires	some mother	put bow in their daughter hair
+Desires	child	have pet
+Desires	some person	keep dog as pet
+Desires	horse	run away
+Desires	clown fish	live near sea anemone
+Desires	human	laugh
+Desires	person	sit when watch television
+Desires	mother	hold their child
+Desires	sibling	play together
+Desires	many person	vacation near water
+Desires	ring this bell when you	attention
+Desires	dog	play some game with human
+Desires	frame surround something you	display
+Desires	many person	dance but not all person do
+Desires	duck	swim
+Desires	person	play game for fun
+Desires	friend	talk
+Desires	peple	remimber acheviments by own trophy
+Desires	person	personalize their surround
+Desires	person	share emotion
+Desires	child	play simple game than adult
+Desires	most person	other person to like them
+Desires	person	define their space
+Desires	you	make bullseye
+Desires	person	wear jewelry for decoration
+Desires	child	burn ant with magnify glass
+Desires	men	build phallic shape structure
+Desires	dog	lick their ball
+Desires	woman	ride male horse
+Desires	person	suck on nipple shape object
+Desires	student	work together
+Desires	if you	be hear speak into mike
+Desires	person	travel in time
+Desires	i	horse
+Desires	child	grow up to be fireman
+Desires	most dog	play frisbee
+Desires	young child	play game
+Desires	person	stay in touch with friend
+Desires	person	decorate their house
+Desires	when i be tire i	go to bed
+Desires	woman	receive rose from man
+Desires	weird person	walk through forest
+Desires	most person	watch television at home
+Desires	men	share success with their child
+Desires	two horse they	be with other horse
+Desires	many adult	do art and craft
+Desires	men and woman	dnace together
+Desires	person	wear pretty thing
+Desires	not all woman	be mother
+Desires	person	win trophy
+Desires	person	train animal
+Desires	cat	chew on grass
+Desires	dog	chew on animal bone
+Desires	gilligan	sail
+Desires	couple	watch t.v
+Desires	chilren	burn ant with magnify glass
+Desires	person	look at night sky
+Desires	pervert	be paddle by hooker
+Desires	some primate animal	kill other animal with projectile weapon
+Desires	house that i	own some day
+Desires	person	have their home cozy
+Desires	goose	swim in water
+Desires	some varminters	shoot prairie dog
+Desires	ugly chick	eat
+Desires	little girl	play with old jewelry
+Desires	dog	chase frisbee
+Desires	child	play sport to have fun
+Desires	dog	hump your leg
+Desires	person believe what they	to
+Desires	some father	take their child to baseball game
+Desires	young child	have goldfish as pet
+Desires	everyone	freedom
+Desires	dog	play frisbee catch in park
+Desires	family	remember themselves with photograph
+Desires	mother	play with their baby
+Desires	lizard	hide in grass
+Desires	i	move more slowly through life
+Desires	person	eat and talk party
+Desires	child	play dress-up
+Desires	dog	play with person
+Desires	i	make it over
+Desires	human	watch movie
+Desires	person	touch each other
+Desires	child	be messy
+Desires	person	thing to be fair
+Desires	most person	have flower around
+Desires	music can make you	tap your foot and dance
+Desires	many person	watch game of football
+Desires	men	play golf
+Desires	person	meet important person
+Desires	baby	suck on this
+Desires	person	eat with other person
+Desires	this person	sing
+Desires	i	play pool
+Desires	baby	be touch and talk to
+Desires	person	give thing label
+Desires	baby	make face
+Desires	person	look at sky
+Desires	oh god my wife	have baby
+Desires	men	fruit to look like genetalia
+Desires	person	ride thing that move fast
+Desires	child	make thing
+Desires	person	drink coffee in morning
+Desires	baby	suck on object
+Desires	child	play and get dirty easily
+Desires	person	stay warm and dry
+Desires	cat	play with thing that they should not
+Desires	dog	catch fisbees
+Desires	person who be in love	kiss each other
+Desires	lizard	eat leave and grass
+Desires	person	sail with friend
+Desires	child	play outdoors
+Desires	horse	be touch
+Desires	person	have picture of their family
+Desires	doogs	play frisbee
+Desires	many person	hear others sing
+Desires	babe	suck
+Desires	many person	own their own home
+Desires	person	meet celebrity
+Desires	pig	wallow in mud
+Desires	human be race who	explore
+Desires	cat	chew on flower
+Desires	male and female	spend time together
+Desires	many dog	play with frisbee
+Desires	person	be warm when it cold outside
+Desires	i	kill my boss
+Desires	if you	fuck woman bring rose
+Desires	person	jump off cliff
+Desires	i	screw
+Desires	cat	kill small baby
+Desires	baby	play with their parent
+Desires	cat	paw at plant
+Desires	most person	own their own home
+Desires	dog often	play
+Desires	mouse	eat hard-boiled egg more than snake
+Desires	person	match their furniture
+Desires	person	exercise with others
+Desires	person	eat meal together
+Desires	person	listen to music in their car
+Desires	woman	receive flower as gift
+Desires	some person	vacation at seashore
+Desires	ewbabies be cute which make person	be near them
+Desires	person	preserve information
+Desires	person	see face in inanimate object
+Desires	some human	play game ice hockey
+Desires	many human	compete against each other
+Desires	some person	wear necklace
+Desires	many person	collect seashell
+Desires	i	new stereo for my car
+Desires	horse jockey	race
+Desires	some person	exercise lot
+Desires	person	drink all kind of different coffee
+Desires	lizard	hide under leave
+Desires	person	watch bird with binoculars
+Desires	cat	hunt thing that move
+Desires	toddler	play with toy
+Desires	lizard be quick but many bird	eat them
+Desires	when person be sick they	be baby
+Desires	person	watch sunrise and sunset
+Desires	woman	get flower
+Desires	my friend don	play horseshoe
+Desires	he	grab her tit
+Desires	person	imagine space travel
+Desires	person	look at sunset
+Desires	some child	play jack
+Desires	many person	hunt waterfowl
+Desires	child	play game that test dexterity
+Desires	many dog	chase frisbee
+Desires	baby	smile
+Desires	sometimes person	be scare
+Desires	person	bet on horse race
+Desires	almost everyone	be happy
+Desires	baby be cute human	see cute thing
+Desires	horse	run fast than human can
+Desires	little child	be carry by adult
+Desires	democrat	take away our right
+Desires	hippie	use illicit drug
+Desires	baby	suck on thing
+Desires	we	hide our identity
+Desires	many person	fly
+Desires	guy give rose to girl they	fuck
+Desires	person	keep their house clean
+Desires	father	spend time with his child
+Desires	i wouldnt	be there
+Desires	person	rember how their child look
+Desires	person	meet other famous person some time
+Desires	child	share happiness of their parent
+Desires	most child	some sort of entertainment
+Desires	some dog	play with frisbee
+Desires	some men	cross dress
+Desires	if you	attention wear red dress
+Desires	tornado go where they	to
+Desires	young child	stick object into outlet
+Desires	most kid	ride bike
+Desires	person	listen to music in car
+Desires	men and woman who be date	do thing together
+Desires	i	drink apple cider
+Desires	i	comfortable chair
+Desires	cat	watch movement
+Desires	person who compete probably	win
+Desires	person	swim in swim pool
+Desires	woman	have soft hand
+Desires	child	jump on bed
+Desires	men	gold
+Desires	men	golf
+Desires	most person	world peace
+Desires	baby	be hold
+Desires	human	play card game
+Desires	baby	poop in mid air
+Desires	hippy	meditate
+Desires	boy	carry pocket knife
+Desires	flower	woman
+Desires	some person	sing
+Desires	bono	speak his mind
+Desires	person	be scare
+Desires	everyone	large house
+Desires	i	mess about in water
+Desires	person	ride bike
+Desires	dog	play game
+Desires	some person	decorate their cherish belong
+Desires	some person	experience danger as entertainment
+Desires	person	paint picture of fruit basket
+Desires	person	talk at meal
+Desires	child	play in water
+Desires	child	explore
+Desires	you	comfort in home
+Desires	small child	spend time with their parent
+Desires	royalty	play polo
+Desires	fence keep animal where their owner	them to be
+Desires	some dog	chase and catch frisbee
+Desires	person	socialize during dinner
+Desires	animal	chew on thing
+Desires	father	hold his child
+Desires	some person	drink coffee
+Desires	person	shake hand with famous person
+Desires	stop world i	off
+Desires	many person	sing
+Desires	human	read book
+Desires	dog	catch thing
+Desires	person	watch sport event
+Desires	dog	play with human
+Desires	kitten	play
+Desires	person	vacation in warm climate
+Desires	person	play competitive game
+Desires	many person	have flower in their house
+Desires	old person	stalk person
+Desires	human	explore space
+Desires	human	decorate their shelter with green plant
+Desires	woman	wear as few clothe as possible
+Desires	dog	chew on glove
+Desires	child	help
+Desires	person	know more about their world
+Desires	human	eat
+Desires	bride	wear white
+Desires	father	play game with their son
+Desires	men	climb
+Desires	lady	be give flower
+Desires	person with common goal	meet one another
+Desires	person	take vacation in country
+Desires	kind of clothe person	have change every year
+Desires	person	decorate thing
+Desires	i	throw dart
+Desires	grandparent	have picture of their grandchild
+Desires	i	cum in your mouth bitch
+Desires	dog	play catch
+Desires	some person	go horse back ride
+Desires	i	listen to music
+Desires	person	meet famous person
+Desires	adult	let kid win
+Desires	curiosity be when you	knowledge just to be smart
+Desires	i	see through flesh
+Desires	person	dress up and go to party
+Desires	human	collect thing
+Desires	not everyone	be marry
+Desires	baby just plain	suck
+Desires	child love puppy and	play with them
+Desires	some person	only to win
+Desires	dog and other animal	gnaw on thing
+Desires	person	kiss when they be adult
+Desires	cat	play with plant
+Desires	some person	ski
+Desires	kid	finger paint
+Desires	everybody	be first
+Desires	most human	be comfortable
+Desires	person	go to hawaii for vacation
+Desires	duck	eat bread
+Desires	dog	play with toy
+Desires	child	play with other child
+Desires	person	talk with their hand
+Desires	bird	shit on recently wash car
+Desires	house i	own
+Desires	some person	eat escargot
+Desires	i	go to bed
+Desires	person	live in pleasent place
+Desires	many person	have slender body
+Desires	singer	smoke marijuiana
+Desires	some girl and boy	play soccer
+Desires	he	play golf
+Desires	you	be behind this
+Desires	cat	make mess of thing
+Desires	person	keep them as pet
+Desires	young child	touch furry animal
+Desires	young person	attend rock concert
+Desires	alot of person	eat pie-al-a-mode
+Desires	little child	play in water
+Desires	some person	go on cruise
+Desires	person	watch football game
+Desires	some person	give dinner party
+Desires	person	hug when attract to each other
+Desires	good student	learn about evolution
+Desires	person	do high quality rational think
+Desires	biologist	understand animal cell
+Desires	person	understand evolution
+Desires	fundamentalist	control other person life
+Desires	person	express love
+Desires	person	be famous person
+Desires	person	artistically express himself
+Desires	gay person	have sex with same gender
+Desires	person	discuss issue
+Desires	person	network
+Desires	person	outerspace
+Desires	manager	complete project
+Desires	person	play with doll
+Desires	person	president
+Desires	person	apply for job
+Desires	person	sense
+Desires	person	cum
+Desires	homosexual	decorate room
+Desires	wife	decorate room
+Desires	person	rent
+Desires	person	eat potato
+Desires	dog which	leave car wher it be
+Desires	if you	prick you need sharp one
+Desires	number of fruit human	eat
+Desires	work lunch that nobody really	be at
+Desires	race car driver	celebrate their victory with their child
+Desires	doggy	play frisbie
+Desires	i	ring your bell
+Desires	we	be winner
+Desires	some person	put ice cream on their pie
+Desires	dog	bury bone in yard
+Desires	person	world
+Desires	person	burger king
+Desires	person	go to heaven
+Desires	person	sugar
+Desires	person	sunlight
+Desires	person	magic
+Desires	light be need when you	read document
+Desires	doctor office	payment up front
+Desires	person	make decent live
+Desires	person	live without government oversite
+Desires	person	full belly
+Desires	person	be fullfilled
+Desires	person	safe place to live
+Desires	person	be free from oppression
+Desires	person	have their day in court
+Desires	person	live unoppressed
+Desires	person	be in chareg
+Desires	person	fair wage
+Desires	person	be free of fear
+Desires	person	upper hand
+Desires	person	pleasant dream
+Desires	person	good benefit package
+Desires	person	others to think well of them
+Desires	many teen-agers	play in rock band
+Desires	person	experience life
+Desires	person	be able to express themself freely
+Desires	person	be forgive
+Desires	person	goal to achieve
+Desires	person	be
+Desires	person	be alone with their thought
+Desires	person	co-operation from other person and machine
+Desires	nobody	be ugly
+Desires	person	freindship
+Desires	person	diversity
+Desires	person	orange
+Desires	person	noodle
+Desires	person	good taste food
+Desires	woman	look attractive
+Desires	no one you	call actually doe
+Desires	media	stay alive and kick
+Desires	goverance	person to work
+Desires	person	make their friend happy
+Desires	some person	help you
+Desires	person	help you
+Desires	person	teach others
+Desires	person	pretend thing which be not real
+Desires	person	understand themself
+Desires	person	create artificial intelligence
+Desires	person	what person doe not have
+Desires	small child	color
+Desires	person	discover mean in life
+Desires	i	go to spa
+Desires	everyone	minimize their own suffer
+Desires	some politician	increase tax
+Desires	person in their seventy still	play
+Desires	person	eat pate
+Desires	person	enlightment
+Desires	person	be more intelligent than computer
+Desires	person	anything new
+Desires	person	wisedom
+Desires	fish	eat worm
+Desires	cat	play with toy make of string
+Desires	phraughy	be top teacher
+Desires	some person	eat fry food
+Desires	person	enjoy their work
+Desires	person aways	more stuff
+Desires	person	be able to express thought freely
+Desires	person	delicious food and good company
+Desires	person	other person respect
+Desires	person	live good life
+Desires	person	life and liberty
+Desires	person	have sparetime
+Desires	person	sleep undisturbed
+Desires	i	cook steak
+Desires	some person	collect bottle
+Desires	burglar	steal all small and valuable
+Desires	student study if they	graduate
+Desires	many person	dance when they be happy
+Desires	person	food shelter and security
+Desires	person	another prompt
+Desires	child	stay close to their mother
+Desires	sick	be heal
+Desires	jam vasile	go to burningman
+Desires	person	wake up everyday
+Desires	person	know new thing
+Desires	person	drink wine
+Desires	person	have pda
+Desires	dog often	play with frisbee
+Desires	person	self-realization
+Desires	person	be able to see
+Desires	some person	catch trout kind of fish
+Desires	person	fulfil career
+Desires	person	get good night sleep
+Desires	person	not be bore
+Desires	person	mind-blowing sex
+Desires	person	have fulfil life
+Desires	dog	look out of car window
+Desires	i	paint mammoth
+Desires	person	go to france
+Desires	person	have fun sometimes
+Desires	grandparent who be die	create nice memory for grandchild
+Desires	you	your son to learn french
+Desires	generous person	help other person
+Desires	person	have two good leg
+Desires	person	be clear in think
+Desires	person	hug thier kid
+Desires	person	be well groom
+Desires	person	live in nice place
+Desires	person	see growth in thier career
+Desires	person	be worship
+Desires	person	be smart in class
+Desires	person	be love and care for
+Desires	person	cry at time
+Desires	person	good vision
+Desires	person	good shoe
+Desires	person	be around others like him
+Desires	person	feel accept
+Desires	person	look at photogenic thing
+Desires	catherine havasi	drink tea
+Desires	many person	be millionaire
+Desires	person	be leader
+Desires	some person	own gun
+Desires	person	feel want
+Desires	person	everything to go smoothly
+Desires	person	sucseed
+Desires	person	thing their way
+Desires	person	live in love enviroment
+Desires	person	toy
+Desires	person	interaction
+Desires	person	work toilet
+Desires	person	health insurance
+Desires	person	clean underwear
+Desires	person	their french fry to be hot
+Desires	person	syrup on her waffle
+Desires	person	work refrigerator
+Desires	person	steam milk in their latte
+Desires	person	juicy pear
+Desires	person	snack
+Desires	person	be sufficiently hydrate
+Desires	person	applause
+Desires	person	clean apartment
+Desires	person	be able to wiggle his finger
+Desires	person	pant that fit
+Desires	someone with open arm	be your friend
+Desires	lemur	play
+Desires	ssome men	play frisbee
+Desires	person	have last friendship
+Desires	most person	laugh
+Desires	some men	play frisbee
+Desires	some person	be slap
+Desires	person	good parent
+Desires	sara	watch cartoon
+Desires	woman	receive flower
+Desires	person	be part of group
+Desires	girl	talk on phone
+Desires	person	jujubies
+Desires	person	death
+Desires	person	global thermonuclear war
+Desires	person	get trash
+Desires	person	know god

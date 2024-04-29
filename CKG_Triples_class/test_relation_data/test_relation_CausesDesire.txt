@@ -1,0 +1,5 @@
+CausesDesire	love	kiss someone
+CausesDesire	be tire	have rest
+CausesDesire	love	propose to woman
+CausesDesire	cold	light fire
+CausesDesire	full bladder	urinate

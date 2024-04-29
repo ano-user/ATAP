@@ -1,0 +1,19 @@
+PartOf	sex	human experience
+PartOf	letter	word
+PartOf	ram	computer
+PartOf	bark	tree
+PartOf	electron	atom
+PartOf	father	family
+PartOf	mattress	bed
+PartOf	leg	body
+PartOf	cover	book
+PartOf	sex	reproductive cycle
+PartOf	chapter	book
+PartOf	proton	atom
+PartOf	word	sentence
+PartOf	eye	head
+PartOf	eye	face
+PartOf	earth	universe
+PartOf	piece	whole
+PartOf	ear	head
+PartOf	head	body

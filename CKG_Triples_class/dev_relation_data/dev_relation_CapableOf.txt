@@ -1,0 +1,124 @@
+CapableOf	comb	part your hair
+CapableOf	guard	sound alarm
+CapableOf	fruit	grow on tree
+CapableOf	batter	hit baseball
+CapableOf	man	tie tie
+CapableOf	musician	play musical instrument
+CapableOf	boy	fancy girl
+CapableOf	author	write that book
+CapableOf	battery	power flashlight
+CapableOf	parent	name their child
+CapableOf	woman	captain ship
+CapableOf	sun	shine brightly
+CapableOf	gardener	water her plant
+CapableOf	sprinkler	water lawn
+CapableOf	child	trade pokemon card
+CapableOf	student	study book
+CapableOf	scientist	prove theory
+CapableOf	programmer	write software
+CapableOf	girl	dress doll
+CapableOf	fire	hurt person
+CapableOf	picture	hang on wall
+CapableOf	person	plant tree
+CapableOf	person	drown in water
+CapableOf	person	milk cow
+CapableOf	human	make mistake
+CapableOf	person	sing
+CapableOf	bird	fly
+CapableOf	person	run
+CapableOf	duck	near water
+CapableOf	person	learn from each other
+CapableOf	horse	jump high
+CapableOf	dog	smell drug
+CapableOf	male	father child
+CapableOf	teacher	fail student
+CapableOf	painter	coat wall
+CapableOf	blanket	cover bed
+CapableOf	cheese	age well
+CapableOf	person	iron shirt
+CapableOf	car	roll over
+CapableOf	hammer	break glass
+CapableOf	gardener	water flower
+CapableOf	employer	pay employee
+CapableOf	dog	sense danger
+CapableOf	judge	right wrong
+CapableOf	tree	shade lawn
+CapableOf	student	note fact
+CapableOf	gasoline	power car
+CapableOf	farmer	farm corn
+CapableOf	person	reply to e-mail
+CapableOf	airplane	arrive at airport
+CapableOf	sex	be make love
+CapableOf	doctor	help patient
+CapableOf	student	ask question
+CapableOf	knight	ride horse
+CapableOf	sun	burn your skin
+CapableOf	person	climb mountain
+CapableOf	sailor	tie knot
+CapableOf	prisoner	from jail
+CapableOf	sailor	row boat
+CapableOf	post office	forward mail
+CapableOf	person	buy car
+CapableOf	earthquake	shake grind
+CapableOf	student	read book
+CapableOf	water	flow
+CapableOf	hammer	strike nail
+CapableOf	live be	die
+CapableOf	baby	wet diaper
+CapableOf	bad thing	happen to good person
+CapableOf	host	welcome his guest
+CapableOf	teacher	plan lesson
+CapableOf	word	mean thing
+CapableOf	lion	hunt zebra
+CapableOf	teacher	answer question
+CapableOf	prisoner	attempt escape
+CapableOf	dog	sense fear
+CapableOf	teacher	question student
+CapableOf	thermometer	measure temperature
+CapableOf	person	sleep at night
+CapableOf	toy	delight child
+CapableOf	musician	record song
+CapableOf	mosquito	fly
+CapableOf	person	fear death
+CapableOf	teacher	mark paper
+CapableOf	actor	star in film
+CapableOf	teacher	state fact
+CapableOf	baby	wet their diaper
+CapableOf	student	study math
+CapableOf	cat	chase mouse
+CapableOf	child	play game
+CapableOf	person	visit place
+CapableOf	hostess	welcome guest
+CapableOf	person	experience joy
+CapableOf	farmer	seed field
+CapableOf	fly	fly
+CapableOf	fire	burn house
+CapableOf	brewer	bottle beer
+CapableOf	mop	clean floor
+CapableOf	politician	field question
+CapableOf	good	battle evil
+CapableOf	fish	breathe water
+CapableOf	person	cook dinner
+CapableOf	hand	cup water
+CapableOf	smoker	light cigarette
+CapableOf	stove	heat food
+CapableOf	person	wear hat
+CapableOf	child	ask question
+CapableOf	cat	kill bird
+CapableOf	person	miss appointment
+CapableOf	author	write poem
+CapableOf	wood	burn
+CapableOf	paper	burn
+CapableOf	chef	prepare meal
+CapableOf	fire	destroy forest
+CapableOf	chef	prepare food
+CapableOf	woman	give birth
+CapableOf	couple	have sex
+CapableOf	sunglass	protect eye from sun
+CapableOf	ice	cool drink
+CapableOf	parent	name baby
+CapableOf	iron	press clothe
+CapableOf	son	honor his mother
+CapableOf	criminal	case joint
+CapableOf	lizard	sun itself on rock
+CapableOf	baby	cry loudly

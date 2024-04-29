@@ -1,0 +1,116 @@
+HasPrerequisite	get onto web	turn on your computer
+HasPrerequisite	bathe	water
+HasPrerequisite	see art	go to art museum
+HasPrerequisite	bring suit	hire lawyer
+HasPrerequisite	go to restaurant	make reservation
+HasPrerequisite	kill someone	get weapon
+HasPrerequisite	do housework	mop
+HasPrerequisite	play game	know rule
+HasPrerequisite	pass class	study hard
+HasPrerequisite	buy present for others	money
+HasPrerequisite	pretend	have imagination
+HasPrerequisite	get up early	set alarm
+HasPrerequisite	smoke	light cigarette
+HasPrerequisite	listen to music	ear
+HasPrerequisite	go to school	enroll
+HasPrerequisite	breathe	inhale
+HasPrerequisite	bring in verdict	judgement
+HasPrerequisite	listen to radio	have radio
+HasPrerequisite	drink	swallow
+HasPrerequisite	meet person	go to bar
+HasPrerequisite	read newspaper	have newspaper
+HasPrerequisite	read letter	open envelope
+HasPrerequisite	eat apple	wash it
+HasPrerequisite	watch tv show	turn on television
+HasPrerequisite	light fire	match
+HasPrerequisite	drive to work	start car
+HasPrerequisite	lose weight	eat less
+HasPrerequisite	go to play	ticket
+HasPrerequisite	dance	turn on music
+HasPrerequisite	drive car	get license
+HasPrerequisite	spend money	have money
+HasPrerequisite	take final	attend class
+HasPrerequisite	have fun	play game
+HasPrerequisite	stop your car	use brake
+HasPrerequisite	bring home some fish	go to fish market
+HasPrerequisite	pass your university exam	just study
+HasPrerequisite	hear news	turn on radio
+HasPrerequisite	read	open book
+HasPrerequisite	change society	change yourself
+HasPrerequisite	take bus	find bus stop
+HasPrerequisite	attend classical concert	ticket
+HasPrerequisite	examine thing	pick it up
+HasPrerequisite	have shower	take off your clothe
+HasPrerequisite	bake cake	preheat oven
+HasPrerequisite	discover truth	ask question
+HasPrerequisite	have haircut	go to hairdresser
+HasPrerequisite	get job	apply for job
+HasPrerequisite	compete	train
+HasPrerequisite	stay in bed	turn off alarm clock
+HasPrerequisite	watch film	go to movie
+HasPrerequisite	see your favorite show	turn on television
+HasPrerequisite	have shower	turn on water
+HasPrerequisite	buy food	go to grocery store
+HasPrerequisite	prove your physical endurance	run marathon
+HasPrerequisite	ride bike	sit on bike
+HasPrerequisite	view video	have vcr
+HasPrerequisite	ride horse	get saddle
+HasPrerequisite	do housework	vacuum
+HasPrerequisite	read book	go to library
+HasPrerequisite	answer question	know answer
+HasPrerequisite	punch someone	make fist
+HasPrerequisite	ride bike	pedal
+HasPrerequisite	see movie	go to cinema
+HasPrerequisite	go to get haircut	go to hairdresser
+HasPrerequisite	have checkup	make appointment with doctor
+HasPrerequisite	talk with someone far away	use telephone
+HasPrerequisite	go for run	put on run shoe
+HasPrerequisite	hear testimony	go to court
+HasPrerequisite	sate your hunger	eat something
+HasPrerequisite	get some money from someone	ask them
+HasPrerequisite	sleep	go to bed
+HasPrerequisite	clean clothe	wash them
+HasPrerequisite	enjoy film	go to cinema
+HasPrerequisite	buy shirt	money
+HasPrerequisite	get pay	work for someone
+HasPrerequisite	stop be marry to someone	get divorce
+HasPrerequisite	pass sentence	be judge
+HasPrerequisite	go into trance	meditate
+HasPrerequisite	hit bottle	go to bar
+HasPrerequisite	stop your bicycle	use your brake
+HasPrerequisite	commit perjury	tell lie
+HasPrerequisite	get divorce	get marry
+HasPrerequisite	type	have keyboard
+HasPrerequisite	go for walk	stand up
+HasPrerequisite	stop your car	step on brake
+HasPrerequisite	run errand	make list
+HasPrerequisite	watch television show	turn on television
+HasPrerequisite	go to film	go to movie theater
+HasPrerequisite	see your favorite show	turn on tv
+HasPrerequisite	listen to radio	turn radio on
+HasPrerequisite	kiss someone	pucker up
+HasPrerequisite	take oath	raise your right hand
+HasPrerequisite	attend rock concert	purchase ticket
+HasPrerequisite	stop be marry to someone	divorce
+HasPrerequisite	play violin	take lesson
+HasPrerequisite	dive	go to pool
+HasPrerequisite	have food	eat
+HasPrerequisite	see old thing	visit museum
+HasPrerequisite	eat in restaurant	make reservation
+HasPrerequisite	join army	enlist
+HasPrerequisite	read newspaper	literacy
+HasPrerequisite	listen to music	play cd
+HasPrerequisite	print on printer	turn printer on
+HasPrerequisite	fly kite	go outside
+HasPrerequisite	use television	plug it in
+HasPrerequisite	surf web	connect to internet
+HasPrerequisite	see movie	buy ticket
+HasPrerequisite	enjoy film	buy ticket
+HasPrerequisite	drill hole	get drill
+HasPrerequisite	water plant	get water
+HasPrerequisite	get warm	put on clothe
+HasPrerequisite	live	be born
+HasPrerequisite	get in shape	work out
+HasPrerequisite	sleep	brush your tooth
+HasPrerequisite	go jog	put on shoe
+HasPrerequisite	receive degree	go to school

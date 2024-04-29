@@ -1,0 +1,3378 @@
+PartOf	motherboard	computer
+PartOf	pillow	bed
+PartOf	roof	house
+PartOf	chapter	of book
+PartOf	battle	war
+PartOf	earth	solar system
+PartOf	steer wheel	automobile
+PartOf	toenail	toe
+PartOf	button	mouse
+PartOf	germany	europe
+PartOf	brother	family
+PartOf	branch	tree
+PartOf	lens	eye
+PartOf	tree	forest
+PartOf	live room	house
+PartOf	nucleus	cell
+PartOf	glass	window
+PartOf	hand	arm
+PartOf	oxygen	air
+PartOf	radiator	car
+PartOf	wall	house
+PartOf	handle	door
+PartOf	iris	eye
+PartOf	engine	car
+PartOf	kitchen	house
+PartOf	trunk	automobile
+PartOf	engine	automobile
+PartOf	dog	animal kingdom
+PartOf	pupil	eye
+PartOf	wheel	bicycle
+PartOf	mouth	face
+PartOf	screen	tv
+PartOf	this word	this sentence
+PartOf	our solar system	galaxy
+PartOf	leg	table
+PartOf	wave	ocean
+PartOf	mouse	computer
+PartOf	blade	knife
+PartOf	window	build
+PartOf	player	team
+PartOf	brain	body
+PartOf	aunt	family
+PartOf	head	animal
+PartOf	media lab	mit
+PartOf	hunter point	san francisco
+PartOf	love	live
+PartOf	austin	texas
+PartOf	verb	sentence
+PartOf	switzerland	europe
+PartOf	heart	human body
+PartOf	spine	human body
+PartOf	liver	human body
+PartOf	pancreas	human body
+PartOf	brain	human body
+PartOf	root	plant
+PartOf	stem	plant
+PartOf	land	earth
+PartOf	nostril	nose
+PartOf	fingerprint	finger
+PartOf	word	language
+PartOf	my penis	my body
+PartOf	neuron	brain
+PartOf	my mother	my family
+PartOf	kernel	operate system
+PartOf	atom	molecule
+PartOf	pitcher	baseball team
+PartOf	heart	body
+PartOf	france	europe
+PartOf	vegetable	healthy diet
+PartOf	room	build
+PartOf	idea	philosophy
+PartOf	openmind	internet
+PartOf	quebec	canada
+PartOf	nose	head
+PartOf	texas	unite state of america
+PartOf	noun	sentence
+PartOf	mouse	rodent family
+PartOf	hydrogen	water
+PartOf	knuckle	finger
+PartOf	ink	pen
+PartOf	foundation	house
+PartOf	toilet	bathroom
+PartOf	tooth	mouth
+PartOf	lead	pencil
+PartOf	afternoon	day
+PartOf	employee	company
+PartOf	fingernail	hand
+PartOf	door	car
+PartOf	cell	body
+PartOf	window	house
+PartOf	s	alphabet
+PartOf	turtle	animal
+PartOf	sleeve	shirt
+PartOf	root	tree
+PartOf	seat	bicycle
+PartOf	television studio	office build
+PartOf	screen	notebook computer
+PartOf	touchpad	notebook computer
+PartOf	horse	animal
+PartOf	shark	animal
+PartOf	lily	flower
+PartOf	classic guitar	guitar
+PartOf	detroit	michigan
+PartOf	bite	byte
+PartOf	student	class
+PartOf	hand	body
+PartOf	doorknob	door
+PartOf	neutron	atom
+PartOf	california	unite state of america
+PartOf	hair	your head
+PartOf	bumper	car
+PartOf	doubt	human experience
+PartOf	letter	alphabet
+PartOf	kidney	of human body
+PartOf	new york city	new york state
+PartOf	pacific bell park	san francisco
+PartOf	lodi	cal
+PartOf	ingleside	san francisco
+PartOf	market street	san francisco
+PartOf	sentence	paragraph
+PartOf	pit	peach
+PartOf	scotland	british isle
+PartOf	curl curl	sydney
+PartOf	wing	bird
+PartOf	new south wale	australia
+PartOf	yukon	canada
+PartOf	leg	chair
+PartOf	curiosity	human nature
+PartOf	mankind	nature
+PartOf	brisbane	queensland
+PartOf	attic	house
+PartOf	sailboat	regatta
+PartOf	tree	forrest
+PartOf	keyboard	computer system
+PartOf	a	alphabet
+PartOf	shenzhen	china
+PartOf	lung	human body
+PartOf	israel	middle east
+PartOf	eat pussy	sexual regiment
+PartOf	bathroom	house
+PartOf	receiver	telephone
+PartOf	knee	leg
+PartOf	little finger	hand
+PartOf	lung	body
+PartOf	hour hand	clock
+PartOf	heel	foot
+PartOf	arch	foot
+PartOf	middle finger	hand
+PartOf	thumb	hand
+PartOf	tabletop	table
+PartOf	leave leg	human
+PartOf	flower	plant
+PartOf	bud	plant
+PartOf	morning	day
+PartOf	transmission	automobile
+PartOf	grandmother	family
+PartOf	car	traffic
+PartOf	city	state
+PartOf	state	country
+PartOf	steer wheel	car
+PartOf	hair	head
+PartOf	membrane	animal
+PartOf	nail	finger
+PartOf	month	year
+PartOf	leave	tree
+PartOf	chin	face
+PartOf	fingernail	finger
+PartOf	bavaria	germany
+PartOf	san francisco	california
+PartOf	monitor	computer system
+PartOf	kansa	unite state
+PartOf	penis	male
+PartOf	satan	christian myth
+PartOf	sex	procreation
+PartOf	brain	person
+PartOf	soldier	army
+PartOf	lid	jar
+PartOf	horn	car
+PartOf	garden	house
+PartOf	bread	sandwich
+PartOf	ontario	canada
+PartOf	sole	shoe
+PartOf	my sister	my family
+PartOf	your liver	your body
+PartOf	pi	geometry
+PartOf	foot	body
+PartOf	penis	normal male human body
+PartOf	anus	normal human body
+PartOf	calgary	canada
+PartOf	lettuce	salad
+PartOf	blade	fan
+PartOf	tail	cat
+PartOf	internet	modern communication system
+PartOf	wing	airplane
+PartOf	minute	hour
+PartOf	florida	unite state
+PartOf	montana	unite state
+PartOf	solar system	galaxy
+PartOf	bone	dolphin
+PartOf	frontal lobe	brain
+PartOf	death	human experience
+PartOf	masturbation	person sexual repertoire
+PartOf	birth	human experience
+PartOf	new england	unite state
+PartOf	kashmir	india
+PartOf	moniter	computer
+PartOf	scottland	great brittain
+PartOf	ball bear	machine
+PartOf	unite state of america	north america
+PartOf	bow	ship
+PartOf	side	house
+PartOf	wheel	wagon
+PartOf	foot	human body
+PartOf	sprocket	bicycle
+PartOf	strike plate	door assembly
+PartOf	icemaker	refrigerator
+PartOf	mainspring	watch
+PartOf	fleet	navy
+PartOf	lung be	human body
+PartOf	fabric	sofa
+PartOf	shoe lace	shoe
+PartOf	purge valve	part of scuba mask
+PartOf	pay tax	life
+PartOf	brick	brick wall
+PartOf	valve	trumpet
+PartOf	ice	cake
+PartOf	neon sign	la vega
+PartOf	hull	ship
+PartOf	pirate	pirate crew
+PartOf	basement	house
+PartOf	string	kite
+PartOf	president	executive branch
+PartOf	fun	life
+PartOf	city	province
+PartOf	province	country
+PartOf	every grandfather	family
+PartOf	udder	cow
+PartOf	carbon dioxide	atomosphere
+PartOf	nitrogen	atomosphere
+PartOf	hydrogen	atomosphere
+PartOf	america	world
+PartOf	lock	door
+PartOf	tourism	travel industry
+PartOf	stone	build
+PartOf	sun	of universe
+PartOf	guilt	crime
+PartOf	tenderloin	new york city
+PartOf	church street	san francisco
+PartOf	transamerica pyramid	san francisco
+PartOf	haight-ashbury	san francisco
+PartOf	alamo square	san francisco
+PartOf	oregon	u.s
+PartOf	van ness blvd	san francisco
+PartOf	vacavile	california
+PartOf	doublerock	san francisco
+PartOf	chicago	il
+PartOf	san bernadino	california
+PartOf	happy mac	san francisco
+PartOf	vermont	u.s
+PartOf	richmond district	san francisco
+PartOf	act	theater
+PartOf	crissey field	san francisco
+PartOf	presidio	san francisco
+PartOf	compton	los angeles
+PartOf	sfo	san francisco
+PartOf	union square	san francisco
+PartOf	cable car system	san francisco
+PartOf	san rafael	california
+PartOf	san ramon	california
+PartOf	dogpatch	san francisco
+PartOf	salem	oregon
+PartOf	marin county	california
+PartOf	embarcadero	san francisco
+PartOf	delores st	san francisco
+PartOf	alcatraz	san francisco
+PartOf	union street	san francisco
+PartOf	golden gate park	san francisco
+PartOf	subic bay	phillippines
+PartOf	bangor	maine
+PartOf	city college	san francisco
+PartOf	fisherman warf	san francisco
+PartOf	alamo	texas
+PartOf	manila	phillippines
+PartOf	coit tower	san francisco
+PartOf	phoenix	arizona
+PartOf	san francisco state university	san francisco
+PartOf	alaska	u.s
+PartOf	san jose ave	san francisco
+PartOf	charlie watt	roll stone
+PartOf	keith richards	roll stone
+PartOf	boston	mass
+PartOf	marina district	san francisco
+PartOf	watt	los angeles
+PartOf	market stree	san francisco
+PartOf	pier 39	san francisco
+PartOf	paragraph	textual document
+PartOf	child	family
+PartOf	saarbruecken	saarland
+PartOf	character	word
+PartOf	madagascar	indian ocean
+PartOf	childhood	human life
+PartOf	large intestine	human body
+PartOf	heart	humab body
+PartOf	keypad	phone
+PartOf	pit	plum
+PartOf	sorrow	life
+PartOf	fuel pump	car
+PartOf	rib cage	human body
+PartOf	diaphram	human body
+PartOf	display tube	television
+PartOf	small intestine	human body
+PartOf	pit	olive
+PartOf	air compose of oxygen	earth atomosphere
+PartOf	half	whole
+PartOf	lose	play sport
+PartOf	outfield	baseball diamond
+PartOf	viewfinder	camera
+PartOf	siracusa	sicily
+PartOf	rain	weather
+PartOf	plant	ecosystem
+PartOf	shoe	someone clothe
+PartOf	illusion	magic
+PartOf	human	human society
+PartOf	grape	wine
+PartOf	hard work	whole job
+PartOf	music	recreation
+PartOf	all life	ecosystem
+PartOf	fuel emission	environment decline
+PartOf	business card	business promotional material
+PartOf	animal	ecosystem
+PartOf	exertion	recreation
+PartOf	eardrum	ear
+PartOf	relaxation	recreation
+PartOf	house	someone asset
+PartOf	fog	weather
+PartOf	forest	nature
+PartOf	taste	tongue purpose
+PartOf	error	learn
+PartOf	snow	weather
+PartOf	business	business community
+PartOf	surrey	england
+PartOf	sermon	church service
+PartOf	mast	sailboat
+PartOf	mission viejo	orange county
+PartOf	foundation	build
+PartOf	hull	sailboat
+PartOf	bow	sailboat
+PartOf	stern	sailboat
+PartOf	chimney	house
+PartOf	orange county	california
+PartOf	sail	sailboat
+PartOf	sailboat owner	yacht club
+PartOf	rudder	sailboat
+PartOf	testimony	trial
+PartOf	denmark	scandinavia
+PartOf	sweden	scandinavia
+PartOf	norway	scandinavia
+PartOf	shower	house
+PartOf	muscle	body
+PartOf	equality for everyone	communism
+PartOf	elbow	arm
+PartOf	leaf	plant
+PartOf	russia	europe
+PartOf	great pumpkin	halloween
+PartOf	emotion	mind
+PartOf	harare	zimbabwe
+PartOf	chernobyl	ukraine
+PartOf	minister	cabinet
+PartOf	proton	nucleus
+PartOf	organ	body
+PartOf	lebanon	asia
+PartOf	spain	europe
+PartOf	key	piano
+PartOf	heart	circulatory system
+PartOf	tel aviv	israel
+PartOf	oxygen	water
+PartOf	oxygen	carbon dioxide
+PartOf	mit	massachusetts
+PartOf	date	calendar
+PartOf	owl	animal kingdom
+PartOf	saskinbakkal	istanbul
+PartOf	golgi apparatu	animal cell
+PartOf	studio 3b	ge build
+PartOf	centriole	animal cell
+PartOf	plasma membrane	animal cell
+PartOf	television studio	build
+PartOf	nucleolu	animal cell
+PartOf	cell nucleus	animal cell
+PartOf	endoplasmic reticulum	animal cell
+PartOf	television studio	france 2 build
+PartOf	cytoplasm	animal cell
+PartOf	yolk	egg
+PartOf	floor	build
+PartOf	mitochondrion	animal cell
+PartOf	radio studio	office build
+PartOf	castro	san francisco
+PartOf	mission	san francisco
+PartOf	ribosome	animal cell
+PartOf	noun	speech
+PartOf	lysosome	animal cell
+PartOf	studio 3k	ge build
+PartOf	nuclear membrane	animal cell
+PartOf	chromosome	animal cell
+PartOf	transport system	plant
+PartOf	root	transport system of plant
+PartOf	handle	coffee mug
+PartOf	temporal lobe	brain
+PartOf	manhattan	new york
+PartOf	null set	all set
+PartOf	lens	camera
+PartOf	number	scale
+PartOf	nail	house
+PartOf	pain	life
+PartOf	processor	computer
+PartOf	foyer	house
+PartOf	cambodia	south east asia
+PartOf	stamen	flower
+PartOf	carburator	car
+PartOf	pupil	class
+PartOf	grandma	family
+PartOf	circulatory system	body
+PartOf	note	some music
+PartOf	honesty	integrity
+PartOf	rod	eye
+PartOf	pay tax	of life
+PartOf	schlong	all dude
+PartOf	poop	pooping
+PartOf	pooping	have butt
+PartOf	cock	cock and ball
+PartOf	stem	flower
+PartOf	arc	circle
+PartOf	my brother	my family
+PartOf	my stomach	my body
+PartOf	missouri	unite state
+PartOf	floor	room
+PartOf	keyboard	piano
+PartOf	face	clock
+PartOf	alberta	canada
+PartOf	table of content	book
+PartOf	president bush	problem
+PartOf	handle	hammer
+PartOf	antenna	radio
+PartOf	frame	picture
+PartOf	disk drive	computer
+PartOf	shirt	outfit
+PartOf	torso	body
+PartOf	sulfuric acid	automobile battery
+PartOf	person	nature
+PartOf	human	natural world
+PartOf	human	nature
+PartOf	person	natural world
+PartOf	burner	hot air balloon
+PartOf	abdomen	insect
+PartOf	day	month
+PartOf	switch	electrical circuit
+PartOf	d	alphabet
+PartOf	o	alphabet
+PartOf	foreskin	penis
+PartOf	glans	penis
+PartOf	jesus	christianity
+PartOf	p	alphabet
+PartOf	yogyakarta	java
+PartOf	bandung	java
+PartOf	java	indonesia
+PartOf	brim	hat
+PartOf	fruit	healthy diet
+PartOf	engine oil	car
+PartOf	farmland	unite state of america
+PartOf	vineyard	farmland
+PartOf	shoelace	shoe
+PartOf	nerve	human body
+PartOf	play card	deck
+PartOf	clutch	car
+PartOf	cerebellum	brain
+PartOf	sweep	clean up kitchen
+PartOf	frustration	human experience
+PartOf	learn	human experience
+PartOf	joy	human experience
+PartOf	lose	game
+PartOf	outfield	baseball stadium
+PartOf	skepticism	human experience
+PartOf	culture	human experience
+PartOf	think	human experience
+PartOf	teamwork	human experience
+PartOf	community	human experience
+PartOf	haifa	israel
+PartOf	gothenburg	sweden
+PartOf	hambourg	germany
+PartOf	frankfurt	germany
+PartOf	mastication and saliva	digestion
+PartOf	verb	predicate
+PartOf	apple	rose family
+PartOf	season	year
+PartOf	brownsville	texas
+PartOf	palermo	italy
+PartOf	solar system	milky way
+PartOf	your finger	your hand
+PartOf	stockholm	sweden
+PartOf	pitcher mound	baseball field
+PartOf	bumper	transportation vehicle
+PartOf	city	few tree than forrest
+PartOf	epistemology	philosophy
+PartOf	sydney	australia
+PartOf	plum	smooth skin
+PartOf	basketball	game
+PartOf	oxygen	atomosphere
+PartOf	smile	service
+PartOf	piston	engine
+PartOf	sugar	candy
+PartOf	lens	eyeglass
+PartOf	tuner	tv
+PartOf	congress	legislature
+PartOf	uncle	family
+PartOf	california	u.s
+PartOf	chest	person
+PartOf	right leg	person
+PartOf	leave leg	person
+PartOf	right ear	person
+PartOf	leave ear	person
+PartOf	leave hand	person
+PartOf	right hand	person
+PartOf	screen	monitor
+PartOf	news	media
+PartOf	killer	community
+PartOf	whore	whorehouse
+PartOf	john safran	entertainment world
+PartOf	human	ecology
+PartOf	animal	ecology
+PartOf	equality for everyone	democracy
+PartOf	political ideology	ideology
+PartOf	adaptation	evolution
+PartOf	belgium	europe
+PartOf	hammer head	hammer
+PartOf	gun powder	firework
+PartOf	homerun wall	baseball stadium
+PartOf	shell	egg
+PartOf	head	person
+PartOf	huddersfield	west yorkshire
+PartOf	blood	body
+PartOf	wall	structure
+PartOf	joint	skeleton
+PartOf	seaside	land
+PartOf	auditorium	concert hall
+PartOf	seaside	ocean
+PartOf	auditorium	music hall
+PartOf	bottle	bottle of wine
+PartOf	slovakia	europe
+PartOf	mind	human
+PartOf	chair	funiture
+PartOf	water hazard	golf course
+PartOf	bios	computer
+PartOf	neuron	cerebral cortex
+PartOf	star	galaxy
+PartOf	organ	organism
+PartOf	synapse	brain
+PartOf	mandible	jaw
+PartOf	tongue	mouth
+PartOf	saddle horn	saddle
+PartOf	car horn	car
+PartOf	antler	moose
+PartOf	antler	deer
+PartOf	row	table
+PartOf	anus	body
+PartOf	dokdo	territory of korea
+PartOf	binary operation	group
+PartOf	speaker	stereo system
+PartOf	stereotype person who have condition	stigma
+PartOf	create division	stigma
+PartOf	wheel	vehicle
+PartOf	intestine	human body
+PartOf	larynx	human body
+PartOf	bladder	human body
+PartOf	stomach	human body
+PartOf	anus	human body
+PartOf	kidney	human body
+PartOf	buff	emacs
+PartOf	visual cortex	brain
+PartOf	energy	everything
+PartOf	concrete foot	playground equipment
+PartOf	know what you want	assertiveness
+PartOf	fiber	yarn
+PartOf	yarn	clothe
+PartOf	equator	globe
+PartOf	frog	nature
+PartOf	sketch idea	paint picture
+PartOf	seattle	king county
+PartOf	pharmaceutical industry	purview of department health and human service
+PartOf	diction	sing
+PartOf	nucleus	oxygen
+PartOf	fact that you cannot create or destroy energy	conservation of energy
+PartOf	blue	visible spectrum
+PartOf	coffee	my morning routine
+PartOf	sheet	bed
+PartOf	military	government
+PartOf	food	life
+PartOf	bathtub	bathroom
+PartOf	cook	kitchen
+PartOf	sink	bathroom
+PartOf	trap	drain
+PartOf	den	house
+PartOf	shower	bathroom
+PartOf	television	den
+PartOf	basin	sink
+PartOf	seatcover	toilet
+PartOf	cabinet	kitchen
+PartOf	cook surface	kitchen
+PartOf	couch	den
+PartOf	facet	sink
+PartOf	boiler	furnace
+PartOf	table	kitchen
+PartOf	bedroom	house
+PartOf	chair	livingroom
+PartOf	filter	espresso machine
+PartOf	food storage	kitchen
+PartOf	counter	kitchen
+PartOf	light	kitchen
+PartOf	coffee table	livingroom
+PartOf	pot and pan	kitchen
+PartOf	drain	sink
+PartOf	sink	kitchen
+PartOf	refridgerator	kitchen
+PartOf	livingroom	house
+PartOf	couch	livingroom
+PartOf	oven	kitchen
+PartOf	tooth	body
+PartOf	keybord	computer
+PartOf	second hand	clock
+PartOf	kyoto	japan
+PartOf	heel	leg
+PartOf	toe	leg
+PartOf	kansai area	japan
+PartOf	piece of paper	pad of paper
+PartOf	hand rest	mouse
+PartOf	connection to computer	mouse
+PartOf	ball	mouse
+PartOf	screen	laptop
+PartOf	north korea	korea
+PartOf	bone	foot
+PartOf	granddaughter	relative
+PartOf	kwanakku	seoul
+PartOf	gorilla	animal
+PartOf	content	book
+PartOf	classroom	school
+PartOf	touchpad	laptop
+PartOf	head usually in hex shape	bolt
+PartOf	604800 second	week
+PartOf	7 day	week
+PartOf	nut	bolt
+PartOf	10080 minute	week
+PartOf	month	calendar
+PartOf	day	calendar
+PartOf	day of week	calendar
+PartOf	thread shaft	bolt
+PartOf	24 hour	day
+PartOf	knowledge	wisdom
+PartOf	168 hour	week
+PartOf	86400 second	day
+PartOf	1440 minute	day
+PartOf	visual neuron	eye
+PartOf	ti-eut	korean consanant
+PartOf	ya	korean vowel
+PartOf	front door	house
+PartOf	telephone receiver	telephone
+PartOf	blood plasma	blood
+PartOf	cheek	face
+PartOf	table-legs	table
+PartOf	locker	door
+PartOf	forefinger	hand
+PartOf	street	country
+PartOf	city	country
+PartOf	desk top	table
+PartOf	key	door
+PartOf	architrave	door
+PartOf	bolt	door
+PartOf	d	nrw
+PartOf	village	country
+PartOf	person	country
+PartOf	flurstrasse	d
+PartOf	memory	computer
+PartOf	belly button	human
+PartOf	great lake	michigan
+PartOf	montcalm county	michigan
+PartOf	windsor	england
+PartOf	ontonagon county	michgian
+PartOf	cushion	couch
+PartOf	shaft	arrow
+PartOf	osceola county	michigan
+PartOf	emmet county	michigan
+PartOf	antenna	cockroach
+PartOf	remote control	television
+PartOf	clip	gun
+PartOf	bid price	stock
+PartOf	sanilac county	michigan
+PartOf	chuugoku middle region	japan
+PartOf	jackson county	michigan
+PartOf	berrien county	michigan
+PartOf	alger county	michigan
+PartOf	muskegon county	michigan
+PartOf	mecosta county	michigan
+PartOf	gogebic county	michigan
+PartOf	cheboygan county	michigan
+PartOf	lenawee county	michigan
+PartOf	grand traverse county	michigan
+PartOf	kalkaska county	michigan
+PartOf	wayne county	michigan
+PartOf	charlevoix county	michigan
+PartOf	antenna	cell phone
+PartOf	button	cell phone
+PartOf	ogemaw county	michgian
+PartOf	mammary gland	mammal
+PartOf	ask price	stock
+PartOf	aichi prefecture	tokai
+PartOf	midnight	day
+PartOf	screen	television
+PartOf	ingham county	michigan
+PartOf	deduction	u.s. tax return
+PartOf	marquette county	michigan
+PartOf	hillsdale county	michigan
+PartOf	windsor	ontario
+PartOf	wexford county	michigan
+PartOf	executive branch	unite state government
+PartOf	hyogo prefecture	kansai
+PartOf	ionia county	michigan
+PartOf	antrim county	michigan
+PartOf	crawford county	michigan
+PartOf	chippewa county	michigan
+PartOf	isabella county	michigan
+PartOf	warm blood	mammal
+PartOf	ca county	michigan
+PartOf	ottawa county	michigan
+PartOf	allegan county	michigan
+PartOf	leg	cockroach
+PartOf	benzie county	michigan
+PartOf	maturity date	bond
+PartOf	noon	day
+PartOf	body	automobile
+PartOf	porch	house
+PartOf	hood	automobile
+PartOf	luce county	michigan
+PartOf	volume	stock
+PartOf	clare county	michigan
+PartOf	mantel	fireplace
+PartOf	gratiot county	michigan
+PartOf	manistee county	michigan
+PartOf	newaygo county	michigan
+PartOf	issue date	bond
+PartOf	keweenaw county	michigan
+PartOf	barry county	michigan
+PartOf	fender	automobile
+PartOf	bay county	michigan
+PartOf	seatbelt	seat
+PartOf	eye	cockroach
+PartOf	screen	cell phone
+PartOf	huron county	michigan
+PartOf	tuscola county	michigan
+PartOf	schoolcraft county	michigan
+PartOf	mackinac county	michigan
+PartOf	judicial branch	unite state government
+PartOf	coupon rate	bond
+PartOf	presque isle county	michigan
+PartOf	hand	analog clock
+PartOf	customer	company
+PartOf	volume	television
+PartOf	door	automobile
+PartOf	leelanau county	michigan
+PartOf	automobile industry	michigan
+PartOf	livingston county	michigan
+PartOf	houghton county	michigan
+PartOf	washtenaw county	michigan
+PartOf	monroe county	michigan
+PartOf	lapeer county	michigan
+PartOf	kent county	michigan
+PartOf	frame	couch
+PartOf	legislative branch	unite state government
+PartOf	income	u.s. tax return
+PartOf	microphone	cell phone
+PartOf	macomb county	michigan
+PartOf	menominee county	michigan
+PartOf	lake county	michigan
+PartOf	sight	gun
+PartOf	department	university
+PartOf	iosco county	michigan
+PartOf	roscommon county	michigan
+PartOf	st. joseph county	michigan
+PartOf	calhoun county	michigan
+PartOf	par value	bond
+PartOf	kagawa prefecture	shikoku
+PartOf	oscoda county	michigan
+PartOf	form 1040	u.s. tax return
+PartOf	upholstery	couch
+PartOf	aisle	store
+PartOf	midland county	michigan
+PartOf	eaton county	michigan
+PartOf	oceana county	michgian
+PartOf	kalamazoo county	michigan
+PartOf	clinton county	michigan
+PartOf	upper peninsula	michigan
+PartOf	delta county	michigan
+PartOf	van buren county	michigan
+PartOf	trade price	stock
+PartOf	dickinson county	michigan
+PartOf	missaukee county	michigan
+PartOf	alcona county	michigan
+PartOf	shiawassee county	michigan
+PartOf	montmorency county	michigan
+PartOf	board of director	company
+PartOf	alpena county	michigan
+PartOf	mason county	michigan
+PartOf	gennesee county	michigan
+PartOf	branch county	michigan
+PartOf	president	company
+PartOf	barrel	gun
+PartOf	otsego county	michigan
+PartOf	face	analog clock
+PartOf	baraga county	michigan
+PartOf	credit	u.s. tax return
+PartOf	st. clair county	michigan
+PartOf	vertebra	mammal
+PartOf	oakland county	michgian
+PartOf	saginaw county	michigan
+PartOf	low peninsula	michigan
+PartOf	exoskeleton	cockroach
+PartOf	arenac county	michigan
+PartOf	gladwin county	michigan
+PartOf	iron county	michigan
+PartOf	kiwi bird	animal
+PartOf	channel	tv
+PartOf	big sister	family
+PartOf	body	human be
+PartOf	heina	animal kingdom
+PartOf	jacket	clothe
+PartOf	end	story
+PartOf	blade	stick
+PartOf	refridgerators	electronic product
+PartOf	n	alphabet letter in capital
+PartOf	y	consonant
+PartOf	sister	family
+PartOf	search tool	internet
+PartOf	pupil of eye	eye
+PartOf	rose of sharon	flower
+PartOf	consonant e	korean alphabet
+PartOf	grand father	family
+PartOf	color pencil	stationary
+PartOf	lecture hall	school
+PartOf	daugther in law	your family
+PartOf	letter w	alphabet
+PartOf	cardiologist	doctor
+PartOf	psychiatrist	doctor
+PartOf	book cover	book
+PartOf	leech	animal
+PartOf	mosquito	animal
+PartOf	young sister or brother	family
+PartOf	japanese monkey	animal kingdom
+PartOf	galaxy	solar system
+PartOf	sole of shoe	shoe
+PartOf	lobster	animal
+PartOf	christmas	public holiday
+PartOf	grand child	relative
+PartOf	africa	map
+PartOf	chistmas	holiday
+PartOf	letter x	alphabet
+PartOf	gynecologist	doctor
+PartOf	letter	book
+PartOf	heart	organ
+PartOf	sealions	animal
+PartOf	your old brother	your family
+PartOf	letter r	alpabet
+PartOf	tumor	janice
+PartOf	skin	foot
+PartOf	electric rice cooker	electric product
+PartOf	volume control	television
+PartOf	article	newspaper
+PartOf	ㅊ sound	consonant of korean language
+PartOf	lion	animal
+PartOf	lion	animal kingdom
+PartOf	keyboard	lap top computer
+PartOf	chicken	animal kingdom
+PartOf	ㅕ vowel	korean alphabet
+PartOf	alarmclock	clock
+PartOf	toe nail	foot
+PartOf	underwear	clothe
+PartOf	stomach	organ
+PartOf	harddisk	computer
+PartOf	cold	janice
+PartOf	your niece	your relative
+PartOf	map	book
+PartOf	erythrocyte	blood
+PartOf	neuropsychologist	doctor
+PartOf	ear	face
+PartOf	doctor	psyciatrist
+PartOf	yusung	dae jon
+PartOf	rabbit	animal
+PartOf	numberpad	cellular phone
+PartOf	aunt	relative
+PartOf	class	school
+PartOf	gorilla	animal kingdom
+PartOf	desert	earth
+PartOf	kangnam province	seoul
+PartOf	dermatologist	doctor
+PartOf	letter g	capital lettersof alphabet
+PartOf	wrist	hand
+PartOf	metro solar system	galaxy
+PartOf	cornea	your eye
+PartOf	wristwatch	watch
+PartOf	rabbit	animal kingdom
+PartOf	instep	foot
+PartOf	ball point pen	stationery
+PartOf	oxygen atom	water molecule
+PartOf	o consonant	korean alphabet
+PartOf	information	book
+PartOf	pony	animal
+PartOf	line in palm	hand
+PartOf	picture	book
+PartOf	snake	animal
+PartOf	clam	animal
+PartOf	rhinocerous	animal kingdom
+PartOf	capital u	alphabet
+PartOf	electric appliance	heater
+PartOf	biophysics as part	physic
+PartOf	water buffalo	animal
+PartOf	torino	italy
+PartOf	wrist watch	watch
+PartOf	flu	janice
+PartOf	granddaughter	family
+PartOf	colon	organ
+PartOf	iguana	animal
+PartOf	surgeon	doctor
+PartOf	duck	animal
+PartOf	playground	school
+PartOf	azalea	flower
+PartOf	iksan	junrabookdo
+PartOf	your aunt	your relative
+PartOf	line in palm area	hand
+PartOf	introduction	story
+PartOf	memory	mainboard computer
+PartOf	large intestine	organ
+PartOf	electrical heater	electrical product
+PartOf	phrygia	flower
+PartOf	gecko	animal
+PartOf	soar throat	janice
+PartOf	auditorium	school
+PartOf	handle	cup
+PartOf	back of hand	hand
+PartOf	blood	white blood cell
+PartOf	ostrich	animal
+PartOf	author note	story
+PartOf	hard disk	main computer
+PartOf	liver	organ
+PartOf	number pad	cell phone
+PartOf	hippo	animal
+PartOf	wolf	animal
+PartOf	handle	car
+PartOf	big brother	family
+PartOf	large intestine	your organ
+PartOf	body	story
+PartOf	raindeers	animal
+PartOf	sea turtle	animal kingdom
+PartOf	hard disk	computer
+PartOf	solid state physic	physic
+PartOf	crocodile	animal
+PartOf	your little sister brother	your family
+PartOf	penguin	animal
+PartOf	cheetah	animal
+PartOf	number pad	cellular phone
+PartOf	herring	animal
+PartOf	baby	family
+PartOf	ㅗ	vowel in korean language
+PartOf	acousic guitar	guitar
+PartOf	colombo	srilanka
+PartOf	chip	robot
+PartOf	townsfolk	bremen
+PartOf	motor	car
+PartOf	house	bremen
+PartOf	mayor	bremen
+PartOf	computer chip	robot
+PartOf	stadium	bremen
+PartOf	road	bremen
+PartOf	vegesack	bremen
+PartOf	bremen	germany
+PartOf	lesum	bremen
+PartOf	city hall	bremen
+PartOf	werder	bremen
+PartOf	motor	robot
+PartOf	football player	werder
+PartOf	pub	bremen
+PartOf	servo	robot
+PartOf	shop	bremen
+PartOf	street light	bremen
+PartOf	room	house
+PartOf	window	car
+PartOf	subject	letter
+PartOf	cathode	tv
+PartOf	soup	menu
+PartOf	money	capitalist system
+PartOf	ginza	tokyo
+PartOf	plastic	dvd
+PartOf	text in it	letter
+PartOf	tuebingen	baden-wuerttemberg
+PartOf	plastic	tv
+PartOf	safety belt	car
+PartOf	slot	vend machine
+PartOf	button	tv
+PartOf	www	internet
+PartOf	red	color spectrum
+PartOf	sender	letter
+PartOf	minister	government
+PartOf	fire	four element
+PartOf	wire	tv
+PartOf	receiver	letter
+PartOf	t	germany
+PartOf	wife of maternal uncle	relative
+PartOf	napoli	italy
+PartOf	toilet bowl	toilet
+PartOf	hair	dog
+PartOf	monaco state	monaco
+PartOf	calf of it	leg
+PartOf	cherry blossom	flower
+PartOf	handle	pot
+PartOf	freesia	flower
+PartOf	leg	foot
+PartOf	blood	blood plasma
+PartOf	number keypad	cellular phone
+PartOf	daejon	chungcheongdo
+PartOf	korea university station	line number 6
+PartOf	transitional cell carcinoma	malignant tumor
+PartOf	reoviridae	rna virus
+PartOf	thrombosis	hemodynamic disorder
+PartOf	malignant melanoma	malignant tumor
+PartOf	fat embolism	hemodynamic disorder
+PartOf	streptococcus	bacteria
+PartOf	hyperemia	hemodynamic disorder
+PartOf	piloviridae	rna virus
+PartOf	hepadnaviridae	dna virus
+PartOf	familial hypercholesterolemia	genetic disorder
+PartOf	togaviridae	rna virus
+PartOf	edward syndrome	genetic disorder
+PartOf	choriocarcinoma	malignant tumor
+PartOf	rhabdomyoma	benign tumor
+PartOf	adenoviridae	dna virus
+PartOf	herpesviridae	dna virus
+PartOf	arenaviridae	rna virus
+PartOf	lymphangiosarcoma	malignant tumor
+PartOf	bacillus	bacteria
+PartOf	hemangioma	benign tumor
+PartOf	liver cell adenoma	benign tumor
+PartOf	transitional cell papilloma	benign tumor
+PartOf	leukemia	malignant tumor
+PartOf	tay-sachs disease	genetic disorder
+PartOf	osteoma	benign tumor
+PartOf	yersina	bacteria
+PartOf	fibroma	benign tumor
+PartOf	systemic thromboembolism	hemodynamic disorder
+PartOf	fibrosarcoma	malignant tumor
+PartOf	pseudomonas	bacteria
+PartOf	clostridium	bacteria
+PartOf	chondrosarcoma	malignant tumor
+PartOf	lysosomal storage disease	genetic disorder
+PartOf	coronaviridae	rna virus
+PartOf	corynebacterium	bacteria
+PartOf	air embolism	hemodynamic disorder
+PartOf	squamous cell papilloma	benign tumor
+PartOf	hepatocellular carcinoma	malignant tumor
+PartOf	chlamydiaceae	bacteria
+PartOf	shock	hemodynamic disorder
+PartOf	orthomyxoviridae	rna virus
+PartOf	salmonella	bacteria
+PartOf	invasive meningioma	malignant tumor
+PartOf	liposarcoma	malignant tumor
+PartOf	renal tubular adenoma	benign tumor
+PartOf	bacteroides	bacteria
+PartOf	proteus	bacteria
+PartOf	papilloma	benign tumor
+PartOf	flaviviridae	rna virus
+PartOf	leiomyosarcoma	malignant tumor
+PartOf	enterobacteriaceae	bacteria
+PartOf	congestion	hemodynamic disorder
+PartOf	bronchial adenom	benign tumor
+PartOf	bunyaviridae	rna virus
+PartOf	bronchogenic carcinoma	malignant tumor
+PartOf	chondroma	benign tumor
+PartOf	down syndrome	genetic disorder
+PartOf	poxviridae	dna virus
+PartOf	turner syndrome	genetic disorder
+PartOf	squamous cell carcinoma	malignant tumor
+PartOf	adenoma	benign tumor
+PartOf	klinefelter syndrome	genetic disorder
+PartOf	klebsiella	bacteria
+PartOf	neurofibromatosis type 1	genetic disorder
+PartOf	papovaviridae	dna virus
+PartOf	mesothelioma	malignant tumor
+PartOf	pulmonary embolism	hemodynamic disorder
+PartOf	paramyxoviridae	rna virus
+PartOf	seminoma	malignant tumor
+PartOf	mycobacterium	bacteria
+PartOf	staphylococcus	bacteria
+PartOf	rhabdoviridae	rna virus
+PartOf	basal cell carcinoma	malignant tumor
+PartOf	neisseria	bacteria
+PartOf	diabetes type 1	immunologically mediate disease
+PartOf	rhabdomyosarcoma	malignant tumor
+PartOf	parvoviridae	dna virus
+PartOf	embryonal carcinoma	malignant tumor
+PartOf	alkaptonuria	genetic disorder
+PartOf	patau syndrome	genetic disorder
+PartOf	angiosarcoma	malignant tumor
+PartOf	vibrio	bacteria
+PartOf	helicobacter	bacteria
+PartOf	cystadenocarcinoma	malignant tumor
+PartOf	escherichia	bacteria
+PartOf	osteogenic sarcoma	malignant tumor
+PartOf	teratoma	benign tumor
+PartOf	systemic lupus erythematosus	immunologically mediate disease
+PartOf	lymphangioma	benign tumor
+PartOf	listeria	bacteria
+PartOf	hydatidiform mole	benign tumor
+PartOf	mucopolysaccharidoses	genetic disorder
+PartOf	meningioma	benign tumor
+PartOf	renal cell carcinoma	malignant tumor
+PartOf	borrelia	bacteria
+PartOf	lymphoma	malignant tumor
+PartOf	campylobacter	bacteria
+PartOf	sjogren syndrome	immunologically mediate disease
+PartOf	leptospira	bacteria
+PartOf	neurofibromatosis type 2	genetic disorder
+PartOf	shigella	bacteria
+PartOf	aid	immunologically mediate disease
+PartOf	angelman syndrome	genetic disorder
+PartOf	haemophilus	bacteria
+PartOf	embolism	hemodynamic disorder
+PartOf	infarction	hemodynamic disorder
+PartOf	retroviridae	rna virus
+PartOf	rickettsia	bacteria
+PartOf	adenocarcinoma	malignant tumor
+PartOf	prader-willi syndrome	genetic disorder
+PartOf	pipillary carcinoma	malignant tumor
+PartOf	amniotic fluid embolism	hemodynamic disorder
+PartOf	anaphylaxis	immunologically mediate disease
+PartOf	bordetella	bacteria
+PartOf	rheumatiod arthritis	immunologically mediate disease
+PartOf	leiomyoma	benign tumor
+PartOf	lipoma	benign tumor
+PartOf	immature teratoma	malignant tumor
+PartOf	dic	hemodynamic disorder
+PartOf	treponema	bacteria
+PartOf	niemann-pick disease	genetic disorder
+PartOf	contact dermatitis	immunologically mediate disease
+PartOf	synovial sarcoma	malignant tumor
+PartOf	glycogen storage disease	genetic disorder
+PartOf	caliciviridae	rna virus
+PartOf	picornaviridae	rna virus
+PartOf	legionella	bacteria
+PartOf	hokkaido	japan
+PartOf	index	book
+PartOf	hummingbird	animal
+PartOf	yong-san	seoul
+PartOf	dentist	doctor
+PartOf	kyushu	japan
+PartOf	saga-ken	kyushu
+PartOf	petal	flower
+PartOf	title	book
+PartOf	author	book
+PartOf	cytocin	dna
+PartOf	daughter	family
+PartOf	rose	flower
+PartOf	day of elect president	holiday
+PartOf	grandson	family
+PartOf	ㅋ	hangul
+PartOf	color pencil	write instrument
+PartOf	gem	ballpen
+PartOf	handle	axe
+PartOf	tail	fish
+PartOf	trunk	tree
+PartOf	lung	whale
+PartOf	scale	fish
+PartOf	seed	fruit
+PartOf	wing	aeroplane
+PartOf	fin	fish
+PartOf	handlebar	bicycle
+PartOf	lapel	shirt
+PartOf	gill	fish
+PartOf	fuselage	aeroplane
+PartOf	collar	shirt
+PartOf	tailplane	aeroplane
+PartOf	fin	whale
+PartOf	text	book
+PartOf	button	shirt
+PartOf	joint	finger
+PartOf	frame	bicycle
+PartOf	bind	book
+PartOf	engine	aeroplane
+PartOf	full	sword
+PartOf	pommel	sword
+PartOf	seal	machine
+PartOf	cross guard	sword
+PartOf	valve	machine
+PartOf	gear	machine
+PartOf	axle	machine
+PartOf	blade	sword
+PartOf	pulley	machine
+PartOf	wedge	machine
+PartOf	chain	machine
+PartOf	bear	machine
+PartOf	spring	machine
+PartOf	point	sword
+PartOf	edge	sword
+PartOf	belt	machine
+PartOf	lever	machine
+PartOf	wheel	machine
+PartOf	grip	sword
+PartOf	hilt	sword
+PartOf	button	monitor
+PartOf	365 day	year
+PartOf	street	infrastructure
+PartOf	smog	polution
+PartOf	4 season	year
+PartOf	52 week	year
+PartOf	sun	our galaxy
+PartOf	12 month	year
+PartOf	winter	four season
+PartOf	ottendorf	germay
+PartOf	honolulu	hawaii
+PartOf	roslindale	boston
+PartOf	jamaica plain	boston
+PartOf	denpasar	bali
+PartOf	miami	florida
+PartOf	san antonio	texas
+PartOf	vancouver	british columbia
+PartOf	london	england
+PartOf	san diego	california
+PartOf	los angeles	california
+PartOf	birmingham	england
+PartOf	manchester	england
+PartOf	milwaukee	wisconsin
+PartOf	oxford	england
+PartOf	edmonton	alberta
+PartOf	winnipeg	manitoba
+PartOf	cleveland	ohio
+PartOf	calgary	alberta
+PartOf	cincinnati	ohio
+PartOf	cardiff	wale
+PartOf	pittsburgh	pennsylvania
+PartOf	houston	texas
+PartOf	philadelphia	pennsylvania
+PartOf	edinburgh	scotland
+PartOf	baltimore	maryland
+PartOf	la vega	nevada
+PartOf	frame	paint
+PartOf	hypthalamus	brain
+PartOf	wine	bottle of wine
+PartOf	gauche disease	genetic disorder
+PartOf	wrinkle skin	age
+PartOf	my face	me
+PartOf	dodge city	kansa
+PartOf	cow	hear
+PartOf	georgia	south
+PartOf	topeka	kansa
+PartOf	drumstick	turkey
+PartOf	this necklace	treasure
+PartOf	lie	slander
+PartOf	irs	problem
+PartOf	department	institution
+PartOf	suspence	mystery
+PartOf	emporium	kansa
+PartOf	neighborhood	city
+PartOf	my idea	answer
+PartOf	hubcap	wheel
+PartOf	tastebud	tongue
+PartOf	captain	team
+PartOf	legislative branch	government
+PartOf	this bus	fleet
+PartOf	customer service	job
+PartOf	gossip	problem
+PartOf	this form	package
+PartOf	bird	flock
+PartOf	this plant	garden
+PartOf	shawnee county	kansa
+PartOf	this page	manuscript
+PartOf	kansa	usa
+PartOf	spine	book
+PartOf	17	set of integer
+PartOf	molecule	donkey
+PartOf	fork	dine set
+PartOf	upper torso	body
+PartOf	colorado	rocky mountain
+PartOf	oregon	northwest
+PartOf	speaker	stereo
+PartOf	strap	purse
+PartOf	tree	orchard
+PartOf	wrench	tool kit
+PartOf	bandage	first aid kit
+PartOf	earpiece	eyeglass
+PartOf	frame	family picture
+PartOf	lens	pair of glass
+PartOf	olive	martini
+PartOf	engine	train
+PartOf	cheat	affair
+PartOf	decade	century
+PartOf	wig	costume
+PartOf	map	atlas
+PartOf	century	milenium
+PartOf	plate	set of dish
+PartOf	nipple	baby bottle
+PartOf	wave	sound
+PartOf	vine	jungle
+PartOf	pattern	logic
+PartOf	camp	gulag
+PartOf	word	quote
+PartOf	caboose	train
+PartOf	year be	decade
+PartOf	wavelength	spectrum
+PartOf	filter	cigarette
+PartOf	cell	live be
+PartOf	sclera	eye
+PartOf	entree	dinner
+PartOf	lock	canal
+PartOf	hump	camel
+PartOf	police officer	police department
+PartOf	bee	colony
+PartOf	nueron	nueral network
+PartOf	leg	spider
+PartOf	snout	pig
+PartOf	chapter	story
+PartOf	sentence	speech
+PartOf	star	constellation
+PartOf	period	punctuation
+PartOf	piece	collection
+PartOf	thread	towel
+PartOf	gun	arsenal
+PartOf	car	train
+PartOf	ovary	female
+PartOf	fraction	whole
+PartOf	my scrotum	my genetalia
+PartOf	basement	build
+PartOf	cerebral cortex	higher-order brain
+PartOf	stock market	economy
+PartOf	stem	apple
+PartOf	terrance and philip	south park
+PartOf	tibia	leg
+PartOf	metatarsal	skeleton
+PartOf	slapstick	comedy
+PartOf	terry gilliam	comedy group monty python
+PartOf	ranma 1 2	anime
+PartOf	icosahedron with raise word	magic 8-ball
+PartOf	ulna	arm
+PartOf	cartoon network	aol time warner
+PartOf	adrenal gland	endocrine system
+PartOf	fibula	leg
+PartOf	love labour lose	shakespeare work
+PartOf	possibility of insanity	human mind
+PartOf	jill jackson	actor equity association
+PartOf	elastic	hair scrunchie
+PartOf	steve job	apple corporation
+PartOf	aol instant messenger	aol
+PartOf	rho	greek alphabet
+PartOf	natural chicle gum base	speakeasy natural gum
+PartOf	advertise	promotion
+PartOf	bottlecap	bottle
+PartOf	vacuole	plant cell
+PartOf	carbonate water	most soda
+PartOf	radius	arm
+PartOf	digitally encode music	cd
+PartOf	skull	skeleton
+PartOf	time	space-time continuum
+PartOf	think	be human
+PartOf	organelle	cell
+PartOf	line	poem
+PartOf	whisker	cat
+PartOf	pommel	saddle
+PartOf	gaskin	horse
+PartOf	bite	bridle
+PartOf	mount everest	himalaya
+PartOf	lobby	build
+PartOf	neuron	nervous system
+PartOf	asteroid belt	solar system
+PartOf	irs	government
+PartOf	great exuma	bahamas
+PartOf	gene	chromosome
+PartOf	pane	window
+PartOf	browband	bridle
+PartOf	hell kitchen	manhattan
+PartOf	learn from experience	grow up
+PartOf	sheep	flock
+PartOf	convolute tubule	kidney
+PartOf	crochet	minim
+PartOf	tobacco	cigarette
+PartOf	cornea	eyeball
+PartOf	dictator	dictatorship
+PartOf	suffer	life of sentient be
+PartOf	man	nature
+PartOf	make mistake	learn
+PartOf	saint paul	twin city
+PartOf	lens	microscope
+PartOf	filament	lightbulb
+PartOf	engine	lawnmower
+PartOf	learn	grow up
+PartOf	salt	dry roast peanut
+PartOf	punchline	joke
+PartOf	tab key	keyboard
+PartOf	spacebar	keyboard
+PartOf	afters	meal
+PartOf	ink cartridge	inkjet printer
+PartOf	start button	gameboy advance
+PartOf	blade	see
+PartOf	world	universe
+PartOf	england	great britain
+PartOf	cushion	sofa
+PartOf	oxfordshire	england
+PartOf	finland	european union
+PartOf	ktichen	house
+PartOf	soundboard	piano
+PartOf	handle	shovel
+PartOf	fly	pant
+PartOf	neighbourhood	town or city
+PartOf	tissue	organ
+PartOf	cell	tissue
+PartOf	green vegetable	meal
+PartOf	ovary	female reproductive system
+PartOf	exam	take course
+PartOf	ribbon	tyepwriter
+PartOf	good taste	style
+PartOf	house	street
+PartOf	street	neighbourhood
+PartOf	aorta	human heart
+PartOf	handset	telephone
+PartOf	note	music
+PartOf	capsid	virus
+PartOf	cone	eye
+PartOf	toner cartridge	laser printer
+PartOf	lace	shoe
+PartOf	physicist	scientifice community
+PartOf	grain of sand	universe
+PartOf	seam	dress
+PartOf	director	movie crew
+PartOf	labour	give birth
+PartOf	sex	life
+PartOf	eye socket	skull
+PartOf	schlong	dude
+PartOf	boob	girl
+PartOf	nice face	beautiful
+PartOf	penis	man eternal struggle
+PartOf	record keep	work in office
+PartOf	flower	bush
+PartOf	slice	orange
+PartOf	slice	golf game
+PartOf	mother	family
+PartOf	memory chip	computer
+PartOf	purr	cat noise
+PartOf	seaweed	ocean
+PartOf	my toe	my body
+PartOf	my back	my body
+PartOf	your tongue	your body
+PartOf	your nose	your body
+PartOf	your foot	your body
+PartOf	lung	dog body
+PartOf	slice of pie	whole pie
+PartOf	your brain	your body
+PartOf	moab	utah
+PartOf	leaf	some flower
+PartOf	spring	watch
+PartOf	cell membrane	cell
+PartOf	taste bud	tongue
+PartOf	lincoln	nebraska
+PartOf	cry	life
+PartOf	sleep	life
+PartOf	practice	play violin
+PartOf	make mistake	grow up
+PartOf	loss	life
+PartOf	hour	day
+PartOf	intermission	play
+PartOf	television	modern media
+PartOf	kraft food	phillip morris co
+PartOf	pocket	pair of pant
+PartOf	carbonate water	soda
+PartOf	trial by error	learn experience
+PartOf	act	play
+PartOf	terra linda	san rafael
+PartOf	milk	healthy diet
+PartOf	greenland	denmark
+PartOf	soup	meal
+PartOf	kernel	on operate system
+PartOf	music	entertainment
+PartOf	dorchester	boston
+PartOf	beacon hill	boston
+PartOf	filament	light bulb
+PartOf	back bay	boston
+PartOf	grain of sand	beach
+PartOf	amrin county	california
+PartOf	good day and bad day	live
+PartOf	we person	preamble
+PartOf	head	penis
+PartOf	yawn	go to bed
+PartOf	buttock	normal human body
+PartOf	two arm	normal human body
+PartOf	1 mouth	head
+PartOf	two wrist	normal human body
+PartOf	2 leg	normal human body
+PartOf	2 thigh	normal human body
+PartOf	vagina	normal female human body
+PartOf	1 back	normal human body
+PartOf	1 head	normal human body
+PartOf	1 abdomen	normal human body
+PartOf	1 nose	head
+PartOf	1 neck	normal human body
+PartOf	2 ear	head
+PartOf	1 chest	normal human body
+PartOf	two hand	normal human body
+PartOf	1 belly button	normal human body
+PartOf	10 toe	normal human body
+PartOf	1 torso	normal human body
+PartOf	2 shoulder	normal human body
+PartOf	2 breast	normal female human body
+PartOf	hair	head of typical person
+PartOf	2 eye	head
+PartOf	10 finger	normal human body
+PartOf	two elbow	normal human body
+PartOf	2 face	head
+PartOf	2 foot	normal human body
+PartOf	brush	electric motor
+PartOf	cord	telephone
+PartOf	cheese	pizza
+PartOf	generator	car
+PartOf	get messy	good sex
+PartOf	wire	electronic device
+PartOf	fulcrum	lever
+PartOf	cover	notebook
+PartOf	incline plane	screw
+PartOf	drink	meal
+PartOf	lid	box
+PartOf	conductor	electrical circuit
+PartOf	rudder	airplane
+PartOf	land gear	airplane
+PartOf	crust	pizza
+PartOf	bite	drill
+PartOf	arm	person
+PartOf	grow	live
+PartOf	escapement	mechanical timepiece
+PartOf	frame	window
+PartOf	overpopulation	problem with environment
+PartOf	epilog	book
+PartOf	sauce	pizza
+PartOf	get there	fun
+PartOf	humanity	earth ecosystem
+PartOf	index	reference book
+PartOf	display	computer
+PartOf	control tower	airport
+PartOf	shelf	bookcase
+PartOf	sleep	daily routine
+PartOf	plant	nature
+PartOf	me	we
+PartOf	animal	nature
+PartOf	keyhole	door
+PartOf	you	we
+PartOf	get wrinkle	grow old
+PartOf	music	simple life
+PartOf	mindless paperwork	most job
+PartOf	mitochondrion	eukaryotic cell
+PartOf	excessive pollution	consumerism
+PartOf	floppy disk drive	of computer
+PartOf	increase pollution	vote republician
+PartOf	waste	modern consumer lifestyle
+PartOf	censorship	philosophy of religious right
+PartOf	practice	learn to draw
+PartOf	organic garden	independent live
+PartOf	page	of web site
+PartOf	wire	operate computer
+PartOf	organic garden	rational live
+PartOf	pollution	drive car
+PartOf	hand	clock
+PartOf	propeller	of aircraft
+PartOf	hook	fish tackle
+PartOf	mindless busywork	most job
+PartOf	daggerboard	sailboat
+PartOf	christmas	december
+PartOf	christmas	december spendy frenzy
+PartOf	pollution	consumerism
+PartOf	smile	make love
+PartOf	garden	sustainable society
+PartOf	excess pollution	drive suv
+PartOf	useless paperwork	modern business
+PartOf	tongue	of shoe
+PartOf	think	human life
+PartOf	battery	solar energy system
+PartOf	dial	clock
+PartOf	cathode ray tube	television
+PartOf	liver	body
+PartOf	kidney	body
+PartOf	trouble	life
+PartOf	shade	lamp
+PartOf	water	sea
+PartOf	zipper	clothe
+PartOf	wheel	skateboard
+PartOf	blade	hockey stick
+PartOf	v	alphabet
+PartOf	z	alphabet
+PartOf	northridge	california
+PartOf	e	alphabet
+PartOf	w	alphabet
+PartOf	brazil	south america
+PartOf	cry	sadness
+PartOf	pore	skin
+PartOf	l	alphabet
+PartOf	n	alphabet
+PartOf	x	alphabet
+PartOf	i	alphabet
+PartOf	k	alphabet
+PartOf	f	alphabet
+PartOf	q	alphabet
+PartOf	pornagraphy	society
+PartOf	h	alphabet
+PartOf	b	alphabet
+PartOf	follicle	hair
+PartOf	mexico	north america
+PartOf	g	alphabet
+PartOf	u	alphabet
+PartOf	r	alphabet
+PartOf	j	alphabet
+PartOf	m	alphabet
+PartOf	c	alphabet
+PartOf	chaos	quantum theory
+PartOf	word	dictionary
+PartOf	study	education
+PartOf	amanda	danilo
+PartOf	amanda	pedros heart
+PartOf	mr harrison	british school
+PartOf	minneapolis	twin city
+PartOf	lobe	ear
+PartOf	little bite	alot
+PartOf	donkey tail	donkey
+PartOf	portland harbor	gulf of maine
+PartOf	stomach	human abdominal organ
+PartOf	harris	scotland western isle
+PartOf	liver	human abdominal organ
+PartOf	lewis	scotland western isle
+PartOf	highland region	scotland
+PartOf	moluccas	indonesia
+PartOf	kalimantan	indonesia
+PartOf	sunda	indonesia
+PartOf	bali	indonesia
+PartOf	timor	indonesia
+PartOf	computer	network
+PartOf	curl	wave
+PartOf	off-ramp	superhighway
+PartOf	corn husk	tamale
+PartOf	pop	pop culture
+PartOf	mistake	life
+PartOf	queen	monarchy
+PartOf	statley old home	our national heritage
+PartOf	person need to feel like tehy	something
+PartOf	bus	education system
+PartOf	mountain lion	cat family
+PartOf	utensil	every great meal
+PartOf	fish	and island ecosystem
+PartOf	equestrian event	summer olympics
+PartOf	doctor	health care
+PartOf	fresh fruit	healthy diet
+PartOf	submarine	our national defense system
+PartOf	bob dylan son jacob	group call wallflower
+PartOf	live room	someone home
+PartOf	most person	worldwide money make machine
+PartOf	rubber chicken	low-brow humour
+PartOf	violin	string section
+PartOf	brass section	orchestra
+PartOf	this space	science fiction story
+PartOf	submarine	navy fleet
+PartOf	professional golfer	pga tour
+PartOf	nut and bolt	set
+PartOf	wheel	motorcycle
+PartOf	armenia	europe
+PartOf	holland	europe
+PartOf	four leg	squirrel
+PartOf	fur	frog
+PartOf	string	harpsichord
+PartOf	front room	house
+PartOf	god	church
+PartOf	this	guitar
+PartOf	modern stereo that	oldsmobile
+PartOf	this	string instrument
+PartOf	this	basketball game
+PartOf	this	rollercoaster
+PartOf	lounge room	house
+PartOf	cymbal	drum set
+PartOf	toothbrush bristle	toothbrush
+PartOf	ledge	cliff
+PartOf	entranceway	house
+PartOf	person who dress alike usually	same group
+PartOf	cloud	weather
+PartOf	middle east	asia
+PartOf	run	many game
+PartOf	this	their philosophy of eat correctly
+PartOf	motherboard	computer
+PartOf	pillow	bed
+PartOf	roof	house
+PartOf	chapter	of book
+PartOf	battle	war
+PartOf	earth	solar system
+PartOf	steer wheel	automobile
+PartOf	toenail	toe
+PartOf	button	mouse
+PartOf	germany	europe
+PartOf	brother	family
+PartOf	branch	tree
+PartOf	lens	eye
+PartOf	tree	forest
+PartOf	live room	house
+PartOf	nucleus	cell
+PartOf	glass	window
+PartOf	hand	arm
+PartOf	oxygen	air
+PartOf	radiator	car
+PartOf	wall	house
+PartOf	handle	door
+PartOf	iris	eye
+PartOf	engine	car
+PartOf	kitchen	house
+PartOf	trunk	automobile
+PartOf	engine	automobile
+PartOf	dog	animal kingdom
+PartOf	pupil	eye
+PartOf	wheel	bicycle
+PartOf	mouth	face
+PartOf	screen	tv
+PartOf	this word	this sentence
+PartOf	our solar system	galaxy
+PartOf	leg	table
+PartOf	wave	ocean
+PartOf	mouse	computer
+PartOf	blade	knife
+PartOf	window	build
+PartOf	player	team
+PartOf	brain	body
+PartOf	aunt	family
+PartOf	head	animal
+PartOf	media lab	mit
+PartOf	hunter point	san francisco
+PartOf	love	live
+PartOf	austin	texas
+PartOf	verb	sentence
+PartOf	switzerland	europe
+PartOf	heart	human body
+PartOf	spine	human body
+PartOf	liver	human body
+PartOf	pancreas	human body
+PartOf	brain	human body
+PartOf	root	plant
+PartOf	stem	plant
+PartOf	land	earth
+PartOf	nostril	nose
+PartOf	fingerprint	finger
+PartOf	word	language
+PartOf	my penis	my body
+PartOf	neuron	brain
+PartOf	my mother	my family
+PartOf	kernel	operate system
+PartOf	atom	molecule
+PartOf	pitcher	baseball team
+PartOf	heart	body
+PartOf	france	europe
+PartOf	vegetable	healthy diet
+PartOf	room	build
+PartOf	idea	philosophy
+PartOf	openmind	internet
+PartOf	quebec	canada
+PartOf	nose	head
+PartOf	texas	unite state of america
+PartOf	noun	sentence
+PartOf	mouse	rodent family
+PartOf	hydrogen	water
+PartOf	knuckle	finger
+PartOf	ink	pen
+PartOf	foundation	house
+PartOf	toilet	bathroom
+PartOf	tooth	mouth
+PartOf	lead	pencil
+PartOf	afternoon	day
+PartOf	employee	company
+PartOf	fingernail	hand
+PartOf	door	car
+PartOf	cell	body
+PartOf	window	house
+PartOf	s	alphabet
+PartOf	turtle	animal
+PartOf	sleeve	shirt
+PartOf	root	tree
+PartOf	seat	bicycle
+PartOf	television studio	office build
+PartOf	screen	notebook computer
+PartOf	touchpad	notebook computer
+PartOf	horse	animal
+PartOf	shark	animal
+PartOf	lily	flower
+PartOf	classic guitar	guitar
+PartOf	detroit	michigan
+PartOf	bite	byte
+PartOf	student	class
+PartOf	hand	body
+PartOf	doorknob	door
+PartOf	neutron	atom
+PartOf	california	unite state of america
+PartOf	hair	your head
+PartOf	bumper	car
+PartOf	doubt	human experience
+PartOf	letter	alphabet
+PartOf	kidney	of human body
+PartOf	new york city	new york state
+PartOf	pacific bell park	san francisco
+PartOf	lodi	cal
+PartOf	ingleside	san francisco
+PartOf	market street	san francisco
+PartOf	sentence	paragraph
+PartOf	pit	peach
+PartOf	scotland	british isle
+PartOf	curl curl	sydney
+PartOf	wing	bird
+PartOf	new south wale	australia
+PartOf	yukon	canada
+PartOf	leg	chair
+PartOf	curiosity	human nature
+PartOf	mankind	nature
+PartOf	brisbane	queensland
+PartOf	attic	house
+PartOf	sailboat	regatta
+PartOf	tree	forrest
+PartOf	keyboard	computer system
+PartOf	a	alphabet
+PartOf	shenzhen	china
+PartOf	lung	human body
+PartOf	israel	middle east
+PartOf	eat pussy	sexual regiment
+PartOf	bathroom	house
+PartOf	receiver	telephone
+PartOf	knee	leg
+PartOf	little finger	hand
+PartOf	lung	body
+PartOf	hour hand	clock
+PartOf	heel	foot
+PartOf	arch	foot
+PartOf	middle finger	hand
+PartOf	thumb	hand
+PartOf	tabletop	table
+PartOf	leave leg	human
+PartOf	flower	plant
+PartOf	bud	plant
+PartOf	morning	day
+PartOf	transmission	automobile
+PartOf	grandmother	family
+PartOf	car	traffic
+PartOf	city	state
+PartOf	state	country
+PartOf	steer wheel	car
+PartOf	hair	head
+PartOf	membrane	animal
+PartOf	nail	finger
+PartOf	month	year
+PartOf	leave	tree
+PartOf	chin	face
+PartOf	fingernail	finger
+PartOf	bavaria	germany
+PartOf	san francisco	california
+PartOf	monitor	computer system
+PartOf	kansa	unite state
+PartOf	penis	male
+PartOf	satan	christian myth
+PartOf	sex	procreation
+PartOf	brain	person
+PartOf	soldier	army
+PartOf	lid	jar
+PartOf	horn	car
+PartOf	garden	house
+PartOf	bread	sandwich
+PartOf	ontario	canada
+PartOf	sole	shoe
+PartOf	my sister	my family
+PartOf	your liver	your body
+PartOf	pi	geometry
+PartOf	foot	body
+PartOf	penis	normal male human body
+PartOf	anus	normal human body
+PartOf	calgary	canada
+PartOf	lettuce	salad
+PartOf	blade	fan
+PartOf	tail	cat
+PartOf	internet	modern communication system
+PartOf	wing	airplane
+PartOf	minute	hour
+PartOf	florida	unite state
+PartOf	montana	unite state
+PartOf	solar system	galaxy
+PartOf	bone	dolphin
+PartOf	frontal lobe	brain
+PartOf	death	human experience
+PartOf	masturbation	person sexual repertoire
+PartOf	birth	human experience
+PartOf	new england	unite state
+PartOf	kashmir	india
+PartOf	moniter	computer
+PartOf	scottland	great brittain
+PartOf	ball bear	machine
+PartOf	unite state of america	north america
+PartOf	bow	ship
+PartOf	side	house
+PartOf	wheel	wagon
+PartOf	foot	human body
+PartOf	sprocket	bicycle
+PartOf	strike plate	door assembly
+PartOf	icemaker	refrigerator
+PartOf	mainspring	watch
+PartOf	fleet	navy
+PartOf	lung be	human body
+PartOf	fabric	sofa
+PartOf	shoe lace	shoe
+PartOf	purge valve	part of scuba mask
+PartOf	pay tax	life
+PartOf	brick	brick wall
+PartOf	valve	trumpet
+PartOf	ice	cake
+PartOf	neon sign	la vega
+PartOf	hull	ship
+PartOf	pirate	pirate crew
+PartOf	basement	house
+PartOf	string	kite
+PartOf	president	executive branch
+PartOf	fun	life
+PartOf	city	province
+PartOf	province	country
+PartOf	every grandfather	family
+PartOf	udder	cow
+PartOf	carbon dioxide	atomosphere
+PartOf	nitrogen	atomosphere
+PartOf	hydrogen	atomosphere
+PartOf	america	world
+PartOf	lock	door
+PartOf	tourism	travel industry
+PartOf	stone	build
+PartOf	sun	of universe
+PartOf	guilt	crime
+PartOf	tenderloin	new york city
+PartOf	church street	san francisco
+PartOf	transamerica pyramid	san francisco
+PartOf	haight-ashbury	san francisco
+PartOf	alamo square	san francisco
+PartOf	oregon	u.s
+PartOf	van ness blvd	san francisco
+PartOf	vacavile	california
+PartOf	doublerock	san francisco
+PartOf	chicago	il
+PartOf	san bernadino	california
+PartOf	happy mac	san francisco
+PartOf	vermont	u.s
+PartOf	richmond district	san francisco
+PartOf	act	theater
+PartOf	crissey field	san francisco
+PartOf	presidio	san francisco
+PartOf	compton	los angeles
+PartOf	sfo	san francisco
+PartOf	union square	san francisco
+PartOf	cable car system	san francisco
+PartOf	san rafael	california
+PartOf	san ramon	california
+PartOf	dogpatch	san francisco
+PartOf	salem	oregon
+PartOf	marin county	california
+PartOf	embarcadero	san francisco
+PartOf	delores st	san francisco
+PartOf	alcatraz	san francisco
+PartOf	union street	san francisco
+PartOf	golden gate park	san francisco
+PartOf	subic bay	phillippines
+PartOf	bangor	maine
+PartOf	city college	san francisco
+PartOf	fisherman warf	san francisco
+PartOf	alamo	texas
+PartOf	manila	phillippines
+PartOf	coit tower	san francisco
+PartOf	phoenix	arizona
+PartOf	san francisco state university	san francisco
+PartOf	alaska	u.s
+PartOf	san jose ave	san francisco
+PartOf	charlie watt	roll stone
+PartOf	keith richards	roll stone
+PartOf	boston	mass
+PartOf	marina district	san francisco
+PartOf	watt	los angeles
+PartOf	market stree	san francisco
+PartOf	pier 39	san francisco
+PartOf	paragraph	textual document
+PartOf	child	family
+PartOf	saarbruecken	saarland
+PartOf	character	word
+PartOf	madagascar	indian ocean
+PartOf	childhood	human life
+PartOf	large intestine	human body
+PartOf	heart	humab body
+PartOf	keypad	phone
+PartOf	pit	plum
+PartOf	sorrow	life
+PartOf	fuel pump	car
+PartOf	rib cage	human body
+PartOf	diaphram	human body
+PartOf	display tube	television
+PartOf	small intestine	human body
+PartOf	pit	olive
+PartOf	air compose of oxygen	earth atomosphere
+PartOf	half	whole
+PartOf	lose	play sport
+PartOf	outfield	baseball diamond
+PartOf	viewfinder	camera
+PartOf	siracusa	sicily
+PartOf	rain	weather
+PartOf	plant	ecosystem
+PartOf	shoe	someone clothe
+PartOf	illusion	magic
+PartOf	human	human society
+PartOf	grape	wine
+PartOf	hard work	whole job
+PartOf	music	recreation
+PartOf	all life	ecosystem
+PartOf	fuel emission	environment decline
+PartOf	business card	business promotional material
+PartOf	animal	ecosystem
+PartOf	exertion	recreation
+PartOf	eardrum	ear
+PartOf	relaxation	recreation
+PartOf	house	someone asset
+PartOf	fog	weather
+PartOf	forest	nature
+PartOf	taste	tongue purpose
+PartOf	error	learn
+PartOf	snow	weather
+PartOf	business	business community
+PartOf	surrey	england
+PartOf	sermon	church service
+PartOf	mast	sailboat
+PartOf	mission viejo	orange county
+PartOf	foundation	build
+PartOf	hull	sailboat
+PartOf	bow	sailboat
+PartOf	stern	sailboat
+PartOf	chimney	house
+PartOf	orange county	california
+PartOf	sail	sailboat
+PartOf	sailboat owner	yacht club
+PartOf	rudder	sailboat
+PartOf	testimony	trial
+PartOf	denmark	scandinavia
+PartOf	sweden	scandinavia
+PartOf	norway	scandinavia
+PartOf	shower	house
+PartOf	muscle	body
+PartOf	equality for everyone	communism
+PartOf	elbow	arm
+PartOf	leaf	plant
+PartOf	russia	europe
+PartOf	great pumpkin	halloween
+PartOf	emotion	mind
+PartOf	harare	zimbabwe
+PartOf	chernobyl	ukraine
+PartOf	minister	cabinet
+PartOf	proton	nucleus
+PartOf	organ	body
+PartOf	lebanon	asia
+PartOf	spain	europe
+PartOf	key	piano
+PartOf	heart	circulatory system
+PartOf	tel aviv	israel
+PartOf	oxygen	water
+PartOf	oxygen	carbon dioxide
+PartOf	mit	massachusetts
+PartOf	date	calendar
+PartOf	owl	animal kingdom
+PartOf	saskinbakkal	istanbul
+PartOf	golgi apparatu	animal cell
+PartOf	studio 3b	ge build
+PartOf	centriole	animal cell
+PartOf	plasma membrane	animal cell
+PartOf	television studio	build
+PartOf	nucleolu	animal cell
+PartOf	cell nucleus	animal cell
+PartOf	endoplasmic reticulum	animal cell
+PartOf	television studio	france 2 build
+PartOf	cytoplasm	animal cell
+PartOf	yolk	egg
+PartOf	floor	build
+PartOf	mitochondrion	animal cell
+PartOf	radio studio	office build
+PartOf	castro	san francisco
+PartOf	mission	san francisco
+PartOf	ribosome	animal cell
+PartOf	noun	speech
+PartOf	lysosome	animal cell
+PartOf	studio 3k	ge build
+PartOf	nuclear membrane	animal cell
+PartOf	chromosome	animal cell
+PartOf	transport system	plant
+PartOf	root	transport system of plant
+PartOf	handle	coffee mug
+PartOf	temporal lobe	brain
+PartOf	manhattan	new york
+PartOf	null set	all set
+PartOf	lens	camera
+PartOf	number	scale
+PartOf	nail	house
+PartOf	pain	life
+PartOf	processor	computer
+PartOf	foyer	house
+PartOf	cambodia	south east asia
+PartOf	stamen	flower
+PartOf	carburator	car
+PartOf	pupil	class
+PartOf	grandma	family
+PartOf	circulatory system	body
+PartOf	note	some music
+PartOf	honesty	integrity
+PartOf	rod	eye
+PartOf	pay tax	of life
+PartOf	schlong	all dude
+PartOf	poop	pooping
+PartOf	pooping	have butt
+PartOf	cock	cock and ball
+PartOf	stem	flower
+PartOf	arc	circle
+PartOf	my brother	my family
+PartOf	my stomach	my body
+PartOf	missouri	unite state
+PartOf	floor	room
+PartOf	keyboard	piano
+PartOf	face	clock
+PartOf	alberta	canada
+PartOf	table of content	book
+PartOf	president bush	problem
+PartOf	handle	hammer
+PartOf	antenna	radio
+PartOf	frame	picture
+PartOf	disk drive	computer
+PartOf	shirt	outfit
+PartOf	torso	body
+PartOf	sulfuric acid	automobile battery
+PartOf	person	nature
+PartOf	human	natural world
+PartOf	human	nature
+PartOf	person	natural world
+PartOf	burner	hot air balloon
+PartOf	abdomen	insect
+PartOf	day	month
+PartOf	switch	electrical circuit
+PartOf	d	alphabet
+PartOf	o	alphabet
+PartOf	foreskin	penis
+PartOf	glans	penis
+PartOf	jesus	christianity
+PartOf	p	alphabet
+PartOf	yogyakarta	java
+PartOf	bandung	java
+PartOf	java	indonesia
+PartOf	brim	hat
+PartOf	fruit	healthy diet
+PartOf	engine oil	car
+PartOf	farmland	unite state of america
+PartOf	vineyard	farmland
+PartOf	shoelace	shoe
+PartOf	nerve	human body
+PartOf	play card	deck
+PartOf	clutch	car
+PartOf	cerebellum	brain
+PartOf	sweep	clean up kitchen
+PartOf	frustration	human experience
+PartOf	learn	human experience
+PartOf	joy	human experience
+PartOf	lose	game
+PartOf	outfield	baseball stadium
+PartOf	skepticism	human experience
+PartOf	culture	human experience
+PartOf	think	human experience
+PartOf	teamwork	human experience
+PartOf	community	human experience
+PartOf	haifa	israel
+PartOf	gothenburg	sweden
+PartOf	hambourg	germany
+PartOf	frankfurt	germany
+PartOf	mastication and saliva	digestion
+PartOf	verb	predicate
+PartOf	apple	rose family
+PartOf	season	year
+PartOf	brownsville	texas
+PartOf	palermo	italy
+PartOf	solar system	milky way
+PartOf	your finger	your hand
+PartOf	stockholm	sweden
+PartOf	pitcher mound	baseball field
+PartOf	bumper	transportation vehicle
+PartOf	city	few tree than forrest
+PartOf	epistemology	philosophy
+PartOf	sydney	australia
+PartOf	plum	smooth skin
+PartOf	basketball	game
+PartOf	oxygen	atomosphere
+PartOf	smile	service
+PartOf	piston	engine
+PartOf	sugar	candy
+PartOf	lens	eyeglass
+PartOf	tuner	tv
+PartOf	congress	legislature
+PartOf	uncle	family
+PartOf	california	u.s
+PartOf	chest	person
+PartOf	right leg	person
+PartOf	leave leg	person
+PartOf	right ear	person
+PartOf	leave ear	person
+PartOf	leave hand	person
+PartOf	right hand	person
+PartOf	screen	monitor
+PartOf	news	media
+PartOf	killer	community
+PartOf	whore	whorehouse
+PartOf	john safran	entertainment world
+PartOf	human	ecology
+PartOf	animal	ecology
+PartOf	equality for everyone	democracy
+PartOf	political ideology	ideology
+PartOf	adaptation	evolution
+PartOf	belgium	europe
+PartOf	hammer head	hammer
+PartOf	gun powder	firework
+PartOf	homerun wall	baseball stadium
+PartOf	shell	egg
+PartOf	head	person
+PartOf	huddersfield	west yorkshire
+PartOf	blood	body
+PartOf	wall	structure
+PartOf	joint	skeleton
+PartOf	seaside	land
+PartOf	auditorium	concert hall
+PartOf	seaside	ocean
+PartOf	auditorium	music hall
+PartOf	bottle	bottle of wine
+PartOf	slovakia	europe
+PartOf	mind	human
+PartOf	chair	funiture
+PartOf	water hazard	golf course
+PartOf	bios	computer
+PartOf	neuron	cerebral cortex
+PartOf	star	galaxy
+PartOf	organ	organism
+PartOf	synapse	brain
+PartOf	mandible	jaw
+PartOf	tongue	mouth
+PartOf	saddle horn	saddle
+PartOf	car horn	car
+PartOf	antler	moose
+PartOf	antler	deer
+PartOf	row	table
+PartOf	anus	body
+PartOf	dokdo	territory of korea
+PartOf	binary operation	group
+PartOf	speaker	stereo system
+PartOf	stereotype person who have condition	stigma
+PartOf	create division	stigma
+PartOf	wheel	vehicle
+PartOf	intestine	human body
+PartOf	larynx	human body
+PartOf	bladder	human body
+PartOf	stomach	human body
+PartOf	anus	human body
+PartOf	kidney	human body
+PartOf	buff	emacs
+PartOf	visual cortex	brain
+PartOf	energy	everything
+PartOf	concrete foot	playground equipment
+PartOf	know what you want	assertiveness
+PartOf	fiber	yarn
+PartOf	yarn	clothe
+PartOf	equator	globe
+PartOf	frog	nature
+PartOf	sketch idea	paint picture
+PartOf	seattle	king county
+PartOf	pharmaceutical industry	purview of department health and human service
+PartOf	diction	sing
+PartOf	nucleus	oxygen
+PartOf	fact that you cannot create or destroy energy	conservation of energy
+PartOf	blue	visible spectrum
+PartOf	coffee	my morning routine
+PartOf	sheet	bed
+PartOf	military	government
+PartOf	food	life
+PartOf	bathtub	bathroom
+PartOf	cook	kitchen
+PartOf	sink	bathroom
+PartOf	trap	drain
+PartOf	den	house
+PartOf	shower	bathroom
+PartOf	television	den
+PartOf	basin	sink
+PartOf	seatcover	toilet
+PartOf	cabinet	kitchen
+PartOf	cook surface	kitchen
+PartOf	couch	den
+PartOf	facet	sink
+PartOf	boiler	furnace
+PartOf	table	kitchen
+PartOf	bedroom	house
+PartOf	chair	livingroom
+PartOf	filter	espresso machine
+PartOf	food storage	kitchen
+PartOf	counter	kitchen
+PartOf	light	kitchen
+PartOf	coffee table	livingroom
+PartOf	pot and pan	kitchen
+PartOf	drain	sink
+PartOf	sink	kitchen
+PartOf	refridgerator	kitchen
+PartOf	livingroom	house
+PartOf	couch	livingroom
+PartOf	oven	kitchen
+PartOf	tooth	body
+PartOf	keybord	computer
+PartOf	second hand	clock
+PartOf	kyoto	japan
+PartOf	heel	leg
+PartOf	toe	leg
+PartOf	kansai area	japan
+PartOf	piece of paper	pad of paper
+PartOf	hand rest	mouse
+PartOf	connection to computer	mouse
+PartOf	ball	mouse
+PartOf	screen	laptop
+PartOf	north korea	korea
+PartOf	bone	foot
+PartOf	granddaughter	relative
+PartOf	kwanakku	seoul
+PartOf	gorilla	animal
+PartOf	content	book
+PartOf	classroom	school
+PartOf	touchpad	laptop
+PartOf	head usually in hex shape	bolt
+PartOf	604800 second	week
+PartOf	7 day	week
+PartOf	nut	bolt
+PartOf	10080 minute	week
+PartOf	month	calendar
+PartOf	day	calendar
+PartOf	day of week	calendar
+PartOf	thread shaft	bolt
+PartOf	24 hour	day
+PartOf	knowledge	wisdom
+PartOf	168 hour	week
+PartOf	86400 second	day
+PartOf	1440 minute	day
+PartOf	visual neuron	eye
+PartOf	ti-eut	korean consanant
+PartOf	ya	korean vowel
+PartOf	front door	house
+PartOf	telephone receiver	telephone
+PartOf	blood plasma	blood
+PartOf	cheek	face
+PartOf	table-legs	table
+PartOf	locker	door
+PartOf	forefinger	hand
+PartOf	street	country
+PartOf	city	country
+PartOf	desk top	table
+PartOf	key	door
+PartOf	architrave	door
+PartOf	bolt	door
+PartOf	d	nrw
+PartOf	village	country
+PartOf	person	country
+PartOf	flurstrasse	d
+PartOf	memory	computer
+PartOf	belly button	human
+PartOf	great lake	michigan
+PartOf	montcalm county	michigan
+PartOf	windsor	england
+PartOf	ontonagon county	michgian
+PartOf	cushion	couch
+PartOf	shaft	arrow
+PartOf	osceola county	michigan
+PartOf	emmet county	michigan
+PartOf	antenna	cockroach
+PartOf	remote control	television
+PartOf	clip	gun
+PartOf	bid price	stock
+PartOf	sanilac county	michigan
+PartOf	chuugoku middle region	japan
+PartOf	jackson county	michigan
+PartOf	berrien county	michigan
+PartOf	alger county	michigan
+PartOf	muskegon county	michigan
+PartOf	mecosta county	michigan
+PartOf	gogebic county	michigan
+PartOf	cheboygan county	michigan
+PartOf	lenawee county	michigan
+PartOf	grand traverse county	michigan
+PartOf	kalkaska county	michigan
+PartOf	wayne county	michigan
+PartOf	charlevoix county	michigan
+PartOf	antenna	cell phone
+PartOf	button	cell phone
+PartOf	ogemaw county	michgian
+PartOf	mammary gland	mammal
+PartOf	ask price	stock
+PartOf	aichi prefecture	tokai
+PartOf	midnight	day
+PartOf	screen	television
+PartOf	ingham county	michigan
+PartOf	deduction	u.s. tax return
+PartOf	marquette county	michigan
+PartOf	hillsdale county	michigan
+PartOf	windsor	ontario
+PartOf	wexford county	michigan
+PartOf	executive branch	unite state government
+PartOf	hyogo prefecture	kansai
+PartOf	ionia county	michigan
+PartOf	antrim county	michigan
+PartOf	crawford county	michigan
+PartOf	chippewa county	michigan
+PartOf	isabella county	michigan
+PartOf	warm blood	mammal
+PartOf	ca county	michigan
+PartOf	ottawa county	michigan
+PartOf	allegan county	michigan
+PartOf	leg	cockroach
+PartOf	benzie county	michigan
+PartOf	maturity date	bond
+PartOf	noon	day
+PartOf	body	automobile
+PartOf	porch	house
+PartOf	hood	automobile
+PartOf	luce county	michigan
+PartOf	volume	stock
+PartOf	clare county	michigan
+PartOf	mantel	fireplace
+PartOf	gratiot county	michigan
+PartOf	manistee county	michigan
+PartOf	newaygo county	michigan
+PartOf	issue date	bond
+PartOf	keweenaw county	michigan
+PartOf	barry county	michigan
+PartOf	fender	automobile
+PartOf	bay county	michigan
+PartOf	seatbelt	seat
+PartOf	eye	cockroach
+PartOf	screen	cell phone
+PartOf	huron county	michigan
+PartOf	tuscola county	michigan
+PartOf	schoolcraft county	michigan
+PartOf	mackinac county	michigan
+PartOf	judicial branch	unite state government
+PartOf	coupon rate	bond
+PartOf	presque isle county	michigan
+PartOf	hand	analog clock
+PartOf	customer	company
+PartOf	volume	television
+PartOf	door	automobile
+PartOf	leelanau county	michigan
+PartOf	automobile industry	michigan
+PartOf	livingston county	michigan
+PartOf	houghton county	michigan
+PartOf	washtenaw county	michigan
+PartOf	monroe county	michigan
+PartOf	lapeer county	michigan
+PartOf	kent county	michigan
+PartOf	frame	couch
+PartOf	legislative branch	unite state government
+PartOf	income	u.s. tax return
+PartOf	microphone	cell phone
+PartOf	macomb county	michigan
+PartOf	menominee county	michigan
+PartOf	lake county	michigan
+PartOf	sight	gun
+PartOf	department	university
+PartOf	iosco county	michigan
+PartOf	roscommon county	michigan
+PartOf	st. joseph county	michigan
+PartOf	calhoun county	michigan
+PartOf	par value	bond
+PartOf	kagawa prefecture	shikoku
+PartOf	oscoda county	michigan
+PartOf	form 1040	u.s. tax return
+PartOf	upholstery	couch
+PartOf	aisle	store
+PartOf	midland county	michigan
+PartOf	eaton county	michigan
+PartOf	oceana county	michgian
+PartOf	kalamazoo county	michigan
+PartOf	clinton county	michigan
+PartOf	upper peninsula	michigan
+PartOf	delta county	michigan
+PartOf	van buren county	michigan
+PartOf	trade price	stock
+PartOf	dickinson county	michigan
+PartOf	missaukee county	michigan
+PartOf	alcona county	michigan
+PartOf	shiawassee county	michigan
+PartOf	montmorency county	michigan
+PartOf	board of director	company
+PartOf	alpena county	michigan
+PartOf	mason county	michigan
+PartOf	gennesee county	michigan
+PartOf	branch county	michigan
+PartOf	president	company
+PartOf	barrel	gun
+PartOf	otsego county	michigan
+PartOf	face	analog clock
+PartOf	baraga county	michigan
+PartOf	credit	u.s. tax return
+PartOf	st. clair county	michigan
+PartOf	vertebra	mammal
+PartOf	oakland county	michgian
+PartOf	saginaw county	michigan
+PartOf	low peninsula	michigan
+PartOf	exoskeleton	cockroach
+PartOf	arenac county	michigan
+PartOf	gladwin county	michigan
+PartOf	iron county	michigan
+PartOf	kiwi bird	animal
+PartOf	channel	tv
+PartOf	big sister	family
+PartOf	body	human be
+PartOf	heina	animal kingdom
+PartOf	jacket	clothe
+PartOf	end	story
+PartOf	blade	stick
+PartOf	refridgerators	electronic product
+PartOf	n	alphabet letter in capital
+PartOf	y	consonant
+PartOf	sister	family
+PartOf	search tool	internet
+PartOf	pupil of eye	eye
+PartOf	rose of sharon	flower
+PartOf	consonant e	korean alphabet
+PartOf	grand father	family
+PartOf	color pencil	stationary
+PartOf	lecture hall	school
+PartOf	daugther in law	your family
+PartOf	letter w	alphabet
+PartOf	cardiologist	doctor
+PartOf	psychiatrist	doctor
+PartOf	book cover	book
+PartOf	leech	animal
+PartOf	mosquito	animal
+PartOf	young sister or brother	family
+PartOf	japanese monkey	animal kingdom
+PartOf	galaxy	solar system
+PartOf	sole of shoe	shoe
+PartOf	lobster	animal
+PartOf	christmas	public holiday
+PartOf	grand child	relative
+PartOf	africa	map
+PartOf	chistmas	holiday
+PartOf	letter x	alphabet
+PartOf	gynecologist	doctor
+PartOf	letter	book
+PartOf	heart	organ
+PartOf	sealions	animal
+PartOf	your old brother	your family
+PartOf	letter r	alpabet
+PartOf	tumor	janice
+PartOf	skin	foot
+PartOf	electric rice cooker	electric product
+PartOf	volume control	television
+PartOf	article	newspaper
+PartOf	ㅊ sound	consonant of korean language
+PartOf	lion	animal
+PartOf	lion	animal kingdom
+PartOf	keyboard	lap top computer
+PartOf	chicken	animal kingdom
+PartOf	ㅕ vowel	korean alphabet
+PartOf	alarmclock	clock
+PartOf	toe nail	foot
+PartOf	underwear	clothe
+PartOf	stomach	organ
+PartOf	harddisk	computer
+PartOf	cold	janice
+PartOf	your niece	your relative
+PartOf	map	book
+PartOf	erythrocyte	blood
+PartOf	neuropsychologist	doctor
+PartOf	ear	face
+PartOf	doctor	psyciatrist
+PartOf	yusung	dae jon
+PartOf	rabbit	animal
+PartOf	numberpad	cellular phone
+PartOf	aunt	relative
+PartOf	class	school
+PartOf	gorilla	animal kingdom
+PartOf	desert	earth
+PartOf	kangnam province	seoul
+PartOf	dermatologist	doctor
+PartOf	letter g	capital lettersof alphabet
+PartOf	wrist	hand
+PartOf	metro solar system	galaxy
+PartOf	cornea	your eye
+PartOf	wristwatch	watch
+PartOf	rabbit	animal kingdom
+PartOf	instep	foot
+PartOf	ball point pen	stationery
+PartOf	oxygen atom	water molecule
+PartOf	o consonant	korean alphabet
+PartOf	information	book
+PartOf	pony	animal
+PartOf	line in palm	hand
+PartOf	picture	book
+PartOf	snake	animal
+PartOf	clam	animal
+PartOf	rhinocerous	animal kingdom
+PartOf	capital u	alphabet
+PartOf	electric appliance	heater
+PartOf	biophysics as part	physic
+PartOf	water buffalo	animal
+PartOf	torino	italy
+PartOf	wrist watch	watch
+PartOf	flu	janice
+PartOf	granddaughter	family
+PartOf	colon	organ
+PartOf	iguana	animal
+PartOf	surgeon	doctor
+PartOf	duck	animal
+PartOf	playground	school
+PartOf	azalea	flower
+PartOf	iksan	junrabookdo
+PartOf	your aunt	your relative
+PartOf	line in palm area	hand
+PartOf	introduction	story
+PartOf	memory	mainboard computer
+PartOf	large intestine	organ
+PartOf	electrical heater	electrical product
+PartOf	phrygia	flower
+PartOf	gecko	animal
+PartOf	soar throat	janice
+PartOf	auditorium	school
+PartOf	handle	cup
+PartOf	back of hand	hand
+PartOf	blood	white blood cell
+PartOf	ostrich	animal
+PartOf	author note	story
+PartOf	hard disk	main computer
+PartOf	liver	organ
+PartOf	number pad	cell phone
+PartOf	hippo	animal
+PartOf	wolf	animal
+PartOf	handle	car
+PartOf	big brother	family
+PartOf	large intestine	your organ
+PartOf	body	story
+PartOf	raindeers	animal
+PartOf	sea turtle	animal kingdom
+PartOf	hard disk	computer
+PartOf	solid state physic	physic
+PartOf	crocodile	animal
+PartOf	your little sister brother	your family
+PartOf	penguin	animal
+PartOf	cheetah	animal
+PartOf	number pad	cellular phone
+PartOf	herring	animal
+PartOf	baby	family
+PartOf	ㅗ	vowel in korean language
+PartOf	acousic guitar	guitar
+PartOf	colombo	srilanka
+PartOf	chip	robot
+PartOf	townsfolk	bremen
+PartOf	motor	car
+PartOf	house	bremen
+PartOf	mayor	bremen
+PartOf	computer chip	robot
+PartOf	stadium	bremen
+PartOf	road	bremen
+PartOf	vegesack	bremen
+PartOf	bremen	germany
+PartOf	lesum	bremen
+PartOf	city hall	bremen
+PartOf	werder	bremen
+PartOf	motor	robot
+PartOf	football player	werder
+PartOf	pub	bremen
+PartOf	servo	robot
+PartOf	shop	bremen
+PartOf	street light	bremen
+PartOf	room	house
+PartOf	window	car
+PartOf	subject	letter
+PartOf	cathode	tv
+PartOf	soup	menu
+PartOf	money	capitalist system
+PartOf	ginza	tokyo
+PartOf	plastic	dvd
+PartOf	text in it	letter
+PartOf	tuebingen	baden-wuerttemberg
+PartOf	plastic	tv
+PartOf	safety belt	car
+PartOf	slot	vend machine
+PartOf	button	tv
+PartOf	www	internet
+PartOf	red	color spectrum
+PartOf	sender	letter
+PartOf	minister	government
+PartOf	fire	four element
+PartOf	wire	tv
+PartOf	receiver	letter
+PartOf	t	germany
+PartOf	wife of maternal uncle	relative
+PartOf	napoli	italy
+PartOf	toilet bowl	toilet
+PartOf	hair	dog
+PartOf	monaco state	monaco
+PartOf	calf of it	leg
+PartOf	cherry blossom	flower
+PartOf	handle	pot
+PartOf	freesia	flower
+PartOf	leg	foot
+PartOf	blood	blood plasma
+PartOf	number keypad	cellular phone
+PartOf	daejon	chungcheongdo
+PartOf	korea university station	line number 6
+PartOf	transitional cell carcinoma	malignant tumor
+PartOf	reoviridae	rna virus
+PartOf	thrombosis	hemodynamic disorder
+PartOf	malignant melanoma	malignant tumor
+PartOf	fat embolism	hemodynamic disorder
+PartOf	streptococcus	bacteria
+PartOf	hyperemia	hemodynamic disorder
+PartOf	piloviridae	rna virus
+PartOf	hepadnaviridae	dna virus
+PartOf	familial hypercholesterolemia	genetic disorder
+PartOf	togaviridae	rna virus
+PartOf	edward syndrome	genetic disorder
+PartOf	choriocarcinoma	malignant tumor
+PartOf	rhabdomyoma	benign tumor
+PartOf	adenoviridae	dna virus
+PartOf	herpesviridae	dna virus
+PartOf	arenaviridae	rna virus
+PartOf	lymphangiosarcoma	malignant tumor
+PartOf	bacillus	bacteria
+PartOf	hemangioma	benign tumor
+PartOf	liver cell adenoma	benign tumor
+PartOf	transitional cell papilloma	benign tumor
+PartOf	leukemia	malignant tumor
+PartOf	tay-sachs disease	genetic disorder
+PartOf	osteoma	benign tumor
+PartOf	yersina	bacteria
+PartOf	fibroma	benign tumor
+PartOf	systemic thromboembolism	hemodynamic disorder
+PartOf	fibrosarcoma	malignant tumor
+PartOf	pseudomonas	bacteria
+PartOf	clostridium	bacteria
+PartOf	chondrosarcoma	malignant tumor
+PartOf	lysosomal storage disease	genetic disorder
+PartOf	coronaviridae	rna virus
+PartOf	corynebacterium	bacteria
+PartOf	air embolism	hemodynamic disorder
+PartOf	squamous cell papilloma	benign tumor
+PartOf	hepatocellular carcinoma	malignant tumor
+PartOf	chlamydiaceae	bacteria
+PartOf	shock	hemodynamic disorder
+PartOf	orthomyxoviridae	rna virus
+PartOf	salmonella	bacteria
+PartOf	invasive meningioma	malignant tumor
+PartOf	liposarcoma	malignant tumor
+PartOf	renal tubular adenoma	benign tumor
+PartOf	bacteroides	bacteria
+PartOf	proteus	bacteria
+PartOf	papilloma	benign tumor
+PartOf	flaviviridae	rna virus
+PartOf	leiomyosarcoma	malignant tumor
+PartOf	enterobacteriaceae	bacteria
+PartOf	congestion	hemodynamic disorder
+PartOf	bronchial adenom	benign tumor
+PartOf	bunyaviridae	rna virus
+PartOf	bronchogenic carcinoma	malignant tumor
+PartOf	chondroma	benign tumor
+PartOf	down syndrome	genetic disorder
+PartOf	poxviridae	dna virus
+PartOf	turner syndrome	genetic disorder
+PartOf	squamous cell carcinoma	malignant tumor
+PartOf	adenoma	benign tumor
+PartOf	klinefelter syndrome	genetic disorder
+PartOf	klebsiella	bacteria
+PartOf	neurofibromatosis type 1	genetic disorder
+PartOf	papovaviridae	dna virus
+PartOf	mesothelioma	malignant tumor
+PartOf	pulmonary embolism	hemodynamic disorder
+PartOf	paramyxoviridae	rna virus
+PartOf	seminoma	malignant tumor
+PartOf	mycobacterium	bacteria
+PartOf	staphylococcus	bacteria
+PartOf	rhabdoviridae	rna virus
+PartOf	basal cell carcinoma	malignant tumor
+PartOf	neisseria	bacteria
+PartOf	diabetes type 1	immunologically mediate disease
+PartOf	rhabdomyosarcoma	malignant tumor
+PartOf	parvoviridae	dna virus
+PartOf	embryonal carcinoma	malignant tumor
+PartOf	alkaptonuria	genetic disorder
+PartOf	patau syndrome	genetic disorder
+PartOf	angiosarcoma	malignant tumor
+PartOf	vibrio	bacteria
+PartOf	helicobacter	bacteria
+PartOf	cystadenocarcinoma	malignant tumor
+PartOf	escherichia	bacteria
+PartOf	osteogenic sarcoma	malignant tumor
+PartOf	teratoma	benign tumor
+PartOf	systemic lupus erythematosus	immunologically mediate disease
+PartOf	lymphangioma	benign tumor
+PartOf	listeria	bacteria
+PartOf	hydatidiform mole	benign tumor
+PartOf	mucopolysaccharidoses	genetic disorder
+PartOf	meningioma	benign tumor
+PartOf	renal cell carcinoma	malignant tumor
+PartOf	borrelia	bacteria
+PartOf	lymphoma	malignant tumor
+PartOf	campylobacter	bacteria
+PartOf	sjogren syndrome	immunologically mediate disease
+PartOf	leptospira	bacteria
+PartOf	neurofibromatosis type 2	genetic disorder
+PartOf	shigella	bacteria
+PartOf	aid	immunologically mediate disease
+PartOf	angelman syndrome	genetic disorder
+PartOf	haemophilus	bacteria
+PartOf	embolism	hemodynamic disorder
+PartOf	infarction	hemodynamic disorder
+PartOf	retroviridae	rna virus
+PartOf	rickettsia	bacteria
+PartOf	adenocarcinoma	malignant tumor
+PartOf	prader-willi syndrome	genetic disorder
+PartOf	pipillary carcinoma	malignant tumor
+PartOf	amniotic fluid embolism	hemodynamic disorder
+PartOf	anaphylaxis	immunologically mediate disease
+PartOf	bordetella	bacteria
+PartOf	rheumatiod arthritis	immunologically mediate disease
+PartOf	leiomyoma	benign tumor
+PartOf	lipoma	benign tumor
+PartOf	immature teratoma	malignant tumor
+PartOf	dic	hemodynamic disorder
+PartOf	treponema	bacteria
+PartOf	niemann-pick disease	genetic disorder
+PartOf	contact dermatitis	immunologically mediate disease
+PartOf	synovial sarcoma	malignant tumor
+PartOf	glycogen storage disease	genetic disorder
+PartOf	caliciviridae	rna virus
+PartOf	picornaviridae	rna virus
+PartOf	legionella	bacteria
+PartOf	hokkaido	japan
+PartOf	index	book
+PartOf	hummingbird	animal
+PartOf	yong-san	seoul
+PartOf	dentist	doctor
+PartOf	kyushu	japan
+PartOf	saga-ken	kyushu
+PartOf	petal	flower
+PartOf	title	book
+PartOf	author	book
+PartOf	cytocin	dna
+PartOf	daughter	family
+PartOf	rose	flower
+PartOf	day of elect president	holiday
+PartOf	grandson	family
+PartOf	ㅋ	hangul
+PartOf	color pencil	write instrument
+PartOf	gem	ballpen
+PartOf	handle	axe
+PartOf	tail	fish
+PartOf	trunk	tree
+PartOf	lung	whale
+PartOf	scale	fish
+PartOf	seed	fruit
+PartOf	wing	aeroplane
+PartOf	fin	fish
+PartOf	handlebar	bicycle
+PartOf	lapel	shirt
+PartOf	gill	fish
+PartOf	fuselage	aeroplane
+PartOf	collar	shirt
+PartOf	tailplane	aeroplane
+PartOf	fin	whale
+PartOf	text	book
+PartOf	button	shirt
+PartOf	joint	finger
+PartOf	frame	bicycle
+PartOf	bind	book
+PartOf	engine	aeroplane
+PartOf	full	sword
+PartOf	pommel	sword
+PartOf	seal	machine
+PartOf	cross guard	sword
+PartOf	valve	machine
+PartOf	gear	machine
+PartOf	axle	machine
+PartOf	blade	sword
+PartOf	pulley	machine
+PartOf	wedge	machine
+PartOf	chain	machine
+PartOf	bear	machine
+PartOf	spring	machine
+PartOf	point	sword
+PartOf	edge	sword
+PartOf	belt	machine
+PartOf	lever	machine
+PartOf	wheel	machine
+PartOf	grip	sword
+PartOf	hilt	sword
+PartOf	button	monitor
+PartOf	365 day	year
+PartOf	street	infrastructure
+PartOf	smog	polution
+PartOf	4 season	year
+PartOf	52 week	year
+PartOf	sun	our galaxy
+PartOf	12 month	year
+PartOf	winter	four season
+PartOf	ottendorf	germay
+PartOf	honolulu	hawaii
+PartOf	roslindale	boston
+PartOf	jamaica plain	boston
+PartOf	denpasar	bali
+PartOf	miami	florida
+PartOf	san antonio	texas
+PartOf	vancouver	british columbia
+PartOf	london	england
+PartOf	san diego	california
+PartOf	los angeles	california
+PartOf	birmingham	england
+PartOf	manchester	england
+PartOf	milwaukee	wisconsin
+PartOf	oxford	england
+PartOf	edmonton	alberta
+PartOf	winnipeg	manitoba
+PartOf	cleveland	ohio
+PartOf	calgary	alberta
+PartOf	cincinnati	ohio
+PartOf	cardiff	wale
+PartOf	pittsburgh	pennsylvania
+PartOf	houston	texas
+PartOf	philadelphia	pennsylvania
+PartOf	edinburgh	scotland
+PartOf	baltimore	maryland
+PartOf	la vega	nevada
+PartOf	frame	paint
+PartOf	hypthalamus	brain
+PartOf	wine	bottle of wine
+PartOf	gauche disease	genetic disorder
+PartOf	wrinkle skin	age
+PartOf	my face	me
+PartOf	dodge city	kansa
+PartOf	cow	hear
+PartOf	georgia	south
+PartOf	topeka	kansa
+PartOf	drumstick	turkey
+PartOf	this necklace	treasure
+PartOf	lie	slander
+PartOf	irs	problem
+PartOf	department	institution
+PartOf	suspence	mystery
+PartOf	emporium	kansa
+PartOf	neighborhood	city
+PartOf	my idea	answer
+PartOf	hubcap	wheel
+PartOf	tastebud	tongue
+PartOf	captain	team
+PartOf	legislative branch	government
+PartOf	this bus	fleet
+PartOf	customer service	job
+PartOf	gossip	problem
+PartOf	this form	package
+PartOf	bird	flock
+PartOf	this plant	garden
+PartOf	shawnee county	kansa
+PartOf	this page	manuscript
+PartOf	kansa	usa
+PartOf	spine	book
+PartOf	17	set of integer
+PartOf	molecule	donkey
+PartOf	fork	dine set
+PartOf	upper torso	body
+PartOf	colorado	rocky mountain
+PartOf	oregon	northwest
+PartOf	speaker	stereo
+PartOf	strap	purse
+PartOf	tree	orchard
+PartOf	wrench	tool kit
+PartOf	bandage	first aid kit
+PartOf	earpiece	eyeglass
+PartOf	frame	family picture
+PartOf	lens	pair of glass
+PartOf	olive	martini
+PartOf	engine	train
+PartOf	cheat	affair
+PartOf	decade	century
+PartOf	wig	costume
+PartOf	map	atlas
+PartOf	century	milenium
+PartOf	plate	set of dish
+PartOf	nipple	baby bottle
+PartOf	wave	sound
+PartOf	vine	jungle
+PartOf	pattern	logic
+PartOf	camp	gulag
+PartOf	word	quote
+PartOf	caboose	train
+PartOf	year be	decade
+PartOf	wavelength	spectrum
+PartOf	filter	cigarette
+PartOf	cell	live be
+PartOf	sclera	eye
+PartOf	entree	dinner
+PartOf	lock	canal
+PartOf	hump	camel
+PartOf	police officer	police department
+PartOf	bee	colony
+PartOf	nueron	nueral network
+PartOf	leg	spider
+PartOf	snout	pig
+PartOf	chapter	story
+PartOf	sentence	speech
+PartOf	star	constellation
+PartOf	period	punctuation
+PartOf	piece	collection
+PartOf	thread	towel
+PartOf	gun	arsenal
+PartOf	car	train
+PartOf	ovary	female
+PartOf	fraction	whole
+PartOf	my scrotum	my genetalia
+PartOf	basement	build
+PartOf	cerebral cortex	higher-order brain
+PartOf	stock market	economy
+PartOf	stem	apple
+PartOf	terrance and philip	south park
+PartOf	tibia	leg
+PartOf	metatarsal	skeleton
+PartOf	slapstick	comedy
+PartOf	terry gilliam	comedy group monty python
+PartOf	ranma 1 2	anime
+PartOf	icosahedron with raise word	magic 8-ball
+PartOf	ulna	arm
+PartOf	cartoon network	aol time warner
+PartOf	adrenal gland	endocrine system
+PartOf	fibula	leg
+PartOf	love labour lose	shakespeare work
+PartOf	possibility of insanity	human mind
+PartOf	jill jackson	actor equity association
+PartOf	elastic	hair scrunchie
+PartOf	steve job	apple corporation
+PartOf	aol instant messenger	aol
+PartOf	rho	greek alphabet
+PartOf	natural chicle gum base	speakeasy natural gum
+PartOf	advertise	promotion
+PartOf	bottlecap	bottle
+PartOf	vacuole	plant cell
+PartOf	carbonate water	most soda
+PartOf	radius	arm
+PartOf	digitally encode music	cd
+PartOf	skull	skeleton
+PartOf	time	space-time continuum
+PartOf	think	be human
+PartOf	organelle	cell
+PartOf	line	poem
+PartOf	whisker	cat
+PartOf	pommel	saddle
+PartOf	gaskin	horse
+PartOf	bite	bridle
+PartOf	mount everest	himalaya
+PartOf	lobby	build
+PartOf	neuron	nervous system
+PartOf	asteroid belt	solar system
+PartOf	irs	government
+PartOf	great exuma	bahamas
+PartOf	gene	chromosome
+PartOf	pane	window
+PartOf	browband	bridle
+PartOf	hell kitchen	manhattan
+PartOf	learn from experience	grow up
+PartOf	sheep	flock
+PartOf	convolute tubule	kidney
+PartOf	crochet	minim
+PartOf	tobacco	cigarette
+PartOf	cornea	eyeball
+PartOf	dictator	dictatorship
+PartOf	suffer	life of sentient be
+PartOf	man	nature
+PartOf	make mistake	learn
+PartOf	saint paul	twin city
+PartOf	lens	microscope
+PartOf	filament	lightbulb
+PartOf	engine	lawnmower
+PartOf	learn	grow up
+PartOf	salt	dry roast peanut
+PartOf	punchline	joke
+PartOf	tab key	keyboard
+PartOf	spacebar	keyboard
+PartOf	afters	meal
+PartOf	ink cartridge	inkjet printer
+PartOf	start button	gameboy advance
+PartOf	blade	see
+PartOf	world	universe
+PartOf	england	great britain
+PartOf	cushion	sofa
+PartOf	oxfordshire	england
+PartOf	finland	european union
+PartOf	ktichen	house
+PartOf	soundboard	piano
+PartOf	handle	shovel
+PartOf	fly	pant
+PartOf	neighbourhood	town or city
+PartOf	tissue	organ
+PartOf	cell	tissue
+PartOf	green vegetable	meal
+PartOf	ovary	female reproductive system
+PartOf	exam	take course
+PartOf	ribbon	tyepwriter
+PartOf	good taste	style
+PartOf	house	street
+PartOf	street	neighbourhood
+PartOf	aorta	human heart
+PartOf	handset	telephone
+PartOf	note	music
+PartOf	capsid	virus
+PartOf	cone	eye
+PartOf	toner cartridge	laser printer
+PartOf	lace	shoe
+PartOf	physicist	scientifice community
+PartOf	grain of sand	universe
+PartOf	seam	dress
+PartOf	director	movie crew
+PartOf	labour	give birth
+PartOf	sex	life
+PartOf	eye socket	skull
+PartOf	schlong	dude
+PartOf	boob	girl
+PartOf	nice face	beautiful
+PartOf	penis	man eternal struggle
+PartOf	record keep	work in office
+PartOf	flower	bush
+PartOf	slice	orange
+PartOf	slice	golf game
+PartOf	mother	family
+PartOf	memory chip	computer
+PartOf	purr	cat noise
+PartOf	seaweed	ocean
+PartOf	my toe	my body
+PartOf	my back	my body
+PartOf	your tongue	your body
+PartOf	your nose	your body
+PartOf	your foot	your body
+PartOf	lung	dog body
+PartOf	slice of pie	whole pie
+PartOf	your brain	your body
+PartOf	moab	utah
+PartOf	leaf	some flower
+PartOf	spring	watch
+PartOf	cell membrane	cell
+PartOf	taste bud	tongue
+PartOf	lincoln	nebraska
+PartOf	cry	life
+PartOf	sleep	life
+PartOf	practice	play violin
+PartOf	make mistake	grow up
+PartOf	loss	life
+PartOf	hour	day
+PartOf	intermission	play
+PartOf	television	modern media
+PartOf	kraft food	phillip morris co
+PartOf	pocket	pair of pant
+PartOf	carbonate water	soda
+PartOf	trial by error	learn experience
+PartOf	act	play
+PartOf	terra linda	san rafael
+PartOf	milk	healthy diet
+PartOf	greenland	denmark
+PartOf	soup	meal
+PartOf	kernel	on operate system
+PartOf	music	entertainment
+PartOf	dorchester	boston
+PartOf	beacon hill	boston
+PartOf	filament	light bulb
+PartOf	back bay	boston
+PartOf	grain of sand	beach
+PartOf	amrin county	california
+PartOf	good day and bad day	live
+PartOf	we person	preamble
+PartOf	head	penis
+PartOf	yawn	go to bed
+PartOf	buttock	normal human body
+PartOf	two arm	normal human body
+PartOf	1 mouth	head
+PartOf	two wrist	normal human body
+PartOf	2 leg	normal human body
+PartOf	2 thigh	normal human body
+PartOf	vagina	normal female human body
+PartOf	1 back	normal human body
+PartOf	1 head	normal human body
+PartOf	1 abdomen	normal human body
+PartOf	1 nose	head
+PartOf	1 neck	normal human body
+PartOf	2 ear	head
+PartOf	1 chest	normal human body
+PartOf	two hand	normal human body
+PartOf	1 belly button	normal human body
+PartOf	10 toe	normal human body
+PartOf	1 torso	normal human body
+PartOf	2 shoulder	normal human body
+PartOf	2 breast	normal female human body
+PartOf	hair	head of typical person
+PartOf	2 eye	head
+PartOf	10 finger	normal human body
+PartOf	two elbow	normal human body
+PartOf	2 face	head
+PartOf	2 foot	normal human body
+PartOf	brush	electric motor
+PartOf	cord	telephone
+PartOf	cheese	pizza
+PartOf	generator	car
+PartOf	get messy	good sex
+PartOf	wire	electronic device
+PartOf	fulcrum	lever
+PartOf	cover	notebook
+PartOf	incline plane	screw
+PartOf	drink	meal
+PartOf	lid	box
+PartOf	conductor	electrical circuit
+PartOf	rudder	airplane
+PartOf	land gear	airplane
+PartOf	crust	pizza
+PartOf	bite	drill
+PartOf	arm	person
+PartOf	grow	live
+PartOf	escapement	mechanical timepiece
+PartOf	frame	window
+PartOf	overpopulation	problem with environment
+PartOf	epilog	book
+PartOf	sauce	pizza
+PartOf	get there	fun
+PartOf	humanity	earth ecosystem
+PartOf	index	reference book
+PartOf	display	computer
+PartOf	control tower	airport
+PartOf	shelf	bookcase
+PartOf	sleep	daily routine
+PartOf	plant	nature
+PartOf	me	we
+PartOf	animal	nature
+PartOf	keyhole	door
+PartOf	you	we
+PartOf	get wrinkle	grow old
+PartOf	music	simple life
+PartOf	mindless paperwork	most job
+PartOf	mitochondrion	eukaryotic cell
+PartOf	excessive pollution	consumerism
+PartOf	floppy disk drive	of computer
+PartOf	increase pollution	vote republician
+PartOf	waste	modern consumer lifestyle
+PartOf	censorship	philosophy of religious right
+PartOf	practice	learn to draw
+PartOf	organic garden	independent live
+PartOf	page	of web site
+PartOf	wire	operate computer
+PartOf	organic garden	rational live
+PartOf	pollution	drive car
+PartOf	hand	clock
+PartOf	propeller	of aircraft
+PartOf	hook	fish tackle
+PartOf	mindless busywork	most job
+PartOf	daggerboard	sailboat
+PartOf	christmas	december
+PartOf	christmas	december spendy frenzy
+PartOf	pollution	consumerism
+PartOf	smile	make love
+PartOf	garden	sustainable society
+PartOf	excess pollution	drive suv
+PartOf	useless paperwork	modern business
+PartOf	tongue	of shoe
+PartOf	think	human life
+PartOf	battery	solar energy system
+PartOf	dial	clock
+PartOf	cathode ray tube	television
+PartOf	liver	body
+PartOf	kidney	body
+PartOf	trouble	life
+PartOf	shade	lamp
+PartOf	water	sea
+PartOf	zipper	clothe
+PartOf	wheel	skateboard
+PartOf	blade	hockey stick
+PartOf	v	alphabet
+PartOf	z	alphabet
+PartOf	northridge	california
+PartOf	e	alphabet
+PartOf	w	alphabet
+PartOf	brazil	south america
+PartOf	cry	sadness
+PartOf	pore	skin
+PartOf	l	alphabet
+PartOf	n	alphabet
+PartOf	x	alphabet
+PartOf	i	alphabet
+PartOf	k	alphabet
+PartOf	f	alphabet
+PartOf	q	alphabet
+PartOf	pornagraphy	society
+PartOf	h	alphabet
+PartOf	b	alphabet
+PartOf	follicle	hair
+PartOf	mexico	north america
+PartOf	g	alphabet
+PartOf	u	alphabet
+PartOf	r	alphabet
+PartOf	j	alphabet
+PartOf	m	alphabet
+PartOf	c	alphabet
+PartOf	chaos	quantum theory
+PartOf	word	dictionary
+PartOf	study	education
+PartOf	amanda	danilo
+PartOf	amanda	pedros heart
+PartOf	mr harrison	british school
+PartOf	minneapolis	twin city
+PartOf	lobe	ear
+PartOf	little bite	alot
+PartOf	donkey tail	donkey
+PartOf	portland harbor	gulf of maine
+PartOf	stomach	human abdominal organ
+PartOf	harris	scotland western isle
+PartOf	liver	human abdominal organ
+PartOf	lewis	scotland western isle
+PartOf	highland region	scotland
+PartOf	moluccas	indonesia
+PartOf	kalimantan	indonesia
+PartOf	sunda	indonesia
+PartOf	bali	indonesia
+PartOf	timor	indonesia
+PartOf	computer	network
+PartOf	curl	wave
+PartOf	off-ramp	superhighway
+PartOf	corn husk	tamale
+PartOf	pop	pop culture
+PartOf	mistake	life
+PartOf	queen	monarchy
+PartOf	statley old home	our national heritage
+PartOf	person need to feel like tehy	something
+PartOf	bus	education system
+PartOf	mountain lion	cat family
+PartOf	utensil	every great meal
+PartOf	fish	and island ecosystem
+PartOf	equestrian event	summer olympics
+PartOf	doctor	health care
+PartOf	fresh fruit	healthy diet
+PartOf	submarine	our national defense system
+PartOf	bob dylan son jacob	group call wallflower
+PartOf	live room	someone home
+PartOf	most person	worldwide money make machine
+PartOf	rubber chicken	low-brow humour
+PartOf	violin	string section
+PartOf	brass section	orchestra
+PartOf	this space	science fiction story
+PartOf	submarine	navy fleet
+PartOf	professional golfer	pga tour
+PartOf	nut and bolt	set
+PartOf	wheel	motorcycle
+PartOf	armenia	europe
+PartOf	holland	europe
+PartOf	four leg	squirrel
+PartOf	fur	frog
+PartOf	string	harpsichord
+PartOf	front room	house
+PartOf	god	church
+PartOf	this	guitar
+PartOf	modern stereo that	oldsmobile
+PartOf	this	string instrument
+PartOf	this	basketball game
+PartOf	this	rollercoaster
+PartOf	lounge room	house
+PartOf	cymbal	drum set
+PartOf	toothbrush bristle	toothbrush
+PartOf	ledge	cliff
+PartOf	entranceway	house
+PartOf	person who dress alike usually	same group
+PartOf	cloud	weather
+PartOf	middle east	asia
+PartOf	run	many game
+PartOf	this	their philosophy of eat correctly

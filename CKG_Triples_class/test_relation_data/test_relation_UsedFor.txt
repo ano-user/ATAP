@@ -1,0 +1,161 @@
+UsedFor	pen	write
+UsedFor	telephone	communicate
+UsedFor	key	open lock
+UsedFor	camera	take picture
+UsedFor	spoon	eat
+UsedFor	computer	work
+UsedFor	hammer	drive nail
+UsedFor	keyboard	type
+UsedFor	water	drink
+UsedFor	net	catch fish
+UsedFor	pool	swim
+UsedFor	wing	fly
+UsedFor	bus stop	wait for bus
+UsedFor	book	learn
+UsedFor	see	cut wood
+UsedFor	bed	have sex
+UsedFor	match	start fire
+UsedFor	carpet	cover floor
+UsedFor	book	read
+UsedFor	cloth	clean
+UsedFor	cloth	make clothe
+UsedFor	pan	cook
+UsedFor	boat	travel on water
+UsedFor	saddle	ride horse
+UsedFor	book	study
+UsedFor	fruit	eat
+UsedFor	voice	sing
+UsedFor	computer	play game
+UsedFor	key	open door
+UsedFor	glass	drink
+UsedFor	play sport	fun
+UsedFor	jump rope	exercise
+UsedFor	needle	sew
+UsedFor	bicycle storage area	store bicycle
+UsedFor	kettle	boil water
+UsedFor	saw	cut wood
+UsedFor	table	put thing on
+UsedFor	weapon	kill
+UsedFor	guitar	make music
+UsedFor	double edge razor	shave
+UsedFor	go to sleep	rest
+UsedFor	chess board	play chess
+UsedFor	park area	park car
+UsedFor	horse	ride
+UsedFor	school	learn
+UsedFor	wine	drink
+UsedFor	canvas	paint on
+UsedFor	chest of drawer	store clothe
+UsedFor	wrench	tighten bolt
+UsedFor	tissue holder	hold tissue
+UsedFor	pencil	write
+UsedFor	hammer	pound nail
+UsedFor	ocean	sail
+UsedFor	bank	store money
+UsedFor	write instrument	write
+UsedFor	pub	have drink
+UsedFor	meat	eat
+UsedFor	chair	sit
+UsedFor	fry pan	cook
+UsedFor	bed	sleep
+UsedFor	blanket	sleep
+UsedFor	computer	communication
+UsedFor	bar stool	sit on
+UsedFor	internet	research
+UsedFor	fan	move air
+UsedFor	highway	travel
+UsedFor	play game	have fun
+UsedFor	bathtub	bathe
+UsedFor	chalk	write on blackboard
+UsedFor	floor	walk on
+UsedFor	scissor	cut
+UsedFor	soap	clean
+UsedFor	food	eat
+UsedFor	chopstick	eat
+UsedFor	knife	cut
+UsedFor	refrigerator	keep food cold
+UsedFor	disco	dance
+UsedFor	flask	hold liquid
+UsedFor	quill	write
+UsedFor	wristwatch	tell time
+UsedFor	pepper and salt	season food
+UsedFor	cereal bowl	eat cereal
+UsedFor	literature	read
+UsedFor	stage	play
+UsedFor	fur	keep animal warm
+UsedFor	baseball field	play baseball
+UsedFor	pillow case	cover pillow
+UsedFor	telephone	communication
+UsedFor	violin	play music
+UsedFor	salt	melt ice
+UsedFor	eye	see
+UsedFor	bicycle	transportation
+UsedFor	shoe	protect foot
+UsedFor	paper	make paper airplane
+UsedFor	gun	kill someone
+UsedFor	kitchen	cook food
+UsedFor	condominium	live in
+UsedFor	cup	drink from
+UsedFor	fan	circulate air
+UsedFor	bomb	blow thing up
+UsedFor	pipe	smoke tobacco
+UsedFor	tool	fix thing
+UsedFor	bomb	kill person
+UsedFor	soap	wash your hand
+UsedFor	master bedroom	sleep
+UsedFor	ticket office	buy ticket
+UsedFor	bookstore	buy book
+UsedFor	diner	eat
+UsedFor	have food	eat
+UsedFor	tooth	chew food
+UsedFor	classroom	teach
+UsedFor	airplane	travel
+UsedFor	dresser	store clothe
+UsedFor	feather	tickle someone
+UsedFor	window	look outside
+UsedFor	bagpipe	play music
+UsedFor	pulpit	preach
+UsedFor	sheet	cover bed
+UsedFor	bread	eat
+UsedFor	music stand	hold music
+UsedFor	razor	shave
+UsedFor	ball	throw
+UsedFor	ear	hear
+UsedFor	fork	eat
+UsedFor	pencil	write something on paper
+UsedFor	library	do research
+UsedFor	soap	wash yourself
+UsedFor	go to party	fun
+UsedFor	bridge	cross river
+UsedFor	floor	walk
+UsedFor	contraceptive	prevent pregnancy
+UsedFor	towel bar	hang towel
+UsedFor	typewriter	type letter
+UsedFor	spanish restaurant	eat spanish food
+UsedFor	hill	climb
+UsedFor	comb	style hair
+UsedFor	tie your shoelace	keep your shoe on
+UsedFor	piggy bank	save money
+UsedFor	think	solve problem
+UsedFor	sofa bed	sleep on
+UsedFor	towel rack	hold towel
+UsedFor	brownstone	live in
+UsedFor	fork	eat food
+UsedFor	broom	sweep
+UsedFor	knife	stab
+UsedFor	baseball	play baseball
+UsedFor	cup	drink
+UsedFor	pot	cook
+UsedFor	dog	companionship
+UsedFor	shovel	dig hole
+UsedFor	soap	clean something
+UsedFor	bottle	store liquid
+UsedFor	toothbrush	clean your tooth
+UsedFor	key chain	keep key together
+UsedFor	restaurant	eat out
+UsedFor	play sport	competition
+UsedFor	stair	climb
+UsedFor	park lot	park car
+UsedFor	wood	fence in property
+UsedFor	pool	get out of heat
+UsedFor	skin	cover body

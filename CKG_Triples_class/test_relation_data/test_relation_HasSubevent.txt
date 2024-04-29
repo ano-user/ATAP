@@ -1,0 +1,83 @@
+HasSubevent	sleep	dream
+HasSubevent	attend school	learn
+HasSubevent	sleep	snore
+HasSubevent	eat	chew
+HasSubevent	tickle	laugh
+HasSubevent	start family	have sex
+HasSubevent	stop your bicycle	apply brake
+HasSubevent	run	sweat
+HasSubevent	bury cat	dig hole
+HasSubevent	light fire	strike match
+HasSubevent	wash your car	get wet
+HasSubevent	use computer	type on keyboard
+HasSubevent	commit perjury	lie
+HasSubevent	gather energy for tomorrow	sleep
+HasSubevent	read	turn page
+HasSubevent	breathe	inhale
+HasSubevent	climb	fall
+HasSubevent	listen to music	dance
+HasSubevent	have rest	close your eye
+HasSubevent	walk in rain	get wet
+HasSubevent	awake	yawn
+HasSubevent	play game	fun
+HasSubevent	meet person	shake their hand
+HasSubevent	play game	win
+HasSubevent	get job	interview
+HasSubevent	commit suicide	die
+HasSubevent	enjoy film	laugh
+HasSubevent	dream	sleep
+HasSubevent	agree with someone	nod
+HasSubevent	die	stop breathe
+HasSubevent	have sex	have orgasm
+HasSubevent	read magazine	turn page
+HasSubevent	skate	fall down
+HasSubevent	play tennis	hit ball
+HasSubevent	have fun	smile
+HasSubevent	rest	sleep
+HasSubevent	reproduce	have sex
+HasSubevent	bathe	use soap
+HasSubevent	take shower	wash your hair
+HasSubevent	ride horse	fall off
+HasSubevent	write	think
+HasSubevent	go for swim	get wet
+HasSubevent	compete	win
+HasSubevent	play guitar	sing
+HasSubevent	attend lecture	take note
+HasSubevent	drink alcohol	get drunk
+HasSubevent	play poker	bluff
+HasSubevent	study	read
+HasSubevent	play sport	run
+HasSubevent	go to school	learn
+HasSubevent	jump out of window	die
+HasSubevent	play sport	have fun
+HasSubevent	study	read book
+HasSubevent	listen to radio	hear music
+HasSubevent	live	breathe
+HasSubevent	play game	have fun
+HasSubevent	have sex	sweat
+HasSubevent	read	learn
+HasSubevent	have epileptic fit	fall down
+HasSubevent	have nervous breakdown	cry
+HasSubevent	go for swim	drown
+HasSubevent	go to hairdresser	get haircut
+HasSubevent	enjoy film	eat popcorn
+HasSubevent	watch tv	fall asleep
+HasSubevent	diminish your own hunger	eat
+HasSubevent	express how funny something	be laugh
+HasSubevent	play frisbee	catch frisbee
+HasSubevent	play ball	catch ball
+HasSubevent	play basketball	dribble
+HasSubevent	eat breakfast in bed	watch tv
+HasSubevent	commit to memory	repeat
+HasSubevent	pray	kneel down
+HasSubevent	meet interest person	talk to them
+HasSubevent	lie	you feel guilty
+HasSubevent	compete	you lose
+HasSubevent	play	have fun
+HasSubevent	drive	listen to radio
+HasSubevent	chat with friend	laugh
+HasSubevent	have bath	get wet
+HasSubevent	paint picture	look at model
+HasSubevent	relax	sleep
+HasSubevent	play basketball	score point
+HasSubevent	make patchwork quilt	sew

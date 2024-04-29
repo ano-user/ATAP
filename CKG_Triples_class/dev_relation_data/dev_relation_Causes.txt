@@ -1,0 +1,52 @@
+Causes	urinate	relief
+Causes	dream	nightmare
+Causes	walk in rain	you get very wet
+Causes	buy hamburger	eat
+Causes	think	idea
+Causes	go to pub	get drunk
+Causes	add up column of number	sum
+Causes	wash your car	your car to be clean
+Causes	eat ice cream	happiness
+Causes	act in play	applause
+Causes	fall	pain
+Causes	take final	stress
+Causes	eat breakfast in bed	crumb in bed
+Causes	obstruct justice	injustice
+Causes	sing	happiness
+Causes	take examination	pass class
+Causes	buy beer	get drunk
+Causes	hear music	dance
+Causes	take exam	get grade
+Causes	go to sleep	dream
+Causes	go to party	meet new person
+Causes	go to performance	enjoyment
+Causes	play game	happiness
+Causes	socialise	make friend
+Causes	have rest	sleep
+Causes	compute sum	get answer
+Causes	play game	win
+Causes	watch even news	learn about current event
+Causes	study	learn
+Causes	work	stress
+Causes	run marathon	exhaustion
+Causes	rain	flood
+Causes	get wet	get cold
+Causes	kill someone	go to jail
+Causes	wait on line	boredom
+Causes	play card	win money
+Causes	have haircut	short hair
+Causes	meet person	make new friend
+Causes	strike match	flame
+Causes	play lacrosse	injury
+Causes	read magazine	learn
+Causes	open gift	suprise
+Causes	buy product	spend money
+Causes	pass class	graduation
+Causes	play sport	injury
+Causes	eat breakfast	gain energy
+Causes	hear sing	sing along
+Causes	eat vegetable	good health
+Causes	cash in	get money
+Causes	get job	earn money
+Causes	flirt	sex
+Causes	light match	start fire

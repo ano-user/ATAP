@@ -1,0 +1,1184 @@
+HasLastSubevent	talk to someone	say goodbye
+HasLastSubevent	listen to radio	turn off radio
+HasLastSubevent	clean your clothe	put it away
+HasLastSubevent	urinate	flush toilet
+HasLastSubevent	perform	bow
+HasLastSubevent	lose weight	buy new clothe
+HasLastSubevent	follow recipe	eat result
+HasLastSubevent	hear music	turn off radio
+HasLastSubevent	play sport	take shower
+HasLastSubevent	watch even news	turn off tv
+HasLastSubevent	itch	scratch
+HasLastSubevent	take bath	dry yourself off
+HasLastSubevent	test car	get out of car
+HasLastSubevent	drink	swallow
+HasLastSubevent	watch television	turn it off
+HasLastSubevent	leave house	lock door
+HasLastSubevent	mail letter	put letter in mailbox
+HasLastSubevent	light match	blow it out
+HasLastSubevent	have shower	dry
+HasLastSubevent	paint picture	hang it on wall
+HasLastSubevent	socialize	say goodbye
+HasLastSubevent	use vcr	turn it off
+HasLastSubevent	pay cash	receive change
+HasLastSubevent	change your appearance	look in mirror
+HasLastSubevent	go somewhere	arrive there
+HasLastSubevent	wait table	pick up tip
+HasLastSubevent	bring home some fish	eat it
+HasLastSubevent	meet girl	say goodbye
+HasLastSubevent	eat dinner	wash dish
+HasLastSubevent	sleep at night	get in bed
+HasLastSubevent	stay fit	take shower
+HasLastSubevent	go to baseball game	leave stadium
+HasLastSubevent	pay by check	sign your name
+HasLastSubevent	use computer	shut it off
+HasLastSubevent	make love	ejaculate
+HasLastSubevent	go for run	cool off
+HasLastSubevent	get contract	celebrate
+HasLastSubevent	copulate	have orgasm
+HasLastSubevent	sleep	wake up
+HasLastSubevent	go to sleep	close your eye
+HasLastSubevent	eat breakfast in bed	clean up
+HasLastSubevent	wash your clothe	put them away
+HasLastSubevent	copulate	clean up
+HasLastSubevent	attend class	leave class
+HasLastSubevent	celebrate	clean up
+HasLastSubevent	go on internet	disconnect
+HasLastSubevent	have heart attack	die
+HasLastSubevent	dream	wake up
+HasLastSubevent	smoke	die
+HasLastSubevent	follow recipe	put food on table
+HasLastSubevent	go to opera	go home
+HasLastSubevent	eat vegetable	swallow
+HasLastSubevent	eat	swallow
+HasLastSubevent	go to bed	close your eye
+HasLastSubevent	read book	close it
+HasLastSubevent	go on stage	perform
+HasLastSubevent	attend classical concert	applaude
+HasLastSubevent	go on internet	log off
+HasLastSubevent	drive car	turn off engine
+HasLastSubevent	swim	dry off
+HasLastSubevent	win baseball game	cheer
+HasLastSubevent	go for swim	dry yourself
+HasLastSubevent	play chess	put away piece
+HasLastSubevent	pass class	celebrate
+HasLastSubevent	buy something	pay for it
+HasLastSubevent	play lacrosse	take shower
+HasLastSubevent	sing	bow
+HasLastSubevent	send e-mail	click send button
+HasLastSubevent	write	put down pen
+HasLastSubevent	pay cash	get receipt
+HasLastSubevent	go into trance	lose consciousness
+HasLastSubevent	visit art gallery	leave art gallery
+HasLastSubevent	watch television show	turn of television
+HasLastSubevent	listen to radio	turn radio off
+HasLastSubevent	play game	put away game
+HasLastSubevent	program	debug
+HasLastSubevent	pray	say amen
+HasLastSubevent	wash your hand	dry your hand
+HasLastSubevent	sign contract	date contract
+HasLastSubevent	apply for job	interview
+HasLastSubevent	set cup on table	let go of cup
+HasLastSubevent	get wet	dry yourself
+HasLastSubevent	strike match	blow it out
+HasLastSubevent	perform	take bow
+HasLastSubevent	play chess	say checkmate
+HasLastSubevent	clean clothe	take them out of dry
+HasLastSubevent	make phone call	hang up
+HasLastSubevent	clean	take out trash
+HasLastSubevent	take exam	turn it in
+HasLastSubevent	make bread	eat it
+HasLastSubevent	drive your car	turn off engine
+HasLastSubevent	talk	say goodbye
+HasLastSubevent	clean clothe	put it away
+HasLastSubevent	kill someone	go to jail
+HasLastSubevent	go jog	stretch
+HasLastSubevent	read newspaper	fold it up
+HasLastSubevent	propose to woman	put ring on her finger
+HasLastSubevent	brush your tooth	rinse out your mouth
+HasLastSubevent	love animal	eat it
+HasLastSubevent	drink too much	fall asleep
+HasLastSubevent	go to bathroom	wash your hand
+HasLastSubevent	buy something	give money to clerk
+HasLastSubevent	eat meal	have dessert
+HasLastSubevent	take shower	dry yourself off
+HasLastSubevent	go to sleep	lose consciousness
+HasLastSubevent	listen	understand
+HasLastSubevent	eat ice cream	wash bowl
+HasLastSubevent	satisfy appetite with minimum effort	swallow
+HasLastSubevent	bathe	pull plug
+HasLastSubevent	clean your room	admire my work
+HasLastSubevent	kiss	have your eye open
+HasLastSubevent	run twenty-six mile	rest
+HasLastSubevent	run out of steam	collapse
+HasLastSubevent	dive	hold your breath
+HasLastSubevent	take car for drive	lock car
+HasLastSubevent	improve your image	check yourself in mirror
+HasLastSubevent	write letter	sign it
+HasLastSubevent	see exhibit	leave museum
+HasLastSubevent	play soccer	leave field
+HasLastSubevent	go to performance	applaud
+HasLastSubevent	get some money from someone	thank them
+HasLastSubevent	awake	open your eye
+HasLastSubevent	listen to music	stop music
+HasLastSubevent	buy house	sign some paper
+HasLastSubevent	go on vacation	go home
+HasLastSubevent	buy present	give them
+HasLastSubevent	empty your bladder	put seat down
+HasLastSubevent	change society	write book about it
+HasLastSubevent	buy present	wrap them
+HasLastSubevent	eat apple	throw away core
+HasLastSubevent	get warm	stop shiver
+HasLastSubevent	create art	sign it
+HasLastSubevent	hike	take off your shoe
+HasLastSubevent	attend classical concert	applaud
+HasLastSubevent	purchase cellular phone	activate cellular account
+HasLastSubevent	buy present for others	give them to them
+HasLastSubevent	go to concert	leave concert
+HasLastSubevent	cook meal	clean dish
+HasLastSubevent	tape television show	file it away
+HasLastSubevent	add up number	arrive at their sum
+HasLastSubevent	go fish	go back home
+HasLastSubevent	take course	take exame
+HasLastSubevent	reproduce	ejaculate
+HasLastSubevent	clean your clothe	use detergent
+HasLastSubevent	skate	take off your skate
+HasLastSubevent	view film at home	rewind film
+HasLastSubevent	go on vacation	come home
+HasLastSubevent	meet person	say goodbye
+HasLastSubevent	tell story	stop talk
+HasLastSubevent	go to concert	leave concert hall
+HasLastSubevent	drink alcohol	swallow
+HasLastSubevent	kill someone	hide body
+HasLastSubevent	get drunk	pass out
+HasLastSubevent	travel	arrive at your destination
+HasLastSubevent	tie your shoelace	stand up
+HasLastSubevent	go to performance	i clap
+HasLastSubevent	cook	clean up kitchen
+HasLastSubevent	see movie	leave theater
+HasLastSubevent	go somewhere	arrive
+HasLastSubevent	swim	get out of water
+HasLastSubevent	contemplate	make decision
+HasLastSubevent	pass your university exam	graduate
+HasLastSubevent	breathe	exhale
+HasLastSubevent	hurt someone else	apologize
+HasLastSubevent	score home run	touch home plate
+HasLastSubevent	repair umbrella	close it
+HasLastSubevent	chop firewood	stack firewood
+HasLastSubevent	pay by credit card	sign receipt
+HasLastSubevent	have shower	dry off with towel
+HasLastSubevent	go into trance	close your eye
+HasLastSubevent	buy food	pay
+HasLastSubevent	play ball	go home
+HasLastSubevent	compete against someone	say i win
+HasLastSubevent	buy fresh fruit and vegetable	pay for them
+HasLastSubevent	play poker	cash in your chip
+HasLastSubevent	go off strike	go back to work
+HasLastSubevent	chew your food	swallow it
+HasLastSubevent	eat	burp
+HasLastSubevent	catch mumps	recover
+HasLastSubevent	kiss someone	smile
+HasLastSubevent	sleigh ride	get out of sleigh
+HasLastSubevent	play card	put card away
+HasLastSubevent	enjoy company of your friend	say goodbye
+HasLastSubevent	have bath	dry off
+HasLastSubevent	get divorce	sign some document
+HasLastSubevent	tickle	run away fast
+HasLastSubevent	study	forget everything
+HasLastSubevent	have friend over	say goodbye
+HasLastSubevent	make shop list	check it
+HasLastSubevent	improve your image	straighten tie
+HasLastSubevent	have conversation	stop talk
+HasLastSubevent	drill hole	remove dust that form
+HasLastSubevent	express how funny something	be laugh
+HasLastSubevent	see art	leave museum
+HasLastSubevent	skateboard	fall off
+HasLastSubevent	sew	put away needle and thread
+HasLastSubevent	eat	swallow food
+HasLastSubevent	go for walk	go home
+HasLastSubevent	fall	hit grind
+HasLastSubevent	take shower	turn off water
+HasLastSubevent	clean clothe	press it
+HasLastSubevent	use calculator	turn calculator off
+HasLastSubevent	die	stop breathe
+HasLastSubevent	cook meal	serve it
+HasLastSubevent	wait on table	collect your tip
+HasLastSubevent	clean your clothe	put them away
+HasLastSubevent	urinate	wash your hand
+HasLastSubevent	buy fresh fruit and vegetable	eat them
+HasLastSubevent	remember phone number	be forget it
+HasLastSubevent	fall	hit surface
+HasLastSubevent	have epileptic fit	recover consciousness
+HasLastSubevent	drink alcohol	get drunk
+HasLastSubevent	buy fresh fruit and vegetable	leave store
+HasLastSubevent	play hockey	leave ice
+HasLastSubevent	read to your child	close book
+HasLastSubevent	join army	regret
+HasLastSubevent	paint	clean up
+HasLastSubevent	play game with your friend	laugh
+HasLastSubevent	read magazine	close magazine
+HasLastSubevent	become more clean	dry off
+HasLastSubevent	tell many person about something	summarize
+HasLastSubevent	have party	kiss goodbye
+HasLastSubevent	tell many person about something	draw conclusion
+HasLastSubevent	tell many person about something	listen to response
+HasLastSubevent	tell many person about something	ask for feedback
+HasLastSubevent	answer question	ask question back
+HasLastSubevent	watch tv	turn off set
+HasLastSubevent	swim	get out
+HasLastSubevent	have party	take baby sitter home
+HasLastSubevent	have party	thank help
+HasLastSubevent	buy hamburger	add salt
+HasLastSubevent	have party	talk about next time
+HasLastSubevent	tape television show	label tape
+HasLastSubevent	buy hamburger	return tray
+HasLastSubevent	have party	close front door
+HasLastSubevent	have party	receive depart guest at door
+HasLastSubevent	have party	pay bill
+HasLastSubevent	have party	pick up piece
+HasLastSubevent	have party	thank party goer for come
+HasLastSubevent	buy hamburger	add trimming
+HasLastSubevent	have party	account for cost
+HasLastSubevent	have party	dump detritus
+HasLastSubevent	buy hamburger	carry it away
+HasLastSubevent	have party	tip help
+HasLastSubevent	have party	give big cheer
+HasLastSubevent	build cathedral	arrange open ceremony
+HasLastSubevent	have party	inquire about travel concern
+HasLastSubevent	express information	close your mouth
+HasLastSubevent	go for run	pull to stop
+HasLastSubevent	run after ball	grab it
+HasLastSubevent	look through telescope	record your find
+HasLastSubevent	have party	give thank
+HasLastSubevent	have party	pick up tab
+HasLastSubevent	play basketball	bag ball
+HasLastSubevent	buy hamburger	gobble it down
+HasLastSubevent	buy hamburger	add pepper
+HasLastSubevent	have party	express relief
+HasLastSubevent	have party	package up unfinished food
+HasLastSubevent	have party	thank band
+HasLastSubevent	have party	eat perishable
+HasLastSubevent	have party	go to bed
+HasLastSubevent	buy hamburger	add mayonnaise
+HasLastSubevent	wash your car	dry chrome
+HasLastSubevent	have party	hug your spouse
+HasLastSubevent	have party	refrigerate food
+HasLastSubevent	have party	see guest off
+HasLastSubevent	take bath	rinse off
+HasLastSubevent	take car for drive	park
+HasLastSubevent	have party	accept congratulation
+HasLastSubevent	have party	say goodbye
+HasLastSubevent	have party	assist departure
+HasLastSubevent	entertain person	thank them for come
+HasLastSubevent	act in play	take bow
+HasLastSubevent	read news	recycle paper
+HasLastSubevent	buy beer	drink it
+HasLastSubevent	taste something sweet	swallow
+HasLastSubevent	travel	go back home
+HasLastSubevent	go see play	sit in my seat
+HasLastSubevent	cool off	relax
+HasLastSubevent	write term paper	hand it in
+HasLastSubevent	get up early	turn off alarm clock
+HasLastSubevent	kill	go to jail
+HasLastSubevent	watch film	leave theater
+HasLastSubevent	start fire	put it out
+HasLastSubevent	wash your car	dry your car
+HasLastSubevent	read newspaper	fold it back up
+HasLastSubevent	watch television show	turn television off
+HasLastSubevent	wash your hand	dry them
+HasLastSubevent	get wet	dry off
+HasLastSubevent	clean your clothe	hang them in closet
+HasLastSubevent	read newspaper	close it
+HasLastSubevent	wrestle be winner	cheer
+HasLastSubevent	paint	let it dry
+HasLastSubevent	commit genocide	celebrate when specific group be dead
+HasLastSubevent	deal drug	exchange drug for money
+HasLastSubevent	take shit	flush
+HasLastSubevent	have penis	punch it
+HasLastSubevent	have condomless sex	pull out
+HasLastSubevent	kill john safran	bury body
+HasLastSubevent	have penis	stick it in dark hole
+HasLastSubevent	have prohibitionist society	pretend it work
+HasLastSubevent	change clothe	get dress
+HasLastSubevent	cut your hair	pay for it
+HasLastSubevent	go to work	clock in
+HasLastSubevent	go for jog	stretch
+HasLastSubevent	fee your family	sex
+HasLastSubevent	procreate	sex
+HasLastSubevent	stop stand in it	move
+HasLastSubevent	discover truth	tell others
+HasLastSubevent	play lacrosse	win or lose
+HasLastSubevent	buy hamburger	smile
+HasLastSubevent	have party	clean up confetti
+HasLastSubevent	have party	sigh in relief
+HasLastSubevent	buy hamburger	add catsup
+HasLastSubevent	buy product	pay for them
+HasLastSubevent	catch butterfly	let it go again
+HasLastSubevent	type letter	proofread it
+HasLastSubevent	leave office	set alarm
+HasLastSubevent	sweep kitchen	empty dust pan
+HasLastSubevent	answer phone	hang up
+HasLastSubevent	open envelope	take out what inside
+HasLastSubevent	send someone bill	put it in mail
+HasLastSubevent	make tea	slowly sip it
+HasLastSubevent	go trick-or-treating	eat all candy
+HasLastSubevent	drop someone off	make sure they get in safely
+HasLastSubevent	eat dinner	clean up
+HasLastSubevent	leave room	turn off light
+HasLastSubevent	shut down computer	turn off power
+HasLastSubevent	surf in www	close your browser
+HasLastSubevent	read tabloid article	laugh hysterically
+HasLastSubevent	vent your anger	feel calm again
+HasLastSubevent	want to live	kill yourself
+HasLastSubevent	get out of car	lock car
+HasLastSubevent	build street	paint line
+HasLastSubevent	shave your leg	rub lotion on them
+HasLastSubevent	change tire	low jack
+HasLastSubevent	make pottery	fire it in kiln
+HasLastSubevent	create work of art	sign your name on it
+HasLastSubevent	gargle	spit
+HasLastSubevent	write check	balance your checkbook
+HasLastSubevent	ride horse	cool him out
+HasLastSubevent	make jello	put it in refrigerator
+HasLastSubevent	cut down tree	see wood into log
+HasLastSubevent	visit friend	say goodbye
+HasLastSubevent	go on date	kiss him goodnight
+HasLastSubevent	get ready for trip	pack your toothbrush
+HasLastSubevent	eat meal	wash dish
+HasLastSubevent	go to library	check out book
+HasLastSubevent	quit smoke	get crabby
+HasLastSubevent	dine out	leave tip
+HasLastSubevent	wrap gift	stick on name tag
+HasLastSubevent	ride horse	clean your tack
+HasLastSubevent	go grocery shop	put away all grocery
+HasLastSubevent	copulate	ejaculate
+HasLastSubevent	study	graduate
+HasLastSubevent	park	leave car
+HasLastSubevent	play	win or loose
+HasLastSubevent	fly	land
+HasLastSubevent	go to bed	read book
+HasLastSubevent	get old	give up all hope
+HasLastSubevent	eat	swallow your food
+HasLastSubevent	go to sleep	lie down
+HasLastSubevent	bake cake	eat cake
+HasLastSubevent	write sentence	type period
+HasLastSubevent	take shower	put your clothe on
+HasLastSubevent	finish exam	turn it in
+HasLastSubevent	go to sleep	stop hear thing
+HasLastSubevent	ask question	put inflection at end
+HasLastSubevent	leave house	close door behind you
+HasLastSubevent	take test	give test to tester
+HasLastSubevent	take test	hand in test
+HasLastSubevent	sew on button	snip thread
+HasLastSubevent	break egg	throw away shell
+HasLastSubevent	blow your nose	throw tissue in trash
+HasLastSubevent	make phone call	hang up phone
+HasLastSubevent	cry	wipe your tear from your face
+HasLastSubevent	send kid off to school	tell them you love them
+HasLastSubevent	go to bed	brush your tooth
+HasLastSubevent	leave your home	lock door
+HasLastSubevent	watch movie	turn off tv
+HasLastSubevent	talk on phone	hang up
+HasLastSubevent	throw party	clean up mess
+HasLastSubevent	write letter	sign your name
+HasLastSubevent	shit	wipe your ass
+HasLastSubevent	eat in restaurant	stand up from table
+HasLastSubevent	yawn	close your mouth
+HasLastSubevent	use toilet	flush
+HasLastSubevent	die	take your last breath
+HasLastSubevent	shower	towel off
+HasLastSubevent	go to bed	turn off light
+HasLastSubevent	brush your tooth	replace toothbrush
+HasLastSubevent	sneeze	say excuse me
+HasLastSubevent	watch movie	read credit
+HasLastSubevent	finish paint	frame it
+HasLastSubevent	finish hand sew	tie knot in thread
+HasLastSubevent	go to sleep	tell your love goodnight
+HasLastSubevent	get out milk	close refrigerator
+HasLastSubevent	leave party	say goodbye
+HasLastSubevent	finish job	clean up
+HasLastSubevent	enter data	hit enter key
+HasLastSubevent	breath your last	die
+HasLastSubevent	loose your job	tell boss what you think
+HasLastSubevent	fall	hit earth
+HasLastSubevent	be hungry	eat
+HasLastSubevent	fart	blush
+HasLastSubevent	finish book	close back cover
+HasLastSubevent	mail letter	put it in mail slot
+HasLastSubevent	brush your tooth	rinse your mouth
+HasLastSubevent	excrete	wipe yourself
+HasLastSubevent	take test	turn it in
+HasLastSubevent	buy car	drive it home
+HasLastSubevent	leave boat	tie it to dock
+HasLastSubevent	win chess	force checkmate
+HasLastSubevent	write sentence	write period
+HasLastSubevent	go to sport event	leave sport event
+HasLastSubevent	learn	know
+HasLastSubevent	fly in airplane	get off airplane
+HasLastSubevent	cook	eat
+HasLastSubevent	bungee jump from high bridge	jump
+HasLastSubevent	write poem	show it to someone else
+HasLastSubevent	express how funny something	be finally stop laugh about it
+HasLastSubevent	breathe	finish prior breath
+HasLastSubevent	go to market	enter store
+HasLastSubevent	play sport	shower
+HasLastSubevent	have fun	stop have fun
+HasLastSubevent	serve customer	bus table
+HasLastSubevent	hear testimony	listen
+HasLastSubevent	cool off	look for something else to do
+HasLastSubevent	eat breakfast	wash dish
+HasLastSubevent	make friend	plan to spend time together
+HasLastSubevent	take final	turn in your exam
+HasLastSubevent	have heart attack	either recover or die
+HasLastSubevent	swim	get in water
+HasLastSubevent	create idea	say ah-ha
+HasLastSubevent	have rest	get up
+HasLastSubevent	buy shirt	take out pin
+HasLastSubevent	compete	lose
+HasLastSubevent	have lunch	leave table
+HasLastSubevent	have physical examination	make your co-payment
+HasLastSubevent	study for subject	review material
+HasLastSubevent	earn live	retire
+HasLastSubevent	invest money or energy	give it up
+HasLastSubevent	score homer	little dance to dugout
+HasLastSubevent	serve justice	go home
+HasLastSubevent	holiday shop	go home and soak your foot
+HasLastSubevent	satisfy appetite with minimum effort	belch
+HasLastSubevent	open gift	say thank you
+HasLastSubevent	receive degree	look for job
+HasLastSubevent	hear testimony	consider what be say
+HasLastSubevent	add up number	write down total
+HasLastSubevent	eat ice cream	let it melt in your mouth
+HasLastSubevent	remember	act on memory
+HasLastSubevent	entertain someone	take away their car key
+HasLastSubevent	tie your shoelace	clean your hand
+HasLastSubevent	spit	cough
+HasLastSubevent	fish	paddle boat back to shore
+HasLastSubevent	program	test and debug your code
+HasLastSubevent	go to work	turn off light
+HasLastSubevent	write poem	lift pen or pencil
+HasLastSubevent	go to sport event	stand up and leave
+HasLastSubevent	love someone else	die
+HasLastSubevent	hit bottle	finish drink
+HasLastSubevent	weed garden	throw away weed
+HasLastSubevent	know how stock market perform	read ticker
+HasLastSubevent	go for jog	warm down
+HasLastSubevent	pass sentence	decide on criminal punishment
+HasLastSubevent	determine truth	make judgement
+HasLastSubevent	go into trance	become hypnotize
+HasLastSubevent	run	slow down
+HasLastSubevent	get exercise	clean yourself
+HasLastSubevent	procreate	climax
+HasLastSubevent	visit art gallery	get your coat
+HasLastSubevent	see your idea become reality	shout eureka
+HasLastSubevent	test car	start engine
+HasLastSubevent	compute sum	sanity check your answer
+HasLastSubevent	jump up and down	stop
+HasLastSubevent	illustrate point	summarize
+HasLastSubevent	paint	clean your brush
+HasLastSubevent	commit perjury	lie
+HasLastSubevent	watch movie	leave theater
+HasLastSubevent	cool off	mop off sweat
+HasLastSubevent	serve customer	verify that they be satisfy
+HasLastSubevent	procreate	cut umbilical cord
+HasLastSubevent	pass course	thank instructor
+HasLastSubevent	stay healthy	die
+HasLastSubevent	take in film	discuss it with your friend
+HasLastSubevent	go to market	pay cashier
+HasLastSubevent	go outside for even	lock door
+HasLastSubevent	commit murder	dispose of body
+HasLastSubevent	take stand	you testify in courtroom trial
+HasLastSubevent	wake up in morning	put on clothe
+HasLastSubevent	meet person	exchange phone number and or email
+HasLastSubevent	enjoy film	clap when film be over
+HasLastSubevent	eat breakfast in bed	remove tray
+HasLastSubevent	eat in restaurant	pay bill
+HasLastSubevent	go for haircut	tip stylist
+HasLastSubevent	weed garden	wash your hand
+HasLastSubevent	find lose item	exhale with relief
+HasLastSubevent	copulate	smile
+HasLastSubevent	create something to help other person	share it
+HasLastSubevent	have bath	empty tub
+HasLastSubevent	please your parent	hug
+HasLastSubevent	take car for drive	watch for other car
+HasLastSubevent	tell many person about something	wait for their response
+HasLastSubevent	hang out at bar	drink
+HasLastSubevent	take stand	state your name
+HasLastSubevent	go to performance	clap
+HasLastSubevent	forgive someone	make your peace
+HasLastSubevent	conquer your opponent	clap my hand
+HasLastSubevent	go somewhere	go back
+HasLastSubevent	commit murder	confess
+HasLastSubevent	give assistance	ask any question
+HasLastSubevent	hear music	open your eye
+HasLastSubevent	bury cat	cry
+HasLastSubevent	be in charge of project	complete
+HasLastSubevent	drive	buckle up
+HasLastSubevent	play violin	take bow
+HasLastSubevent	play card	put them back in deck
+HasLastSubevent	hit bottle	pass out
+HasLastSubevent	play frisbee	pick up frisbee
+HasLastSubevent	build cathedral	sanctify it
+HasLastSubevent	write poem	copy it out
+HasLastSubevent	go to zoo	leave zoo
+HasLastSubevent	see artifact	respond to them
+HasLastSubevent	get away with crime	never tell anyone
+HasLastSubevent	serve justice	give decision
+HasLastSubevent	write program	test
+HasLastSubevent	soak in hotspring	have sex
+HasLastSubevent	go to play	eat
+HasLastSubevent	walk in rain	fall
+HasLastSubevent	get in shape	eat fast food
+HasLastSubevent	apply for job	send it to company
+HasLastSubevent	sign contract	read it over again
+HasLastSubevent	gain more land	add more security
+HasLastSubevent	go to bed	turn shutdown my computer
+HasLastSubevent	compete against someone	say good game
+HasLastSubevent	leave line	put your change in your pocket
+HasLastSubevent	empty your bladder	squeeze
+HasLastSubevent	kiss	close your eye
+HasLastSubevent	play harp	put it away
+HasLastSubevent	take exam	check all your answer
+HasLastSubevent	remember	aah i forget
+HasLastSubevent	communicate	understand conversation
+HasLastSubevent	prepare for vote	remember you be republican
+HasLastSubevent	go to store	pay for your grocery
+HasLastSubevent	run out of steam	pour on more coal
+HasLastSubevent	have party	clean up mess
+HasLastSubevent	grow vegetable	harvest them to eat
+HasLastSubevent	debate politics	you offensive language
+HasLastSubevent	gather energy for tomorrow	eat chocalate
+HasLastSubevent	get in shape	work out
+HasLastSubevent	snore	sleep well
+HasLastSubevent	enjoy day	reflect
+HasLastSubevent	pay bill	cry
+HasLastSubevent	stand in line	walk away
+HasLastSubevent	jump up and down	drink
+HasLastSubevent	decide criminal fate	feel bad
+HasLastSubevent	gain more land	set it on fire
+HasLastSubevent	take final exam	cheat
+HasLastSubevent	start fire	pour gas on it
+HasLastSubevent	jump out of window	decide to turn back
+HasLastSubevent	lose weight	have candy
+HasLastSubevent	go outside for even	get jacket
+HasLastSubevent	apply for job	go to interview
+HasLastSubevent	play game of chess	checkmate
+HasLastSubevent	study	sit at desk
+HasLastSubevent	keep thing orderly and tidy	change your name to dwight
+HasLastSubevent	clean clothe	dry them
+HasLastSubevent	holiday shop	go postal
+HasLastSubevent	meet girl	have orgy
+HasLastSubevent	go fish	smell
+HasLastSubevent	enjoy film	leave
+HasLastSubevent	clean your room	vomit
+HasLastSubevent	drive car	pay attention
+HasLastSubevent	join army	tell everyone you gay
+HasLastSubevent	kiss	eat garlic first
+HasLastSubevent	go for run	cool down
+HasLastSubevent	buy shirt	try it on
+HasLastSubevent	go for swim	get out of pool
+HasLastSubevent	mail letter	put it in mailbox
+HasLastSubevent	play sport	determine winner
+HasLastSubevent	know how stock market perform	ejaculate
+HasLastSubevent	open business	close business
+HasLastSubevent	watch film	discuss it
+HasLastSubevent	eat vegetable	throw away what leave
+HasLastSubevent	contemplate	socialize
+HasLastSubevent	paint house	clean floor
+HasLastSubevent	meet interest person	write down their phone number
+HasLastSubevent	get pay	deposit your paycheck
+HasLastSubevent	kill	laugh maniacally
+HasLastSubevent	write letter	sign letter
+HasLastSubevent	view video	rewind tape
+HasLastSubevent	talk to someone	say goodbye
+HasLastSubevent	listen to radio	turn off radio
+HasLastSubevent	clean your clothe	put it away
+HasLastSubevent	urinate	flush toilet
+HasLastSubevent	perform	bow
+HasLastSubevent	lose weight	buy new clothe
+HasLastSubevent	follow recipe	eat result
+HasLastSubevent	hear music	turn off radio
+HasLastSubevent	play sport	take shower
+HasLastSubevent	watch even news	turn off tv
+HasLastSubevent	itch	scratch
+HasLastSubevent	take bath	dry yourself off
+HasLastSubevent	test car	get out of car
+HasLastSubevent	drink	swallow
+HasLastSubevent	watch television	turn it off
+HasLastSubevent	leave house	lock door
+HasLastSubevent	mail letter	put letter in mailbox
+HasLastSubevent	light match	blow it out
+HasLastSubevent	have shower	dry
+HasLastSubevent	paint picture	hang it on wall
+HasLastSubevent	socialize	say goodbye
+HasLastSubevent	use vcr	turn it off
+HasLastSubevent	pay cash	receive change
+HasLastSubevent	change your appearance	look in mirror
+HasLastSubevent	go somewhere	arrive there
+HasLastSubevent	wait table	pick up tip
+HasLastSubevent	bring home some fish	eat it
+HasLastSubevent	meet girl	say goodbye
+HasLastSubevent	eat dinner	wash dish
+HasLastSubevent	sleep at night	get in bed
+HasLastSubevent	stay fit	take shower
+HasLastSubevent	go to baseball game	leave stadium
+HasLastSubevent	pay by check	sign your name
+HasLastSubevent	use computer	shut it off
+HasLastSubevent	make love	ejaculate
+HasLastSubevent	go for run	cool off
+HasLastSubevent	get contract	celebrate
+HasLastSubevent	copulate	have orgasm
+HasLastSubevent	sleep	wake up
+HasLastSubevent	go to sleep	close your eye
+HasLastSubevent	eat breakfast in bed	clean up
+HasLastSubevent	wash your clothe	put them away
+HasLastSubevent	copulate	clean up
+HasLastSubevent	attend class	leave class
+HasLastSubevent	celebrate	clean up
+HasLastSubevent	go on internet	disconnect
+HasLastSubevent	have heart attack	die
+HasLastSubevent	dream	wake up
+HasLastSubevent	smoke	die
+HasLastSubevent	follow recipe	put food on table
+HasLastSubevent	go to opera	go home
+HasLastSubevent	eat vegetable	swallow
+HasLastSubevent	eat	swallow
+HasLastSubevent	go to bed	close your eye
+HasLastSubevent	read book	close it
+HasLastSubevent	go on stage	perform
+HasLastSubevent	attend classical concert	applaude
+HasLastSubevent	go on internet	log off
+HasLastSubevent	drive car	turn off engine
+HasLastSubevent	swim	dry off
+HasLastSubevent	win baseball game	cheer
+HasLastSubevent	go for swim	dry yourself
+HasLastSubevent	play chess	put away piece
+HasLastSubevent	pass class	celebrate
+HasLastSubevent	buy something	pay for it
+HasLastSubevent	play lacrosse	take shower
+HasLastSubevent	sing	bow
+HasLastSubevent	send e-mail	click send button
+HasLastSubevent	write	put down pen
+HasLastSubevent	pay cash	get receipt
+HasLastSubevent	go into trance	lose consciousness
+HasLastSubevent	visit art gallery	leave art gallery
+HasLastSubevent	watch television show	turn of television
+HasLastSubevent	listen to radio	turn radio off
+HasLastSubevent	play game	put away game
+HasLastSubevent	program	debug
+HasLastSubevent	pray	say amen
+HasLastSubevent	wash your hand	dry your hand
+HasLastSubevent	sign contract	date contract
+HasLastSubevent	apply for job	interview
+HasLastSubevent	set cup on table	let go of cup
+HasLastSubevent	get wet	dry yourself
+HasLastSubevent	strike match	blow it out
+HasLastSubevent	perform	take bow
+HasLastSubevent	play chess	say checkmate
+HasLastSubevent	clean clothe	take them out of dry
+HasLastSubevent	make phone call	hang up
+HasLastSubevent	clean	take out trash
+HasLastSubevent	take exam	turn it in
+HasLastSubevent	make bread	eat it
+HasLastSubevent	drive your car	turn off engine
+HasLastSubevent	talk	say goodbye
+HasLastSubevent	clean clothe	put it away
+HasLastSubevent	kill someone	go to jail
+HasLastSubevent	go jog	stretch
+HasLastSubevent	read newspaper	fold it up
+HasLastSubevent	propose to woman	put ring on her finger
+HasLastSubevent	brush your tooth	rinse out your mouth
+HasLastSubevent	love animal	eat it
+HasLastSubevent	drink too much	fall asleep
+HasLastSubevent	go to bathroom	wash your hand
+HasLastSubevent	buy something	give money to clerk
+HasLastSubevent	eat meal	have dessert
+HasLastSubevent	take shower	dry yourself off
+HasLastSubevent	go to sleep	lose consciousness
+HasLastSubevent	listen	understand
+HasLastSubevent	eat ice cream	wash bowl
+HasLastSubevent	satisfy appetite with minimum effort	swallow
+HasLastSubevent	bathe	pull plug
+HasLastSubevent	clean your room	admire my work
+HasLastSubevent	kiss	have your eye open
+HasLastSubevent	run twenty-six mile	rest
+HasLastSubevent	run out of steam	collapse
+HasLastSubevent	dive	hold your breath
+HasLastSubevent	take car for drive	lock car
+HasLastSubevent	improve your image	check yourself in mirror
+HasLastSubevent	write letter	sign it
+HasLastSubevent	see exhibit	leave museum
+HasLastSubevent	play soccer	leave field
+HasLastSubevent	go to performance	applaud
+HasLastSubevent	get some money from someone	thank them
+HasLastSubevent	awake	open your eye
+HasLastSubevent	listen to music	stop music
+HasLastSubevent	buy house	sign some paper
+HasLastSubevent	go on vacation	go home
+HasLastSubevent	buy present	give them
+HasLastSubevent	empty your bladder	put seat down
+HasLastSubevent	change society	write book about it
+HasLastSubevent	buy present	wrap them
+HasLastSubevent	eat apple	throw away core
+HasLastSubevent	get warm	stop shiver
+HasLastSubevent	create art	sign it
+HasLastSubevent	hike	take off your shoe
+HasLastSubevent	attend classical concert	applaud
+HasLastSubevent	purchase cellular phone	activate cellular account
+HasLastSubevent	buy present for others	give them to them
+HasLastSubevent	go to concert	leave concert
+HasLastSubevent	cook meal	clean dish
+HasLastSubevent	tape television show	file it away
+HasLastSubevent	add up number	arrive at their sum
+HasLastSubevent	go fish	go back home
+HasLastSubevent	take course	take exame
+HasLastSubevent	reproduce	ejaculate
+HasLastSubevent	clean your clothe	use detergent
+HasLastSubevent	skate	take off your skate
+HasLastSubevent	view film at home	rewind film
+HasLastSubevent	go on vacation	come home
+HasLastSubevent	meet person	say goodbye
+HasLastSubevent	tell story	stop talk
+HasLastSubevent	go to concert	leave concert hall
+HasLastSubevent	drink alcohol	swallow
+HasLastSubevent	kill someone	hide body
+HasLastSubevent	get drunk	pass out
+HasLastSubevent	travel	arrive at your destination
+HasLastSubevent	tie your shoelace	stand up
+HasLastSubevent	go to performance	i clap
+HasLastSubevent	cook	clean up kitchen
+HasLastSubevent	see movie	leave theater
+HasLastSubevent	go somewhere	arrive
+HasLastSubevent	swim	get out of water
+HasLastSubevent	contemplate	make decision
+HasLastSubevent	pass your university exam	graduate
+HasLastSubevent	breathe	exhale
+HasLastSubevent	hurt someone else	apologize
+HasLastSubevent	score home run	touch home plate
+HasLastSubevent	repair umbrella	close it
+HasLastSubevent	chop firewood	stack firewood
+HasLastSubevent	pay by credit card	sign receipt
+HasLastSubevent	have shower	dry off with towel
+HasLastSubevent	go into trance	close your eye
+HasLastSubevent	buy food	pay
+HasLastSubevent	play ball	go home
+HasLastSubevent	compete against someone	say i win
+HasLastSubevent	buy fresh fruit and vegetable	pay for them
+HasLastSubevent	play poker	cash in your chip
+HasLastSubevent	go off strike	go back to work
+HasLastSubevent	chew your food	swallow it
+HasLastSubevent	eat	burp
+HasLastSubevent	catch mumps	recover
+HasLastSubevent	kiss someone	smile
+HasLastSubevent	sleigh ride	get out of sleigh
+HasLastSubevent	play card	put card away
+HasLastSubevent	enjoy company of your friend	say goodbye
+HasLastSubevent	have bath	dry off
+HasLastSubevent	get divorce	sign some document
+HasLastSubevent	tickle	run away fast
+HasLastSubevent	study	forget everything
+HasLastSubevent	have friend over	say goodbye
+HasLastSubevent	make shop list	check it
+HasLastSubevent	improve your image	straighten tie
+HasLastSubevent	have conversation	stop talk
+HasLastSubevent	drill hole	remove dust that form
+HasLastSubevent	express how funny something	be laugh
+HasLastSubevent	see art	leave museum
+HasLastSubevent	skateboard	fall off
+HasLastSubevent	sew	put away needle and thread
+HasLastSubevent	eat	swallow food
+HasLastSubevent	go for walk	go home
+HasLastSubevent	fall	hit grind
+HasLastSubevent	take shower	turn off water
+HasLastSubevent	clean clothe	press it
+HasLastSubevent	use calculator	turn calculator off
+HasLastSubevent	die	stop breathe
+HasLastSubevent	cook meal	serve it
+HasLastSubevent	wait on table	collect your tip
+HasLastSubevent	clean your clothe	put them away
+HasLastSubevent	urinate	wash your hand
+HasLastSubevent	buy fresh fruit and vegetable	eat them
+HasLastSubevent	remember phone number	be forget it
+HasLastSubevent	fall	hit surface
+HasLastSubevent	have epileptic fit	recover consciousness
+HasLastSubevent	drink alcohol	get drunk
+HasLastSubevent	buy fresh fruit and vegetable	leave store
+HasLastSubevent	play hockey	leave ice
+HasLastSubevent	read to your child	close book
+HasLastSubevent	join army	regret
+HasLastSubevent	paint	clean up
+HasLastSubevent	play game with your friend	laugh
+HasLastSubevent	read magazine	close magazine
+HasLastSubevent	become more clean	dry off
+HasLastSubevent	tell many person about something	summarize
+HasLastSubevent	have party	kiss goodbye
+HasLastSubevent	tell many person about something	draw conclusion
+HasLastSubevent	tell many person about something	listen to response
+HasLastSubevent	tell many person about something	ask for feedback
+HasLastSubevent	answer question	ask question back
+HasLastSubevent	watch tv	turn off set
+HasLastSubevent	swim	get out
+HasLastSubevent	have party	take baby sitter home
+HasLastSubevent	have party	thank help
+HasLastSubevent	buy hamburger	add salt
+HasLastSubevent	have party	talk about next time
+HasLastSubevent	tape television show	label tape
+HasLastSubevent	buy hamburger	return tray
+HasLastSubevent	have party	close front door
+HasLastSubevent	have party	receive depart guest at door
+HasLastSubevent	have party	pay bill
+HasLastSubevent	have party	pick up piece
+HasLastSubevent	have party	thank party goer for come
+HasLastSubevent	buy hamburger	add trimming
+HasLastSubevent	have party	account for cost
+HasLastSubevent	have party	dump detritus
+HasLastSubevent	buy hamburger	carry it away
+HasLastSubevent	have party	tip help
+HasLastSubevent	have party	give big cheer
+HasLastSubevent	build cathedral	arrange open ceremony
+HasLastSubevent	have party	inquire about travel concern
+HasLastSubevent	express information	close your mouth
+HasLastSubevent	go for run	pull to stop
+HasLastSubevent	run after ball	grab it
+HasLastSubevent	look through telescope	record your find
+HasLastSubevent	have party	give thank
+HasLastSubevent	have party	pick up tab
+HasLastSubevent	play basketball	bag ball
+HasLastSubevent	buy hamburger	gobble it down
+HasLastSubevent	buy hamburger	add pepper
+HasLastSubevent	have party	express relief
+HasLastSubevent	have party	package up unfinished food
+HasLastSubevent	have party	thank band
+HasLastSubevent	have party	eat perishable
+HasLastSubevent	have party	go to bed
+HasLastSubevent	buy hamburger	add mayonnaise
+HasLastSubevent	wash your car	dry chrome
+HasLastSubevent	have party	hug your spouse
+HasLastSubevent	have party	refrigerate food
+HasLastSubevent	have party	see guest off
+HasLastSubevent	take bath	rinse off
+HasLastSubevent	take car for drive	park
+HasLastSubevent	have party	accept congratulation
+HasLastSubevent	have party	say goodbye
+HasLastSubevent	have party	assist departure
+HasLastSubevent	entertain person	thank them for come
+HasLastSubevent	act in play	take bow
+HasLastSubevent	read news	recycle paper
+HasLastSubevent	buy beer	drink it
+HasLastSubevent	taste something sweet	swallow
+HasLastSubevent	travel	go back home
+HasLastSubevent	go see play	sit in my seat
+HasLastSubevent	cool off	relax
+HasLastSubevent	write term paper	hand it in
+HasLastSubevent	get up early	turn off alarm clock
+HasLastSubevent	kill	go to jail
+HasLastSubevent	watch film	leave theater
+HasLastSubevent	start fire	put it out
+HasLastSubevent	wash your car	dry your car
+HasLastSubevent	read newspaper	fold it back up
+HasLastSubevent	watch television show	turn television off
+HasLastSubevent	wash your hand	dry them
+HasLastSubevent	get wet	dry off
+HasLastSubevent	clean your clothe	hang them in closet
+HasLastSubevent	read newspaper	close it
+HasLastSubevent	wrestle be winner	cheer
+HasLastSubevent	paint	let it dry
+HasLastSubevent	commit genocide	celebrate when specific group be dead
+HasLastSubevent	deal drug	exchange drug for money
+HasLastSubevent	take shit	flush
+HasLastSubevent	have penis	punch it
+HasLastSubevent	have condomless sex	pull out
+HasLastSubevent	kill john safran	bury body
+HasLastSubevent	have penis	stick it in dark hole
+HasLastSubevent	have prohibitionist society	pretend it work
+HasLastSubevent	change clothe	get dress
+HasLastSubevent	cut your hair	pay for it
+HasLastSubevent	go to work	clock in
+HasLastSubevent	go for jog	stretch
+HasLastSubevent	fee your family	sex
+HasLastSubevent	procreate	sex
+HasLastSubevent	stop stand in it	move
+HasLastSubevent	discover truth	tell others
+HasLastSubevent	play lacrosse	win or lose
+HasLastSubevent	buy hamburger	smile
+HasLastSubevent	have party	clean up confetti
+HasLastSubevent	have party	sigh in relief
+HasLastSubevent	buy hamburger	add catsup
+HasLastSubevent	buy product	pay for them
+HasLastSubevent	catch butterfly	let it go again
+HasLastSubevent	type letter	proofread it
+HasLastSubevent	leave office	set alarm
+HasLastSubevent	sweep kitchen	empty dust pan
+HasLastSubevent	answer phone	hang up
+HasLastSubevent	open envelope	take out what inside
+HasLastSubevent	send someone bill	put it in mail
+HasLastSubevent	make tea	slowly sip it
+HasLastSubevent	go trick-or-treating	eat all candy
+HasLastSubevent	drop someone off	make sure they get in safely
+HasLastSubevent	eat dinner	clean up
+HasLastSubevent	leave room	turn off light
+HasLastSubevent	shut down computer	turn off power
+HasLastSubevent	surf in www	close your browser
+HasLastSubevent	read tabloid article	laugh hysterically
+HasLastSubevent	vent your anger	feel calm again
+HasLastSubevent	want to live	kill yourself
+HasLastSubevent	get out of car	lock car
+HasLastSubevent	build street	paint line
+HasLastSubevent	shave your leg	rub lotion on them
+HasLastSubevent	change tire	low jack
+HasLastSubevent	make pottery	fire it in kiln
+HasLastSubevent	create work of art	sign your name on it
+HasLastSubevent	gargle	spit
+HasLastSubevent	write check	balance your checkbook
+HasLastSubevent	ride horse	cool him out
+HasLastSubevent	make jello	put it in refrigerator
+HasLastSubevent	cut down tree	see wood into log
+HasLastSubevent	visit friend	say goodbye
+HasLastSubevent	go on date	kiss him goodnight
+HasLastSubevent	get ready for trip	pack your toothbrush
+HasLastSubevent	eat meal	wash dish
+HasLastSubevent	go to library	check out book
+HasLastSubevent	quit smoke	get crabby
+HasLastSubevent	dine out	leave tip
+HasLastSubevent	wrap gift	stick on name tag
+HasLastSubevent	ride horse	clean your tack
+HasLastSubevent	go grocery shop	put away all grocery
+HasLastSubevent	copulate	ejaculate
+HasLastSubevent	study	graduate
+HasLastSubevent	park	leave car
+HasLastSubevent	play	win or loose
+HasLastSubevent	fly	land
+HasLastSubevent	go to bed	read book
+HasLastSubevent	get old	give up all hope
+HasLastSubevent	eat	swallow your food
+HasLastSubevent	go to sleep	lie down
+HasLastSubevent	bake cake	eat cake
+HasLastSubevent	write sentence	type period
+HasLastSubevent	take shower	put your clothe on
+HasLastSubevent	finish exam	turn it in
+HasLastSubevent	go to sleep	stop hear thing
+HasLastSubevent	ask question	put inflection at end
+HasLastSubevent	leave house	close door behind you
+HasLastSubevent	take test	give test to tester
+HasLastSubevent	take test	hand in test
+HasLastSubevent	sew on button	snip thread
+HasLastSubevent	break egg	throw away shell
+HasLastSubevent	blow your nose	throw tissue in trash
+HasLastSubevent	make phone call	hang up phone
+HasLastSubevent	cry	wipe your tear from your face
+HasLastSubevent	send kid off to school	tell them you love them
+HasLastSubevent	go to bed	brush your tooth
+HasLastSubevent	leave your home	lock door
+HasLastSubevent	watch movie	turn off tv
+HasLastSubevent	talk on phone	hang up
+HasLastSubevent	throw party	clean up mess
+HasLastSubevent	write letter	sign your name
+HasLastSubevent	shit	wipe your ass
+HasLastSubevent	eat in restaurant	stand up from table
+HasLastSubevent	yawn	close your mouth
+HasLastSubevent	use toilet	flush
+HasLastSubevent	die	take your last breath
+HasLastSubevent	shower	towel off
+HasLastSubevent	go to bed	turn off light
+HasLastSubevent	brush your tooth	replace toothbrush
+HasLastSubevent	sneeze	say excuse me
+HasLastSubevent	watch movie	read credit
+HasLastSubevent	finish paint	frame it
+HasLastSubevent	finish hand sew	tie knot in thread
+HasLastSubevent	go to sleep	tell your love goodnight
+HasLastSubevent	get out milk	close refrigerator
+HasLastSubevent	leave party	say goodbye
+HasLastSubevent	finish job	clean up
+HasLastSubevent	enter data	hit enter key
+HasLastSubevent	breath your last	die
+HasLastSubevent	loose your job	tell boss what you think
+HasLastSubevent	fall	hit earth
+HasLastSubevent	be hungry	eat
+HasLastSubevent	fart	blush
+HasLastSubevent	finish book	close back cover
+HasLastSubevent	mail letter	put it in mail slot
+HasLastSubevent	brush your tooth	rinse your mouth
+HasLastSubevent	excrete	wipe yourself
+HasLastSubevent	take test	turn it in
+HasLastSubevent	buy car	drive it home
+HasLastSubevent	leave boat	tie it to dock
+HasLastSubevent	win chess	force checkmate
+HasLastSubevent	write sentence	write period
+HasLastSubevent	go to sport event	leave sport event
+HasLastSubevent	learn	know
+HasLastSubevent	fly in airplane	get off airplane
+HasLastSubevent	cook	eat
+HasLastSubevent	bungee jump from high bridge	jump
+HasLastSubevent	write poem	show it to someone else
+HasLastSubevent	express how funny something	be finally stop laugh about it
+HasLastSubevent	breathe	finish prior breath
+HasLastSubevent	go to market	enter store
+HasLastSubevent	play sport	shower
+HasLastSubevent	have fun	stop have fun
+HasLastSubevent	serve customer	bus table
+HasLastSubevent	hear testimony	listen
+HasLastSubevent	cool off	look for something else to do
+HasLastSubevent	eat breakfast	wash dish
+HasLastSubevent	make friend	plan to spend time together
+HasLastSubevent	take final	turn in your exam
+HasLastSubevent	have heart attack	either recover or die
+HasLastSubevent	swim	get in water
+HasLastSubevent	create idea	say ah-ha
+HasLastSubevent	have rest	get up
+HasLastSubevent	buy shirt	take out pin
+HasLastSubevent	compete	lose
+HasLastSubevent	have lunch	leave table
+HasLastSubevent	have physical examination	make your co-payment
+HasLastSubevent	study for subject	review material
+HasLastSubevent	earn live	retire
+HasLastSubevent	invest money or energy	give it up
+HasLastSubevent	score homer	little dance to dugout
+HasLastSubevent	serve justice	go home
+HasLastSubevent	holiday shop	go home and soak your foot
+HasLastSubevent	satisfy appetite with minimum effort	belch
+HasLastSubevent	open gift	say thank you
+HasLastSubevent	receive degree	look for job
+HasLastSubevent	hear testimony	consider what be say
+HasLastSubevent	add up number	write down total
+HasLastSubevent	eat ice cream	let it melt in your mouth
+HasLastSubevent	remember	act on memory
+HasLastSubevent	entertain someone	take away their car key
+HasLastSubevent	tie your shoelace	clean your hand
+HasLastSubevent	spit	cough
+HasLastSubevent	fish	paddle boat back to shore
+HasLastSubevent	program	test and debug your code
+HasLastSubevent	go to work	turn off light
+HasLastSubevent	write poem	lift pen or pencil
+HasLastSubevent	go to sport event	stand up and leave
+HasLastSubevent	love someone else	die
+HasLastSubevent	hit bottle	finish drink
+HasLastSubevent	weed garden	throw away weed
+HasLastSubevent	know how stock market perform	read ticker
+HasLastSubevent	go for jog	warm down
+HasLastSubevent	pass sentence	decide on criminal punishment
+HasLastSubevent	determine truth	make judgement
+HasLastSubevent	go into trance	become hypnotize
+HasLastSubevent	run	slow down
+HasLastSubevent	get exercise	clean yourself
+HasLastSubevent	procreate	climax
+HasLastSubevent	visit art gallery	get your coat
+HasLastSubevent	see your idea become reality	shout eureka
+HasLastSubevent	test car	start engine
+HasLastSubevent	compute sum	sanity check your answer
+HasLastSubevent	jump up and down	stop
+HasLastSubevent	illustrate point	summarize
+HasLastSubevent	paint	clean your brush
+HasLastSubevent	commit perjury	lie
+HasLastSubevent	watch movie	leave theater
+HasLastSubevent	cool off	mop off sweat
+HasLastSubevent	serve customer	verify that they be satisfy
+HasLastSubevent	procreate	cut umbilical cord
+HasLastSubevent	pass course	thank instructor
+HasLastSubevent	stay healthy	die
+HasLastSubevent	take in film	discuss it with your friend
+HasLastSubevent	go to market	pay cashier
+HasLastSubevent	go outside for even	lock door
+HasLastSubevent	commit murder	dispose of body
+HasLastSubevent	take stand	you testify in courtroom trial
+HasLastSubevent	wake up in morning	put on clothe
+HasLastSubevent	meet person	exchange phone number and or email
+HasLastSubevent	enjoy film	clap when film be over
+HasLastSubevent	eat breakfast in bed	remove tray
+HasLastSubevent	eat in restaurant	pay bill
+HasLastSubevent	go for haircut	tip stylist
+HasLastSubevent	weed garden	wash your hand
+HasLastSubevent	find lose item	exhale with relief
+HasLastSubevent	copulate	smile
+HasLastSubevent	create something to help other person	share it
+HasLastSubevent	have bath	empty tub
+HasLastSubevent	please your parent	hug
+HasLastSubevent	take car for drive	watch for other car
+HasLastSubevent	tell many person about something	wait for their response
+HasLastSubevent	hang out at bar	drink
+HasLastSubevent	take stand	state your name
+HasLastSubevent	go to performance	clap
+HasLastSubevent	forgive someone	make your peace
+HasLastSubevent	conquer your opponent	clap my hand
+HasLastSubevent	go somewhere	go back
+HasLastSubevent	commit murder	confess
+HasLastSubevent	give assistance	ask any question
+HasLastSubevent	hear music	open your eye
+HasLastSubevent	bury cat	cry
+HasLastSubevent	be in charge of project	complete
+HasLastSubevent	drive	buckle up
+HasLastSubevent	play violin	take bow
+HasLastSubevent	play card	put them back in deck
+HasLastSubevent	hit bottle	pass out
+HasLastSubevent	play frisbee	pick up frisbee
+HasLastSubevent	build cathedral	sanctify it
+HasLastSubevent	write poem	copy it out
+HasLastSubevent	go to zoo	leave zoo
+HasLastSubevent	see artifact	respond to them
+HasLastSubevent	get away with crime	never tell anyone
+HasLastSubevent	serve justice	give decision
+HasLastSubevent	write program	test
+HasLastSubevent	soak in hotspring	have sex
+HasLastSubevent	go to play	eat
+HasLastSubevent	walk in rain	fall
+HasLastSubevent	get in shape	eat fast food
+HasLastSubevent	apply for job	send it to company
+HasLastSubevent	sign contract	read it over again
+HasLastSubevent	gain more land	add more security
+HasLastSubevent	go to bed	turn shutdown my computer
+HasLastSubevent	compete against someone	say good game
+HasLastSubevent	leave line	put your change in your pocket
+HasLastSubevent	empty your bladder	squeeze
+HasLastSubevent	kiss	close your eye
+HasLastSubevent	play harp	put it away
+HasLastSubevent	take exam	check all your answer
+HasLastSubevent	remember	aah i forget
+HasLastSubevent	communicate	understand conversation
+HasLastSubevent	prepare for vote	remember you be republican
+HasLastSubevent	go to store	pay for your grocery
+HasLastSubevent	run out of steam	pour on more coal
+HasLastSubevent	have party	clean up mess
+HasLastSubevent	grow vegetable	harvest them to eat
+HasLastSubevent	debate politics	you offensive language
+HasLastSubevent	gather energy for tomorrow	eat chocalate
+HasLastSubevent	get in shape	work out
+HasLastSubevent	snore	sleep well
+HasLastSubevent	enjoy day	reflect
+HasLastSubevent	pay bill	cry
+HasLastSubevent	stand in line	walk away
+HasLastSubevent	jump up and down	drink
+HasLastSubevent	decide criminal fate	feel bad
+HasLastSubevent	gain more land	set it on fire
+HasLastSubevent	take final exam	cheat
+HasLastSubevent	start fire	pour gas on it
+HasLastSubevent	jump out of window	decide to turn back
+HasLastSubevent	lose weight	have candy
+HasLastSubevent	go outside for even	get jacket
+HasLastSubevent	apply for job	go to interview
+HasLastSubevent	play game of chess	checkmate
+HasLastSubevent	study	sit at desk
+HasLastSubevent	keep thing orderly and tidy	change your name to dwight
+HasLastSubevent	clean clothe	dry them
+HasLastSubevent	holiday shop	go postal
+HasLastSubevent	meet girl	have orgy
+HasLastSubevent	go fish	smell
+HasLastSubevent	enjoy film	leave
+HasLastSubevent	clean your room	vomit
+HasLastSubevent	drive car	pay attention
+HasLastSubevent	join army	tell everyone you gay
+HasLastSubevent	kiss	eat garlic first
+HasLastSubevent	go for run	cool down
+HasLastSubevent	buy shirt	try it on
+HasLastSubevent	go for swim	get out of pool
+HasLastSubevent	mail letter	put it in mailbox
+HasLastSubevent	play sport	determine winner
+HasLastSubevent	know how stock market perform	ejaculate
+HasLastSubevent	open business	close business
+HasLastSubevent	watch film	discuss it
+HasLastSubevent	eat vegetable	throw away what leave
+HasLastSubevent	contemplate	socialize
+HasLastSubevent	paint house	clean floor
+HasLastSubevent	meet interest person	write down their phone number
+HasLastSubevent	get pay	deposit your paycheck
+HasLastSubevent	kill	laugh maniacally
+HasLastSubevent	write letter	sign letter
+HasLastSubevent	view video	rewind tape

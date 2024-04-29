@@ -1,0 +1,2 @@
+SymbolOf	dove	peace
+SymbolOf	heart	love

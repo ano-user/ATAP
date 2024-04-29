@@ -1,0 +1,14 @@
+MadeOf	bottle	plastic
+MadeOf	book	paper
+MadeOf	bottle	glass
+MadeOf	paper	wood
+MadeOf	window	glass
+MadeOf	car	metal
+MadeOf	cheese	milk
+MadeOf	snowman	snow
+MadeOf	bread	flour
+MadeOf	eraser	rubber
+MadeOf	cowboy boot	leather
+MadeOf	pencil	wood
+MadeOf	coffee	coffee bean
+MadeOf	jean	denim

@@ -1,0 +1,15 @@
+CausesDesire	be dirty	bathe
+CausesDesire	be hot	go for swim
+CausesDesire	test	study for subject
+CausesDesire	need money	go to work
+CausesDesire	happiness	sing
+CausesDesire	have long hair	have haircut
+CausesDesire	hunger	eat
+CausesDesire	too long hair	have haircut
+CausesDesire	your love	forgive someone
+CausesDesire	drink	urinate
+CausesDesire	boredom	play game
+CausesDesire	crime	conduct trial
+CausesDesire	crime	serve justice
+CausesDesire	music	dance
+CausesDesire	book	sleep

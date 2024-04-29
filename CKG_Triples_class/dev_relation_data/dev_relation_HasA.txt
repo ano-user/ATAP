@@ -1,0 +1,43 @@
+HasA	human	two leg
+HasA	square	four side
+HasA	all car	engine
+HasA	book	information
+HasA	bike	two wheel
+HasA	person	name
+HasA	airplane	wing
+HasA	earth	melt core
+HasA	cheese	flavor
+HasA	human	brain
+HasA	human	two arm
+HasA	saw	tooth
+HasA	horse	4 leg
+HasA	person	sex in bed
+HasA	fruit	vitamin
+HasA	coffee	caffeine
+HasA	ear	wax
+HasA	book	word
+HasA	toothbrush	bristle
+HasA	human	opposable thumb
+HasA	cow	four stomach
+HasA	cat	sharp claw
+HasA	apple	core
+HasA	fish	gill
+HasA	car	window
+HasA	person	five finger on each hand
+HasA	turtle	shell
+HasA	human	sex
+HasA	forest	tree
+HasA	person	two ear
+HasA	library	many book
+HasA	car	radio
+HasA	house	roof
+HasA	parent	child
+HasA	person	feel
+HasA	violin	string
+HasA	earth	atmosphere
+HasA	house	yard
+HasA	most bird	wing
+HasA	bird	wing
+HasA	bird	two leg
+HasA	religion	cause many war
+HasA	arm	one hand

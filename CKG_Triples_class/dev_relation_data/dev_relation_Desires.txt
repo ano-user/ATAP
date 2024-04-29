@@ -1,0 +1,20 @@
+Desires	person	privacy
+Desires	person	their own house
+Desires	person	be knowledgeable
+Desires	animal	eat
+Desires	dog	gnaw on bone
+Desires	dog	ride in car
+Desires	dog	catch frisbee
+Desires	person	solve problem
+Desires	dog	play with frisbee
+Desires	child	play game
+Desires	person	headache
+Desires	dog	chew bone
+Desires	person	ride horse
+Desires	dog	be pet
+Desires	dog	bone
+Desires	person	compliment
+Desires	cat	sleep
+Desires	cat	play
+Desires	dog	play
+Desires	cat	chase mouse

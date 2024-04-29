@@ -1,0 +1,144 @@
+CapableOf	dog	bark
+CapableOf	cat	hunt mouse
+CapableOf	chicken	cross road
+CapableOf	car	go fast
+CapableOf	knife	spread butter
+CapableOf	teacher	school student
+CapableOf	human	die only once
+CapableOf	pilot	land plane
+CapableOf	cup	hold liquid
+CapableOf	boy	date girl
+CapableOf	pilot	fly airplane
+CapableOf	magician	fool audience
+CapableOf	key	open door
+CapableOf	student	study
+CapableOf	host	welcome guest
+CapableOf	key	open lock
+CapableOf	cat	drink water
+CapableOf	chicken	lie egg
+CapableOf	dog	guide blind person
+CapableOf	dealer	deal card
+CapableOf	man	father child
+CapableOf	dog	guard house
+CapableOf	clock	tell time
+CapableOf	cat	eat mouse
+CapableOf	pilot	land airplane
+CapableOf	person	voice opinion
+CapableOf	pilot	fly plane
+CapableOf	doctor	help sick person
+CapableOf	person	eat
+CapableOf	gardener	water plant
+CapableOf	dog	be pet
+CapableOf	girl	wear dress
+CapableOf	bomb	destroy city
+CapableOf	chicken	produce egg
+CapableOf	person	love
+CapableOf	comb	part hair
+CapableOf	person	catch cold
+CapableOf	person	cross street
+CapableOf	cat	catch mouse
+CapableOf	paint	coat wall
+CapableOf	horse	jump fence
+CapableOf	child	share toy
+CapableOf	ball	bounce
+CapableOf	dog	run
+CapableOf	plane	fly
+CapableOf	teacher	teach student
+CapableOf	cat	corner mouse
+CapableOf	brake	slow car
+CapableOf	passenger	board airplane
+CapableOf	car	crash
+CapableOf	miner	mine coal
+CapableOf	shovel	dig hole
+CapableOf	screwdriver	turn screw
+CapableOf	tongue	taste food
+CapableOf	pianist	play piano
+CapableOf	gun	kill person
+CapableOf	bomb	explode
+CapableOf	tree	grow
+CapableOf	carpenter	build house
+CapableOf	baby	cry
+CapableOf	human	eat
+CapableOf	man	date woman
+CapableOf	farmer	farm land
+CapableOf	match	light candle
+CapableOf	thief	case house
+CapableOf	passenger	board plane
+CapableOf	babysitter	mind baby
+CapableOf	boy	kiss girl
+CapableOf	person	wind clock
+CapableOf	thief	case joint
+CapableOf	horse	carry person
+CapableOf	cook	prepare meal
+CapableOf	person	taste food
+CapableOf	author	write book
+CapableOf	artist	paint portrait
+CapableOf	person	thank another person
+CapableOf	person	sleep
+CapableOf	person	captain ship
+CapableOf	person	water plant
+CapableOf	lawyer	object in court
+CapableOf	hummingbird	hover
+CapableOf	radio	play music
+CapableOf	finger	push button
+CapableOf	human	die
+CapableOf	person	believe in god
+CapableOf	computer	compute
+CapableOf	person	think
+CapableOf	atheist	doubt existence of god
+CapableOf	detective	piece together clue
+CapableOf	alcohol	cloud judgement
+CapableOf	teacher	help student
+CapableOf	alcohol	cloud your judgement
+CapableOf	train	arrive late
+CapableOf	woman	chair committee
+CapableOf	blacksmith	shoe horse
+CapableOf	person	laugh at joke
+CapableOf	fire	burn thing
+CapableOf	stopwatch	time race
+CapableOf	usher	seat guest
+CapableOf	person	talk to each other
+CapableOf	bomb	destroy build
+CapableOf	parent	name child
+CapableOf	mechanic	service car
+CapableOf	mother	care for her child
+CapableOf	water	reflect image
+CapableOf	person	thank god
+CapableOf	person	sail boat
+CapableOf	person	pay bill
+CapableOf	sailor	sail ship
+CapableOf	student	fail test
+CapableOf	ruler	measure distance
+CapableOf	computer	process information
+CapableOf	student	master subject
+CapableOf	policeman	direct traffic
+CapableOf	knife	spread peanut butter
+CapableOf	clerk	stock shelve
+CapableOf	police officer	direct traffic
+CapableOf	grocer	stock shelve
+CapableOf	person	shoulder burden
+CapableOf	woman	mother child
+CapableOf	match	light fire
+CapableOf	car	slow down
+CapableOf	nurse	care for patient
+CapableOf	detective	tail suspect
+CapableOf	visitor	ring doorbell
+CapableOf	passenger	board train
+CapableOf	vintner	bottle wine
+CapableOf	dog	guard your house
+CapableOf	plane	crash
+CapableOf	plane	arrive at airport
+CapableOf	camper	sleep in tent
+CapableOf	turtle	live long time
+CapableOf	woman	wear dress
+CapableOf	president	govern country
+CapableOf	lawyer	settle lawsuit
+CapableOf	child	play
+CapableOf	pilot	fly helicopter
+CapableOf	bird	sing
+CapableOf	submarine	travel under water
+CapableOf	baby	cry loud
+CapableOf	banker	lend money
+CapableOf	person	board plane
+CapableOf	terrorist	arm bomb
+CapableOf	ball	roll down hill

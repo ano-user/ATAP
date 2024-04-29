@@ -1,0 +1,15 @@
+ReceivesAction	necklace	wear around neck
+ReceivesAction	all paper	recycle
+ReceivesAction	book	find in library
+ReceivesAction	book	write by author
+ReceivesAction	movie	record on film
+ReceivesAction	paper	recycle
+ReceivesAction	butter	make from milk
+ReceivesAction	island	surround by water
+ReceivesAction	clothe	hang on hanger
+ReceivesAction	boot	make for walk
+ReceivesAction	basketball	fill with air
+ReceivesAction	glass	break
+ReceivesAction	tire	fill with air
+ReceivesAction	fruit	eat
+ReceivesAction	person	kill

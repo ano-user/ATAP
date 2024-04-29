@@ -1,0 +1,26 @@
+NotMadeOf	moon	cheese
+NotMadeOf	glass of water	glass
+NotMadeOf	tortoise shell glass	tortoise shell
+NotMadeOf	this toy	solid plastic and can be squeeze
+NotMadeOf	real duck	wood
+NotMadeOf	house	glass
+NotMadeOf	goldfish	gold
+NotMadeOf	clothe hanger	ice
+NotMadeOf	drink glass	glass
+NotMadeOf	traffic jam	jelly
+NotMadeOf	man	steel
+NotMadeOf	magnet do not attract thing which	iron
+NotMadeOf	acrylic paint	oil
+NotMadeOf	moon	cheese
+NotMadeOf	glass of water	glass
+NotMadeOf	tortoise shell glass	tortoise shell
+NotMadeOf	this toy	solid plastic and can be squeeze
+NotMadeOf	real duck	wood
+NotMadeOf	house	glass
+NotMadeOf	goldfish	gold
+NotMadeOf	clothe hanger	ice
+NotMadeOf	drink glass	glass
+NotMadeOf	traffic jam	jelly
+NotMadeOf	man	steel
+NotMadeOf	magnet do not attract thing which	iron
+NotMadeOf	acrylic paint	oil

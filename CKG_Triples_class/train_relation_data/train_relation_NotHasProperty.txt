@@ -1,0 +1,678 @@
+NotHasProperty	smoke	good for your health
+NotHasProperty	grass	green
+NotHasProperty	earth	round
+NotHasProperty	world	flat
+NotHasProperty	some fire engine	red
+NotHasProperty	hot dog	alive
+NotHasProperty	world	round
+NotHasProperty	justice	equal
+NotHasProperty	smoke	good to health
+NotHasProperty	earth	flat
+NotHasProperty	we	alone
+NotHasProperty	strange be someone you	familiar with
+NotHasProperty	some unitarian universalists	christian
+NotHasProperty	if you be dead you	alive
+NotHasProperty	virus	alive
+NotHasProperty	golden gate bridge	yellow or make of gold
+NotHasProperty	rock	alive
+NotHasProperty	machine	alive
+NotHasProperty	hit bullseye	easy
+NotHasProperty	grow corn	profitable
+NotHasProperty	old map	accurate as modern map
+NotHasProperty	stapler	good without staple
+NotHasProperty	child	purple in color
+NotHasProperty	pleasure	good
+NotHasProperty	grammar	correct
+NotHasProperty	bill	want
+NotHasProperty	something that be floppy	rigid
+NotHasProperty	rugged object	break
+NotHasProperty	vampire	real
+NotHasProperty	yeast	use for every sort of bread
+NotHasProperty	ignorance	know
+NotHasProperty	cubicle	enclose
+NotHasProperty	bone	hard as steel
+NotHasProperty	satan	very nice
+NotHasProperty	time travel	possible
+NotHasProperty	computer virus	live
+NotHasProperty	irrational	bad
+NotHasProperty	disagreement	bad
+NotHasProperty	something you find inside	outside
+NotHasProperty	some person	thin
+NotHasProperty	logic	faulty
+NotHasProperty	cannabis	harmful as heroin and cocaine
+NotHasProperty	woman workaholic	frivolous and flighty
+NotHasProperty	clothe	part of your body
+NotHasProperty	sugar	good for person
+NotHasProperty	hamburger	alive
+NotHasProperty	some person	very smart
+NotHasProperty	steam engine	long use
+NotHasProperty	old map	accurate
+NotHasProperty	life	fair
+NotHasProperty	gay	in general pedophile
+NotHasProperty	luxuriate in bed	bad at all
+NotHasProperty	sex	just for procreation
+NotHasProperty	solid	liquid
+NotHasProperty	hot	cold
+NotHasProperty	character flaw	good to have
+NotHasProperty	soda	good for your tooth
+NotHasProperty	mime	expect to talk
+NotHasProperty	most work	necessary
+NotHasProperty	some transparent water	drinkable
+NotHasProperty	seawater	useful for irrigation
+NotHasProperty	something you find ugly	beautiful
+NotHasProperty	ride horse	ride
+NotHasProperty	telivision screen	wide as movie screen
+NotHasProperty	sock	hang on clothe hanger
+NotHasProperty	bipedal mammal	capable of flight
+NotHasProperty	old map	accurate as new map
+NotHasProperty	clothe	only for protection
+NotHasProperty	mass and weight	same
+NotHasProperty	starship enterprise	real
+NotHasProperty	steam locomotive	long use in america
+NotHasProperty	mouse	fond of chees
+NotHasProperty	most leave	smoke
+NotHasProperty	mouse	fond of cheese
+NotHasProperty	old world map	very accurate
+NotHasProperty	pepsi	good for you
+NotHasProperty	fortune cookie	chinese
+NotHasProperty	steam engine	long use in unite state
+NotHasProperty	floppy disk	powerful as cd-rom
+NotHasProperty	work	do
+NotHasProperty	infrared	visible to human eye
+NotHasProperty	telephone	good
+NotHasProperty	dreadlock	wear by jewish men
+NotHasProperty	shadow	dark
+NotHasProperty	some art	please to look at
+NotHasProperty	cat	nice
+NotHasProperty	lizard bite	very fun
+NotHasProperty	sexual reproduction	just for animal
+NotHasProperty	flat tire	plan
+NotHasProperty	comb	useful for bald person
+NotHasProperty	it	beautiful
+NotHasProperty	fortune cookie fortune	right
+NotHasProperty	atonal music	easy to like
+NotHasProperty	rubber chicken	funny
+NotHasProperty	comedy	funny
+NotHasProperty	lie	true
+NotHasProperty	this bridge	suppose to collapse
+NotHasProperty	hot dog	make from dog meat
+NotHasProperty	100 year ago tv	invent
+NotHasProperty	manual typewriter	use
+NotHasProperty	old map of world	accurate
+NotHasProperty	rollercoasters be fun if you	afraid of height
+NotHasProperty	view through microscope	pleasant
+NotHasProperty	certainly seven	lucky
+NotHasProperty	life	possible without water
+NotHasProperty	person write fact down so they	forget
+NotHasProperty	sushi	cook
+NotHasProperty	houseclean	fun
+NotHasProperty	dessert	necessary to life
+NotHasProperty	i	very good at pool
+NotHasProperty	animal	smart as human
+NotHasProperty	library	quiet
+NotHasProperty	geneticaly woman	strong as men
+NotHasProperty	five player on each side often	enough
+NotHasProperty	game be not game if they	fun
+NotHasProperty	some person	able to use this
+NotHasProperty	3-d tv	perfect
+NotHasProperty	bagel look like donut but	sweet
+NotHasProperty	easter bunny	real
+NotHasProperty	this sport	popular in unite state
+NotHasProperty	leave	green
+NotHasProperty	some water	safe for swim
+NotHasProperty	wicker	sturdy as oak
+NotHasProperty	small island	safe if there be storm
+NotHasProperty	it	acceptable to sleep in public
+NotHasProperty	these teath	real
+NotHasProperty	metal	long require for furniture
+NotHasProperty	divorce	more common than marriage
+NotHasProperty	clothe get wrinkle if it	hang up
+NotHasProperty	laundry	enjoyable to most
+NotHasProperty	this type of train	common
+NotHasProperty	human	monogamous
+NotHasProperty	penguin	capable of flight
+NotHasProperty	play dough	good on carpet
+NotHasProperty	fire engine	red
+NotHasProperty	paper	flat
+NotHasProperty	boat	fly
+NotHasProperty	horseshoe	part of horse foot
+NotHasProperty	emperor	vote for
+NotHasProperty	all red thing	hot
+NotHasProperty	football	shape like sphere
+NotHasProperty	clothe from seventy	cool
+NotHasProperty	joke prop	funny
+NotHasProperty	toy	just for child
+NotHasProperty	travel fast than light	possible
+NotHasProperty	use your head when your arm	available
+NotHasProperty	human	alone in universe
+NotHasProperty	marriage	compatible with hormone
+NotHasProperty	utile family car	very stylish
+NotHasProperty	safety pin	safe
+NotHasProperty	dance	fun
+NotHasProperty	scale	true
+NotHasProperty	polyester	popular as it use to be
+NotHasProperty	tall build	practical until elevator be invent
+NotHasProperty	it	polite to stare
+NotHasProperty	that nose	real
+NotHasProperty	flat map of world	accurate
+NotHasProperty	person	allow to kill other person
+NotHasProperty	black ice	black
+NotHasProperty	horse	use when play water polo
+NotHasProperty	some person think that pacifier	good for baby
+NotHasProperty	glove	warm as mitten
+NotHasProperty	near-sided	be able to see far away
+NotHasProperty	schook play	very good
+NotHasProperty	old bicycle	safe
+NotHasProperty	lucky poker hand	easy to get
+NotHasProperty	birthday	celebrate without cake
+NotHasProperty	indian corn	yellow
+NotHasProperty	exploration	end
+NotHasProperty	fancy condom	good
+NotHasProperty	chore	fun
+NotHasProperty	this desk	empty
+NotHasProperty	this picture	focus
+NotHasProperty	random number	random
+NotHasProperty	star trek be popular but it	very realistic
+NotHasProperty	cat	afraid of height
+NotHasProperty	competition	necessary
+NotHasProperty	meat	necessary to life
+NotHasProperty	country division on globe	visible on real world
+NotHasProperty	some star	far as others
+NotHasProperty	draw	same as photograph
+NotHasProperty	american	competitive
+NotHasProperty	typewriter	use in 2001
+NotHasProperty	you	suppose to talk in library
+NotHasProperty	plunge toilet	pleasant
+NotHasProperty	lizard and snake skin	slimy
+NotHasProperty	fan	good at cool as a c
+NotHasProperty	water on globe	black
+NotHasProperty	hat	fashionable as they once be
+NotHasProperty	chair make for outdoor use	comfortable
+NotHasProperty	big thing	heavy
+NotHasProperty	two dimentional world map	accurate as globe
+NotHasProperty	queen	elect
+NotHasProperty	football	round like most other ball
+NotHasProperty	american sign language	speak in britain or australia
+NotHasProperty	king	elect
+NotHasProperty	doctor	allow to kill their patient
+NotHasProperty	tortoise shell	long use for eyeglass
+NotHasProperty	all that glitter	gold
+NotHasProperty	too much alcohol	good for human
+NotHasProperty	it	polite to talk while chew food
+NotHasProperty	freeway	free
+NotHasProperty	death and sleep	dignify
+NotHasProperty	statue of liberty	alive
+NotHasProperty	this	fun
+NotHasProperty	jewelry usually	edible
+NotHasProperty	flower	cut
+NotHasProperty	aid	transmit through kiss
+NotHasProperty	pocket knife	allow on airplane
+NotHasProperty	woman work	do
+NotHasProperty	adopt child	relate to their adoptive parent
+NotHasProperty	apple	red
+NotHasProperty	football	round
+NotHasProperty	roller coaster	fun for everyone
+NotHasProperty	wooden clothe hanger	common as wire hanger
+NotHasProperty	seat belt use	mandatory
+NotHasProperty	steam locomotive	long use
+NotHasProperty	spherical world	project onto flat surface
+NotHasProperty	swim	full of water
+NotHasProperty	passport photo	flatter
+NotHasProperty	flower die if they	water
+NotHasProperty	it	safe to walk in park
+NotHasProperty	human be	good to enforce peace
+NotHasProperty	be queen	easy to wear
+NotHasProperty	other specie	shape like person
+NotHasProperty	it	nice to scare someone
+NotHasProperty	cd music	good as record
+NotHasProperty	fire truck	red
+NotHasProperty	contrary to popular belief elephant	scare of mouse
+NotHasProperty	swiss army knife	swiss in origin
+NotHasProperty	cosmetic	good to eat
+NotHasProperty	magnify glass	clear
+NotHasProperty	it	nice to fool mother nature
+NotHasProperty	new	good
+NotHasProperty	whats shine	necessary gold
+NotHasProperty	dry vegetable	good
+NotHasProperty	draw	precise as photograph
+NotHasProperty	basketball	very popular in australia
+NotHasProperty	hunt fox	very sport
+NotHasProperty	reflection of thing in water	clear
+NotHasProperty	scale of justice	balance
+NotHasProperty	hoover	name after president
+NotHasProperty	normal park space	big enough for long vehicle
+NotHasProperty	old person	able to do strenuous thing
+NotHasProperty	duck	yellow
+NotHasProperty	warp speed	possible
+NotHasProperty	fruit	consider salty food
+NotHasProperty	eagle	blue
+NotHasProperty	junkfood	good for your health
+NotHasProperty	ride bike at night	smart or safe
+NotHasProperty	fortune cookie	right
+NotHasProperty	office build	pretty
+NotHasProperty	groucho marx	relate to karl marx
+NotHasProperty	tortoise	see in escondido
+NotHasProperty	most food that taste good	good for one health
+NotHasProperty	unite state president	good than other person
+NotHasProperty	person disguise themselves so they	recognize
+NotHasProperty	artificial pearl	valuable as real pearl
+NotHasProperty	pole	require to ski with
+NotHasProperty	cigarette unlit	smoke
+NotHasProperty	unlit pipe	be smoke
+NotHasProperty	even wear	wear during daytime
+NotHasProperty	bird egg	edible like chicken be
+NotHasProperty	home exercise equipment	use
+NotHasProperty	it	over until fat lady sing
+NotHasProperty	train	fast as airplane
+NotHasProperty	coffee and computer	far apart
+NotHasProperty	world	big as it once be
+NotHasProperty	all glass	wear to correct visual defect
+NotHasProperty	country music suck and	very popular around here
+NotHasProperty	boat	suppose to sink
+NotHasProperty	old style bicycle	old
+NotHasProperty	heavily chlorinate water	good to drink
+NotHasProperty	this see	well maintain
+NotHasProperty	doctor heal person when they	well
+NotHasProperty	buss	fun to ride
+NotHasProperty	vacuum	good for skin
+NotHasProperty	rose	red
+NotHasProperty	lizzy borden	nice
+NotHasProperty	ride horse	easy
+NotHasProperty	floppy disk	long floppy per se
+NotHasProperty	human wish for happiness but happiness	logical
+NotHasProperty	we	alone in this vast universe
+NotHasProperty	ball	attach to his hand
+NotHasProperty	umbrella	need when it be sunny outside
+NotHasProperty	stamp	use in office much anymore
+NotHasProperty	flat map of world	helpful as round one
+NotHasProperty	drink soda	good for you
+NotHasProperty	drink too much soda	good for you
+NotHasProperty	these	real
+NotHasProperty	computer	be use
+NotHasProperty	overall	wear with suspender
+NotHasProperty	rain water	corrosive
+NotHasProperty	lightbulb which	burn
+NotHasProperty	traffic	back up to gas tank
+NotHasProperty	hanger and hangar	alike
+NotHasProperty	thing we clean with	good to smell or eat
+NotHasProperty	hand saw	use to chop vegetable
+NotHasProperty	rock on right	cover by water
+NotHasProperty	necklace	be wear
+NotHasProperty	fairy tale	true
+NotHasProperty	disease	contagious
+NotHasProperty	mound	high as hill
+NotHasProperty	infrared wavelength	visible by human eye
+NotHasProperty	vacant expression	useful in vermont
+NotHasProperty	fictional statement	true
+NotHasProperty	person do thing that	fun
+NotHasProperty	theory	prove
+NotHasProperty	tie	wear with casual clothe
+NotHasProperty	lisp	use in year 2000
+NotHasProperty	hotel room	make for 20 person
+NotHasProperty	verbal contract	sign
+NotHasProperty	silver jewelry	expensive as gold jewelry
+NotHasProperty	intrinsic be important extraneous	important
+NotHasProperty	faith mean believe in something that	explain
+NotHasProperty	story contemplate	know to many person
+NotHasProperty	appeal	final but death be
+NotHasProperty	burglar	likely to steal ring binder
+NotHasProperty	reptile	warm-blooded
+NotHasProperty	it	cold in november
+NotHasProperty	golden word	repeat
+NotHasProperty	it	good as first-class
+NotHasProperty	carry weapon	allow in many place
+NotHasProperty	blind person	permit to join army
+NotHasProperty	dirty one-eyed kangaroo	photogenic
+NotHasProperty	dirty one-eyed kangaroo	pretty
+NotHasProperty	one plus one	three
+NotHasProperty	earth	make out of cheese
+NotHasProperty	u3	famous as u2
+NotHasProperty	village idiot	know to be very smart
+NotHasProperty	baby	very smart
+NotHasProperty	be sick	fun
+NotHasProperty	crumple dollar	accept by vend machine
+NotHasProperty	run with you foot wet	fun
+NotHasProperty	if something overflow that	good
+NotHasProperty	disturb other person	good
+NotHasProperty	some person	satisfy
+NotHasProperty	generally speak smoke	good for you
+NotHasProperty	loan	repay
+NotHasProperty	smoke	good for your health
+NotHasProperty	grass	green
+NotHasProperty	earth	round
+NotHasProperty	world	flat
+NotHasProperty	some fire engine	red
+NotHasProperty	hot dog	alive
+NotHasProperty	world	round
+NotHasProperty	justice	equal
+NotHasProperty	smoke	good to health
+NotHasProperty	earth	flat
+NotHasProperty	we	alone
+NotHasProperty	strange be someone you	familiar with
+NotHasProperty	some unitarian universalists	christian
+NotHasProperty	if you be dead you	alive
+NotHasProperty	virus	alive
+NotHasProperty	golden gate bridge	yellow or make of gold
+NotHasProperty	rock	alive
+NotHasProperty	machine	alive
+NotHasProperty	hit bullseye	easy
+NotHasProperty	grow corn	profitable
+NotHasProperty	old map	accurate as modern map
+NotHasProperty	stapler	good without staple
+NotHasProperty	child	purple in color
+NotHasProperty	pleasure	good
+NotHasProperty	grammar	correct
+NotHasProperty	bill	want
+NotHasProperty	something that be floppy	rigid
+NotHasProperty	rugged object	break
+NotHasProperty	vampire	real
+NotHasProperty	yeast	use for every sort of bread
+NotHasProperty	ignorance	know
+NotHasProperty	cubicle	enclose
+NotHasProperty	bone	hard as steel
+NotHasProperty	satan	very nice
+NotHasProperty	time travel	possible
+NotHasProperty	computer virus	live
+NotHasProperty	irrational	bad
+NotHasProperty	disagreement	bad
+NotHasProperty	something you find inside	outside
+NotHasProperty	some person	thin
+NotHasProperty	logic	faulty
+NotHasProperty	cannabis	harmful as heroin and cocaine
+NotHasProperty	woman workaholic	frivolous and flighty
+NotHasProperty	clothe	part of your body
+NotHasProperty	sugar	good for person
+NotHasProperty	hamburger	alive
+NotHasProperty	some person	very smart
+NotHasProperty	steam engine	long use
+NotHasProperty	old map	accurate
+NotHasProperty	life	fair
+NotHasProperty	gay	in general pedophile
+NotHasProperty	luxuriate in bed	bad at all
+NotHasProperty	sex	just for procreation
+NotHasProperty	solid	liquid
+NotHasProperty	hot	cold
+NotHasProperty	character flaw	good to have
+NotHasProperty	soda	good for your tooth
+NotHasProperty	mime	expect to talk
+NotHasProperty	most work	necessary
+NotHasProperty	some transparent water	drinkable
+NotHasProperty	seawater	useful for irrigation
+NotHasProperty	something you find ugly	beautiful
+NotHasProperty	ride horse	ride
+NotHasProperty	telivision screen	wide as movie screen
+NotHasProperty	sock	hang on clothe hanger
+NotHasProperty	bipedal mammal	capable of flight
+NotHasProperty	old map	accurate as new map
+NotHasProperty	clothe	only for protection
+NotHasProperty	mass and weight	same
+NotHasProperty	starship enterprise	real
+NotHasProperty	steam locomotive	long use in america
+NotHasProperty	mouse	fond of chees
+NotHasProperty	most leave	smoke
+NotHasProperty	mouse	fond of cheese
+NotHasProperty	old world map	very accurate
+NotHasProperty	pepsi	good for you
+NotHasProperty	fortune cookie	chinese
+NotHasProperty	steam engine	long use in unite state
+NotHasProperty	floppy disk	powerful as cd-rom
+NotHasProperty	work	do
+NotHasProperty	infrared	visible to human eye
+NotHasProperty	telephone	good
+NotHasProperty	dreadlock	wear by jewish men
+NotHasProperty	shadow	dark
+NotHasProperty	some art	please to look at
+NotHasProperty	cat	nice
+NotHasProperty	lizard bite	very fun
+NotHasProperty	sexual reproduction	just for animal
+NotHasProperty	flat tire	plan
+NotHasProperty	comb	useful for bald person
+NotHasProperty	it	beautiful
+NotHasProperty	fortune cookie fortune	right
+NotHasProperty	atonal music	easy to like
+NotHasProperty	rubber chicken	funny
+NotHasProperty	comedy	funny
+NotHasProperty	lie	true
+NotHasProperty	this bridge	suppose to collapse
+NotHasProperty	hot dog	make from dog meat
+NotHasProperty	100 year ago tv	invent
+NotHasProperty	manual typewriter	use
+NotHasProperty	old map of world	accurate
+NotHasProperty	rollercoasters be fun if you	afraid of height
+NotHasProperty	view through microscope	pleasant
+NotHasProperty	certainly seven	lucky
+NotHasProperty	life	possible without water
+NotHasProperty	person write fact down so they	forget
+NotHasProperty	sushi	cook
+NotHasProperty	houseclean	fun
+NotHasProperty	dessert	necessary to life
+NotHasProperty	i	very good at pool
+NotHasProperty	animal	smart as human
+NotHasProperty	library	quiet
+NotHasProperty	geneticaly woman	strong as men
+NotHasProperty	five player on each side often	enough
+NotHasProperty	game be not game if they	fun
+NotHasProperty	some person	able to use this
+NotHasProperty	3-d tv	perfect
+NotHasProperty	bagel look like donut but	sweet
+NotHasProperty	easter bunny	real
+NotHasProperty	this sport	popular in unite state
+NotHasProperty	leave	green
+NotHasProperty	some water	safe for swim
+NotHasProperty	wicker	sturdy as oak
+NotHasProperty	small island	safe if there be storm
+NotHasProperty	it	acceptable to sleep in public
+NotHasProperty	these teath	real
+NotHasProperty	metal	long require for furniture
+NotHasProperty	divorce	more common than marriage
+NotHasProperty	clothe get wrinkle if it	hang up
+NotHasProperty	laundry	enjoyable to most
+NotHasProperty	this type of train	common
+NotHasProperty	human	monogamous
+NotHasProperty	penguin	capable of flight
+NotHasProperty	play dough	good on carpet
+NotHasProperty	fire engine	red
+NotHasProperty	paper	flat
+NotHasProperty	boat	fly
+NotHasProperty	horseshoe	part of horse foot
+NotHasProperty	emperor	vote for
+NotHasProperty	all red thing	hot
+NotHasProperty	football	shape like sphere
+NotHasProperty	clothe from seventy	cool
+NotHasProperty	joke prop	funny
+NotHasProperty	toy	just for child
+NotHasProperty	travel fast than light	possible
+NotHasProperty	use your head when your arm	available
+NotHasProperty	human	alone in universe
+NotHasProperty	marriage	compatible with hormone
+NotHasProperty	utile family car	very stylish
+NotHasProperty	safety pin	safe
+NotHasProperty	dance	fun
+NotHasProperty	scale	true
+NotHasProperty	polyester	popular as it use to be
+NotHasProperty	tall build	practical until elevator be invent
+NotHasProperty	it	polite to stare
+NotHasProperty	that nose	real
+NotHasProperty	flat map of world	accurate
+NotHasProperty	person	allow to kill other person
+NotHasProperty	black ice	black
+NotHasProperty	horse	use when play water polo
+NotHasProperty	some person think that pacifier	good for baby
+NotHasProperty	glove	warm as mitten
+NotHasProperty	near-sided	be able to see far away
+NotHasProperty	schook play	very good
+NotHasProperty	old bicycle	safe
+NotHasProperty	lucky poker hand	easy to get
+NotHasProperty	birthday	celebrate without cake
+NotHasProperty	indian corn	yellow
+NotHasProperty	exploration	end
+NotHasProperty	fancy condom	good
+NotHasProperty	chore	fun
+NotHasProperty	this desk	empty
+NotHasProperty	this picture	focus
+NotHasProperty	random number	random
+NotHasProperty	star trek be popular but it	very realistic
+NotHasProperty	cat	afraid of height
+NotHasProperty	competition	necessary
+NotHasProperty	meat	necessary to life
+NotHasProperty	country division on globe	visible on real world
+NotHasProperty	some star	far as others
+NotHasProperty	draw	same as photograph
+NotHasProperty	american	competitive
+NotHasProperty	typewriter	use in 2001
+NotHasProperty	you	suppose to talk in library
+NotHasProperty	plunge toilet	pleasant
+NotHasProperty	lizard and snake skin	slimy
+NotHasProperty	fan	good at cool as a c
+NotHasProperty	water on globe	black
+NotHasProperty	hat	fashionable as they once be
+NotHasProperty	chair make for outdoor use	comfortable
+NotHasProperty	big thing	heavy
+NotHasProperty	two dimentional world map	accurate as globe
+NotHasProperty	queen	elect
+NotHasProperty	football	round like most other ball
+NotHasProperty	american sign language	speak in britain or australia
+NotHasProperty	king	elect
+NotHasProperty	doctor	allow to kill their patient
+NotHasProperty	tortoise shell	long use for eyeglass
+NotHasProperty	all that glitter	gold
+NotHasProperty	too much alcohol	good for human
+NotHasProperty	it	polite to talk while chew food
+NotHasProperty	freeway	free
+NotHasProperty	death and sleep	dignify
+NotHasProperty	statue of liberty	alive
+NotHasProperty	this	fun
+NotHasProperty	jewelry usually	edible
+NotHasProperty	flower	cut
+NotHasProperty	aid	transmit through kiss
+NotHasProperty	pocket knife	allow on airplane
+NotHasProperty	woman work	do
+NotHasProperty	adopt child	relate to their adoptive parent
+NotHasProperty	apple	red
+NotHasProperty	football	round
+NotHasProperty	roller coaster	fun for everyone
+NotHasProperty	wooden clothe hanger	common as wire hanger
+NotHasProperty	seat belt use	mandatory
+NotHasProperty	steam locomotive	long use
+NotHasProperty	spherical world	project onto flat surface
+NotHasProperty	swim	full of water
+NotHasProperty	passport photo	flatter
+NotHasProperty	flower die if they	water
+NotHasProperty	it	safe to walk in park
+NotHasProperty	human be	good to enforce peace
+NotHasProperty	be queen	easy to wear
+NotHasProperty	other specie	shape like person
+NotHasProperty	it	nice to scare someone
+NotHasProperty	cd music	good as record
+NotHasProperty	fire truck	red
+NotHasProperty	contrary to popular belief elephant	scare of mouse
+NotHasProperty	swiss army knife	swiss in origin
+NotHasProperty	cosmetic	good to eat
+NotHasProperty	magnify glass	clear
+NotHasProperty	it	nice to fool mother nature
+NotHasProperty	new	good
+NotHasProperty	whats shine	necessary gold
+NotHasProperty	dry vegetable	good
+NotHasProperty	draw	precise as photograph
+NotHasProperty	basketball	very popular in australia
+NotHasProperty	hunt fox	very sport
+NotHasProperty	reflection of thing in water	clear
+NotHasProperty	scale of justice	balance
+NotHasProperty	hoover	name after president
+NotHasProperty	normal park space	big enough for long vehicle
+NotHasProperty	old person	able to do strenuous thing
+NotHasProperty	duck	yellow
+NotHasProperty	warp speed	possible
+NotHasProperty	fruit	consider salty food
+NotHasProperty	eagle	blue
+NotHasProperty	junkfood	good for your health
+NotHasProperty	ride bike at night	smart or safe
+NotHasProperty	fortune cookie	right
+NotHasProperty	office build	pretty
+NotHasProperty	groucho marx	relate to karl marx
+NotHasProperty	tortoise	see in escondido
+NotHasProperty	most food that taste good	good for one health
+NotHasProperty	unite state president	good than other person
+NotHasProperty	person disguise themselves so they	recognize
+NotHasProperty	artificial pearl	valuable as real pearl
+NotHasProperty	pole	require to ski with
+NotHasProperty	cigarette unlit	smoke
+NotHasProperty	unlit pipe	be smoke
+NotHasProperty	even wear	wear during daytime
+NotHasProperty	bird egg	edible like chicken be
+NotHasProperty	home exercise equipment	use
+NotHasProperty	it	over until fat lady sing
+NotHasProperty	train	fast as airplane
+NotHasProperty	coffee and computer	far apart
+NotHasProperty	world	big as it once be
+NotHasProperty	all glass	wear to correct visual defect
+NotHasProperty	country music suck and	very popular around here
+NotHasProperty	boat	suppose to sink
+NotHasProperty	old style bicycle	old
+NotHasProperty	heavily chlorinate water	good to drink
+NotHasProperty	this see	well maintain
+NotHasProperty	doctor heal person when they	well
+NotHasProperty	buss	fun to ride
+NotHasProperty	vacuum	good for skin
+NotHasProperty	rose	red
+NotHasProperty	lizzy borden	nice
+NotHasProperty	ride horse	easy
+NotHasProperty	floppy disk	long floppy per se
+NotHasProperty	human wish for happiness but happiness	logical
+NotHasProperty	we	alone in this vast universe
+NotHasProperty	ball	attach to his hand
+NotHasProperty	umbrella	need when it be sunny outside
+NotHasProperty	stamp	use in office much anymore
+NotHasProperty	flat map of world	helpful as round one
+NotHasProperty	drink soda	good for you
+NotHasProperty	drink too much soda	good for you
+NotHasProperty	these	real
+NotHasProperty	computer	be use
+NotHasProperty	overall	wear with suspender
+NotHasProperty	rain water	corrosive
+NotHasProperty	lightbulb which	burn
+NotHasProperty	traffic	back up to gas tank
+NotHasProperty	hanger and hangar	alike
+NotHasProperty	thing we clean with	good to smell or eat
+NotHasProperty	hand saw	use to chop vegetable
+NotHasProperty	rock on right	cover by water
+NotHasProperty	necklace	be wear
+NotHasProperty	fairy tale	true
+NotHasProperty	disease	contagious
+NotHasProperty	mound	high as hill
+NotHasProperty	infrared wavelength	visible by human eye
+NotHasProperty	vacant expression	useful in vermont
+NotHasProperty	fictional statement	true
+NotHasProperty	person do thing that	fun
+NotHasProperty	theory	prove
+NotHasProperty	tie	wear with casual clothe
+NotHasProperty	lisp	use in year 2000
+NotHasProperty	hotel room	make for 20 person
+NotHasProperty	verbal contract	sign
+NotHasProperty	silver jewelry	expensive as gold jewelry
+NotHasProperty	intrinsic be important extraneous	important
+NotHasProperty	faith mean believe in something that	explain
+NotHasProperty	story contemplate	know to many person
+NotHasProperty	appeal	final but death be
+NotHasProperty	burglar	likely to steal ring binder
+NotHasProperty	reptile	warm-blooded
+NotHasProperty	it	cold in november
+NotHasProperty	golden word	repeat
+NotHasProperty	it	good as first-class
+NotHasProperty	carry weapon	allow in many place
+NotHasProperty	blind person	permit to join army
+NotHasProperty	dirty one-eyed kangaroo	photogenic
+NotHasProperty	dirty one-eyed kangaroo	pretty
+NotHasProperty	one plus one	three
+NotHasProperty	earth	make out of cheese
+NotHasProperty	u3	famous as u2
+NotHasProperty	village idiot	know to be very smart
+NotHasProperty	baby	very smart
+NotHasProperty	be sick	fun
+NotHasProperty	crumple dollar	accept by vend machine
+NotHasProperty	run with you foot wet	fun
+NotHasProperty	if something overflow that	good
+NotHasProperty	disturb other person	good
+NotHasProperty	some person	satisfy
+NotHasProperty	generally speak smoke	good for you
+NotHasProperty	loan	repay

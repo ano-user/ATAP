@@ -1,0 +1,230 @@
+AtLocation	ferret	pet store
+AtLocation	someone	desk
+AtLocation	26 letter	english alphabet
+AtLocation	cow	countryside
+AtLocation	star	outer space
+AtLocation	ice cream	freezer
+AtLocation	volume	library
+AtLocation	death	war
+AtLocation	seat	movie
+AtLocation	pen	pocket
+AtLocation	test tube	chemistry lab
+AtLocation	planet	universe
+AtLocation	classroom	university
+AtLocation	antenna	roof
+AtLocation	shade	tree
+AtLocation	tooth	your mouth
+AtLocation	clock	desk
+AtLocation	satellite	orbit
+AtLocation	someone	doctor office
+AtLocation	blotter	desk
+AtLocation	plankton	water
+AtLocation	garbage	landfill
+AtLocation	chest	drawer in bedroom
+AtLocation	sign	fork in road
+AtLocation	ladder	garage
+AtLocation	automobile	street
+AtLocation	toothbrush	dentist
+AtLocation	something	train station
+AtLocation	duck	pond
+AtLocation	someone	tree
+AtLocation	bus	bus stop
+AtLocation	pair	pant in closet
+AtLocation	book	desk
+AtLocation	something	bottom of ocean
+AtLocation	stool	bar
+AtLocation	someone	fair
+AtLocation	eraser	school
+AtLocation	check	counter in airport
+AtLocation	trash	dump
+AtLocation	scientist	laboratory
+AtLocation	tongue depressor	doctor
+AtLocation	cat	table
+AtLocation	weapon	war
+AtLocation	furniture	house
+AtLocation	rock	grind
+AtLocation	park ranger	state park
+AtLocation	advertise	newspaper
+AtLocation	traffic	street
+AtLocation	table cloth	table
+AtLocation	bride and groom	wed
+AtLocation	beaker	chemistry lab
+AtLocation	other planet	outerspace
+AtLocation	artist	art show
+AtLocation	something	mountain
+AtLocation	opera glass	opera
+AtLocation	fork	kitchen
+AtLocation	asteroid	outerspace
+AtLocation	dish	cabinet
+AtLocation	screwdriver	toolbox
+AtLocation	editorial	newspaper
+AtLocation	bunsen burner	laboratory
+AtLocation	something	chair
+AtLocation	someone	corner
+AtLocation	school cafeteria	school
+AtLocation	fish	pond
+AtLocation	reception area	hotel
+AtLocation	screwdriver	tool box
+AtLocation	tissue holder	bathroom
+AtLocation	snake	garden
+AtLocation	t-shirt	closet
+AtLocation	ficus	forest
+AtLocation	bomb	war
+AtLocation	theater	city
+AtLocation	staple remover	office
+AtLocation	laser	cd player
+AtLocation	son	family
+AtLocation	mammoth	ice age
+AtLocation	sound control room	record studio
+AtLocation	government	country
+AtLocation	milk	refrigerator
+AtLocation	fire	fireplace
+AtLocation	human	automobile
+AtLocation	front yard	front of house
+AtLocation	store shelf	store
+AtLocation	potato	market
+AtLocation	bat	belfry
+AtLocation	marmoset	rainforest
+AtLocation	clothe	suitcase
+AtLocation	teenager	mall
+AtLocation	build	town
+AtLocation	pen	college
+AtLocation	bathtub	bathroom
+AtLocation	towel	bathroom
+AtLocation	person	earth
+AtLocation	cloud	in sky
+AtLocation	lamp	desk
+AtLocation	bed	at home
+AtLocation	doctor	hospital
+AtLocation	sofa	live room
+AtLocation	fan	stadium
+AtLocation	food	store
+AtLocation	drunk	bar
+AtLocation	puzzle	newspaper
+AtLocation	24 hour	day
+AtLocation	60 second	minute
+AtLocation	shampoo	shower
+AtLocation	many different culture	world
+AtLocation	hairbrush	bathroom
+AtLocation	mickey mouse	disneyland
+AtLocation	apple tree	field
+AtLocation	dog	doghouse
+AtLocation	park lot	shop mall
+AtLocation	mouse	trap
+AtLocation	barbie	toy store
+AtLocation	cheese	refrigerator
+AtLocation	bird	nest
+AtLocation	cubicle	office
+AtLocation	egg	nest
+AtLocation	speaker	drive-in movie
+AtLocation	post-it note	your desk
+AtLocation	land	country
+AtLocation	zebra	zoo
+AtLocation	stream	forest
+AtLocation	basement	closet
+AtLocation	shelf	closet
+AtLocation	floor	your bed
+AtLocation	paint	art show
+AtLocation	researcher	laboratory
+AtLocation	shark	pacific ocean
+AtLocation	beauty	eye of beholder
+AtLocation	spider web	corner
+AtLocation	ring	your finger
+AtLocation	bathroom	rest area
+AtLocation	heat element	oven
+AtLocation	someone	pool
+AtLocation	carpet	room
+AtLocation	convict	jail
+AtLocation	hair	drain
+AtLocation	mouse	hole in wall
+AtLocation	sheet	linen closet
+AtLocation	mouse	cupboard
+AtLocation	earth	solar system
+AtLocation	kettle	kitchen
+AtLocation	hair gel	bathroom
+AtLocation	dental chair	dentist office
+AtLocation	wait room	hospital
+AtLocation	planet	orbit
+AtLocation	bathroom	house
+AtLocation	garden	back yard
+AtLocation	snake	bible
+AtLocation	large food store	city
+AtLocation	white house	washington d.c
+AtLocation	person	build
+AtLocation	table	dine room
+AtLocation	booger	your nose
+AtLocation	college	town
+AtLocation	paperclip	desk
+AtLocation	plant	windowsill
+AtLocation	someone	train station
+AtLocation	seat belt	backseat of car
+AtLocation	ear	head
+AtLocation	finger	hand
+AtLocation	student	college
+AtLocation	planet	outer space
+AtLocation	bee	meadow
+AtLocation	wall	house
+AtLocation	magazine	library
+AtLocation	copy machine	office
+AtLocation	violence	war
+AtLocation	dog	table
+AtLocation	astronaut	space shuttle
+AtLocation	seatbelt	backseat of car
+AtLocation	rock	moon
+AtLocation	linoleum	kitchen
+AtLocation	airplane	air
+AtLocation	box	garage
+AtLocation	something	bridge
+AtLocation	slot machine	casino
+AtLocation	country	continent
+AtLocation	captain	ship
+AtLocation	something	zoo
+AtLocation	space suit	space shuttle
+AtLocation	newspaper	library
+AtLocation	clarinet	band
+AtLocation	bed	hospital
+AtLocation	playground	park
+AtLocation	dust	fridge
+AtLocation	ficus	pot
+AtLocation	table	conference
+AtLocation	seat	show
+AtLocation	crater	suface of moon
+AtLocation	telephone	desk
+AtLocation	bishop	church
+AtLocation	action figure	toy store
+AtLocation	driftwood	beach
+AtLocation	pedestrian	street
+AtLocation	dog	park
+AtLocation	cake	bakery
+AtLocation	water	bottle
+AtLocation	bat	cave
+AtLocation	tooth	mouth
+AtLocation	egg	fridge
+AtLocation	folder	file cabinet
+AtLocation	document folder	file cabinet
+AtLocation	beer	bar
+AtLocation	ocean	earth
+AtLocation	museum	city
+AtLocation	telephone booth	city
+AtLocation	town	country
+AtLocation	wiener dog	yard
+AtLocation	water	puddle
+AtLocation	knob	door
+AtLocation	dance club	city
+AtLocation	escalator	mall
+AtLocation	lens	camera
+AtLocation	wallet	purse
+AtLocation	gel toothpaste	bathroom
+AtLocation	car	road
+AtLocation	car	town
+AtLocation	tv	house
+AtLocation	pan	kitchen
+AtLocation	steer wheel	in car
+AtLocation	computer	store
+AtLocation	god	heaven
+AtLocation	other planet	solar system
+AtLocation	butter	refrigerator
+AtLocation	fish	lake
+AtLocation	card	deck
+AtLocation	dead person	war
+AtLocation	wall	build

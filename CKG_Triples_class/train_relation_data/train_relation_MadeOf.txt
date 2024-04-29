@@ -1,0 +1,1154 @@
+MadeOf	comb	plastic
+MadeOf	tree	wood
+MadeOf	apple juice	apple
+MadeOf	glass	sand
+MadeOf	box	cardboard
+MadeOf	castle	stone
+MadeOf	house	wood
+MadeOf	computer chip	silicon
+MadeOf	paper cup	paper
+MadeOf	noodle	flour
+MadeOf	desk	steel
+MadeOf	ocean	water
+MadeOf	roast chicken	chicken
+MadeOf	shave ice with syrup	ice
+MadeOf	medal	metal
+MadeOf	picture frame	wood
+MadeOf	page of book	paper
+MadeOf	many bottle	glass
+MadeOf	outdoor furniture	plastic
+MadeOf	tool	metal
+MadeOf	wed ring	gold
+MadeOf	furniture	wood
+MadeOf	steel	iron
+MadeOf	knife	steel
+MadeOf	statue	stone
+MadeOf	house	brick
+MadeOf	u.f.o	alien material
+MadeOf	tool	steel
+MadeOf	plate	glass
+MadeOf	peanut butter	peanut
+MadeOf	tire	rubber
+MadeOf	orange juice	orange
+MadeOf	plastic	petroleum
+MadeOf	paper	tree
+MadeOf	sword	steel
+MadeOf	pen	plastic
+MadeOf	can	aluminium
+MadeOf	cotton candy	sugar
+MadeOf	this	metal
+MadeOf	leather	cow skin
+MadeOf	can	nickel
+MadeOf	statue	marble
+MadeOf	tree be plant and	wood
+MadeOf	bicycle	metal
+MadeOf	organism	cell
+MadeOf	car	iron
+MadeOf	cake	egg
+MadeOf	butter	milk
+MadeOf	beer	malt
+MadeOf	statue	bronze
+MadeOf	apple jam	apple
+MadeOf	watch	gold
+MadeOf	steak	beef
+MadeOf	kimchi pancake	kimchi
+MadeOf	blanket	fabric
+MadeOf	spaceship	ceramic
+MadeOf	rice	rice grain
+MadeOf	disposable knife	plastic
+MadeOf	closet	wood
+MadeOf	disposable plate	paper
+MadeOf	cake	glutinous rice
+MadeOf	barn	wood
+MadeOf	society	organism
+MadeOf	cookie	sugar and starch
+MadeOf	freeway	concrete
+MadeOf	horse have coat and mane both	hair
+MadeOf	some bottle	green glass
+MadeOf	index card	paper
+MadeOf	page	paper with word on it
+MadeOf	snow	snowflake
+MadeOf	ipod	microchip and plastic
+MadeOf	human body	water
+MadeOf	music	sound
+MadeOf	molecule	atom
+MadeOf	water	oxygen
+MadeOf	ice	water
+MadeOf	water	hydrogen and oxygen
+MadeOf	brain	neuron
+MadeOf	lens	glass
+MadeOf	house	stone
+MadeOf	river	water
+MadeOf	cookie	flour
+MadeOf	soup	water
+MadeOf	desk	wood
+MadeOf	skyscraper	steel
+MadeOf	bouquet	flower
+MadeOf	mirror	glass
+MadeOf	belt	leather
+MadeOf	robot	metal
+MadeOf	bookshelf	wood
+MadeOf	magazine	paper
+MadeOf	glass	glass
+MadeOf	crowd	person
+MadeOf	jar	glass
+MadeOf	plunger	rubber and wood
+MadeOf	soda	aluminum
+MadeOf	some lense	glass
+MadeOf	penny	copper
+MadeOf	chocolate	cocoa bean
+MadeOf	football	pigskin
+MadeOf	handle of axe	ash or hickory
+MadeOf	gild	gold
+MadeOf	car	many recyclable material
+MadeOf	movie	many frame
+MadeOf	mail	paper
+MadeOf	much furniture	plastic
+MadeOf	lightning	electricity
+MadeOf	house	wood or brick
+MadeOf	glue	flour and water
+MadeOf	some coat hanger	wood some metal and some plastic
+MadeOf	jewelry	metal and stone
+MadeOf	lightbulb	glass and break easily
+MadeOf	light bulb	glass
+MadeOf	eyeglass	plastic
+MadeOf	most hotdog	beef
+MadeOf	cheap dart	mostly plastic
+MadeOf	crockery	clay
+MadeOf	jewelry	valuable metal
+MadeOf	hot-dog	meat take from disassemble animal
+MadeOf	hot-water bottle	rubber
+MadeOf	coat hanger	metal wood or plastic
+MadeOf	cloud	condense water
+MadeOf	movie	many still picture show very quickly
+MadeOf	tool	clay
+MadeOf	many cook utensil	wood
+MadeOf	many home	brick
+MadeOf	ball bounce because they	rubber
+MadeOf	boot	animal skin
+MadeOf	many kitchen utensil	wood
+MadeOf	key	brass or steel
+MadeOf	flag	flexible cloth
+MadeOf	many trash can	metal
+MadeOf	trophy	metal
+MadeOf	clotheshaner	wood
+MadeOf	statue of liberty	copper
+MadeOf	eraser	gum rubber
+MadeOf	chalkboard	slate
+MadeOf	cloud	vapor
+MadeOf	coathanger	wood
+MadeOf	jewelry	precious metal and gem
+MadeOf	star	mostly hydrogen and helium
+MadeOf	wrench	steel
+MadeOf	hot dog	pig part
+MadeOf	coat hanger	wood metal or plastic
+MadeOf	steam	water
+MadeOf	capitol dome	iron
+MadeOf	basketball	rubber
+MadeOf	lawn furniture	plastic
+MadeOf	ping pong ball	hard plastic and they bounce
+MadeOf	some boat	fiberglass
+MadeOf	tornado	very fast-moving wind
+MadeOf	leather	cow hide
+MadeOf	saxophone	metal
+MadeOf	wheel	metal
+MadeOf	some instrument	wood
+MadeOf	horse shoe use for game	plastic
+MadeOf	many instrument	wood and string
+MadeOf	sushi	raw fish
+MadeOf	blue jean	denim
+MadeOf	all physical thing	combination of element
+MadeOf	some tool	iron
+MadeOf	beverage coffee	grind coffee bean and boil water
+MadeOf	skeleton	many bone
+MadeOf	this model duck	wood
+MadeOf	wed gown	silk
+MadeOf	abottle	glass
+MadeOf	chopstick	bamboo
+MadeOf	duvet	cotton
+MadeOf	some can	tin
+MadeOf	key	metal
+MadeOf	cheese	ferment milk and bacteria`
+MadeOf	kettle	copper
+MadeOf	bed	straw
+MadeOf	container	metal
+MadeOf	town house	brick
+MadeOf	choker	precious jewel
+MadeOf	bath tub	iron and coat with porcelain
+MadeOf	some hairbrush	silver
+MadeOf	some ship	wood
+MadeOf	choker	string of pearl
+MadeOf	bath tub	fiberglass and mould into shape
+MadeOf	ticket turnstile	polish chrome
+MadeOf	tank	metal
+MadeOf	many container	glass
+MadeOf	most tool	metal
+MadeOf	sand	little piece of seashell
+MadeOf	floor	concrete
+MadeOf	moon	rock
+MadeOf	golf club	metal
+MadeOf	most clothe hanger	metal not wood
+MadeOf	vinyl	polymer
+MadeOf	glass lense	transparent glass or plastic
+MadeOf	small automobile	less material than large automobile
+MadeOf	openmind	computer software
+MadeOf	earth	layer of rock
+MadeOf	lot of jug	plastic
+MadeOf	hot dog	cow
+MadeOf	knife	silver
+MadeOf	statue	metal or stone
+MadeOf	short	pair of short pantlegs
+MadeOf	some eyeglass frame	tortoise shell
+MadeOf	comb	plastic and rubber
+MadeOf	catwalk	metal
+MadeOf	surface	material
+MadeOf	movie	celluloid
+MadeOf	stage curtain	velvet
+MadeOf	hair roller	foam
+MadeOf	coat hanger	wood or metal or plastic
+MadeOf	team	person
+MadeOf	balcony rail	wood or metal
+MadeOf	pizza usually	tomato sauce cheese and crust
+MadeOf	some hot dog	bi-products
+MadeOf	shower wall	tile
+MadeOf	disposable fork	plastic
+MadeOf	paper clip	metal
+MadeOf	sand	silica sort of glass
+MadeOf	most church	wood
+MadeOf	some bin	glass
+MadeOf	coin purse	leather
+MadeOf	clipboard	wood
+MadeOf	food	carbon
+MadeOf	doormat	atom
+MadeOf	wind instrument	wood
+MadeOf	population	different person
+MadeOf	board	wood
+MadeOf	world	country
+MadeOf	many object	metal
+MadeOf	toy balloon	rubber
+MadeOf	sidewalk	concrete
+MadeOf	many useful thing	wood
+MadeOf	set	element
+MadeOf	room	four wall
+MadeOf	newspaper	ink and paper
+MadeOf	continent	country
+MadeOf	electricity	electron
+MadeOf	nail	keratin
+MadeOf	penis	flesh
+MadeOf	brick	clay
+MadeOf	pot	clay
+MadeOf	gnocchi	potato
+MadeOf	silverware	metal
+MadeOf	witch	wood
+MadeOf	glass	melt sand
+MadeOf	balloon	rubber
+MadeOf	fork	metal
+MadeOf	pillow	feather
+MadeOf	frog	meat
+MadeOf	bridge	wood
+MadeOf	ramen	flour
+MadeOf	pancake	flour
+MadeOf	door	wood
+MadeOf	muffin	flour
+MadeOf	dumpling	flour
+MadeOf	space shuttle	ceramic
+MadeOf	vinegar	wine
+MadeOf	flour	wheat
+MadeOf	shoe	leather
+MadeOf	cider	apple
+MadeOf	violin	wood
+MadeOf	horseshoe	metal
+MadeOf	hanger	wood
+MadeOf	piano	wood
+MadeOf	hammer	metal
+MadeOf	guitar	metal
+MadeOf	ax	metal
+MadeOf	magnify glass	glass
+MadeOf	flute	silver
+MadeOf	carpet	wool
+MadeOf	pottery	clay
+MadeOf	carton be thing which	plastic
+MadeOf	sculpture	plaster
+MadeOf	statue	metal
+MadeOf	sculpture	stone
+MadeOf	all toilet paper	recycle paper
+MadeOf	sculpture	bronze
+MadeOf	sculpture	metal
+MadeOf	bag	plastic
+MadeOf	towel	cotton
+MadeOf	most table	wood
+MadeOf	save	salary
+MadeOf	butter	churn milk
+MadeOf	boot	leather because it sturdy
+MadeOf	mind	subjective thought
+MadeOf	tv	glass
+MadeOf	tv	plastic
+MadeOf	set	member
+MadeOf	system of abstract think	ideal
+MadeOf	system of abstract think	abstraction
+MadeOf	john safran	cell
+MadeOf	community	political ideology
+MadeOf	whorehouse	room
+MadeOf	zombie	cell
+MadeOf	government	political ideology
+MadeOf	porn	naked person
+MadeOf	mead	ferment honey water
+MadeOf	universe	string
+MadeOf	utopia	community
+MadeOf	house	room
+MadeOf	socialism	socialist
+MadeOf	revolution	sentient be
+MadeOf	sativa	cannabis
+MadeOf	animate flesh of dead person	cell
+MadeOf	indica	cannabis
+MadeOf	sausage	meat
+MadeOf	utopia	equality for everyone
+MadeOf	penis	cell
+MadeOf	semen	sperm cell
+MadeOf	wind	air
+MadeOf	banana pudding	banana
+MadeOf	letter	paper
+MadeOf	envelope	paper
+MadeOf	katana	steel
+MadeOf	soccer ball	leather
+MadeOf	computer mouse	plastic
+MadeOf	outfit	clothe
+MadeOf	guitar	string
+MadeOf	mozart music	musical composition
+MadeOf	tortilla	corn or flour
+MadeOf	data	bit
+MadeOf	electricity	flow of electron
+MadeOf	telephone pole	wood
+MadeOf	heroin	diamorphine
+MadeOf	heroin	poppy flower
+MadeOf	some closet	wood
+MadeOf	laser	photon
+MadeOf	digital data	bit
+MadeOf	light	energy
+MadeOf	computer program	source code
+MadeOf	matter	particle
+MadeOf	ammonia	nitrogen and hydrogen
+MadeOf	wine	fruit
+MadeOf	spring	metal
+MadeOf	fabric	fiber
+MadeOf	lubrication	oil
+MadeOf	cloth	fiber
+MadeOf	write word	character
+MadeOf	trust	honesty
+MadeOf	computer	hardware
+MadeOf	crt	glass
+MadeOf	human body	molecule
+MadeOf	atom	subatomic particle
+MadeOf	diamond	carbon
+MadeOf	water	h2o
+MadeOf	toast	bread
+MadeOf	sock	thread
+MadeOf	playground equipment	metal wood or plastic
+MadeOf	sock	wool
+MadeOf	sock	cotton
+MadeOf	knife	handle and blade
+MadeOf	yarn	bamboo
+MadeOf	yarn	rayon
+MadeOf	yarn	alpalca hair
+MadeOf	yarn	wool or cotton
+MadeOf	conecept design	cool idea
+MadeOf	flock	bird
+MadeOf	seattle	neighborhood
+MadeOf	slinky	spring
+MadeOf	psychology	theory
+MadeOf	tie-dye	chemical
+MadeOf	sing	word and music
+MadeOf	oxygen	proton
+MadeOf	oxygen	neutron
+MadeOf	mit	department
+MadeOf	plan	step
+MadeOf	coffee	water
+MadeOf	telephone	electronics
+MadeOf	telephone	electronic part
+MadeOf	us government	3 branch juducial legislative and executive
+MadeOf	credit card	plastic
+MadeOf	world	material
+MadeOf	bridge	stone
+MadeOf	bridge	steel
+MadeOf	nail	steel
+MadeOf	stool	steel
+MadeOf	soymilk	soy bean
+MadeOf	soy source	soy bean
+MadeOf	pudding	egg
+MadeOf	couter top	granite
+MadeOf	motorcylces	aluminium
+MadeOf	motorcycle	metal
+MadeOf	fry rice	rice
+MadeOf	cabinet	metal
+MadeOf	sand	grain
+MadeOf	sand	silicon
+MadeOf	cloth diaper	cotton fabric
+MadeOf	bread	grain
+MadeOf	memory	experience
+MadeOf	computer memory	silicon
+MadeOf	evolution	false assumption
+MadeOf	cake	korean rice cake
+MadeOf	bascket of flower	flower
+MadeOf	ice shave	ice
+MadeOf	potate chip	potato
+MadeOf	snowman	water
+MadeOf	straw doll	straw
+MadeOf	tooth	calcium
+MadeOf	rice ball	rice
+MadeOf	snowcone	ice
+MadeOf	cake	milk
+MadeOf	cake	sugar
+MadeOf	pancake	egg
+MadeOf	omelette	egg
+MadeOf	pancake	milk
+MadeOf	cherry juice	cherry
+MadeOf	pudding	milk
+MadeOf	glas	sand
+MadeOf	ananas juice	ananas
+MadeOf	pudding	sugar
+MadeOf	sweet	sugar
+MadeOf	gasolene	crude oil
+MadeOf	nail	metal
+MadeOf	granite	rock
+MadeOf	marzipan	grind almond and sugar
+MadeOf	soda can	aluminum
+MadeOf	game piece	wood
+MadeOf	automobile	steel
+MadeOf	raisin	dry grape
+MadeOf	prune	plum
+MadeOf	sweet and sour pork	pork
+MadeOf	mochi	gloutinous rice
+MadeOf	plastic knife	plastic
+MadeOf	plasticbags	plastic
+MadeOf	pot	soil
+MadeOf	korean miso	bean
+MadeOf	jacket	leather
+MadeOf	plastic wrap	plastic
+MadeOf	rice ckae	glutinous rice
+MadeOf	wardrobe	wood
+MadeOf	sofa	leather
+MadeOf	pottery	soil
+MadeOf	chicken soup	chicken
+MadeOf	sweat rice cake	sticky rice
+MadeOf	brochure	paper
+MadeOf	cabinet	steel
+MadeOf	flower bouquet	flower
+MadeOf	tofu	bean
+MadeOf	mattress	latex
+MadeOf	candy	sugar
+MadeOf	your smile	happiness
+MadeOf	matter	live and non live thing
+MadeOf	soy sause paste	soy bean
+MadeOf	chicken broth	chicken
+MadeOf	sari	silk fabric
+MadeOf	steamedchicken	chicken
+MadeOf	clay	soil
+MadeOf	house	soil
+MadeOf	hydroelectricity	water
+MadeOf	bag	leather
+MadeOf	steel railroad	steel
+MadeOf	ricecake	rice
+MadeOf	smile	happiness
+MadeOf	mushroom noodle	mushroom
+MadeOf	bread	sugar
+MadeOf	lace	flower
+MadeOf	desk	iron
+MadeOf	rice cake	rice
+MadeOf	apple pie	apple
+MadeOf	common sense	person thought
+MadeOf	clothe	cotton
+MadeOf	tv	metal
+MadeOf	soojaebi	white flour
+MadeOf	mushroom stew	mushroom
+MadeOf	clay pot	clay
+MadeOf	pencil	tree
+MadeOf	bag	fabric
+MadeOf	papercups	paper
+MadeOf	pencil	black lead
+MadeOf	soy bean paste	soy bean
+MadeOf	juice	fruit
+MadeOf	flower basket	flower
+MadeOf	ship	steel
+MadeOf	mushroom casserole	mushroom
+MadeOf	rice cake soup	rice cake
+MadeOf	glove	leather
+MadeOf	powder pepper	red pepper
+MadeOf	soy and bean paste	soybean paste
+MadeOf	chip	silicon
+MadeOf	glass	silicon
+MadeOf	microchip	silicon
+MadeOf	roboter	metal
+MadeOf	silicon	sand
+MadeOf	lego	colour plastic
+MadeOf	woman	men rib
+MadeOf	chicken	corn
+MadeOf	world	this and that
+MadeOf	sand	gravel
+MadeOf	small stone	limestone
+MadeOf	chalk	prehistoric snail
+MadeOf	limestone	lime
+MadeOf	gravel	small stone
+MadeOf	sugar	sugarcane
+MadeOf	noodle	wheat
+MadeOf	air	oxygen
+MadeOf	alcohol	rice
+MadeOf	computer	plastic and metal
+MadeOf	music	note
+MadeOf	human beeings	water
+MadeOf	plate	china
+MadeOf	bowl	clay
+MadeOf	battledore	wood
+MadeOf	lead	plastic
+MadeOf	star	hydrogen
+MadeOf	daktoritang	chikens
+MadeOf	page	timber
+MadeOf	chinese noodle	wheat
+MadeOf	person	live cell
+MadeOf	nice jacket	leather
+MadeOf	soba	soba flour
+MadeOf	coffin	wood
+MadeOf	china	ceramic
+MadeOf	coffee	bean
+MadeOf	railroad	iron
+MadeOf	ring	gold
+MadeOf	gelatine	bone
+MadeOf	music	guitar
+MadeOf	jam	fruit
+MadeOf	food	meat
+MadeOf	skin	cell
+MadeOf	sword	metal
+MadeOf	clothe	silk
+MadeOf	hot chocolate	cacao
+MadeOf	hamburger	meat
+MadeOf	computer	slot card and computer chip
+MadeOf	gas	oil
+MadeOf	earth	mostly water
+MadeOf	energy	electron
+MadeOf	duck	meat
+MadeOf	oxygen	electron
+MadeOf	chocolate	sugar
+MadeOf	card	paper
+MadeOf	computer	metal
+MadeOf	fence	metal
+MadeOf	early billiard ball	explosive gun cotton
+MadeOf	person and planet	same chemical stuff
+MadeOf	album	vinyl
+MadeOf	safety-pins	metal
+MadeOf	nut and bolt	metal
+MadeOf	jewel	precieuses stone
+MadeOf	pacifier	plastic
+MadeOf	some watch	gold
+MadeOf	cricket cage	bamboo
+MadeOf	handle	wood
+MadeOf	handel	wood
+MadeOf	smooth brown car seat may	leather
+MadeOf	overall	denim
+MadeOf	billiard ball	plastic
+MadeOf	clamp	steel
+MadeOf	tool	metal becasue metal be strong
+MadeOf	dart board may	rubber or plastic
+MadeOf	early roller coaster	wood
+MadeOf	axe handle	wood
+MadeOf	outdoor statue	metal
+MadeOf	modern furniture	synthetic material
+MadeOf	hat	feel
+MadeOf	old telephone	bakerlite
+MadeOf	glove may	many different material
+MadeOf	horseshoe be very heavy they	iron
+MadeOf	book	worm and dust
+MadeOf	sushi	raw seafood
+MadeOf	cloth of seventy	polyester
+MadeOf	human	protoplasm
+MadeOf	percussion instrument	wood
+MadeOf	percussion instrument	metal
+MadeOf	outerspace	space
+MadeOf	triangle	metal
+MadeOf	saw	metal
+MadeOf	saucer	same material as it cup
+MadeOf	dine table might	glass
+MadeOf	information state that sausage	pork be fact
+MadeOf	crystal goblet	glass
+MadeOf	plank	wood
+MadeOf	hose	plastic
+MadeOf	comb	plastic these day
+MadeOf	jar	clay
+MadeOf	horse box	aluminum
+MadeOf	stove	metal
+MadeOf	basket	plastic
+MadeOf	comb	plastic
+MadeOf	tree	wood
+MadeOf	apple juice	apple
+MadeOf	glass	sand
+MadeOf	box	cardboard
+MadeOf	castle	stone
+MadeOf	house	wood
+MadeOf	computer chip	silicon
+MadeOf	paper cup	paper
+MadeOf	noodle	flour
+MadeOf	desk	steel
+MadeOf	ocean	water
+MadeOf	roast chicken	chicken
+MadeOf	shave ice with syrup	ice
+MadeOf	medal	metal
+MadeOf	picture frame	wood
+MadeOf	page of book	paper
+MadeOf	many bottle	glass
+MadeOf	outdoor furniture	plastic
+MadeOf	tool	metal
+MadeOf	wed ring	gold
+MadeOf	furniture	wood
+MadeOf	steel	iron
+MadeOf	knife	steel
+MadeOf	statue	stone
+MadeOf	house	brick
+MadeOf	u.f.o	alien material
+MadeOf	tool	steel
+MadeOf	plate	glass
+MadeOf	peanut butter	peanut
+MadeOf	tire	rubber
+MadeOf	orange juice	orange
+MadeOf	plastic	petroleum
+MadeOf	paper	tree
+MadeOf	sword	steel
+MadeOf	pen	plastic
+MadeOf	can	aluminium
+MadeOf	cotton candy	sugar
+MadeOf	this	metal
+MadeOf	leather	cow skin
+MadeOf	can	nickel
+MadeOf	statue	marble
+MadeOf	tree be plant and	wood
+MadeOf	bicycle	metal
+MadeOf	organism	cell
+MadeOf	car	iron
+MadeOf	cake	egg
+MadeOf	butter	milk
+MadeOf	beer	malt
+MadeOf	statue	bronze
+MadeOf	apple jam	apple
+MadeOf	watch	gold
+MadeOf	steak	beef
+MadeOf	kimchi pancake	kimchi
+MadeOf	blanket	fabric
+MadeOf	spaceship	ceramic
+MadeOf	rice	rice grain
+MadeOf	disposable knife	plastic
+MadeOf	closet	wood
+MadeOf	disposable plate	paper
+MadeOf	cake	glutinous rice
+MadeOf	barn	wood
+MadeOf	society	organism
+MadeOf	cookie	sugar and starch
+MadeOf	freeway	concrete
+MadeOf	horse have coat and mane both	hair
+MadeOf	some bottle	green glass
+MadeOf	index card	paper
+MadeOf	page	paper with word on it
+MadeOf	snow	snowflake
+MadeOf	ipod	microchip and plastic
+MadeOf	human body	water
+MadeOf	music	sound
+MadeOf	molecule	atom
+MadeOf	water	oxygen
+MadeOf	ice	water
+MadeOf	water	hydrogen and oxygen
+MadeOf	brain	neuron
+MadeOf	lens	glass
+MadeOf	house	stone
+MadeOf	river	water
+MadeOf	cookie	flour
+MadeOf	soup	water
+MadeOf	desk	wood
+MadeOf	skyscraper	steel
+MadeOf	bouquet	flower
+MadeOf	mirror	glass
+MadeOf	belt	leather
+MadeOf	robot	metal
+MadeOf	bookshelf	wood
+MadeOf	magazine	paper
+MadeOf	glass	glass
+MadeOf	crowd	person
+MadeOf	jar	glass
+MadeOf	plunger	rubber and wood
+MadeOf	soda	aluminum
+MadeOf	some lense	glass
+MadeOf	penny	copper
+MadeOf	chocolate	cocoa bean
+MadeOf	football	pigskin
+MadeOf	handle of axe	ash or hickory
+MadeOf	gild	gold
+MadeOf	car	many recyclable material
+MadeOf	movie	many frame
+MadeOf	mail	paper
+MadeOf	much furniture	plastic
+MadeOf	lightning	electricity
+MadeOf	house	wood or brick
+MadeOf	glue	flour and water
+MadeOf	some coat hanger	wood some metal and some plastic
+MadeOf	jewelry	metal and stone
+MadeOf	lightbulb	glass and break easily
+MadeOf	light bulb	glass
+MadeOf	eyeglass	plastic
+MadeOf	most hotdog	beef
+MadeOf	cheap dart	mostly plastic
+MadeOf	crockery	clay
+MadeOf	jewelry	valuable metal
+MadeOf	hot-dog	meat take from disassemble animal
+MadeOf	hot-water bottle	rubber
+MadeOf	coat hanger	metal wood or plastic
+MadeOf	cloud	condense water
+MadeOf	movie	many still picture show very quickly
+MadeOf	tool	clay
+MadeOf	many cook utensil	wood
+MadeOf	many home	brick
+MadeOf	ball bounce because they	rubber
+MadeOf	boot	animal skin
+MadeOf	many kitchen utensil	wood
+MadeOf	key	brass or steel
+MadeOf	flag	flexible cloth
+MadeOf	many trash can	metal
+MadeOf	trophy	metal
+MadeOf	clotheshaner	wood
+MadeOf	statue of liberty	copper
+MadeOf	eraser	gum rubber
+MadeOf	chalkboard	slate
+MadeOf	cloud	vapor
+MadeOf	coathanger	wood
+MadeOf	jewelry	precious metal and gem
+MadeOf	star	mostly hydrogen and helium
+MadeOf	wrench	steel
+MadeOf	hot dog	pig part
+MadeOf	coat hanger	wood metal or plastic
+MadeOf	steam	water
+MadeOf	capitol dome	iron
+MadeOf	basketball	rubber
+MadeOf	lawn furniture	plastic
+MadeOf	ping pong ball	hard plastic and they bounce
+MadeOf	some boat	fiberglass
+MadeOf	tornado	very fast-moving wind
+MadeOf	leather	cow hide
+MadeOf	saxophone	metal
+MadeOf	wheel	metal
+MadeOf	some instrument	wood
+MadeOf	horse shoe use for game	plastic
+MadeOf	many instrument	wood and string
+MadeOf	sushi	raw fish
+MadeOf	blue jean	denim
+MadeOf	all physical thing	combination of element
+MadeOf	some tool	iron
+MadeOf	beverage coffee	grind coffee bean and boil water
+MadeOf	skeleton	many bone
+MadeOf	this model duck	wood
+MadeOf	wed gown	silk
+MadeOf	abottle	glass
+MadeOf	chopstick	bamboo
+MadeOf	duvet	cotton
+MadeOf	some can	tin
+MadeOf	key	metal
+MadeOf	cheese	ferment milk and bacteria`
+MadeOf	kettle	copper
+MadeOf	bed	straw
+MadeOf	container	metal
+MadeOf	town house	brick
+MadeOf	choker	precious jewel
+MadeOf	bath tub	iron and coat with porcelain
+MadeOf	some hairbrush	silver
+MadeOf	some ship	wood
+MadeOf	choker	string of pearl
+MadeOf	bath tub	fiberglass and mould into shape
+MadeOf	ticket turnstile	polish chrome
+MadeOf	tank	metal
+MadeOf	many container	glass
+MadeOf	most tool	metal
+MadeOf	sand	little piece of seashell
+MadeOf	floor	concrete
+MadeOf	moon	rock
+MadeOf	golf club	metal
+MadeOf	most clothe hanger	metal not wood
+MadeOf	vinyl	polymer
+MadeOf	glass lense	transparent glass or plastic
+MadeOf	small automobile	less material than large automobile
+MadeOf	openmind	computer software
+MadeOf	earth	layer of rock
+MadeOf	lot of jug	plastic
+MadeOf	hot dog	cow
+MadeOf	knife	silver
+MadeOf	statue	metal or stone
+MadeOf	short	pair of short pantlegs
+MadeOf	some eyeglass frame	tortoise shell
+MadeOf	comb	plastic and rubber
+MadeOf	catwalk	metal
+MadeOf	surface	material
+MadeOf	movie	celluloid
+MadeOf	stage curtain	velvet
+MadeOf	hair roller	foam
+MadeOf	coat hanger	wood or metal or plastic
+MadeOf	team	person
+MadeOf	balcony rail	wood or metal
+MadeOf	pizza usually	tomato sauce cheese and crust
+MadeOf	some hot dog	bi-products
+MadeOf	shower wall	tile
+MadeOf	disposable fork	plastic
+MadeOf	paper clip	metal
+MadeOf	sand	silica sort of glass
+MadeOf	most church	wood
+MadeOf	some bin	glass
+MadeOf	coin purse	leather
+MadeOf	clipboard	wood
+MadeOf	food	carbon
+MadeOf	doormat	atom
+MadeOf	wind instrument	wood
+MadeOf	population	different person
+MadeOf	board	wood
+MadeOf	world	country
+MadeOf	many object	metal
+MadeOf	toy balloon	rubber
+MadeOf	sidewalk	concrete
+MadeOf	many useful thing	wood
+MadeOf	set	element
+MadeOf	room	four wall
+MadeOf	newspaper	ink and paper
+MadeOf	continent	country
+MadeOf	electricity	electron
+MadeOf	nail	keratin
+MadeOf	penis	flesh
+MadeOf	brick	clay
+MadeOf	pot	clay
+MadeOf	gnocchi	potato
+MadeOf	silverware	metal
+MadeOf	witch	wood
+MadeOf	glass	melt sand
+MadeOf	balloon	rubber
+MadeOf	fork	metal
+MadeOf	pillow	feather
+MadeOf	frog	meat
+MadeOf	bridge	wood
+MadeOf	ramen	flour
+MadeOf	pancake	flour
+MadeOf	door	wood
+MadeOf	muffin	flour
+MadeOf	dumpling	flour
+MadeOf	space shuttle	ceramic
+MadeOf	vinegar	wine
+MadeOf	flour	wheat
+MadeOf	shoe	leather
+MadeOf	cider	apple
+MadeOf	violin	wood
+MadeOf	horseshoe	metal
+MadeOf	hanger	wood
+MadeOf	piano	wood
+MadeOf	hammer	metal
+MadeOf	guitar	metal
+MadeOf	ax	metal
+MadeOf	magnify glass	glass
+MadeOf	flute	silver
+MadeOf	carpet	wool
+MadeOf	pottery	clay
+MadeOf	carton be thing which	plastic
+MadeOf	sculpture	plaster
+MadeOf	statue	metal
+MadeOf	sculpture	stone
+MadeOf	all toilet paper	recycle paper
+MadeOf	sculpture	bronze
+MadeOf	sculpture	metal
+MadeOf	bag	plastic
+MadeOf	towel	cotton
+MadeOf	most table	wood
+MadeOf	save	salary
+MadeOf	butter	churn milk
+MadeOf	boot	leather because it sturdy
+MadeOf	mind	subjective thought
+MadeOf	tv	glass
+MadeOf	tv	plastic
+MadeOf	set	member
+MadeOf	system of abstract think	ideal
+MadeOf	system of abstract think	abstraction
+MadeOf	john safran	cell
+MadeOf	community	political ideology
+MadeOf	whorehouse	room
+MadeOf	zombie	cell
+MadeOf	government	political ideology
+MadeOf	porn	naked person
+MadeOf	mead	ferment honey water
+MadeOf	universe	string
+MadeOf	utopia	community
+MadeOf	house	room
+MadeOf	socialism	socialist
+MadeOf	revolution	sentient be
+MadeOf	sativa	cannabis
+MadeOf	animate flesh of dead person	cell
+MadeOf	indica	cannabis
+MadeOf	sausage	meat
+MadeOf	utopia	equality for everyone
+MadeOf	penis	cell
+MadeOf	semen	sperm cell
+MadeOf	wind	air
+MadeOf	banana pudding	banana
+MadeOf	letter	paper
+MadeOf	envelope	paper
+MadeOf	katana	steel
+MadeOf	soccer ball	leather
+MadeOf	computer mouse	plastic
+MadeOf	outfit	clothe
+MadeOf	guitar	string
+MadeOf	mozart music	musical composition
+MadeOf	tortilla	corn or flour
+MadeOf	data	bit
+MadeOf	electricity	flow of electron
+MadeOf	telephone pole	wood
+MadeOf	heroin	diamorphine
+MadeOf	heroin	poppy flower
+MadeOf	some closet	wood
+MadeOf	laser	photon
+MadeOf	digital data	bit
+MadeOf	light	energy
+MadeOf	computer program	source code
+MadeOf	matter	particle
+MadeOf	ammonia	nitrogen and hydrogen
+MadeOf	wine	fruit
+MadeOf	spring	metal
+MadeOf	fabric	fiber
+MadeOf	lubrication	oil
+MadeOf	cloth	fiber
+MadeOf	write word	character
+MadeOf	trust	honesty
+MadeOf	computer	hardware
+MadeOf	crt	glass
+MadeOf	human body	molecule
+MadeOf	atom	subatomic particle
+MadeOf	diamond	carbon
+MadeOf	water	h2o
+MadeOf	toast	bread
+MadeOf	sock	thread
+MadeOf	playground equipment	metal wood or plastic
+MadeOf	sock	wool
+MadeOf	sock	cotton
+MadeOf	knife	handle and blade
+MadeOf	yarn	bamboo
+MadeOf	yarn	rayon
+MadeOf	yarn	alpalca hair
+MadeOf	yarn	wool or cotton
+MadeOf	conecept design	cool idea
+MadeOf	flock	bird
+MadeOf	seattle	neighborhood
+MadeOf	slinky	spring
+MadeOf	psychology	theory
+MadeOf	tie-dye	chemical
+MadeOf	sing	word and music
+MadeOf	oxygen	proton
+MadeOf	oxygen	neutron
+MadeOf	mit	department
+MadeOf	plan	step
+MadeOf	coffee	water
+MadeOf	telephone	electronics
+MadeOf	telephone	electronic part
+MadeOf	us government	3 branch juducial legislative and executive
+MadeOf	credit card	plastic
+MadeOf	world	material
+MadeOf	bridge	stone
+MadeOf	bridge	steel
+MadeOf	nail	steel
+MadeOf	stool	steel
+MadeOf	soymilk	soy bean
+MadeOf	soy source	soy bean
+MadeOf	pudding	egg
+MadeOf	couter top	granite
+MadeOf	motorcylces	aluminium
+MadeOf	motorcycle	metal
+MadeOf	fry rice	rice
+MadeOf	cabinet	metal
+MadeOf	sand	grain
+MadeOf	sand	silicon
+MadeOf	cloth diaper	cotton fabric
+MadeOf	bread	grain
+MadeOf	memory	experience
+MadeOf	computer memory	silicon
+MadeOf	evolution	false assumption
+MadeOf	cake	korean rice cake
+MadeOf	bascket of flower	flower
+MadeOf	ice shave	ice
+MadeOf	potate chip	potato
+MadeOf	snowman	water
+MadeOf	straw doll	straw
+MadeOf	tooth	calcium
+MadeOf	rice ball	rice
+MadeOf	snowcone	ice
+MadeOf	cake	milk
+MadeOf	cake	sugar
+MadeOf	pancake	egg
+MadeOf	omelette	egg
+MadeOf	pancake	milk
+MadeOf	cherry juice	cherry
+MadeOf	pudding	milk
+MadeOf	glas	sand
+MadeOf	ananas juice	ananas
+MadeOf	pudding	sugar
+MadeOf	sweet	sugar
+MadeOf	gasolene	crude oil
+MadeOf	nail	metal
+MadeOf	granite	rock
+MadeOf	marzipan	grind almond and sugar
+MadeOf	soda can	aluminum
+MadeOf	game piece	wood
+MadeOf	automobile	steel
+MadeOf	raisin	dry grape
+MadeOf	prune	plum
+MadeOf	sweet and sour pork	pork
+MadeOf	mochi	gloutinous rice
+MadeOf	plastic knife	plastic
+MadeOf	plasticbags	plastic
+MadeOf	pot	soil
+MadeOf	korean miso	bean
+MadeOf	jacket	leather
+MadeOf	plastic wrap	plastic
+MadeOf	rice ckae	glutinous rice
+MadeOf	wardrobe	wood
+MadeOf	sofa	leather
+MadeOf	pottery	soil
+MadeOf	chicken soup	chicken
+MadeOf	sweat rice cake	sticky rice
+MadeOf	brochure	paper
+MadeOf	cabinet	steel
+MadeOf	flower bouquet	flower
+MadeOf	tofu	bean
+MadeOf	mattress	latex
+MadeOf	candy	sugar
+MadeOf	your smile	happiness
+MadeOf	matter	live and non live thing
+MadeOf	soy sause paste	soy bean
+MadeOf	chicken broth	chicken
+MadeOf	sari	silk fabric
+MadeOf	steamedchicken	chicken
+MadeOf	clay	soil
+MadeOf	house	soil
+MadeOf	hydroelectricity	water
+MadeOf	bag	leather
+MadeOf	steel railroad	steel
+MadeOf	ricecake	rice
+MadeOf	smile	happiness
+MadeOf	mushroom noodle	mushroom
+MadeOf	bread	sugar
+MadeOf	lace	flower
+MadeOf	desk	iron
+MadeOf	rice cake	rice
+MadeOf	apple pie	apple
+MadeOf	common sense	person thought
+MadeOf	clothe	cotton
+MadeOf	tv	metal
+MadeOf	soojaebi	white flour
+MadeOf	mushroom stew	mushroom
+MadeOf	clay pot	clay
+MadeOf	pencil	tree
+MadeOf	bag	fabric
+MadeOf	papercups	paper
+MadeOf	pencil	black lead
+MadeOf	soy bean paste	soy bean
+MadeOf	juice	fruit
+MadeOf	flower basket	flower
+MadeOf	ship	steel
+MadeOf	mushroom casserole	mushroom
+MadeOf	rice cake soup	rice cake
+MadeOf	glove	leather
+MadeOf	powder pepper	red pepper
+MadeOf	soy and bean paste	soybean paste
+MadeOf	chip	silicon
+MadeOf	glass	silicon
+MadeOf	microchip	silicon
+MadeOf	roboter	metal
+MadeOf	silicon	sand
+MadeOf	lego	colour plastic
+MadeOf	woman	men rib
+MadeOf	chicken	corn
+MadeOf	world	this and that
+MadeOf	sand	gravel
+MadeOf	small stone	limestone
+MadeOf	chalk	prehistoric snail
+MadeOf	limestone	lime
+MadeOf	gravel	small stone
+MadeOf	sugar	sugarcane
+MadeOf	noodle	wheat
+MadeOf	air	oxygen
+MadeOf	alcohol	rice
+MadeOf	computer	plastic and metal
+MadeOf	music	note
+MadeOf	human beeings	water
+MadeOf	plate	china
+MadeOf	bowl	clay
+MadeOf	battledore	wood
+MadeOf	lead	plastic
+MadeOf	star	hydrogen
+MadeOf	daktoritang	chikens
+MadeOf	page	timber
+MadeOf	chinese noodle	wheat
+MadeOf	person	live cell
+MadeOf	nice jacket	leather
+MadeOf	soba	soba flour
+MadeOf	coffin	wood
+MadeOf	china	ceramic
+MadeOf	coffee	bean
+MadeOf	railroad	iron
+MadeOf	ring	gold
+MadeOf	gelatine	bone
+MadeOf	music	guitar
+MadeOf	jam	fruit
+MadeOf	food	meat
+MadeOf	skin	cell
+MadeOf	sword	metal
+MadeOf	clothe	silk
+MadeOf	hot chocolate	cacao
+MadeOf	hamburger	meat
+MadeOf	computer	slot card and computer chip
+MadeOf	gas	oil
+MadeOf	earth	mostly water
+MadeOf	energy	electron
+MadeOf	duck	meat
+MadeOf	oxygen	electron
+MadeOf	chocolate	sugar
+MadeOf	card	paper
+MadeOf	computer	metal
+MadeOf	fence	metal
+MadeOf	early billiard ball	explosive gun cotton
+MadeOf	person and planet	same chemical stuff
+MadeOf	album	vinyl
+MadeOf	safety-pins	metal
+MadeOf	nut and bolt	metal
+MadeOf	jewel	precieuses stone
+MadeOf	pacifier	plastic
+MadeOf	some watch	gold
+MadeOf	cricket cage	bamboo
+MadeOf	handle	wood
+MadeOf	handel	wood
+MadeOf	smooth brown car seat may	leather
+MadeOf	overall	denim
+MadeOf	billiard ball	plastic
+MadeOf	clamp	steel
+MadeOf	tool	metal becasue metal be strong
+MadeOf	dart board may	rubber or plastic
+MadeOf	early roller coaster	wood
+MadeOf	axe handle	wood
+MadeOf	outdoor statue	metal
+MadeOf	modern furniture	synthetic material
+MadeOf	hat	feel
+MadeOf	old telephone	bakerlite
+MadeOf	glove may	many different material
+MadeOf	horseshoe be very heavy they	iron
+MadeOf	book	worm and dust
+MadeOf	sushi	raw seafood
+MadeOf	cloth of seventy	polyester
+MadeOf	human	protoplasm
+MadeOf	percussion instrument	wood
+MadeOf	percussion instrument	metal
+MadeOf	outerspace	space
+MadeOf	triangle	metal
+MadeOf	saw	metal
+MadeOf	saucer	same material as it cup
+MadeOf	dine table might	glass
+MadeOf	information state that sausage	pork be fact
+MadeOf	crystal goblet	glass
+MadeOf	plank	wood
+MadeOf	hose	plastic
+MadeOf	comb	plastic these day
+MadeOf	jar	clay
+MadeOf	horse box	aluminum
+MadeOf	stove	metal
+MadeOf	basket	plastic

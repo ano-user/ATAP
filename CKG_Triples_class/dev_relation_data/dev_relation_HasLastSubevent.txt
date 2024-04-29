@@ -1,0 +1,5 @@
+HasLastSubevent	live	die
+HasLastSubevent	watch tv	turn tv off
+HasLastSubevent	bathe	dry off
+HasLastSubevent	do some exercise	do cool-down
+HasLastSubevent	take shower	dry off

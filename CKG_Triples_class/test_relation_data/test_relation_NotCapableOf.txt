@@ -1,0 +1,11 @@
+NotCapableOf	person	fly
+NotCapableOf	penguin	fly
+NotCapableOf	fish	live out of water
+NotCapableOf	dog	fly
+NotCapableOf	vegetarian	eat meat
+NotCapableOf	water and oil	mix
+NotCapableOf	dog	talk
+NotCapableOf	pig	fly
+NotCapableOf	deaf person	hear
+NotCapableOf	dog	sweat
+NotCapableOf	atheist	believe in god

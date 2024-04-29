@@ -1,0 +1,112 @@
+InheritsFrom	house	dwell
+InheritsFrom	cat	lynx
+InheritsFrom	car	bicycle
+InheritsFrom	cat	dog
+InheritsFrom	build	house
+InheritsFrom	prayer	praise
+InheritsFrom	praise	prayer
+InheritsFrom	person	food store
+InheritsFrom	car	motorcycle
+InheritsFrom	submarine	boat
+InheritsFrom	car	train
+InheritsFrom	motorcycle	car
+InheritsFrom	boat	submarine
+InheritsFrom	shark	fish
+InheritsFrom	submarine	fish
+InheritsFrom	fish	submarine
+InheritsFrom	four leg	sex
+InheritsFrom	learn	knowledge
+InheritsFrom	sex	love
+InheritsFrom	knowledge	learn
+InheritsFrom	desk	table
+InheritsFrom	sex	four leg
+InheritsFrom	enjoy	entertain
+InheritsFrom	human	person
+InheritsFrom	entertain	enjoy
+InheritsFrom	kill	die
+InheritsFrom	die	kill
+InheritsFrom	kill	destroy enemy
+InheritsFrom	sex	heel
+InheritsFrom	heel	sex
+InheritsFrom	ocean	gulf of mexico
+InheritsFrom	gulf of mexico	ocean
+InheritsFrom	penguin	emu
+InheritsFrom	make wine	need food to live
+InheritsFrom	mozart	composer
+InheritsFrom	bicycle	car
+InheritsFrom	doll	person
+InheritsFrom	get money	money
+InheritsFrom	water	ocean
+InheritsFrom	child	person
+InheritsFrom	steak	food
+InheritsFrom	apple	food
+InheritsFrom	food	mexican food
+InheritsFrom	food	apple
+InheritsFrom	food	steak
+InheritsFrom	ocean	water
+InheritsFrom	beer	food
+InheritsFrom	mexican food	food
+InheritsFrom	person	child
+InheritsFrom	money	get money
+InheritsFrom	kill	violence
+InheritsFrom	use straw	suck
+InheritsFrom	suck pacifier	play with toy
+InheritsFrom	sleep	rest
+InheritsFrom	job	work
+InheritsFrom	love	sex
+InheritsFrom	house	dwell
+InheritsFrom	cat	lynx
+InheritsFrom	car	bicycle
+InheritsFrom	cat	dog
+InheritsFrom	build	house
+InheritsFrom	prayer	praise
+InheritsFrom	praise	prayer
+InheritsFrom	person	food store
+InheritsFrom	car	motorcycle
+InheritsFrom	submarine	boat
+InheritsFrom	car	train
+InheritsFrom	motorcycle	car
+InheritsFrom	boat	submarine
+InheritsFrom	shark	fish
+InheritsFrom	submarine	fish
+InheritsFrom	fish	submarine
+InheritsFrom	four leg	sex
+InheritsFrom	learn	knowledge
+InheritsFrom	sex	love
+InheritsFrom	knowledge	learn
+InheritsFrom	desk	table
+InheritsFrom	sex	four leg
+InheritsFrom	enjoy	entertain
+InheritsFrom	human	person
+InheritsFrom	entertain	enjoy
+InheritsFrom	kill	die
+InheritsFrom	die	kill
+InheritsFrom	kill	destroy enemy
+InheritsFrom	sex	heel
+InheritsFrom	heel	sex
+InheritsFrom	ocean	gulf of mexico
+InheritsFrom	gulf of mexico	ocean
+InheritsFrom	penguin	emu
+InheritsFrom	make wine	need food to live
+InheritsFrom	mozart	composer
+InheritsFrom	bicycle	car
+InheritsFrom	doll	person
+InheritsFrom	get money	money
+InheritsFrom	water	ocean
+InheritsFrom	child	person
+InheritsFrom	steak	food
+InheritsFrom	apple	food
+InheritsFrom	food	mexican food
+InheritsFrom	food	apple
+InheritsFrom	food	steak
+InheritsFrom	ocean	water
+InheritsFrom	beer	food
+InheritsFrom	mexican food	food
+InheritsFrom	person	child
+InheritsFrom	money	get money
+InheritsFrom	kill	violence
+InheritsFrom	use straw	suck
+InheritsFrom	suck pacifier	play with toy
+InheritsFrom	sleep	rest
+InheritsFrom	job	work
+InheritsFrom	love	sex

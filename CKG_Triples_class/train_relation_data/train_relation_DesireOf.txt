@@ -1,0 +1,28 @@
+DesireOf	person	be respect
+DesireOf	man	woman
+DesireOf	plant	water
+DesireOf	monkey	eat banana
+DesireOf	cat	sleep
+DesireOf	mother	raise her child properly
+DesireOf	man	rest
+DesireOf	plant	light
+DesireOf	company	employee
+DesireOf	person	live long
+DesireOf	person	rest
+DesireOf	person	be happy
+DesireOf	animal	drink
+DesireOf	child	play
+DesireOf	person	be respect
+DesireOf	man	woman
+DesireOf	plant	water
+DesireOf	monkey	eat banana
+DesireOf	cat	sleep
+DesireOf	mother	raise her child properly
+DesireOf	man	rest
+DesireOf	plant	light
+DesireOf	company	employee
+DesireOf	person	live long
+DesireOf	person	rest
+DesireOf	person	be happy
+DesireOf	animal	drink
+DesireOf	child	play

@@ -1,0 +1,298 @@
+CreatedBy	baby	sex
+CreatedBy	sound	vibration
+CreatedBy	cheese	milk
+CreatedBy	ipod	apple computer
+CreatedBy	smoke	fire
+CreatedBy	bridge	man kind
+CreatedBy	honey	be
+CreatedBy	sea shell	animal
+CreatedBy	beer	water
+CreatedBy	color green	mix color blue and yellow
+CreatedBy	bread	flour
+CreatedBy	first home computer	small company
+CreatedBy	software	programmer
+CreatedBy	chocolate	mix sugar cocoa butter and cocoa liquor
+CreatedBy	genocide	kill specific group
+CreatedBy	equality for everyone	community
+CreatedBy	open mind	mit
+CreatedBy	oxygen	plant
+CreatedBy	semen	testicle
+CreatedBy	egg	chicken
+CreatedBy	bread	baker
+CreatedBy	marxism	karl marx and friedrich engels
+CreatedBy	fruit	plant
+CreatedBy	tie-dye	color
+CreatedBy	artifact be something which	person
+CreatedBy	tuna salad	celery
+CreatedBy	cookie	chocolate chip bake inside
+CreatedBy	satan	god
+CreatedBy	game	programmer
+CreatedBy	child	parent
+CreatedBy	system of abstract think	person
+CreatedBy	revolution	upset person
+CreatedBy	clone	lab
+CreatedBy	drug dealer	prohibitionist society
+CreatedBy	prohibitionist society	conservative
+CreatedBy	utopia	community
+CreatedBy	ideology	person
+CreatedBy	butterfly	cocoon
+CreatedBy	jew	jewish mother
+CreatedBy	equality for everyone	political ideology
+CreatedBy	zombie	animate flesh of dead person
+CreatedBy	global warm	greenhouse gas
+CreatedBy	dodgeball game	group of person
+CreatedBy	gasoline	distil oil
+CreatedBy	egg	hen
+CreatedBy	photograph	photographer
+CreatedBy	heroin	poppy flower
+CreatedBy	lock	locksmith
+CreatedBy	electricity	generator
+CreatedBy	gun	gunsmith
+CreatedBy	baby	human
+CreatedBy	person	god
+CreatedBy	dish	chef
+CreatedBy	china	ceramist
+CreatedBy	erection	constrict blood flow
+CreatedBy	song	songwriter
+CreatedBy	dog poop	dog
+CreatedBy	song	composer
+CreatedBy	theory	scientist
+CreatedBy	meal	cook
+CreatedBy	dinner	chef
+CreatedBy	meal	ingredient
+CreatedBy	paint	artist
+CreatedBy	videogames	game programmer
+CreatedBy	paper	it author
+CreatedBy	theory	think
+CreatedBy	window	microsoft
+CreatedBy	fear	ignorance
+CreatedBy	coffee	brew
+CreatedBy	communism	karl marx
+CreatedBy	frog	two frog
+CreatedBy	energy	nothing it be neither create nor destroy
+CreatedBy	playground equipment	factory
+CreatedBy	yarn	spin wool
+CreatedBy	movie and game	conecept design
+CreatedBy	conecept design	artist to push general mass visualy
+CreatedBy	paint picture	artist
+CreatedBy	animatronics	mechanical engineer
+CreatedBy	psychology	psychologist
+CreatedBy	colorful shirt	tie-dye
+CreatedBy	sing	vocal cord
+CreatedBy	sing	musician
+CreatedBy	plan	person or group
+CreatedBy	coffee	pour hot water over bean
+CreatedBy	telephone	electronics manufacturer
+CreatedBy	dial tone	telephone
+CreatedBy	book	publisher
+CreatedBy	economic policy	government
+CreatedBy	government	person
+CreatedBy	socialist	political ideology of socialism
+CreatedBy	penis	vagina
+CreatedBy	build	architect
+CreatedBy	photo	camera
+CreatedBy	music	instrument or human voice
+CreatedBy	shell	animal
+CreatedBy	stillife	this fruit
+CreatedBy	shadow	light
+CreatedBy	object that float and go fast	man
+CreatedBy	swiss cheese	hole in it
+CreatedBy	some of first paper	reed
+CreatedBy	my favorite pen	parker
+CreatedBy	law	politician and lawyer
+CreatedBy	art	different media
+CreatedBy	house	various construction material
+CreatedBy	cigarette	tobacco
+CreatedBy	sound	mind
+CreatedBy	shell	creature that live inside them
+CreatedBy	mountain	tectonic force
+CreatedBy	wind	weather pattern
+CreatedBy	popcorn	heat popcorn kernel
+CreatedBy	skyscraper	person
+CreatedBy	plastic	person not find in nature
+CreatedBy	motion of wave	moon
+CreatedBy	hole	bullet
+CreatedBy	most firetrucks	lafrance
+CreatedBy	capuccino	coffe and chocolate
+CreatedBy	baby	have sex
+CreatedBy	kosher hot dog	beef
+CreatedBy	river	move fluides
+CreatedBy	river	flow water
+CreatedBy	cappuccino	milk and coffee
+CreatedBy	sherlock holmes	author sir arthur conan doyle
+CreatedBy	draw	artist
+CreatedBy	steam	heat water
+CreatedBy	hole in swiss cheese	gas produce bacteria
+CreatedBy	food	cook or chef
+CreatedBy	music	blow into saxophone
+CreatedBy	this kind of bread	boil it
+CreatedBy	bow	tie certain knot
+CreatedBy	image	press
+CreatedBy	tide	moon gravity
+CreatedBy	eyeglass	plastic frame
+CreatedBy	fantasia	walt disney
+CreatedBy	green color in plant	clorophyll
+CreatedBy	dreadlock	let one hair rot and twist
+CreatedBy	hot dog	leftover gut
+CreatedBy	many useful thing	stainless steel
+CreatedBy	mountain	geological process
+CreatedBy	hole in swiss cheese	decay
+CreatedBy	film	person
+CreatedBy	flag	human be
+CreatedBy	movie	video camera
+CreatedBy	apple juice	crush apple
+CreatedBy	openmind	human
+CreatedBy	build	human be
+CreatedBy	many favorite on menu	rice
+CreatedBy	any color	mix yellow red or blue
+CreatedBy	this toy	rubber
+CreatedBy	linux	linus torvalds
+CreatedBy	baby	sex
+CreatedBy	sound	vibration
+CreatedBy	cheese	milk
+CreatedBy	ipod	apple computer
+CreatedBy	smoke	fire
+CreatedBy	bridge	man kind
+CreatedBy	honey	be
+CreatedBy	sea shell	animal
+CreatedBy	beer	water
+CreatedBy	color green	mix color blue and yellow
+CreatedBy	bread	flour
+CreatedBy	first home computer	small company
+CreatedBy	software	programmer
+CreatedBy	chocolate	mix sugar cocoa butter and cocoa liquor
+CreatedBy	genocide	kill specific group
+CreatedBy	equality for everyone	community
+CreatedBy	open mind	mit
+CreatedBy	oxygen	plant
+CreatedBy	semen	testicle
+CreatedBy	egg	chicken
+CreatedBy	bread	baker
+CreatedBy	marxism	karl marx and friedrich engels
+CreatedBy	fruit	plant
+CreatedBy	tie-dye	color
+CreatedBy	artifact be something which	person
+CreatedBy	tuna salad	celery
+CreatedBy	cookie	chocolate chip bake inside
+CreatedBy	satan	god
+CreatedBy	game	programmer
+CreatedBy	child	parent
+CreatedBy	system of abstract think	person
+CreatedBy	revolution	upset person
+CreatedBy	clone	lab
+CreatedBy	drug dealer	prohibitionist society
+CreatedBy	prohibitionist society	conservative
+CreatedBy	utopia	community
+CreatedBy	ideology	person
+CreatedBy	butterfly	cocoon
+CreatedBy	jew	jewish mother
+CreatedBy	equality for everyone	political ideology
+CreatedBy	zombie	animate flesh of dead person
+CreatedBy	global warm	greenhouse gas
+CreatedBy	dodgeball game	group of person
+CreatedBy	gasoline	distil oil
+CreatedBy	egg	hen
+CreatedBy	photograph	photographer
+CreatedBy	heroin	poppy flower
+CreatedBy	lock	locksmith
+CreatedBy	electricity	generator
+CreatedBy	gun	gunsmith
+CreatedBy	baby	human
+CreatedBy	person	god
+CreatedBy	dish	chef
+CreatedBy	china	ceramist
+CreatedBy	erection	constrict blood flow
+CreatedBy	song	songwriter
+CreatedBy	dog poop	dog
+CreatedBy	song	composer
+CreatedBy	theory	scientist
+CreatedBy	meal	cook
+CreatedBy	dinner	chef
+CreatedBy	meal	ingredient
+CreatedBy	paint	artist
+CreatedBy	videogames	game programmer
+CreatedBy	paper	it author
+CreatedBy	theory	think
+CreatedBy	window	microsoft
+CreatedBy	fear	ignorance
+CreatedBy	coffee	brew
+CreatedBy	communism	karl marx
+CreatedBy	frog	two frog
+CreatedBy	energy	nothing it be neither create nor destroy
+CreatedBy	playground equipment	factory
+CreatedBy	yarn	spin wool
+CreatedBy	movie and game	conecept design
+CreatedBy	conecept design	artist to push general mass visualy
+CreatedBy	paint picture	artist
+CreatedBy	animatronics	mechanical engineer
+CreatedBy	psychology	psychologist
+CreatedBy	colorful shirt	tie-dye
+CreatedBy	sing	vocal cord
+CreatedBy	sing	musician
+CreatedBy	plan	person or group
+CreatedBy	coffee	pour hot water over bean
+CreatedBy	telephone	electronics manufacturer
+CreatedBy	dial tone	telephone
+CreatedBy	book	publisher
+CreatedBy	economic policy	government
+CreatedBy	government	person
+CreatedBy	socialist	political ideology of socialism
+CreatedBy	penis	vagina
+CreatedBy	build	architect
+CreatedBy	photo	camera
+CreatedBy	music	instrument or human voice
+CreatedBy	shell	animal
+CreatedBy	stillife	this fruit
+CreatedBy	shadow	light
+CreatedBy	object that float and go fast	man
+CreatedBy	swiss cheese	hole in it
+CreatedBy	some of first paper	reed
+CreatedBy	my favorite pen	parker
+CreatedBy	law	politician and lawyer
+CreatedBy	art	different media
+CreatedBy	house	various construction material
+CreatedBy	cigarette	tobacco
+CreatedBy	sound	mind
+CreatedBy	shell	creature that live inside them
+CreatedBy	mountain	tectonic force
+CreatedBy	wind	weather pattern
+CreatedBy	popcorn	heat popcorn kernel
+CreatedBy	skyscraper	person
+CreatedBy	plastic	person not find in nature
+CreatedBy	motion of wave	moon
+CreatedBy	hole	bullet
+CreatedBy	most firetrucks	lafrance
+CreatedBy	capuccino	coffe and chocolate
+CreatedBy	baby	have sex
+CreatedBy	kosher hot dog	beef
+CreatedBy	river	move fluides
+CreatedBy	river	flow water
+CreatedBy	cappuccino	milk and coffee
+CreatedBy	sherlock holmes	author sir arthur conan doyle
+CreatedBy	draw	artist
+CreatedBy	steam	heat water
+CreatedBy	hole in swiss cheese	gas produce bacteria
+CreatedBy	food	cook or chef
+CreatedBy	music	blow into saxophone
+CreatedBy	this kind of bread	boil it
+CreatedBy	bow	tie certain knot
+CreatedBy	image	press
+CreatedBy	tide	moon gravity
+CreatedBy	eyeglass	plastic frame
+CreatedBy	fantasia	walt disney
+CreatedBy	green color in plant	clorophyll
+CreatedBy	dreadlock	let one hair rot and twist
+CreatedBy	hot dog	leftover gut
+CreatedBy	many useful thing	stainless steel
+CreatedBy	mountain	geological process
+CreatedBy	hole in swiss cheese	decay
+CreatedBy	film	person
+CreatedBy	flag	human be
+CreatedBy	movie	video camera
+CreatedBy	apple juice	crush apple
+CreatedBy	openmind	human
+CreatedBy	build	human be
+CreatedBy	many favorite on menu	rice
+CreatedBy	any color	mix yellow red or blue
+CreatedBy	this toy	rubber
+CreatedBy	linux	linus torvalds

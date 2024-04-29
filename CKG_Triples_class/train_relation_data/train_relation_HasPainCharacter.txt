@@ -1,0 +1,2 @@
+HasPainCharacter	beat	throb
+HasPainCharacter	beat	throb

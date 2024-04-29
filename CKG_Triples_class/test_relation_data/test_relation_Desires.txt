@@ -1,0 +1,8 @@
+Desires	child	play with toy
+Desires	person	clothe
+Desires	man	woman
+Desires	monkey	eat banana
+Desires	person	dance
+Desires	person	laugh
+Desires	person	feel important
+Desires	dog	chew on bone

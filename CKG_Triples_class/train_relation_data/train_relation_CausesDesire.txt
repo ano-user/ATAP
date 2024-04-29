@@ -1,0 +1,1940 @@
+CausesDesire	be tire	sleep
+CausesDesire	be cold	get warm
+CausesDesire	birthday	bake cake
+CausesDesire	be hungry	eat dinner
+CausesDesire	sleep	snore
+CausesDesire	ignorance	find information
+CausesDesire	hate	destroy your enemy
+CausesDesire	thirst	drink
+CausesDesire	love	fee your family
+CausesDesire	be in hurry	eat quickly
+CausesDesire	laziness	eat breakfast in bed
+CausesDesire	strong wind	fly kite
+CausesDesire	be thirsty	drink
+CausesDesire	be bore	watch tv
+CausesDesire	birthday	buy something for love one
+CausesDesire	alcohol	sleep at night
+CausesDesire	hunger	have lunch
+CausesDesire	victory	celebrate
+CausesDesire	be dirty	take bath
+CausesDesire	creativity	express yourself
+CausesDesire	anger	hurt someone else
+CausesDesire	need hard copy	print on printer
+CausesDesire	friend	socialize
+CausesDesire	desire to pass course	get good grade
+CausesDesire	hunger	cook dinner
+CausesDesire	food	eat
+CausesDesire	rain	repair umbrella
+CausesDesire	need for money	apply for job
+CausesDesire	invitation	go to party
+CausesDesire	curiousity	learn about world
+CausesDesire	be hungry	make bread
+CausesDesire	need	buy something
+CausesDesire	need for information	go on internet
+CausesDesire	sleepiness	go to bed
+CausesDesire	be polite	wait your turn
+CausesDesire	curiosity	examine thing
+CausesDesire	be hungry	go to restaurant
+CausesDesire	be hungry	eat in restaurant
+CausesDesire	have child	make good world
+CausesDesire	upcoming exam	memorize
+CausesDesire	be bore	use television
+CausesDesire	special exhibit	visit art gallery
+CausesDesire	boredom	surf net
+CausesDesire	want to get on internet	use computer
+CausesDesire	competitive nature	play sport
+CausesDesire	lonliness	make friend
+CausesDesire	impatience	leave line
+CausesDesire	boredom	see excite story
+CausesDesire	hunger	buy food
+CausesDesire	boredom	play card
+CausesDesire	inspiration	write story
+CausesDesire	book	learn
+CausesDesire	curiosity	read book
+CausesDesire	good news	send e-mail
+CausesDesire	anger	punch someone
+CausesDesire	finish your drink	set cup on table
+CausesDesire	hunger	fee your family
+CausesDesire	pain	lose consciousness
+CausesDesire	play game	conquer your opponent
+CausesDesire	boredom	play game with your friend
+CausesDesire	boredom	watch tv
+CausesDesire	laziness	satisfy appetite with minimum effort
+CausesDesire	break umbrella	repair umbrella
+CausesDesire	be tire	go to sleep
+CausesDesire	dirty clothe	wash clothe
+CausesDesire	be hungry	eat hamburger
+CausesDesire	need money	work
+CausesDesire	be depress	hit bottle
+CausesDesire	be lonely	meet friend
+CausesDesire	be cold	chop firewood
+CausesDesire	love	sing
+CausesDesire	need computer program	program
+CausesDesire	be hungry	have lunch
+CausesDesire	curiosity	read letter
+CausesDesire	ideal	change society
+CausesDesire	hunger	open bag of chip
+CausesDesire	have too long hair	cut your hair
+CausesDesire	loneliness	socialize
+CausesDesire	be judge	hear testimony
+CausesDesire	compassion	create something to help other person
+CausesDesire	inspiration	create art
+CausesDesire	need money	wait on table
+CausesDesire	red light	stop your car
+CausesDesire	own stock	know how stock market perform
+CausesDesire	patriotism	join army
+CausesDesire	murder	conduct trial
+CausesDesire	sweat	have shower
+CausesDesire	boredom	watch film
+CausesDesire	loneliness	meet friend
+CausesDesire	be on jury	bring in verdict
+CausesDesire	be bore	surf web
+CausesDesire	boredom	watch tv show
+CausesDesire	boredom	surf web
+CausesDesire	desire to share knowledge	teach other person
+CausesDesire	be out of shape	get exercise
+CausesDesire	obesity	exercise
+CausesDesire	play baseball	score home run
+CausesDesire	need exercise	jog
+CausesDesire	advertise	buy product
+CausesDesire	trip	tie your shoelace
+CausesDesire	be hungry	have food
+CausesDesire	love	give gift
+CausesDesire	game	compete
+CausesDesire	joy	sing
+CausesDesire	fatigue	have rest
+CausesDesire	be at party	drink alcohol
+CausesDesire	have lot of drink	urinate
+CausesDesire	dirt	clean your clothe
+CausesDesire	work	have rest
+CausesDesire	cold weather	start fire
+CausesDesire	be curious about something	go on internet
+CausesDesire	exercise	rest
+CausesDesire	be cold	start fire
+CausesDesire	have dirty house	do housework
+CausesDesire	be tire	go to bed
+CausesDesire	boredom	play chess
+CausesDesire	birthday	buy present for others
+CausesDesire	dirtiness	clean
+CausesDesire	hunger	eat hamburger
+CausesDesire	music	play piano
+CausesDesire	be bore	play
+CausesDesire	spell test	memorize
+CausesDesire	crime	pass sentence
+CausesDesire	inspiration	create idea
+CausesDesire	need for exercise	play tennis
+CausesDesire	lack of money	get job
+CausesDesire	love of music	attend classical concert
+CausesDesire	be bore	go to play
+CausesDesire	stink	have shower
+CausesDesire	lonliness	talk to someone
+CausesDesire	boredom	watch television show
+CausesDesire	ambition	be in charge of project
+CausesDesire	ambition	reach advantage
+CausesDesire	be lonely	have friend over
+CausesDesire	free ticket	attend rock concert
+CausesDesire	pain	have checkup
+CausesDesire	have compassion	forgive someone
+CausesDesire	depression	stay in bed
+CausesDesire	fame	act in play
+CausesDesire	high price	fight inflation
+CausesDesire	curiosity	become scuba diver
+CausesDesire	curiosity	look through telescope
+CausesDesire	love of music	watch musician perform
+CausesDesire	hunger	go to store
+CausesDesire	large wave	surf
+CausesDesire	weed	weed garden
+CausesDesire	hunger	eat breakfast
+CausesDesire	greed	lie
+CausesDesire	hunger	begin work
+CausesDesire	insanity	wage war
+CausesDesire	travel	learn about world
+CausesDesire	hunger	fish
+CausesDesire	stress	drink alcohol
+CausesDesire	birthday	give gift
+CausesDesire	christmas	buy present
+CausesDesire	boredom	see something new
+CausesDesire	challenge	test your strength
+CausesDesire	be bore	play game
+CausesDesire	hot weather	eat ice cream
+CausesDesire	hot bath	relax
+CausesDesire	train strike	drive to work
+CausesDesire	windy day	fly kite
+CausesDesire	curiosity	find information
+CausesDesire	mystery	determine truth
+CausesDesire	want to be your own boss	open business
+CausesDesire	severe pain	die
+CausesDesire	pain	have examination
+CausesDesire	your sexuality	flirt
+CausesDesire	need for money	earn live
+CausesDesire	desire to learn	visit museum
+CausesDesire	be judge	judge someone
+CausesDesire	hunger	cook meal
+CausesDesire	hunger	buy fresh fruit and vegetable
+CausesDesire	hunger	cook curry
+CausesDesire	anger	kill person
+CausesDesire	desire to travel	visit other country
+CausesDesire	be dirty	get clean
+CausesDesire	pain	have physical examination
+CausesDesire	need grocery	make shop list
+CausesDesire	garden	wash your hand
+CausesDesire	curiousity	learn about subject
+CausesDesire	see someone hurt	give assistance
+CausesDesire	need something	buy product
+CausesDesire	know election be come	prepare for vote
+CausesDesire	want to learn	attend class
+CausesDesire	hunger	have food
+CausesDesire	fear	run
+CausesDesire	addiction	smoke
+CausesDesire	be hungry	cook
+CausesDesire	loneliness	make person laugh
+CausesDesire	see that road be block	stop your car
+CausesDesire	problem	cogitate
+CausesDesire	interest	see particular program
+CausesDesire	be overweight	get fit
+CausesDesire	threat of war	reach tentative agreement
+CausesDesire	good news	tell many person about something
+CausesDesire	company come	do housework
+CausesDesire	compassion	forgive someone
+CausesDesire	be poor	get some money from someone
+CausesDesire	appreciation for opera	go to opera
+CausesDesire	rip clothe	sew
+CausesDesire	thirst for knowledge	find information
+CausesDesire	want child	copulate
+CausesDesire	spousal abuse	get divorce
+CausesDesire	need to go somewhere	drive car
+CausesDesire	funny joke	howl with laughter
+CausesDesire	favor	thank someone
+CausesDesire	be bore	play chess
+CausesDesire	be hungry	fish
+CausesDesire	be extrovert	entertain person
+CausesDesire	feel adventerous	scuba dive
+CausesDesire	be bore	play game with your friend
+CausesDesire	competitiveness	play game of chess
+CausesDesire	lonelyness	take phone call
+CausesDesire	family	live
+CausesDesire	my mother	clean your room
+CausesDesire	be hungry	bring home some fish
+CausesDesire	sadness	get drunk
+CausesDesire	need to give information	talk
+CausesDesire	loneliness	meet person
+CausesDesire	recreational desire	play game with your friend
+CausesDesire	fear of failure	take exam
+CausesDesire	have flea	scratch
+CausesDesire	boredom	be with friend
+CausesDesire	hungry	have food
+CausesDesire	be dirty	clean your clothe
+CausesDesire	hair in your eye	go to get haircut
+CausesDesire	be jury	decide criminal fate
+CausesDesire	need money	sell your new book
+CausesDesire	desire to learn more thing	attend school
+CausesDesire	exhaustion	sleep
+CausesDesire	be hungry	cook dinner
+CausesDesire	be ugly	change your appearance
+CausesDesire	horniness	procreate
+CausesDesire	have dirty hand	wash your hand
+CausesDesire	need	write program
+CausesDesire	love	procreate
+CausesDesire	be human	help someone
+CausesDesire	alcohol	sleep
+CausesDesire	be tire	rest
+CausesDesire	money	buy christmas present
+CausesDesire	curiousity	find information
+CausesDesire	semen	wash your clothe
+CausesDesire	stress	have nervous breakdown
+CausesDesire	need hardcopy	print on printer
+CausesDesire	have sore foot	sit on chair
+CausesDesire	bad smell	clean clothe
+CausesDesire	be hungry	eat in fast food restaurant
+CausesDesire	loneliness	talk to someone
+CausesDesire	feel cold	start flame or fire
+CausesDesire	be lonely	meet person
+CausesDesire	love someone	give gift
+CausesDesire	have fun	skateboard
+CausesDesire	discrimination	change society
+CausesDesire	be tire	sit on chair
+CausesDesire	nothing	go for jog
+CausesDesire	be bore	watch tv show
+CausesDesire	be hungry	open bag of chip
+CausesDesire	assignment	write term paper
+CausesDesire	not have any cash	pay by check
+CausesDesire	enjoyment	ride horse
+CausesDesire	fire	jump out of window
+CausesDesire	be good	compete
+CausesDesire	war	change society
+CausesDesire	my dog	play frisbee
+CausesDesire	pride	compete against someone
+CausesDesire	bad smell	wash clothe
+CausesDesire	be curious	read newspaper
+CausesDesire	confusion	contemplate
+CausesDesire	be in hurry	eat in fast food restaurant
+CausesDesire	wonder	find information
+CausesDesire	movie	stand in queue
+CausesDesire	need clean clothe	go to laundromat
+CausesDesire	work	rest
+CausesDesire	love	please your parent
+CausesDesire	love	forgive someone
+CausesDesire	love	live life
+CausesDesire	thirst for knowledge	attend class
+CausesDesire	dirt	clean clothe
+CausesDesire	be bore	surf net
+CausesDesire	want to win contest	compete against someone
+CausesDesire	watch football	play football
+CausesDesire	boredom	see person play game
+CausesDesire	sex	have shower
+CausesDesire	unhappiness	commit suicide
+CausesDesire	long hair	have haircut
+CausesDesire	big wave	surf
+CausesDesire	be sick	eat breakfast in bed
+CausesDesire	commercial	christmas shop
+CausesDesire	birthday	have party
+CausesDesire	your mother	make sure you healthy
+CausesDesire	smelly foot	wash dirt from between your toe
+CausesDesire	be lonely	socialize
+CausesDesire	insanity	kill
+CausesDesire	need to relax	listen to music
+CausesDesire	need for hardcopy	print on printer
+CausesDesire	desire to learn	attend school
+CausesDesire	be cold	light fire
+CausesDesire	be curious	open gift
+CausesDesire	be hot	swim
+CausesDesire	party	drink alcohol
+CausesDesire	like classical music	attend classical concert
+CausesDesire	be restless	take walk
+CausesDesire	be horny	copulate
+CausesDesire	pornography	surf net
+CausesDesire	think like entrepeneur	open business
+CausesDesire	boredom	learn something new
+CausesDesire	advertisement	watch film
+CausesDesire	be hungry	cook meal
+CausesDesire	work all day	sleep at night
+CausesDesire	your mother	clean your room
+CausesDesire	look picture of well-prepared food	diminish your own hunger
+CausesDesire	anger	kill someone
+CausesDesire	get dirty	bathe
+CausesDesire	coach	play football
+CausesDesire	have your hair in your eye	go to get haircut
+CausesDesire	friend	talk
+CausesDesire	nausea	vomit
+CausesDesire	porn	fuck
+CausesDesire	have something	use it
+CausesDesire	curiosity	learn
+CausesDesire	erection	ejaculate
+CausesDesire	erection	masturbate
+CausesDesire	feel sick	go to doctor
+CausesDesire	lust	have sex
+CausesDesire	boredom	have fun
+CausesDesire	alcohol	dance
+CausesDesire	silence	listen to radio
+CausesDesire	make expensive mistake	learn about subject
+CausesDesire	desire for social interaction	chat with friend
+CausesDesire	desire to be marry	propose to woman
+CausesDesire	praise	kiss someone
+CausesDesire	fun	travel
+CausesDesire	ecstasy	socialize
+CausesDesire	great music	dance
+CausesDesire	rage	kill someone
+CausesDesire	have fun	live life
+CausesDesire	competition	run after ball
+CausesDesire	concern for health	check vital sign
+CausesDesire	interest in paint	visit art gallery
+CausesDesire	taste something bad	spit
+CausesDesire	watch ice capades	skate
+CausesDesire	curiosity	go to restaurant
+CausesDesire	shop	spend money
+CausesDesire	interest in subject	watch tv show
+CausesDesire	security	start family
+CausesDesire	pay bill	get some money from someone
+CausesDesire	vacation	have fun
+CausesDesire	be tire	snore
+CausesDesire	wind	fly kite
+CausesDesire	work	gather energy for tomorrow
+CausesDesire	be in play	memorize
+CausesDesire	love for another person	kiss
+CausesDesire	boredom	go to sport event
+CausesDesire	hot day	cool off
+CausesDesire	thirst for knowledge	go to school
+CausesDesire	wrap paper	open gift
+CausesDesire	music	have fun
+CausesDesire	filth	soak in hotspring
+CausesDesire	loss	comfort friend
+CausesDesire	need to communicate	mail letter
+CausesDesire	arrive at my destination	stop your car
+CausesDesire	flab	get in shape
+CausesDesire	boredom	surf
+CausesDesire	trial	hear testimony
+CausesDesire	smell bad	bathe
+CausesDesire	your favorite actor	go to movie
+CausesDesire	hard labor	have rest
+CausesDesire	fatigue	sleep
+CausesDesire	need grocery	go to market
+CausesDesire	have someone to play with	play chess
+CausesDesire	ambition	begin work
+CausesDesire	advertise	go see play
+CausesDesire	your family be hungry	cook dinner
+CausesDesire	hard day at work	buy beer
+CausesDesire	prepare for event	gather energy for tomorrow
+CausesDesire	run for president	improve your image
+CausesDesire	work out	sleep at night
+CausesDesire	drink too much	empty your bladder
+CausesDesire	listen to your answer machine	make phone call
+CausesDesire	rape	send criminal to prison
+CausesDesire	math	compute sum
+CausesDesire	hatred	wage war
+CausesDesire	freinds	debate politics
+CausesDesire	love	take oath
+CausesDesire	boredom	read newspaper
+CausesDesire	have picture to hang	drill hole
+CausesDesire	scandal	go public
+CausesDesire	want to get it on	maintain muscle strength
+CausesDesire	go out for dinner	tape television show
+CausesDesire	alcohol	socialize
+CausesDesire	rent dvd	view film at home
+CausesDesire	curiosity	read
+CausesDesire	science	examine thing
+CausesDesire	have natural sense of humor	entertain person
+CausesDesire	dirt	have bath
+CausesDesire	love	paint
+CausesDesire	wikipedia	go on internet
+CausesDesire	be hungry	bake cake
+CausesDesire	creativity	create art
+CausesDesire	like movie	work box office
+CausesDesire	hate	fight enemy
+CausesDesire	want to protect your interest	commit perjury
+CausesDesire	loneliness	chat with friend
+CausesDesire	orgasm	relax
+CausesDesire	need food	go to market
+CausesDesire	heat	go for swim
+CausesDesire	be nervous	fiddle
+CausesDesire	hard work	rest
+CausesDesire	have date	meet friend
+CausesDesire	have complaint	write letter
+CausesDesire	algebra	use calculator
+CausesDesire	hard work	get pay
+CausesDesire	war	fight enemy
+CausesDesire	study	get good grade
+CausesDesire	bedtime	read to your child
+CausesDesire	wind blow	fly kite
+CausesDesire	funny movie	howl with laughter
+CausesDesire	trial	impanel jury
+CausesDesire	be artistic	create art
+CausesDesire	want exercise	play sport
+CausesDesire	poverty	get some money from someone
+CausesDesire	low rate	buy house
+CausesDesire	heavy meal	go for walk
+CausesDesire	problem	create idea
+CausesDesire	if cat be dead	bury cat
+CausesDesire	love	get something
+CausesDesire	heat	swim
+CausesDesire	hot day	eat ice cream
+CausesDesire	exhaustion	have rest
+CausesDesire	exhaustion	go to sleep
+CausesDesire	need to communicate	send e-mail
+CausesDesire	noon whistle	have lunch
+CausesDesire	care about your love one	fee your family
+CausesDesire	beautiful day	ride bike
+CausesDesire	need new clothe	go to mall
+CausesDesire	be hungry	eat apple
+CausesDesire	animal	go to zoo
+CausesDesire	dirt	wash your clothe
+CausesDesire	loneliness	make friend
+CausesDesire	need for money	return to work
+CausesDesire	love	live
+CausesDesire	need to make money	sell your new book
+CausesDesire	like television show	tape television show
+CausesDesire	be competitive	play sport
+CausesDesire	be bad	obstruct justice
+CausesDesire	sore leg	sit down
+CausesDesire	challenge	compete
+CausesDesire	curiousity	see artifact
+CausesDesire	buy house	sign contract
+CausesDesire	mess	clean house
+CausesDesire	false charge	find information
+CausesDesire	have family	buy house
+CausesDesire	cartoon	watch television
+CausesDesire	insanity	run in marathon
+CausesDesire	date	go to film
+CausesDesire	interest	have conversation
+CausesDesire	interest	watch film
+CausesDesire	dance	hear music
+CausesDesire	dog	take walk
+CausesDesire	dog	jog
+CausesDesire	be dog	run after ball
+CausesDesire	need	buy something for love one
+CausesDesire	pride	paint house
+CausesDesire	need grape	go to market
+CausesDesire	blubber	get exercise
+CausesDesire	friend	clean your room
+CausesDesire	reality	pretend
+CausesDesire	feel	hear music
+CausesDesire	travel	fly in airplane
+CausesDesire	sweat	get clean
+CausesDesire	smell dog poop	stop stand in it
+CausesDesire	alcoholism	hit bottle
+CausesDesire	win	compete
+CausesDesire	creativity	create idea
+CausesDesire	your partner infidelity	get divorce
+CausesDesire	be right	agree with someone
+CausesDesire	need information	communicate
+CausesDesire	like music	attend rock concert
+CausesDesire	honesty	take stand
+CausesDesire	your coach	play football
+CausesDesire	be at concert	hear sing
+CausesDesire	be with friend	talk
+CausesDesire	lunch break	sate your hunger
+CausesDesire	get tire	have rest
+CausesDesire	curiousity	see exhibit
+CausesDesire	boot	hike
+CausesDesire	be with child	play game
+CausesDesire	have problem	communicate
+CausesDesire	faith	pray
+CausesDesire	want to pass class	take final exam
+CausesDesire	death of spouse	hit bottle
+CausesDesire	bad tv	listen to radio
+CausesDesire	overwork	go on strike
+CausesDesire	free time	see your favorite show
+CausesDesire	overpopulation	gain more land
+CausesDesire	end of semester	take final exam
+CausesDesire	beautiful mind	learn about science
+CausesDesire	thirst for knowledge	attend lecture
+CausesDesire	insanity	kill person
+CausesDesire	love	kiss
+CausesDesire	watch baseball game	play baseball
+CausesDesire	need for entertainment	see excite story
+CausesDesire	be bore	make patchwork quilt
+CausesDesire	very long hair	have haircut
+CausesDesire	appointment	eat quickly
+CausesDesire	someone sad	comfort friend
+CausesDesire	get your clothe dirty	wash your clothe
+CausesDesire	listen to music	see band
+CausesDesire	be male	procreate
+CausesDesire	crave	eat cookie
+CausesDesire	lack of time	leave line
+CausesDesire	stress	breathe some fresh air
+CausesDesire	messy house	do housework
+CausesDesire	self-confidence	compete against someone
+CausesDesire	problem	find information
+CausesDesire	anger	kill
+CausesDesire	do work	get pay
+CausesDesire	be tall	play basketball
+CausesDesire	challenge	do crossword puzzle
+CausesDesire	love	lie
+CausesDesire	money	fix computer
+CausesDesire	terrorism	fight war
+CausesDesire	bus strike	drive to work
+CausesDesire	idealism	create something to help other person
+CausesDesire	loneliness	have party
+CausesDesire	warm glass of milk	sleep
+CausesDesire	secret organization	take oath
+CausesDesire	prepare for test	memorize
+CausesDesire	have new experience	go somewhere
+CausesDesire	chance to hear marvin minsky	attend lecture
+CausesDesire	lock in good price	sign contract
+CausesDesire	win win opportunity	sign contract
+CausesDesire	gather of old friend	celebrate
+CausesDesire	dusty trip	take bath
+CausesDesire	sight of pregnant friend	hear news
+CausesDesire	see ring on finger	hear news
+CausesDesire	follow pattern of parent	start family
+CausesDesire	fear of miss out	start family
+CausesDesire	long bike ride	take bath
+CausesDesire	day without bath	take bath
+CausesDesire	discover falsify experimental result	find truth
+CausesDesire	few day of plumb problem	take bath
+CausesDesire	be single man	propose to woman
+CausesDesire	sufficient profit	sign contract
+CausesDesire	get stable supplier	sign contract
+CausesDesire	pair of dance ticket	socialize
+CausesDesire	have class over	take final exam
+CausesDesire	puberty	meet girl
+CausesDesire	want something	get something
+CausesDesire	own boat	fish
+CausesDesire	question	find information
+CausesDesire	block another car	move car
+CausesDesire	lose it	find lose item
+CausesDesire	alcohol	become inebriate
+CausesDesire	lunchtime	have food
+CausesDesire	red traffic light	stop your car
+CausesDesire	bore	play card
+CausesDesire	good teacher	learn about world
+CausesDesire	drive in your car	listen to radio
+CausesDesire	appreciation	thank someone
+CausesDesire	need for grocery	go to market
+CausesDesire	need to go somewhere	go for drive
+CausesDesire	need for exercise	run
+CausesDesire	act	pretend
+CausesDesire	be tire	sit down
+CausesDesire	exhaustion	sit down
+CausesDesire	checkout line	wait your turn
+CausesDesire	feel ill	have physical examination
+CausesDesire	conflict data	analyse something
+CausesDesire	download online game	play game with your friend
+CausesDesire	want good grade	take final exam
+CausesDesire	want to pass class	take final
+CausesDesire	love	hear sing
+CausesDesire	want to exercise	play sport
+CausesDesire	research something	go on internet
+CausesDesire	want to socialize	have friend over
+CausesDesire	if friend be sad	comfort friend
+CausesDesire	be fat	lose weight
+CausesDesire	need to buy clothe	go to mall
+CausesDesire	gift	thank someone
+CausesDesire	be competitive	run marathon
+CausesDesire	insanity	advance into battle
+CausesDesire	all-consuming hatred sometimes	kill someone
+CausesDesire	be child	play game
+CausesDesire	be good child	please your parent
+CausesDesire	friend	play poker
+CausesDesire	love	buy something for love one
+CausesDesire	funny joke	laugh at joke
+CausesDesire	like horse	ride horse
+CausesDesire	acquire stuff	shop
+CausesDesire	artistic talent	paint picture
+CausesDesire	good intention	buy present for others
+CausesDesire	interest	attend meet
+CausesDesire	eye contact	talk to woman
+CausesDesire	urge	be compulsive
+CausesDesire	anarchism	rebel
+CausesDesire	equality for everyone	celebrate
+CausesDesire	have penis	use it
+CausesDesire	hatred	celebrate when specific group be dead
+CausesDesire	faux pa	correct person do it
+CausesDesire	hot summer day	jump into river
+CausesDesire	very long hair	make braid
+CausesDesire	cold	turn up heat
+CausesDesire	girl	kiss them
+CausesDesire	salt	drink water
+CausesDesire	greed	steal
+CausesDesire	greed	extort
+CausesDesire	humor	laugh
+CausesDesire	embarrassment	blush
+CausesDesire	rejection	cry
+CausesDesire	depression	drink
+CausesDesire	porn	masturbate
+CausesDesire	idea	invent
+CausesDesire	be drunk	eat sandwich
+CausesDesire	stigma	disrespect
+CausesDesire	boredom	have friend over
+CausesDesire	yarn	knit
+CausesDesire	you be bore	beat off
+CausesDesire	something beautiful	paint picture
+CausesDesire	cupcake	eat it
+CausesDesire	complex situation	plan
+CausesDesire	bed	rest
+CausesDesire	government	improve society
+CausesDesire	exhaustion	rest
+CausesDesire	tire	sleep
+CausesDesire	love of music	play violin
+CausesDesire	have someone love you	make person laugh
+CausesDesire	accuse somebody of crime	conduct trial
+CausesDesire	sex	eat breakfast
+CausesDesire	nothing	bungee jump from high bridge
+CausesDesire	common sense	wash clothe
+CausesDesire	be alcoholic	attend meet
+CausesDesire	like game	play tennis
+CausesDesire	date	go to movie
+CausesDesire	nothing	go to opera
+CausesDesire	desire for closure	see your favorite show
+CausesDesire	compulsion	ritualise
+CausesDesire	poverty	get job
+CausesDesire	boredom	sex
+CausesDesire	fun	have sex
+CausesDesire	anger	die
+CausesDesire	hunger	sate hunger
+CausesDesire	boredom	read
+CausesDesire	boredom	procreate
+CausesDesire	belief	kiss someone
+CausesDesire	boredom	masturbate
+CausesDesire	talk	comfort friend
+CausesDesire	oba	have party
+CausesDesire	fun	express how funny something be
+CausesDesire	chronic heartburn	have physical examination
+CausesDesire	interest advertisment	find information
+CausesDesire	smell bad	become more clean
+CausesDesire	be last person on earth	commit suicide
+CausesDesire	high produce price	grow vegetable
+CausesDesire	baffle case	conduct trial
+CausesDesire	new boyfriend	get in shape
+CausesDesire	free plane ticket	travel
+CausesDesire	big monster	run
+CausesDesire	become good at it	play game of chess
+CausesDesire	big hairy monster	run
+CausesDesire	trailer	see particular program
+CausesDesire	hear review	go to play
+CausesDesire	beautiful music	relax
+CausesDesire	get something i want	sign contract
+CausesDesire	recover from illness	have rest
+CausesDesire	want to get home	cross street
+CausesDesire	really bad management	go on strike
+CausesDesire	not have to go very far	hike
+CausesDesire	feel leave out	make friend
+CausesDesire	play game	pretend
+CausesDesire	want to become doctor	learn about science
+CausesDesire	hear really stupid person	debate politics
+CausesDesire	short lunch hour	eat in fast food restaurant
+CausesDesire	lust	procreate
+CausesDesire	curiosity	hear testimony
+CausesDesire	special on ai	watch television
+CausesDesire	be seek for by fbi	change your appearance
+CausesDesire	opportunity	surprise someone
+CausesDesire	gun to my head	express information
+CausesDesire	smell like dog	have shower
+CausesDesire	argument	walk
+CausesDesire	impend danger	move car
+CausesDesire	find your cat dead	bury cat
+CausesDesire	experience benefit of something	buy something
+CausesDesire	place bet	win baseball game
+CausesDesire	trace your family history	visit other country
+CausesDesire	good story	pretend
+CausesDesire	your biological timeclock	start family
+CausesDesire	great benefit package	apply for job
+CausesDesire	interest in game	see person play game
+CausesDesire	sale	buy product
+CausesDesire	win prize	mail letter
+CausesDesire	really smelly fart	light match
+CausesDesire	bubble bath	bathe
+CausesDesire	talent	design software
+CausesDesire	bug in your mouth	spit
+CausesDesire	have some dip	open bag of chip
+CausesDesire	be able to sit down	do some exercise
+CausesDesire	curiosity	program computer
+CausesDesire	illness	pass class
+CausesDesire	traffic	stop your bicycle
+CausesDesire	feel good	get fit
+CausesDesire	coldness	light fire
+CausesDesire	smell	wash your clothe
+CausesDesire	birthday	mail letter
+CausesDesire	tiffany	eat breakfast in bed
+CausesDesire	tiredness	lose consciousness
+CausesDesire	prospect of good job	get good grade
+CausesDesire	dust	clean house
+CausesDesire	hold stock	know how stock market perform
+CausesDesire	cafe at top mountain	climb
+CausesDesire	frustration with malfunction	fix computer
+CausesDesire	media hype about holiday season	buy present
+CausesDesire	insanity or adventurous spirit	climb mountain
+CausesDesire	solitude	go somewhere
+CausesDesire	softness	watch tv
+CausesDesire	get spray by skunk	have shower
+CausesDesire	go to bar	drink alcohol
+CausesDesire	be dead	play harp
+CausesDesire	intrigue unsolved mystery	answer question
+CausesDesire	what	read book
+CausesDesire	stress	hang out at bar
+CausesDesire	insult	fence
+CausesDesire	approbation	judge someone
+CausesDesire	baby	tickle
+CausesDesire	win	celebrate
+CausesDesire	ignorance	judge someone
+CausesDesire	lose loved-one	get drunk
+CausesDesire	stress	dream
+CausesDesire	other person	improve your image
+CausesDesire	perfectionism	follow recipe
+CausesDesire	affection	buy something for love one
+CausesDesire	stupidity	flirt
+CausesDesire	faraway friend	fly in airplane
+CausesDesire	hunger	make shop list
+CausesDesire	boredom	read letter
+CausesDesire	good actor	go to film
+CausesDesire	your teacher	study
+CausesDesire	teenybopper	buy shirt
+CausesDesire	habit and civil responsibility	watch even news
+CausesDesire	discussion	illustrate point
+CausesDesire	interest	see exhibit
+CausesDesire	selfish greed	gain more land
+CausesDesire	snap specail photograph	print on printer
+CausesDesire	hunger	eat quickly
+CausesDesire	free ticket	go to opera
+CausesDesire	hot summer day	eat ice cream
+CausesDesire	wed	go to hairdresser
+CausesDesire	exploratory spirit	climb mountain
+CausesDesire	like loud music	attend rock concert
+CausesDesire	school work	print on printer
+CausesDesire	eat healthy	cook dinner
+CausesDesire	few thing	run errand
+CausesDesire	coach would try to	play football
+CausesDesire	split end	cut your hair
+CausesDesire	favorable review	go to play
+CausesDesire	greed	conquer your opponent
+CausesDesire	difficult arithmetic problem	use calculator
+CausesDesire	see hungry child	fee your family
+CausesDesire	have investment	know how stock market perform
+CausesDesire	be old and bore	make patchwork quilt
+CausesDesire	dirty hand	wash your hand
+CausesDesire	tedium	do crossword puzzle
+CausesDesire	failure	improve yourself
+CausesDesire	hard work	have fun
+CausesDesire	depression	write poem
+CausesDesire	take dog for walk	play frisbee
+CausesDesire	it be sunday	make bread
+CausesDesire	want to see coral reef	scuba dive
+CausesDesire	have some news to tell	chat with friend
+CausesDesire	your wife leave you	hit bottle
+CausesDesire	frustration	hit bottle
+CausesDesire	threat of injustice	take stand
+CausesDesire	go on date	look good
+CausesDesire	good music	go to concert
+CausesDesire	soccer	have fun
+CausesDesire	injustice	commit perjury
+CausesDesire	nothing	christmas shop
+CausesDesire	magazine model	stay fit
+CausesDesire	laziness	see person play game
+CausesDesire	over-work	rest
+CausesDesire	bordom	play game
+CausesDesire	fatigue	rest
+CausesDesire	description	analyse something
+CausesDesire	rare film	use vcr
+CausesDesire	have child	become inebriate
+CausesDesire	advertisement	see your favorite show
+CausesDesire	curiousity	find truth
+CausesDesire	break news story	listen to radio
+CausesDesire	bad news	jump out of window
+CausesDesire	nostalgia	see old thing
+CausesDesire	like other person involve	reach tentative agreement
+CausesDesire	mum	walk around lake
+CausesDesire	lump or lump especially asymmetric lump	have checkup
+CausesDesire	advertisement	go to film
+CausesDesire	pride	act in play
+CausesDesire	see others play	play frisbee
+CausesDesire	lonliness and sadness	socialize
+CausesDesire	advertisement	eat
+CausesDesire	error	post message
+CausesDesire	faith	kill someone
+CausesDesire	miss friend or love one	listen to music
+CausesDesire	nothing	take final
+CausesDesire	get part in play	memorize
+CausesDesire	have religious epiphany	build cathedral
+CausesDesire	see someone else who be sick	stay healthy
+CausesDesire	prejudice	punch someone
+CausesDesire	watch ocean wave	surf
+CausesDesire	birthday	celebrate
+CausesDesire	be bore	take in film
+CausesDesire	feel depress	hit bottle
+CausesDesire	be epileptic	have epileptic fit
+CausesDesire	cliff	climb
+CausesDesire	long period of work and tiredness	take break
+CausesDesire	hot sunny day	swim
+CausesDesire	good job ethos	serve customer
+CausesDesire	correct information	agree with someone
+CausesDesire	non-acceptance of cash for payment	pay by check
+CausesDesire	memorable time	remember
+CausesDesire	love of song	play guitar
+CausesDesire	empty cup in your hand	set cup on table
+CausesDesire	warm temperature	walk in rain
+CausesDesire	death of friend	pray
+CausesDesire	tiredness	sleep
+CausesDesire	dirty clothe or beautiful girl	go to laundromat
+CausesDesire	desire to learn new language	study
+CausesDesire	plan	be involve in accident
+CausesDesire	need supply	run errand
+CausesDesire	personal interest	entertain someone
+CausesDesire	see action	judge someone
+CausesDesire	smelly and wear clothe	wash your clothe
+CausesDesire	love of life	make good world
+CausesDesire	query for assistance	fix computer
+CausesDesire	idea and thought	record somethign
+CausesDesire	friend who run marathon	run marathon
+CausesDesire	flatuence	fart
+CausesDesire	superior attribute	test car
+CausesDesire	goal	write program
+CausesDesire	object obsructing road	stop your car
+CausesDesire	curiousity	add up column of number
+CausesDesire	hunger	taste something sweet
+CausesDesire	be naked	wash dirt from between your toe
+CausesDesire	change in body condition	have physical exam
+CausesDesire	sex	wait for someone
+CausesDesire	attack	fence
+CausesDesire	assist friend	answer question
+CausesDesire	attend bar	buy beer
+CausesDesire	do job	get some money from someone
+CausesDesire	stimulate conversation	talk
+CausesDesire	cat stick in tree	climb
+CausesDesire	cloud of smoke	test car
+CausesDesire	be witness in trial	take stand
+CausesDesire	be catch in rain	start fire
+CausesDesire	need credit	pass class
+CausesDesire	be unemployed	apply for job
+CausesDesire	feel love for your family	christmas shop
+CausesDesire	frustration	take break
+CausesDesire	cat be dead	bury cat
+CausesDesire	be parent	make sure you healthy
+CausesDesire	please my mother	pass course
+CausesDesire	hear about tragedy	meet friend
+CausesDesire	go to church	change your appearance
+CausesDesire	high blood pressure	lose weight
+CausesDesire	rainy day	go to movie
+CausesDesire	have plant in your house	water plant
+CausesDesire	need to get to place	drive
+CausesDesire	stupidity	teach other person
+CausesDesire	love	cook meal
+CausesDesire	expect copany	clean house
+CausesDesire	desire to get good job	pass class
+CausesDesire	feel suicidal	jump out of window
+CausesDesire	hear band on radio	attend rock concert
+CausesDesire	apology	forgive someone
+CausesDesire	interest in subject	study
+CausesDesire	important event	read news
+CausesDesire	balance checkbook	add up column of number
+CausesDesire	ocean	surf
+CausesDesire	have telephone nearby	talk with someone far away
+CausesDesire	too much energy	play football
+CausesDesire	repetitive task	write program
+CausesDesire	need someone	wait for someone
+CausesDesire	wild horse	run
+CausesDesire	drink beer	empty your bladder
+CausesDesire	huge ego	entertain person
+CausesDesire	cry for help	give assistance
+CausesDesire	bach music	attend classical concert
+CausesDesire	exausting your food supply	go to store
+CausesDesire	not fail your class	take midterm
+CausesDesire	get good grade	study for subject
+CausesDesire	greed	make friend
+CausesDesire	excitement	go somewhere
+CausesDesire	promotion promise	take course
+CausesDesire	wine	become inebriate
+CausesDesire	dirt in your hair	have shower
+CausesDesire	love	reproduce
+CausesDesire	sadness	take phone call
+CausesDesire	live long	make good world
+CausesDesire	itemize bill	add up number
+CausesDesire	self defense	kill
+CausesDesire	crave for chocolate	taste something sweet
+CausesDesire	utter despair	commit suicide
+CausesDesire	own woodstove	chop firewood
+CausesDesire	sore behind	stand up
+CausesDesire	growl stomach	have food
+CausesDesire	wear plaid shirt and workboots	chop firewood
+CausesDesire	passion for ticket	work box office
+CausesDesire	be torture mercilessly	have heart attack
+CausesDesire	have birthday	open gift
+CausesDesire	be in love	propose to woman
+CausesDesire	death wish	advance into battle
+CausesDesire	approach hailstorm	move car
+CausesDesire	find cockroach in kitchen	do housework
+CausesDesire	cruel remark	punch someone
+CausesDesire	try on bathe suit	stay fit
+CausesDesire	watch tour de france	ride bike
+CausesDesire	low mortgage rate	buy house
+CausesDesire	reaction of others	laugh at joke
+CausesDesire	woman next door get change	look through telescope
+CausesDesire	fear of punishment	go to work
+CausesDesire	love	entertain someone
+CausesDesire	fresh snow and low price	ski
+CausesDesire	become dirty	become more clean
+CausesDesire	money problem	please your parent
+CausesDesire	i trip to india	cook curry
+CausesDesire	beautiful girl	maintain good health
+CausesDesire	ozzy osbourne	hear crowd go mad
+CausesDesire	big problem	die
+CausesDesire	go to europe	see art
+CausesDesire	go to beach	surf
+CausesDesire	sexy tenniswomen	play tennis
+CausesDesire	restore old house	paint
+CausesDesire	money	create art
+CausesDesire	own computer	chat with friend
+CausesDesire	avoid social contact	catch mumps
+CausesDesire	get sweaty	get clean
+CausesDesire	strict teacher	sit quietly
+CausesDesire	fatigue	satisfy appetite with minimum effort
+CausesDesire	nice weather	drive your car
+CausesDesire	cruelty	make good world
+CausesDesire	good movie	wait in line
+CausesDesire	be in happy mood	laugh at joke
+CausesDesire	desire for education	go to school
+CausesDesire	witness crime	take stand
+CausesDesire	pain	have physical exam
+CausesDesire	read	think
+CausesDesire	devil	lie
+CausesDesire	tear in your shirt	sew
+CausesDesire	enjoy particular type of music	see band
+CausesDesire	become fat-ass	get some physical activity
+CausesDesire	peer pressure	lie
+CausesDesire	self-motivation	do housework
+CausesDesire	strong belief in something	bring in verdict
+CausesDesire	short lunch break	eat quickly
+CausesDesire	live with your mom	keep thing orderly and tidy
+CausesDesire	self-motivation	conquer your opponent
+CausesDesire	pleasuarable experience	remember something
+CausesDesire	need to solve difficult math problem	use calculator
+CausesDesire	stress	clean house
+CausesDesire	stupidity	take final exam
+CausesDesire	romance	cook dinner
+CausesDesire	global thermonuclear war	take bus
+CausesDesire	global thermonuclear war	get onto web
+CausesDesire	global thermonuclear war	go to market
+CausesDesire	thermonuclear war	watch film
+CausesDesire	global thermonuclear war	have haircut
+CausesDesire	thermonuclear war	exercise
+CausesDesire	global thermonuclear war	tie your shoelace
+CausesDesire	thermonuclear war	go fish
+CausesDesire	need to graduate	take final
+CausesDesire	be tire	sleep
+CausesDesire	be cold	get warm
+CausesDesire	birthday	bake cake
+CausesDesire	be hungry	eat dinner
+CausesDesire	sleep	snore
+CausesDesire	ignorance	find information
+CausesDesire	hate	destroy your enemy
+CausesDesire	thirst	drink
+CausesDesire	love	fee your family
+CausesDesire	be in hurry	eat quickly
+CausesDesire	laziness	eat breakfast in bed
+CausesDesire	strong wind	fly kite
+CausesDesire	be thirsty	drink
+CausesDesire	be bore	watch tv
+CausesDesire	birthday	buy something for love one
+CausesDesire	alcohol	sleep at night
+CausesDesire	hunger	have lunch
+CausesDesire	victory	celebrate
+CausesDesire	be dirty	take bath
+CausesDesire	creativity	express yourself
+CausesDesire	anger	hurt someone else
+CausesDesire	need hard copy	print on printer
+CausesDesire	friend	socialize
+CausesDesire	desire to pass course	get good grade
+CausesDesire	hunger	cook dinner
+CausesDesire	food	eat
+CausesDesire	rain	repair umbrella
+CausesDesire	need for money	apply for job
+CausesDesire	invitation	go to party
+CausesDesire	curiousity	learn about world
+CausesDesire	be hungry	make bread
+CausesDesire	need	buy something
+CausesDesire	need for information	go on internet
+CausesDesire	sleepiness	go to bed
+CausesDesire	be polite	wait your turn
+CausesDesire	curiosity	examine thing
+CausesDesire	be hungry	go to restaurant
+CausesDesire	be hungry	eat in restaurant
+CausesDesire	have child	make good world
+CausesDesire	upcoming exam	memorize
+CausesDesire	be bore	use television
+CausesDesire	special exhibit	visit art gallery
+CausesDesire	boredom	surf net
+CausesDesire	want to get on internet	use computer
+CausesDesire	competitive nature	play sport
+CausesDesire	lonliness	make friend
+CausesDesire	impatience	leave line
+CausesDesire	boredom	see excite story
+CausesDesire	hunger	buy food
+CausesDesire	boredom	play card
+CausesDesire	inspiration	write story
+CausesDesire	book	learn
+CausesDesire	curiosity	read book
+CausesDesire	good news	send e-mail
+CausesDesire	anger	punch someone
+CausesDesire	finish your drink	set cup on table
+CausesDesire	hunger	fee your family
+CausesDesire	pain	lose consciousness
+CausesDesire	play game	conquer your opponent
+CausesDesire	boredom	play game with your friend
+CausesDesire	boredom	watch tv
+CausesDesire	laziness	satisfy appetite with minimum effort
+CausesDesire	break umbrella	repair umbrella
+CausesDesire	be tire	go to sleep
+CausesDesire	dirty clothe	wash clothe
+CausesDesire	be hungry	eat hamburger
+CausesDesire	need money	work
+CausesDesire	be depress	hit bottle
+CausesDesire	be lonely	meet friend
+CausesDesire	be cold	chop firewood
+CausesDesire	love	sing
+CausesDesire	need computer program	program
+CausesDesire	be hungry	have lunch
+CausesDesire	curiosity	read letter
+CausesDesire	ideal	change society
+CausesDesire	hunger	open bag of chip
+CausesDesire	have too long hair	cut your hair
+CausesDesire	loneliness	socialize
+CausesDesire	be judge	hear testimony
+CausesDesire	compassion	create something to help other person
+CausesDesire	inspiration	create art
+CausesDesire	need money	wait on table
+CausesDesire	red light	stop your car
+CausesDesire	own stock	know how stock market perform
+CausesDesire	patriotism	join army
+CausesDesire	murder	conduct trial
+CausesDesire	sweat	have shower
+CausesDesire	boredom	watch film
+CausesDesire	loneliness	meet friend
+CausesDesire	be on jury	bring in verdict
+CausesDesire	be bore	surf web
+CausesDesire	boredom	watch tv show
+CausesDesire	boredom	surf web
+CausesDesire	desire to share knowledge	teach other person
+CausesDesire	be out of shape	get exercise
+CausesDesire	obesity	exercise
+CausesDesire	play baseball	score home run
+CausesDesire	need exercise	jog
+CausesDesire	advertise	buy product
+CausesDesire	trip	tie your shoelace
+CausesDesire	be hungry	have food
+CausesDesire	love	give gift
+CausesDesire	game	compete
+CausesDesire	joy	sing
+CausesDesire	fatigue	have rest
+CausesDesire	be at party	drink alcohol
+CausesDesire	have lot of drink	urinate
+CausesDesire	dirt	clean your clothe
+CausesDesire	work	have rest
+CausesDesire	cold weather	start fire
+CausesDesire	be curious about something	go on internet
+CausesDesire	exercise	rest
+CausesDesire	be cold	start fire
+CausesDesire	have dirty house	do housework
+CausesDesire	be tire	go to bed
+CausesDesire	boredom	play chess
+CausesDesire	birthday	buy present for others
+CausesDesire	dirtiness	clean
+CausesDesire	hunger	eat hamburger
+CausesDesire	music	play piano
+CausesDesire	be bore	play
+CausesDesire	spell test	memorize
+CausesDesire	crime	pass sentence
+CausesDesire	inspiration	create idea
+CausesDesire	need for exercise	play tennis
+CausesDesire	lack of money	get job
+CausesDesire	love of music	attend classical concert
+CausesDesire	be bore	go to play
+CausesDesire	stink	have shower
+CausesDesire	lonliness	talk to someone
+CausesDesire	boredom	watch television show
+CausesDesire	ambition	be in charge of project
+CausesDesire	ambition	reach advantage
+CausesDesire	be lonely	have friend over
+CausesDesire	free ticket	attend rock concert
+CausesDesire	pain	have checkup
+CausesDesire	have compassion	forgive someone
+CausesDesire	depression	stay in bed
+CausesDesire	fame	act in play
+CausesDesire	high price	fight inflation
+CausesDesire	curiosity	become scuba diver
+CausesDesire	curiosity	look through telescope
+CausesDesire	love of music	watch musician perform
+CausesDesire	hunger	go to store
+CausesDesire	large wave	surf
+CausesDesire	weed	weed garden
+CausesDesire	hunger	eat breakfast
+CausesDesire	greed	lie
+CausesDesire	hunger	begin work
+CausesDesire	insanity	wage war
+CausesDesire	travel	learn about world
+CausesDesire	hunger	fish
+CausesDesire	stress	drink alcohol
+CausesDesire	birthday	give gift
+CausesDesire	christmas	buy present
+CausesDesire	boredom	see something new
+CausesDesire	challenge	test your strength
+CausesDesire	be bore	play game
+CausesDesire	hot weather	eat ice cream
+CausesDesire	hot bath	relax
+CausesDesire	train strike	drive to work
+CausesDesire	windy day	fly kite
+CausesDesire	curiosity	find information
+CausesDesire	mystery	determine truth
+CausesDesire	want to be your own boss	open business
+CausesDesire	severe pain	die
+CausesDesire	pain	have examination
+CausesDesire	your sexuality	flirt
+CausesDesire	need for money	earn live
+CausesDesire	desire to learn	visit museum
+CausesDesire	be judge	judge someone
+CausesDesire	hunger	cook meal
+CausesDesire	hunger	buy fresh fruit and vegetable
+CausesDesire	hunger	cook curry
+CausesDesire	anger	kill person
+CausesDesire	desire to travel	visit other country
+CausesDesire	be dirty	get clean
+CausesDesire	pain	have physical examination
+CausesDesire	need grocery	make shop list
+CausesDesire	garden	wash your hand
+CausesDesire	curiousity	learn about subject
+CausesDesire	see someone hurt	give assistance
+CausesDesire	need something	buy product
+CausesDesire	know election be come	prepare for vote
+CausesDesire	want to learn	attend class
+CausesDesire	hunger	have food
+CausesDesire	fear	run
+CausesDesire	addiction	smoke
+CausesDesire	be hungry	cook
+CausesDesire	loneliness	make person laugh
+CausesDesire	see that road be block	stop your car
+CausesDesire	problem	cogitate
+CausesDesire	interest	see particular program
+CausesDesire	be overweight	get fit
+CausesDesire	threat of war	reach tentative agreement
+CausesDesire	good news	tell many person about something
+CausesDesire	company come	do housework
+CausesDesire	compassion	forgive someone
+CausesDesire	be poor	get some money from someone
+CausesDesire	appreciation for opera	go to opera
+CausesDesire	rip clothe	sew
+CausesDesire	thirst for knowledge	find information
+CausesDesire	want child	copulate
+CausesDesire	spousal abuse	get divorce
+CausesDesire	need to go somewhere	drive car
+CausesDesire	funny joke	howl with laughter
+CausesDesire	favor	thank someone
+CausesDesire	be bore	play chess
+CausesDesire	be hungry	fish
+CausesDesire	be extrovert	entertain person
+CausesDesire	feel adventerous	scuba dive
+CausesDesire	be bore	play game with your friend
+CausesDesire	competitiveness	play game of chess
+CausesDesire	lonelyness	take phone call
+CausesDesire	family	live
+CausesDesire	my mother	clean your room
+CausesDesire	be hungry	bring home some fish
+CausesDesire	sadness	get drunk
+CausesDesire	need to give information	talk
+CausesDesire	loneliness	meet person
+CausesDesire	recreational desire	play game with your friend
+CausesDesire	fear of failure	take exam
+CausesDesire	have flea	scratch
+CausesDesire	boredom	be with friend
+CausesDesire	hungry	have food
+CausesDesire	be dirty	clean your clothe
+CausesDesire	hair in your eye	go to get haircut
+CausesDesire	be jury	decide criminal fate
+CausesDesire	need money	sell your new book
+CausesDesire	desire to learn more thing	attend school
+CausesDesire	exhaustion	sleep
+CausesDesire	be hungry	cook dinner
+CausesDesire	be ugly	change your appearance
+CausesDesire	horniness	procreate
+CausesDesire	have dirty hand	wash your hand
+CausesDesire	need	write program
+CausesDesire	love	procreate
+CausesDesire	be human	help someone
+CausesDesire	alcohol	sleep
+CausesDesire	be tire	rest
+CausesDesire	money	buy christmas present
+CausesDesire	curiousity	find information
+CausesDesire	semen	wash your clothe
+CausesDesire	stress	have nervous breakdown
+CausesDesire	need hardcopy	print on printer
+CausesDesire	have sore foot	sit on chair
+CausesDesire	bad smell	clean clothe
+CausesDesire	be hungry	eat in fast food restaurant
+CausesDesire	loneliness	talk to someone
+CausesDesire	feel cold	start flame or fire
+CausesDesire	be lonely	meet person
+CausesDesire	love someone	give gift
+CausesDesire	have fun	skateboard
+CausesDesire	discrimination	change society
+CausesDesire	be tire	sit on chair
+CausesDesire	nothing	go for jog
+CausesDesire	be bore	watch tv show
+CausesDesire	be hungry	open bag of chip
+CausesDesire	assignment	write term paper
+CausesDesire	not have any cash	pay by check
+CausesDesire	enjoyment	ride horse
+CausesDesire	fire	jump out of window
+CausesDesire	be good	compete
+CausesDesire	war	change society
+CausesDesire	my dog	play frisbee
+CausesDesire	pride	compete against someone
+CausesDesire	bad smell	wash clothe
+CausesDesire	be curious	read newspaper
+CausesDesire	confusion	contemplate
+CausesDesire	be in hurry	eat in fast food restaurant
+CausesDesire	wonder	find information
+CausesDesire	movie	stand in queue
+CausesDesire	need clean clothe	go to laundromat
+CausesDesire	work	rest
+CausesDesire	love	please your parent
+CausesDesire	love	forgive someone
+CausesDesire	love	live life
+CausesDesire	thirst for knowledge	attend class
+CausesDesire	dirt	clean clothe
+CausesDesire	be bore	surf net
+CausesDesire	want to win contest	compete against someone
+CausesDesire	watch football	play football
+CausesDesire	boredom	see person play game
+CausesDesire	sex	have shower
+CausesDesire	unhappiness	commit suicide
+CausesDesire	long hair	have haircut
+CausesDesire	big wave	surf
+CausesDesire	be sick	eat breakfast in bed
+CausesDesire	commercial	christmas shop
+CausesDesire	birthday	have party
+CausesDesire	your mother	make sure you healthy
+CausesDesire	smelly foot	wash dirt from between your toe
+CausesDesire	be lonely	socialize
+CausesDesire	insanity	kill
+CausesDesire	need to relax	listen to music
+CausesDesire	need for hardcopy	print on printer
+CausesDesire	desire to learn	attend school
+CausesDesire	be cold	light fire
+CausesDesire	be curious	open gift
+CausesDesire	be hot	swim
+CausesDesire	party	drink alcohol
+CausesDesire	like classical music	attend classical concert
+CausesDesire	be restless	take walk
+CausesDesire	be horny	copulate
+CausesDesire	pornography	surf net
+CausesDesire	think like entrepeneur	open business
+CausesDesire	boredom	learn something new
+CausesDesire	advertisement	watch film
+CausesDesire	be hungry	cook meal
+CausesDesire	work all day	sleep at night
+CausesDesire	your mother	clean your room
+CausesDesire	look picture of well-prepared food	diminish your own hunger
+CausesDesire	anger	kill someone
+CausesDesire	get dirty	bathe
+CausesDesire	coach	play football
+CausesDesire	have your hair in your eye	go to get haircut
+CausesDesire	friend	talk
+CausesDesire	nausea	vomit
+CausesDesire	porn	fuck
+CausesDesire	have something	use it
+CausesDesire	curiosity	learn
+CausesDesire	erection	ejaculate
+CausesDesire	erection	masturbate
+CausesDesire	feel sick	go to doctor
+CausesDesire	lust	have sex
+CausesDesire	boredom	have fun
+CausesDesire	alcohol	dance
+CausesDesire	silence	listen to radio
+CausesDesire	make expensive mistake	learn about subject
+CausesDesire	desire for social interaction	chat with friend
+CausesDesire	desire to be marry	propose to woman
+CausesDesire	praise	kiss someone
+CausesDesire	fun	travel
+CausesDesire	ecstasy	socialize
+CausesDesire	great music	dance
+CausesDesire	rage	kill someone
+CausesDesire	have fun	live life
+CausesDesire	competition	run after ball
+CausesDesire	concern for health	check vital sign
+CausesDesire	interest in paint	visit art gallery
+CausesDesire	taste something bad	spit
+CausesDesire	watch ice capades	skate
+CausesDesire	curiosity	go to restaurant
+CausesDesire	shop	spend money
+CausesDesire	interest in subject	watch tv show
+CausesDesire	security	start family
+CausesDesire	pay bill	get some money from someone
+CausesDesire	vacation	have fun
+CausesDesire	be tire	snore
+CausesDesire	wind	fly kite
+CausesDesire	work	gather energy for tomorrow
+CausesDesire	be in play	memorize
+CausesDesire	love for another person	kiss
+CausesDesire	boredom	go to sport event
+CausesDesire	hot day	cool off
+CausesDesire	thirst for knowledge	go to school
+CausesDesire	wrap paper	open gift
+CausesDesire	music	have fun
+CausesDesire	filth	soak in hotspring
+CausesDesire	loss	comfort friend
+CausesDesire	need to communicate	mail letter
+CausesDesire	arrive at my destination	stop your car
+CausesDesire	flab	get in shape
+CausesDesire	boredom	surf
+CausesDesire	trial	hear testimony
+CausesDesire	smell bad	bathe
+CausesDesire	your favorite actor	go to movie
+CausesDesire	hard labor	have rest
+CausesDesire	fatigue	sleep
+CausesDesire	need grocery	go to market
+CausesDesire	have someone to play with	play chess
+CausesDesire	ambition	begin work
+CausesDesire	advertise	go see play
+CausesDesire	your family be hungry	cook dinner
+CausesDesire	hard day at work	buy beer
+CausesDesire	prepare for event	gather energy for tomorrow
+CausesDesire	run for president	improve your image
+CausesDesire	work out	sleep at night
+CausesDesire	drink too much	empty your bladder
+CausesDesire	listen to your answer machine	make phone call
+CausesDesire	rape	send criminal to prison
+CausesDesire	math	compute sum
+CausesDesire	hatred	wage war
+CausesDesire	freinds	debate politics
+CausesDesire	love	take oath
+CausesDesire	boredom	read newspaper
+CausesDesire	have picture to hang	drill hole
+CausesDesire	scandal	go public
+CausesDesire	want to get it on	maintain muscle strength
+CausesDesire	go out for dinner	tape television show
+CausesDesire	alcohol	socialize
+CausesDesire	rent dvd	view film at home
+CausesDesire	curiosity	read
+CausesDesire	science	examine thing
+CausesDesire	have natural sense of humor	entertain person
+CausesDesire	dirt	have bath
+CausesDesire	love	paint
+CausesDesire	wikipedia	go on internet
+CausesDesire	be hungry	bake cake
+CausesDesire	creativity	create art
+CausesDesire	like movie	work box office
+CausesDesire	hate	fight enemy
+CausesDesire	want to protect your interest	commit perjury
+CausesDesire	loneliness	chat with friend
+CausesDesire	orgasm	relax
+CausesDesire	need food	go to market
+CausesDesire	heat	go for swim
+CausesDesire	be nervous	fiddle
+CausesDesire	hard work	rest
+CausesDesire	have date	meet friend
+CausesDesire	have complaint	write letter
+CausesDesire	algebra	use calculator
+CausesDesire	hard work	get pay
+CausesDesire	war	fight enemy
+CausesDesire	study	get good grade
+CausesDesire	bedtime	read to your child
+CausesDesire	wind blow	fly kite
+CausesDesire	funny movie	howl with laughter
+CausesDesire	trial	impanel jury
+CausesDesire	be artistic	create art
+CausesDesire	want exercise	play sport
+CausesDesire	poverty	get some money from someone
+CausesDesire	low rate	buy house
+CausesDesire	heavy meal	go for walk
+CausesDesire	problem	create idea
+CausesDesire	if cat be dead	bury cat
+CausesDesire	love	get something
+CausesDesire	heat	swim
+CausesDesire	hot day	eat ice cream
+CausesDesire	exhaustion	have rest
+CausesDesire	exhaustion	go to sleep
+CausesDesire	need to communicate	send e-mail
+CausesDesire	noon whistle	have lunch
+CausesDesire	care about your love one	fee your family
+CausesDesire	beautiful day	ride bike
+CausesDesire	need new clothe	go to mall
+CausesDesire	be hungry	eat apple
+CausesDesire	animal	go to zoo
+CausesDesire	dirt	wash your clothe
+CausesDesire	loneliness	make friend
+CausesDesire	need for money	return to work
+CausesDesire	love	live
+CausesDesire	need to make money	sell your new book
+CausesDesire	like television show	tape television show
+CausesDesire	be competitive	play sport
+CausesDesire	be bad	obstruct justice
+CausesDesire	sore leg	sit down
+CausesDesire	challenge	compete
+CausesDesire	curiousity	see artifact
+CausesDesire	buy house	sign contract
+CausesDesire	mess	clean house
+CausesDesire	false charge	find information
+CausesDesire	have family	buy house
+CausesDesire	cartoon	watch television
+CausesDesire	insanity	run in marathon
+CausesDesire	date	go to film
+CausesDesire	interest	have conversation
+CausesDesire	interest	watch film
+CausesDesire	dance	hear music
+CausesDesire	dog	take walk
+CausesDesire	dog	jog
+CausesDesire	be dog	run after ball
+CausesDesire	need	buy something for love one
+CausesDesire	pride	paint house
+CausesDesire	need grape	go to market
+CausesDesire	blubber	get exercise
+CausesDesire	friend	clean your room
+CausesDesire	reality	pretend
+CausesDesire	feel	hear music
+CausesDesire	travel	fly in airplane
+CausesDesire	sweat	get clean
+CausesDesire	smell dog poop	stop stand in it
+CausesDesire	alcoholism	hit bottle
+CausesDesire	win	compete
+CausesDesire	creativity	create idea
+CausesDesire	your partner infidelity	get divorce
+CausesDesire	be right	agree with someone
+CausesDesire	need information	communicate
+CausesDesire	like music	attend rock concert
+CausesDesire	honesty	take stand
+CausesDesire	your coach	play football
+CausesDesire	be at concert	hear sing
+CausesDesire	be with friend	talk
+CausesDesire	lunch break	sate your hunger
+CausesDesire	get tire	have rest
+CausesDesire	curiousity	see exhibit
+CausesDesire	boot	hike
+CausesDesire	be with child	play game
+CausesDesire	have problem	communicate
+CausesDesire	faith	pray
+CausesDesire	want to pass class	take final exam
+CausesDesire	death of spouse	hit bottle
+CausesDesire	bad tv	listen to radio
+CausesDesire	overwork	go on strike
+CausesDesire	free time	see your favorite show
+CausesDesire	overpopulation	gain more land
+CausesDesire	end of semester	take final exam
+CausesDesire	beautiful mind	learn about science
+CausesDesire	thirst for knowledge	attend lecture
+CausesDesire	insanity	kill person
+CausesDesire	love	kiss
+CausesDesire	watch baseball game	play baseball
+CausesDesire	need for entertainment	see excite story
+CausesDesire	be bore	make patchwork quilt
+CausesDesire	very long hair	have haircut
+CausesDesire	appointment	eat quickly
+CausesDesire	someone sad	comfort friend
+CausesDesire	get your clothe dirty	wash your clothe
+CausesDesire	listen to music	see band
+CausesDesire	be male	procreate
+CausesDesire	crave	eat cookie
+CausesDesire	lack of time	leave line
+CausesDesire	stress	breathe some fresh air
+CausesDesire	messy house	do housework
+CausesDesire	self-confidence	compete against someone
+CausesDesire	problem	find information
+CausesDesire	anger	kill
+CausesDesire	do work	get pay
+CausesDesire	be tall	play basketball
+CausesDesire	challenge	do crossword puzzle
+CausesDesire	love	lie
+CausesDesire	money	fix computer
+CausesDesire	terrorism	fight war
+CausesDesire	bus strike	drive to work
+CausesDesire	idealism	create something to help other person
+CausesDesire	loneliness	have party
+CausesDesire	warm glass of milk	sleep
+CausesDesire	secret organization	take oath
+CausesDesire	prepare for test	memorize
+CausesDesire	have new experience	go somewhere
+CausesDesire	chance to hear marvin minsky	attend lecture
+CausesDesire	lock in good price	sign contract
+CausesDesire	win win opportunity	sign contract
+CausesDesire	gather of old friend	celebrate
+CausesDesire	dusty trip	take bath
+CausesDesire	sight of pregnant friend	hear news
+CausesDesire	see ring on finger	hear news
+CausesDesire	follow pattern of parent	start family
+CausesDesire	fear of miss out	start family
+CausesDesire	long bike ride	take bath
+CausesDesire	day without bath	take bath
+CausesDesire	discover falsify experimental result	find truth
+CausesDesire	few day of plumb problem	take bath
+CausesDesire	be single man	propose to woman
+CausesDesire	sufficient profit	sign contract
+CausesDesire	get stable supplier	sign contract
+CausesDesire	pair of dance ticket	socialize
+CausesDesire	have class over	take final exam
+CausesDesire	puberty	meet girl
+CausesDesire	want something	get something
+CausesDesire	own boat	fish
+CausesDesire	question	find information
+CausesDesire	block another car	move car
+CausesDesire	lose it	find lose item
+CausesDesire	alcohol	become inebriate
+CausesDesire	lunchtime	have food
+CausesDesire	red traffic light	stop your car
+CausesDesire	bore	play card
+CausesDesire	good teacher	learn about world
+CausesDesire	drive in your car	listen to radio
+CausesDesire	appreciation	thank someone
+CausesDesire	need for grocery	go to market
+CausesDesire	need to go somewhere	go for drive
+CausesDesire	need for exercise	run
+CausesDesire	act	pretend
+CausesDesire	be tire	sit down
+CausesDesire	exhaustion	sit down
+CausesDesire	checkout line	wait your turn
+CausesDesire	feel ill	have physical examination
+CausesDesire	conflict data	analyse something
+CausesDesire	download online game	play game with your friend
+CausesDesire	want good grade	take final exam
+CausesDesire	want to pass class	take final
+CausesDesire	love	hear sing
+CausesDesire	want to exercise	play sport
+CausesDesire	research something	go on internet
+CausesDesire	want to socialize	have friend over
+CausesDesire	if friend be sad	comfort friend
+CausesDesire	be fat	lose weight
+CausesDesire	need to buy clothe	go to mall
+CausesDesire	gift	thank someone
+CausesDesire	be competitive	run marathon
+CausesDesire	insanity	advance into battle
+CausesDesire	all-consuming hatred sometimes	kill someone
+CausesDesire	be child	play game
+CausesDesire	be good child	please your parent
+CausesDesire	friend	play poker
+CausesDesire	love	buy something for love one
+CausesDesire	funny joke	laugh at joke
+CausesDesire	like horse	ride horse
+CausesDesire	acquire stuff	shop
+CausesDesire	artistic talent	paint picture
+CausesDesire	good intention	buy present for others
+CausesDesire	interest	attend meet
+CausesDesire	eye contact	talk to woman
+CausesDesire	urge	be compulsive
+CausesDesire	anarchism	rebel
+CausesDesire	equality for everyone	celebrate
+CausesDesire	have penis	use it
+CausesDesire	hatred	celebrate when specific group be dead
+CausesDesire	faux pa	correct person do it
+CausesDesire	hot summer day	jump into river
+CausesDesire	very long hair	make braid
+CausesDesire	cold	turn up heat
+CausesDesire	girl	kiss them
+CausesDesire	salt	drink water
+CausesDesire	greed	steal
+CausesDesire	greed	extort
+CausesDesire	humor	laugh
+CausesDesire	embarrassment	blush
+CausesDesire	rejection	cry
+CausesDesire	depression	drink
+CausesDesire	porn	masturbate
+CausesDesire	idea	invent
+CausesDesire	be drunk	eat sandwich
+CausesDesire	stigma	disrespect
+CausesDesire	boredom	have friend over
+CausesDesire	yarn	knit
+CausesDesire	you be bore	beat off
+CausesDesire	something beautiful	paint picture
+CausesDesire	cupcake	eat it
+CausesDesire	complex situation	plan
+CausesDesire	bed	rest
+CausesDesire	government	improve society
+CausesDesire	exhaustion	rest
+CausesDesire	tire	sleep
+CausesDesire	love of music	play violin
+CausesDesire	have someone love you	make person laugh
+CausesDesire	accuse somebody of crime	conduct trial
+CausesDesire	sex	eat breakfast
+CausesDesire	nothing	bungee jump from high bridge
+CausesDesire	common sense	wash clothe
+CausesDesire	be alcoholic	attend meet
+CausesDesire	like game	play tennis
+CausesDesire	date	go to movie
+CausesDesire	nothing	go to opera
+CausesDesire	desire for closure	see your favorite show
+CausesDesire	compulsion	ritualise
+CausesDesire	poverty	get job
+CausesDesire	boredom	sex
+CausesDesire	fun	have sex
+CausesDesire	anger	die
+CausesDesire	hunger	sate hunger
+CausesDesire	boredom	read
+CausesDesire	boredom	procreate
+CausesDesire	belief	kiss someone
+CausesDesire	boredom	masturbate
+CausesDesire	talk	comfort friend
+CausesDesire	oba	have party
+CausesDesire	fun	express how funny something be
+CausesDesire	chronic heartburn	have physical examination
+CausesDesire	interest advertisment	find information
+CausesDesire	smell bad	become more clean
+CausesDesire	be last person on earth	commit suicide
+CausesDesire	high produce price	grow vegetable
+CausesDesire	baffle case	conduct trial
+CausesDesire	new boyfriend	get in shape
+CausesDesire	free plane ticket	travel
+CausesDesire	big monster	run
+CausesDesire	become good at it	play game of chess
+CausesDesire	big hairy monster	run
+CausesDesire	trailer	see particular program
+CausesDesire	hear review	go to play
+CausesDesire	beautiful music	relax
+CausesDesire	get something i want	sign contract
+CausesDesire	recover from illness	have rest
+CausesDesire	want to get home	cross street
+CausesDesire	really bad management	go on strike
+CausesDesire	not have to go very far	hike
+CausesDesire	feel leave out	make friend
+CausesDesire	play game	pretend
+CausesDesire	want to become doctor	learn about science
+CausesDesire	hear really stupid person	debate politics
+CausesDesire	short lunch hour	eat in fast food restaurant
+CausesDesire	lust	procreate
+CausesDesire	curiosity	hear testimony
+CausesDesire	special on ai	watch television
+CausesDesire	be seek for by fbi	change your appearance
+CausesDesire	opportunity	surprise someone
+CausesDesire	gun to my head	express information
+CausesDesire	smell like dog	have shower
+CausesDesire	argument	walk
+CausesDesire	impend danger	move car
+CausesDesire	find your cat dead	bury cat
+CausesDesire	experience benefit of something	buy something
+CausesDesire	place bet	win baseball game
+CausesDesire	trace your family history	visit other country
+CausesDesire	good story	pretend
+CausesDesire	your biological timeclock	start family
+CausesDesire	great benefit package	apply for job
+CausesDesire	interest in game	see person play game
+CausesDesire	sale	buy product
+CausesDesire	win prize	mail letter
+CausesDesire	really smelly fart	light match
+CausesDesire	bubble bath	bathe
+CausesDesire	talent	design software
+CausesDesire	bug in your mouth	spit
+CausesDesire	have some dip	open bag of chip
+CausesDesire	be able to sit down	do some exercise
+CausesDesire	curiosity	program computer
+CausesDesire	illness	pass class
+CausesDesire	traffic	stop your bicycle
+CausesDesire	feel good	get fit
+CausesDesire	coldness	light fire
+CausesDesire	smell	wash your clothe
+CausesDesire	birthday	mail letter
+CausesDesire	tiffany	eat breakfast in bed
+CausesDesire	tiredness	lose consciousness
+CausesDesire	prospect of good job	get good grade
+CausesDesire	dust	clean house
+CausesDesire	hold stock	know how stock market perform
+CausesDesire	cafe at top mountain	climb
+CausesDesire	frustration with malfunction	fix computer
+CausesDesire	media hype about holiday season	buy present
+CausesDesire	insanity or adventurous spirit	climb mountain
+CausesDesire	solitude	go somewhere
+CausesDesire	softness	watch tv
+CausesDesire	get spray by skunk	have shower
+CausesDesire	go to bar	drink alcohol
+CausesDesire	be dead	play harp
+CausesDesire	intrigue unsolved mystery	answer question
+CausesDesire	what	read book
+CausesDesire	stress	hang out at bar
+CausesDesire	insult	fence
+CausesDesire	approbation	judge someone
+CausesDesire	baby	tickle
+CausesDesire	win	celebrate
+CausesDesire	ignorance	judge someone
+CausesDesire	lose loved-one	get drunk
+CausesDesire	stress	dream
+CausesDesire	other person	improve your image
+CausesDesire	perfectionism	follow recipe
+CausesDesire	affection	buy something for love one
+CausesDesire	stupidity	flirt
+CausesDesire	faraway friend	fly in airplane
+CausesDesire	hunger	make shop list
+CausesDesire	boredom	read letter
+CausesDesire	good actor	go to film
+CausesDesire	your teacher	study
+CausesDesire	teenybopper	buy shirt
+CausesDesire	habit and civil responsibility	watch even news
+CausesDesire	discussion	illustrate point
+CausesDesire	interest	see exhibit
+CausesDesire	selfish greed	gain more land
+CausesDesire	snap specail photograph	print on printer
+CausesDesire	hunger	eat quickly
+CausesDesire	free ticket	go to opera
+CausesDesire	hot summer day	eat ice cream
+CausesDesire	wed	go to hairdresser
+CausesDesire	exploratory spirit	climb mountain
+CausesDesire	like loud music	attend rock concert
+CausesDesire	school work	print on printer
+CausesDesire	eat healthy	cook dinner
+CausesDesire	few thing	run errand
+CausesDesire	coach would try to	play football
+CausesDesire	split end	cut your hair
+CausesDesire	favorable review	go to play
+CausesDesire	greed	conquer your opponent
+CausesDesire	difficult arithmetic problem	use calculator
+CausesDesire	see hungry child	fee your family
+CausesDesire	have investment	know how stock market perform
+CausesDesire	be old and bore	make patchwork quilt
+CausesDesire	dirty hand	wash your hand
+CausesDesire	tedium	do crossword puzzle
+CausesDesire	failure	improve yourself
+CausesDesire	hard work	have fun
+CausesDesire	depression	write poem
+CausesDesire	take dog for walk	play frisbee
+CausesDesire	it be sunday	make bread
+CausesDesire	want to see coral reef	scuba dive
+CausesDesire	have some news to tell	chat with friend
+CausesDesire	your wife leave you	hit bottle
+CausesDesire	frustration	hit bottle
+CausesDesire	threat of injustice	take stand
+CausesDesire	go on date	look good
+CausesDesire	good music	go to concert
+CausesDesire	soccer	have fun
+CausesDesire	injustice	commit perjury
+CausesDesire	nothing	christmas shop
+CausesDesire	magazine model	stay fit
+CausesDesire	laziness	see person play game
+CausesDesire	over-work	rest
+CausesDesire	bordom	play game
+CausesDesire	fatigue	rest
+CausesDesire	description	analyse something
+CausesDesire	rare film	use vcr
+CausesDesire	have child	become inebriate
+CausesDesire	advertisement	see your favorite show
+CausesDesire	curiousity	find truth
+CausesDesire	break news story	listen to radio
+CausesDesire	bad news	jump out of window
+CausesDesire	nostalgia	see old thing
+CausesDesire	like other person involve	reach tentative agreement
+CausesDesire	mum	walk around lake
+CausesDesire	lump or lump especially asymmetric lump	have checkup
+CausesDesire	advertisement	go to film
+CausesDesire	pride	act in play
+CausesDesire	see others play	play frisbee
+CausesDesire	lonliness and sadness	socialize
+CausesDesire	advertisement	eat
+CausesDesire	error	post message
+CausesDesire	faith	kill someone
+CausesDesire	miss friend or love one	listen to music
+CausesDesire	nothing	take final
+CausesDesire	get part in play	memorize
+CausesDesire	have religious epiphany	build cathedral
+CausesDesire	see someone else who be sick	stay healthy
+CausesDesire	prejudice	punch someone
+CausesDesire	watch ocean wave	surf
+CausesDesire	birthday	celebrate
+CausesDesire	be bore	take in film
+CausesDesire	feel depress	hit bottle
+CausesDesire	be epileptic	have epileptic fit
+CausesDesire	cliff	climb
+CausesDesire	long period of work and tiredness	take break
+CausesDesire	hot sunny day	swim
+CausesDesire	good job ethos	serve customer
+CausesDesire	correct information	agree with someone
+CausesDesire	non-acceptance of cash for payment	pay by check
+CausesDesire	memorable time	remember
+CausesDesire	love of song	play guitar
+CausesDesire	empty cup in your hand	set cup on table
+CausesDesire	warm temperature	walk in rain
+CausesDesire	death of friend	pray
+CausesDesire	tiredness	sleep
+CausesDesire	dirty clothe or beautiful girl	go to laundromat
+CausesDesire	desire to learn new language	study
+CausesDesire	plan	be involve in accident
+CausesDesire	need supply	run errand
+CausesDesire	personal interest	entertain someone
+CausesDesire	see action	judge someone
+CausesDesire	smelly and wear clothe	wash your clothe
+CausesDesire	love of life	make good world
+CausesDesire	query for assistance	fix computer
+CausesDesire	idea and thought	record somethign
+CausesDesire	friend who run marathon	run marathon
+CausesDesire	flatuence	fart
+CausesDesire	superior attribute	test car
+CausesDesire	goal	write program
+CausesDesire	object obsructing road	stop your car
+CausesDesire	curiousity	add up column of number
+CausesDesire	hunger	taste something sweet
+CausesDesire	be naked	wash dirt from between your toe
+CausesDesire	change in body condition	have physical exam
+CausesDesire	sex	wait for someone
+CausesDesire	attack	fence
+CausesDesire	assist friend	answer question
+CausesDesire	attend bar	buy beer
+CausesDesire	do job	get some money from someone
+CausesDesire	stimulate conversation	talk
+CausesDesire	cat stick in tree	climb
+CausesDesire	cloud of smoke	test car
+CausesDesire	be witness in trial	take stand
+CausesDesire	be catch in rain	start fire
+CausesDesire	need credit	pass class
+CausesDesire	be unemployed	apply for job
+CausesDesire	feel love for your family	christmas shop
+CausesDesire	frustration	take break
+CausesDesire	cat be dead	bury cat
+CausesDesire	be parent	make sure you healthy
+CausesDesire	please my mother	pass course
+CausesDesire	hear about tragedy	meet friend
+CausesDesire	go to church	change your appearance
+CausesDesire	high blood pressure	lose weight
+CausesDesire	rainy day	go to movie
+CausesDesire	have plant in your house	water plant
+CausesDesire	need to get to place	drive
+CausesDesire	stupidity	teach other person
+CausesDesire	love	cook meal
+CausesDesire	expect copany	clean house
+CausesDesire	desire to get good job	pass class
+CausesDesire	feel suicidal	jump out of window
+CausesDesire	hear band on radio	attend rock concert
+CausesDesire	apology	forgive someone
+CausesDesire	interest in subject	study
+CausesDesire	important event	read news
+CausesDesire	balance checkbook	add up column of number
+CausesDesire	ocean	surf
+CausesDesire	have telephone nearby	talk with someone far away
+CausesDesire	too much energy	play football
+CausesDesire	repetitive task	write program
+CausesDesire	need someone	wait for someone
+CausesDesire	wild horse	run
+CausesDesire	drink beer	empty your bladder
+CausesDesire	huge ego	entertain person
+CausesDesire	cry for help	give assistance
+CausesDesire	bach music	attend classical concert
+CausesDesire	exausting your food supply	go to store
+CausesDesire	not fail your class	take midterm
+CausesDesire	get good grade	study for subject
+CausesDesire	greed	make friend
+CausesDesire	excitement	go somewhere
+CausesDesire	promotion promise	take course
+CausesDesire	wine	become inebriate
+CausesDesire	dirt in your hair	have shower
+CausesDesire	love	reproduce
+CausesDesire	sadness	take phone call
+CausesDesire	live long	make good world
+CausesDesire	itemize bill	add up number
+CausesDesire	self defense	kill
+CausesDesire	crave for chocolate	taste something sweet
+CausesDesire	utter despair	commit suicide
+CausesDesire	own woodstove	chop firewood
+CausesDesire	sore behind	stand up
+CausesDesire	growl stomach	have food
+CausesDesire	wear plaid shirt and workboots	chop firewood
+CausesDesire	passion for ticket	work box office
+CausesDesire	be torture mercilessly	have heart attack
+CausesDesire	have birthday	open gift
+CausesDesire	be in love	propose to woman
+CausesDesire	death wish	advance into battle
+CausesDesire	approach hailstorm	move car
+CausesDesire	find cockroach in kitchen	do housework
+CausesDesire	cruel remark	punch someone
+CausesDesire	try on bathe suit	stay fit
+CausesDesire	watch tour de france	ride bike
+CausesDesire	low mortgage rate	buy house
+CausesDesire	reaction of others	laugh at joke
+CausesDesire	woman next door get change	look through telescope
+CausesDesire	fear of punishment	go to work
+CausesDesire	love	entertain someone
+CausesDesire	fresh snow and low price	ski
+CausesDesire	become dirty	become more clean
+CausesDesire	money problem	please your parent
+CausesDesire	i trip to india	cook curry
+CausesDesire	beautiful girl	maintain good health
+CausesDesire	ozzy osbourne	hear crowd go mad
+CausesDesire	big problem	die
+CausesDesire	go to europe	see art
+CausesDesire	go to beach	surf
+CausesDesire	sexy tenniswomen	play tennis
+CausesDesire	restore old house	paint
+CausesDesire	money	create art
+CausesDesire	own computer	chat with friend
+CausesDesire	avoid social contact	catch mumps
+CausesDesire	get sweaty	get clean
+CausesDesire	strict teacher	sit quietly
+CausesDesire	fatigue	satisfy appetite with minimum effort
+CausesDesire	nice weather	drive your car
+CausesDesire	cruelty	make good world
+CausesDesire	good movie	wait in line
+CausesDesire	be in happy mood	laugh at joke
+CausesDesire	desire for education	go to school
+CausesDesire	witness crime	take stand
+CausesDesire	pain	have physical exam
+CausesDesire	read	think
+CausesDesire	devil	lie
+CausesDesire	tear in your shirt	sew
+CausesDesire	enjoy particular type of music	see band
+CausesDesire	become fat-ass	get some physical activity
+CausesDesire	peer pressure	lie
+CausesDesire	self-motivation	do housework
+CausesDesire	strong belief in something	bring in verdict
+CausesDesire	short lunch break	eat quickly
+CausesDesire	live with your mom	keep thing orderly and tidy
+CausesDesire	self-motivation	conquer your opponent
+CausesDesire	pleasuarable experience	remember something
+CausesDesire	need to solve difficult math problem	use calculator
+CausesDesire	stress	clean house
+CausesDesire	stupidity	take final exam
+CausesDesire	romance	cook dinner
+CausesDesire	global thermonuclear war	take bus
+CausesDesire	global thermonuclear war	get onto web
+CausesDesire	global thermonuclear war	go to market
+CausesDesire	thermonuclear war	watch film
+CausesDesire	global thermonuclear war	have haircut
+CausesDesire	thermonuclear war	exercise
+CausesDesire	global thermonuclear war	tie your shoelace
+CausesDesire	thermonuclear war	go fish
+CausesDesire	need to graduate	take final

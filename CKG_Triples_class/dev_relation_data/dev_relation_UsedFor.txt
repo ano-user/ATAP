@@ -1,0 +1,169 @@
+UsedFor	go to pub	have drink
+UsedFor	see	cut
+UsedFor	bath	relaxation
+UsedFor	show	entertain
+UsedFor	woolen fabric	make clothe
+UsedFor	closet	store clothe
+UsedFor	kiss someone	express love
+UsedFor	use computer	work
+UsedFor	stove	cook
+UsedFor	clothe store change room	try on clothe
+UsedFor	go to movie	be entertain
+UsedFor	board	build
+UsedFor	beer mug	drink beer from
+UsedFor	doll	play with
+UsedFor	toy car	play
+UsedFor	yard	play
+UsedFor	see	cut thing such as wood
+UsedFor	tennis game	exercise
+UsedFor	post office	mail letter
+UsedFor	aisle	walk through
+UsedFor	read to your child	educate them
+UsedFor	dish	serve food
+UsedFor	soap dish	hold soap
+UsedFor	dance club	dance
+UsedFor	vent brush	clean vent
+UsedFor	hoist	lift heavy object
+UsedFor	beanbag chair	sit down
+UsedFor	radiator	heat room
+UsedFor	gun	shoot thing
+UsedFor	spout	pour liquid
+UsedFor	tub	take bath
+UsedFor	cannonball	sink ship
+UsedFor	grape	make wine
+UsedFor	shoulder bag	carry thing
+UsedFor	oven	cook
+UsedFor	temple	religion
+UsedFor	baseball bat	hit baseball
+UsedFor	glass	correct vision
+UsedFor	woodwind	make music
+UsedFor	denim	make jean
+UsedFor	bell	make noise
+UsedFor	take bus	travel
+UsedFor	write	communicate
+UsedFor	double bass	play music
+UsedFor	entrance	enter build
+UsedFor	sheet of paper	write on
+UsedFor	sugar	sweeten food
+UsedFor	electric fan	cool
+UsedFor	heart	pump blood
+UsedFor	have sex	fun
+UsedFor	queen	rule country
+UsedFor	musical instrument	make music
+UsedFor	article in magazine	read
+UsedFor	toothbrush head	clean your tooth
+UsedFor	coin slot	put coin in
+UsedFor	shallow water	wade
+UsedFor	closet	store thing
+UsedFor	cardboard	make box
+UsedFor	kite	fly
+UsedFor	bagpipe	make music
+UsedFor	lip	speak
+UsedFor	temple	worship
+UsedFor	accordion	make music
+UsedFor	towel rack	hang towel
+UsedFor	boat	sail
+UsedFor	wheat	make flour
+UsedFor	vegetable garden	grow vegetable
+UsedFor	hairbrush	brush hair
+UsedFor	condom	protection
+UsedFor	heater	heat
+UsedFor	watch	tell time
+UsedFor	knife	cut food
+UsedFor	stove	cook food
+UsedFor	glass	see
+UsedFor	pet	companionship
+UsedFor	play sport	excercise
+UsedFor	jump out of window	commit suicide
+UsedFor	calculator	add number
+UsedFor	trombone	play music
+UsedFor	air conditioner	cool room
+UsedFor	glue	stick thing together
+UsedFor	rifle	shoot
+UsedFor	chess set	play game of chess
+UsedFor	eye	look
+UsedFor	park zone	park your car
+UsedFor	bell	ring
+UsedFor	scale	weigh object
+UsedFor	candle	light room
+UsedFor	envelope	mail letter
+UsedFor	fan	cool off
+UsedFor	picnic basket	carry food
+UsedFor	instrument triangle	make music
+UsedFor	finger	type
+UsedFor	ax	chop wood
+UsedFor	cruise ship	vacation
+UsedFor	tool	build thing
+UsedFor	family room	watch tv
+UsedFor	locker room	change clothe
+UsedFor	subway pass	ride subway
+UsedFor	round trip ticket	travel
+UsedFor	love seat	sit on
+UsedFor	restaurant table	eat at
+UsedFor	talk to someone	communication
+UsedFor	nylon	make clothe
+UsedFor	textile	make clothe
+UsedFor	fabric	make clothe
+UsedFor	haircutting scissor	cut hair
+UsedFor	typewriter	write letter
+UsedFor	mast	hold sail
+UsedFor	apple	eat
+UsedFor	stopwatch	time thing
+UsedFor	calculator	do math
+UsedFor	entryway	enter
+UsedFor	tennis ball	play tennis
+UsedFor	pawn	play chess
+UsedFor	pub	drink beer
+UsedFor	street	drive on
+UsedFor	hotel	sleep
+UsedFor	cutlery drawer	store knife
+UsedFor	machine gun	kill person
+UsedFor	garden hose	water garden
+UsedFor	razor	shave with
+UsedFor	match	light fire
+UsedFor	pair of pant	wear
+UsedFor	temple	pray
+UsedFor	glass	hold liquid
+UsedFor	shoe	protect your foot
+UsedFor	bookshelf	hold book
+UsedFor	decide criminal s fate	judge
+UsedFor	salt	season food
+UsedFor	oboe	make music
+UsedFor	museum ticket	enter museum
+UsedFor	chapel	get marry
+UsedFor	bucket	carry liquid
+UsedFor	highway	drive on
+UsedFor	bungalow	live in
+UsedFor	cotton	make clothe
+UsedFor	golf club	hit golf ball
+UsedFor	fork	eat food with
+UsedFor	chapel	pray
+UsedFor	machine	work
+UsedFor	toothbrush	clean tooth
+UsedFor	clipboard	hold paper
+UsedFor	toothpaste	clean tooth
+UsedFor	harmonica	make music
+UsedFor	ear	hear sound
+UsedFor	plate	hold food
+UsedFor	bicycle	ride
+UsedFor	weapon	hurt someone
+UsedFor	harpsichord	make music
+UsedFor	barbecue	cook food
+UsedFor	fire extinguisher	put out fire
+UsedFor	desk	work
+UsedFor	office	work
+UsedFor	calendar	keep track of time
+UsedFor	refrigerator	keep food from spoil
+UsedFor	pistol	shoot bullet
+UsedFor	coat	keep warm
+UsedFor	beer	drink
+UsedFor	cigarette	smoke
+UsedFor	your brain	think
+UsedFor	printer	print
+UsedFor	car	transportation
+UsedFor	refrigerator	store food
+UsedFor	sword	kill
+UsedFor	pipe	smoke
+UsedFor	cat	catch mouse
+UsedFor	ballpoint pen	write with
+UsedFor	glass roof	greenhouse

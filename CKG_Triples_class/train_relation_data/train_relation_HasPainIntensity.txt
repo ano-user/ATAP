@@ -1,0 +1,2 @@
+HasPainIntensity	beat	horrible
+HasPainIntensity	beat	horrible

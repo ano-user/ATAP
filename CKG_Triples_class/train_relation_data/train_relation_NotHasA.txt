@@ -1,0 +1,240 @@
+NotHasA	chicken	lip
+NotHasA	human	tail
+NotHasA	bird	tooth
+NotHasA	some person	home
+NotHasA	baby	much hair
+NotHasA	most t-shirt	button
+NotHasA	bacteria	eye
+NotHasA	slave	freedom
+NotHasA	fish	leg
+NotHasA	robot	brain
+NotHasA	computer	brain
+NotHasA	ice cream	bone
+NotHasA	snake	leg
+NotHasA	fish	foot
+NotHasA	hamburger	ham
+NotHasA	tree	brain
+NotHasA	many person	home to live in
+NotHasA	woman	penis
+NotHasA	computer	feel
+NotHasA	human	feather
+NotHasA	earth	ring around it
+NotHasA	tree	bone
+NotHasA	cloud	bone
+NotHasA	plant	leg
+NotHasA	parakeet	nose
+NotHasA	plant	blood
+NotHasA	newspaper	lock on them
+NotHasA	petrol	dirt in it
+NotHasA	person	wing
+NotHasA	worm	leg
+NotHasA	race bike	much of frame
+NotHasA	little baby	tooth
+NotHasA	baby	lot of hair
+NotHasA	child	worry
+NotHasA	person with glass	good eyesight
+NotHasA	i	sexual relation with that woman
+NotHasA	tulip	strong stem and may hang down
+NotHasA	child	as many language skill as adult
+NotHasA	early bicycle	any gear
+NotHasA	america	royalty
+NotHasA	poor person	place to sleep
+NotHasA	person	time enough
+NotHasA	some person	place to live
+NotHasA	fish	lung
+NotHasA	bacterial cell	nucleus
+NotHasA	most person	lion as pet
+NotHasA	empty picture frame	picture
+NotHasA	horse	toe
+NotHasA	most person	decorate sense
+NotHasA	winona ryder	go out with this guy
+NotHasA	use this wrench if you	right size
+NotHasA	evergreen tree	leave
+NotHasA	most human	ideal diet
+NotHasA	if you	green card i.n.s
+NotHasA	old person	tooth
+NotHasA	flower die if they	enough water
+NotHasA	television	rotary dial anymore
+NotHasA	eyeglass frame	lense
+NotHasA	most monarch	any real political power
+NotHasA	swiss cheese	hole
+NotHasA	satelites	wheel
+NotHasA	plant die if they	water
+NotHasA	old television	channel change remotely
+NotHasA	espresso	more caffiene than coffe
+NotHasA	mexican	nice house unless they sell crack
+NotHasA	dog	opposable thumb
+NotHasA	i	passport
+NotHasA	some poor person	home
+NotHasA	in japan cup	handle
+NotHasA	apartment	garage
+NotHasA	bird	hand
+NotHasA	bird	arm
+NotHasA	streaker	any clothe on
+NotHasA	hot dog	dog i hope
+NotHasA	dog	chin
+NotHasA	most school bus	seat belt
+NotHasA	female	testicle
+NotHasA	comb have tooth but tooth	comb
+NotHasA	bird	hair they have feather
+NotHasA	newborn baby	tooth
+NotHasA	my car	cd player
+NotHasA	i	time to hang my clothe
+NotHasA	bicycle	motor
+NotHasA	modern television	dial
+NotHasA	violin	fret
+NotHasA	school bus	seatbelt
+NotHasA	white person	white skin
+NotHasA	school bus	seat safety belt
+NotHasA	hot-air ballons	steer wheel
+NotHasA	human	sex with horse
+NotHasA	human	good eye
+NotHasA	some person	laundry in their home
+NotHasA	you	wind electric clock
+NotHasA	arizona	very much greenery
+NotHasA	person who settle america	electric oven
+NotHasA	duck sauce	actual duck
+NotHasA	with credit card you	use cash
+NotHasA	topic'weather	these word balloon
+NotHasA	some classroom	traditional desk
+NotHasA	spaniel	wing
+NotHasA	topic'sea	these word otter
+NotHasA	grind floor apartment	stair
+NotHasA	shadow	color
+NotHasA	person	everything they want
+NotHasA	ring binder	anything valuable in them
+NotHasA	sometimes person	time to walk
+NotHasA	digital camera	photochromatic film in them
+NotHasA	gangster	lot of education
+NotHasA	san francisco	any forest
+NotHasA	human be	wing
+NotHasA	giraffe horn	horny cover
+NotHasA	jelly bean	soul
+NotHasA	openmind commonsense	very much hair
+NotHasA	telephone	pulse like human
+NotHasA	toy balloon will	predefined volume
+NotHasA	flower	bird wing
+NotHasA	number theory	very many practical application
+NotHasA	some home	treadmill
+NotHasA	potato eye	tear duct
+NotHasA	adult person	tail
+NotHasA	chicken	lip
+NotHasA	human	tail
+NotHasA	bird	tooth
+NotHasA	some person	home
+NotHasA	baby	much hair
+NotHasA	most t-shirt	button
+NotHasA	bacteria	eye
+NotHasA	slave	freedom
+NotHasA	fish	leg
+NotHasA	robot	brain
+NotHasA	computer	brain
+NotHasA	ice cream	bone
+NotHasA	snake	leg
+NotHasA	fish	foot
+NotHasA	hamburger	ham
+NotHasA	tree	brain
+NotHasA	many person	home to live in
+NotHasA	woman	penis
+NotHasA	computer	feel
+NotHasA	human	feather
+NotHasA	earth	ring around it
+NotHasA	tree	bone
+NotHasA	cloud	bone
+NotHasA	plant	leg
+NotHasA	parakeet	nose
+NotHasA	plant	blood
+NotHasA	newspaper	lock on them
+NotHasA	petrol	dirt in it
+NotHasA	person	wing
+NotHasA	worm	leg
+NotHasA	race bike	much of frame
+NotHasA	little baby	tooth
+NotHasA	baby	lot of hair
+NotHasA	child	worry
+NotHasA	person with glass	good eyesight
+NotHasA	i	sexual relation with that woman
+NotHasA	tulip	strong stem and may hang down
+NotHasA	child	as many language skill as adult
+NotHasA	early bicycle	any gear
+NotHasA	america	royalty
+NotHasA	poor person	place to sleep
+NotHasA	person	time enough
+NotHasA	some person	place to live
+NotHasA	fish	lung
+NotHasA	bacterial cell	nucleus
+NotHasA	most person	lion as pet
+NotHasA	empty picture frame	picture
+NotHasA	horse	toe
+NotHasA	most person	decorate sense
+NotHasA	winona ryder	go out with this guy
+NotHasA	use this wrench if you	right size
+NotHasA	evergreen tree	leave
+NotHasA	most human	ideal diet
+NotHasA	if you	green card i.n.s
+NotHasA	old person	tooth
+NotHasA	flower die if they	enough water
+NotHasA	television	rotary dial anymore
+NotHasA	eyeglass frame	lense
+NotHasA	most monarch	any real political power
+NotHasA	swiss cheese	hole
+NotHasA	satelites	wheel
+NotHasA	plant die if they	water
+NotHasA	old television	channel change remotely
+NotHasA	espresso	more caffiene than coffe
+NotHasA	mexican	nice house unless they sell crack
+NotHasA	dog	opposable thumb
+NotHasA	i	passport
+NotHasA	some poor person	home
+NotHasA	in japan cup	handle
+NotHasA	apartment	garage
+NotHasA	bird	hand
+NotHasA	bird	arm
+NotHasA	streaker	any clothe on
+NotHasA	hot dog	dog i hope
+NotHasA	dog	chin
+NotHasA	most school bus	seat belt
+NotHasA	female	testicle
+NotHasA	comb have tooth but tooth	comb
+NotHasA	bird	hair they have feather
+NotHasA	newborn baby	tooth
+NotHasA	my car	cd player
+NotHasA	i	time to hang my clothe
+NotHasA	bicycle	motor
+NotHasA	modern television	dial
+NotHasA	violin	fret
+NotHasA	school bus	seatbelt
+NotHasA	white person	white skin
+NotHasA	school bus	seat safety belt
+NotHasA	hot-air ballons	steer wheel
+NotHasA	human	sex with horse
+NotHasA	human	good eye
+NotHasA	some person	laundry in their home
+NotHasA	you	wind electric clock
+NotHasA	arizona	very much greenery
+NotHasA	person who settle america	electric oven
+NotHasA	duck sauce	actual duck
+NotHasA	with credit card you	use cash
+NotHasA	topic'weather	these word balloon
+NotHasA	some classroom	traditional desk
+NotHasA	spaniel	wing
+NotHasA	topic'sea	these word otter
+NotHasA	grind floor apartment	stair
+NotHasA	shadow	color
+NotHasA	person	everything they want
+NotHasA	ring binder	anything valuable in them
+NotHasA	sometimes person	time to walk
+NotHasA	digital camera	photochromatic film in them
+NotHasA	gangster	lot of education
+NotHasA	san francisco	any forest
+NotHasA	human be	wing
+NotHasA	giraffe horn	horny cover
+NotHasA	jelly bean	soul
+NotHasA	openmind commonsense	very much hair
+NotHasA	telephone	pulse like human
+NotHasA	toy balloon will	predefined volume
+NotHasA	flower	bird wing
+NotHasA	number theory	very many practical application
+NotHasA	some home	treadmill
+NotHasA	potato eye	tear duct
+NotHasA	adult person	tail

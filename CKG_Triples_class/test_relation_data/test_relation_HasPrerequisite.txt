@@ -1,0 +1,109 @@
+HasPrerequisite	have checkup	go to doctor
+HasPrerequisite	have haircut	go to barber
+HasPrerequisite	see exhibit	go to museum
+HasPrerequisite	see band	buy ticket
+HasPrerequisite	maintain muscle strength	exercise
+HasPrerequisite	listen to music	turn on radio
+HasPrerequisite	commit perjury	lie
+HasPrerequisite	buy something	have money
+HasPrerequisite	sleep	close your eye
+HasPrerequisite	have physical exam	go to doctor
+HasPrerequisite	diminish your own hunger	eat
+HasPrerequisite	have checkup	make doctor appointment
+HasPrerequisite	go to sport event	buy ticket
+HasPrerequisite	dream	sleep
+HasPrerequisite	go to bed	turn off light
+HasPrerequisite	exercise	energy
+HasPrerequisite	pray	believe in god
+HasPrerequisite	find lose item	search
+HasPrerequisite	watch movie	buy ticket
+HasPrerequisite	go to opera	buy ticket
+HasPrerequisite	go for drive	get into car
+HasPrerequisite	go to bed	turn out light
+HasPrerequisite	stop your car	apply brake
+HasPrerequisite	pretend	imagine
+HasPrerequisite	make person laugh	tell joke
+HasPrerequisite	read newspaper	get newspaper
+HasPrerequisite	go for haircut	go to barber
+HasPrerequisite	rest	lie down
+HasPrerequisite	contemplate	think
+HasPrerequisite	pass your university exam	study
+HasPrerequisite	get up early	set alarm clock
+HasPrerequisite	go see play	buy ticket
+HasPrerequisite	jump out of window	open window
+HasPrerequisite	pass course	study
+HasPrerequisite	go for drive	get car
+HasPrerequisite	sleep	close eye
+HasPrerequisite	pass class	study
+HasPrerequisite	see old thing	go to museum
+HasPrerequisite	go to movie	buy ticket
+HasPrerequisite	snore	sleep
+HasPrerequisite	drive	get in car
+HasPrerequisite	visit other country	travel
+HasPrerequisite	empty your bladder	go to bathroom
+HasPrerequisite	get up early	set your alarm clock
+HasPrerequisite	cut your hair	go to barber
+HasPrerequisite	bathe	take your clothe off
+HasPrerequisite	reproduce	have sex
+HasPrerequisite	fly in airplane	buy ticket
+HasPrerequisite	swim	get into water
+HasPrerequisite	get something	ask for it
+HasPrerequisite	get pay	work
+HasPrerequisite	pretend	use your imagination
+HasPrerequisite	drink	open your mouth
+HasPrerequisite	read news	buy newspaper
+HasPrerequisite	answer question	think
+HasPrerequisite	dream	fall asleep
+HasPrerequisite	sit down	bend your knee
+HasPrerequisite	remember phone number	repeat it to yourself
+HasPrerequisite	visit other country	get passport
+HasPrerequisite	take bus	go to bus stop
+HasPrerequisite	get drunk	drink alcohol
+HasPrerequisite	sate your hunger	eat
+HasPrerequisite	cross street	look both way
+HasPrerequisite	play piano	take lesson
+HasPrerequisite	attend classical concert	buy ticket
+HasPrerequisite	read magazine	buy magazine
+HasPrerequisite	have asthma attack	have asthma
+HasPrerequisite	find lose item	look for it
+HasPrerequisite	eat breakfast	wake up
+HasPrerequisite	program	learn program language
+HasPrerequisite	see art	go to museum
+HasPrerequisite	go for haircut	find barber
+HasPrerequisite	watch even news	turn on tv
+HasPrerequisite	reproduce	find mate
+HasPrerequisite	get some money from someone	ask
+HasPrerequisite	empty your bladder	go to toilet
+HasPrerequisite	sew	thread needle
+HasPrerequisite	think	brain
+HasPrerequisite	watch television show	turn on tv
+HasPrerequisite	ski	snow
+HasPrerequisite	chop firewood	axe
+HasPrerequisite	stop your car	press brake
+HasPrerequisite	gather energy for tomorrow	sleep
+HasPrerequisite	have examination	see doctor
+HasPrerequisite	get up early	go to bed early
+HasPrerequisite	make friend	smile
+HasPrerequisite	hear news	turn on tv
+HasPrerequisite	paint house	ladder
+HasPrerequisite	watch television	turn television on
+HasPrerequisite	buy food	go to store
+HasPrerequisite	buy present for others	have money
+HasPrerequisite	learn	study
+HasPrerequisite	write term paper	research
+HasPrerequisite	shop	have money
+HasPrerequisite	sleep	get in bed
+HasPrerequisite	become inebriate	drink alcohol
+HasPrerequisite	study	concentration
+HasPrerequisite	compete against someone	enter competition
+HasPrerequisite	go to performance	buy ticket
+HasPrerequisite	create idea	think
+HasPrerequisite	surprise someone	hide
+HasPrerequisite	take phone call	pick up phone
+HasPrerequisite	reach tentative agreement	compromise
+HasPrerequisite	watch even news	turn on television
+HasPrerequisite	have bath	fill tub with water
+HasPrerequisite	bury cat	dig hole
+HasPrerequisite	earn live	work
+HasPrerequisite	play game	learn rule
+HasPrerequisite	pay bill	have money

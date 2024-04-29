@@ -1,0 +1,82 @@
+HasSubevent	play lacrosse	run
+HasSubevent	go to pub	have drink
+HasSubevent	maintain good health	exercise
+HasSubevent	watch film	cry
+HasSubevent	have fun	laugh
+HasSubevent	win baseball game	cheer
+HasSubevent	cash in	receive money
+HasSubevent	see movie	eat popcorn
+HasSubevent	dive	hold your breath
+HasSubevent	ski	you fall over
+HasSubevent	make bread	knead of dough
+HasSubevent	go to get haircut	read magazine
+HasSubevent	listen to radio	dance
+HasSubevent	commit murder	kill someone
+HasSubevent	make friend	talk
+HasSubevent	see band	listen to music
+HasSubevent	fish	catch fish
+HasSubevent	serve customer	get tip
+HasSubevent	take break	smoke cigarette
+HasSubevent	jump out of window	fall to grind
+HasSubevent	visit other country	sightsee
+HasSubevent	enjoy company of your friend	drink
+HasSubevent	go see film	buy popcorn
+HasSubevent	surf	get wet
+HasSubevent	make bread	knead dough
+HasSubevent	flirt	smile
+HasSubevent	stay in bed	sleep
+HasSubevent	catch mumps	get sick
+HasSubevent	start fire	light match
+HasSubevent	create art	paint
+HasSubevent	attend classical concert	listen to music
+HasSubevent	eat	swallow
+HasSubevent	kiss	close your eye
+HasSubevent	visit art gallery	look at paint
+HasSubevent	play hockey	score goal
+HasSubevent	meet friend	have sex
+HasSubevent	pass course	study
+HasSubevent	eat apple	chew
+HasSubevent	leave line	you lose your place
+HasSubevent	have lunch	drink
+HasSubevent	stay in bed	sleep in
+HasSubevent	relax	read
+HasSubevent	wake up in morning	yawn
+HasSubevent	go fish	catch fish
+HasSubevent	take bus	sit down
+HasSubevent	soak in hotspring	relax
+HasSubevent	go off strike	return to work
+HasSubevent	play chess	win
+HasSubevent	use television	change channel
+HasSubevent	maintain muscle strength	exercise
+HasSubevent	go to restaurant	eat food
+HasSubevent	be sad	cry
+HasSubevent	get drunk	you fall down
+HasSubevent	see exhibit	learn
+HasSubevent	hear music	dance
+HasSubevent	lie	you get catch
+HasSubevent	fish	bait hook
+HasSubevent	comfort friend	hug
+HasSubevent	communicate	talk
+HasSubevent	pay cash	get change
+HasSubevent	attend lecture	fall asleep
+HasSubevent	snore	sleep
+HasSubevent	read newspaper	drink coffee
+HasSubevent	sate your hunger	eat
+HasSubevent	go on stage	act
+HasSubevent	take stand	testify
+HasSubevent	play guitar	strum string
+HasSubevent	dream	rapid eye movement
+HasSubevent	start family	get marry
+HasSubevent	take bath	get wet
+HasSubevent	use computer	type
+HasSubevent	go to restaurant	eat
+HasSubevent	wait on table	you get tip
+HasSubevent	sing	open your mouth
+HasSubevent	chew your food	swallow
+HasSubevent	get fit	exercise
+HasSubevent	swim	get wet
+HasSubevent	program	type
+HasSubevent	have sex	kiss your partner
+HasSubevent	agree with someone	nod of head
+HasSubevent	agree with someone	someone nod
+HasSubevent	bathe	wash my hair

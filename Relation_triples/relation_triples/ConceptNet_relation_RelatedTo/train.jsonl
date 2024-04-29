@@ -1,0 +1,534 @@
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "keyboard", "predicate": "RelatedTo"}
+{"obj_label": "book", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "queen", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "prince", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "chair", "sub_label": "table", "predicate": "RelatedTo"}
+{"obj_label": "vcr", "sub_label": "tv", "predicate": "RelatedTo"}
+{"obj_label": "homework", "sub_label": "class", "predicate": "RelatedTo"}
+{"obj_label": "journal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "radio", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "table", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "dog house", "sub_label": "dog", "predicate": "RelatedTo"}
+{"obj_label": "speak", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "animation", "sub_label": "cartoon", "predicate": "RelatedTo"}
+{"obj_label": "object orient program", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "memory management", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "desk", "sub_label": "chair", "predicate": "RelatedTo"}
+{"obj_label": "moon", "sub_label": "sun", "predicate": "RelatedTo"}
+{"obj_label": "news", "sub_label": "press", "predicate": "RelatedTo"}
+{"obj_label": "woman", "sub_label": "men", "predicate": "RelatedTo"}
+{"obj_label": "star", "sub_label": "moon", "predicate": "RelatedTo"}
+{"obj_label": "jaw", "sub_label": "shark", "predicate": "RelatedTo"}
+{"obj_label": "pencil", "sub_label": "pen", "predicate": "RelatedTo"}
+{"obj_label": "thread", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "movie", "predicate": "RelatedTo"}
+{"obj_label": "parent", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "side dish", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "computer", "sub_label": "mouse", "predicate": "RelatedTo"}
+{"obj_label": "pillow", "sub_label": "blanket", "predicate": "RelatedTo"}
+{"obj_label": "play game", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "umbrella", "sub_label": "rain", "predicate": "RelatedTo"}
+{"obj_label": "snow", "sub_label": "cold weather", "predicate": "RelatedTo"}
+{"obj_label": "screen", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "mechanical pencil", "sub_label": "pencil", "predicate": "RelatedTo"}
+{"obj_label": "kimchi", "sub_label": "rice", "predicate": "RelatedTo"}
+{"obj_label": "cool breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "condom", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "joey", "sub_label": "friend", "predicate": "RelatedTo"}
+{"obj_label": "popcorn", "sub_label": "film", "predicate": "RelatedTo"}
+{"obj_label": "robin hood", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "fart", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "traditional food", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "princess", "sub_label": "king", "predicate": "RelatedTo"}
+{"obj_label": "five-ring olympic emblem", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "sofa", "sub_label": "sleep", "predicate": "RelatedTo"}
+{"obj_label": "tooth decay", "sub_label": "brush your tooth", "predicate": "RelatedTo"}
+{"obj_label": "cross stiches", "sub_label": "needle", "predicate": "RelatedTo"}
+{"obj_label": "chrismas", "sub_label": "winter", "predicate": "RelatedTo"}
+{"obj_label": "mr. big", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "broadway", "sub_label": "new york", "predicate": "RelatedTo"}
+{"obj_label": "samantha", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "health", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "composition", "sub_label": "language", "predicate": "RelatedTo"}
+{"obj_label": "jounal", "sub_label": "dissertation", "predicate": "RelatedTo"}
+{"obj_label": "monitor", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "maid", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "hungbu and nolbu", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "white rice", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "wed", "sub_label": "wed dress", "predicate": "RelatedTo"}
+{"obj_label": "cinderella", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "lower cholesterol", "sub_label": "wheat", "predicate": "RelatedTo"}
+{"obj_label": "charlotte", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "gin tonic", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "medal", "sub_label": "olympics", "predicate": "RelatedTo"}
+{"obj_label": "miranda", "sub_label": "carrie in sex and city", "predicate": "RelatedTo"}
+{"obj_label": "breeze", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "your wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "mathematics", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "north korea", "sub_label": "south korea", "predicate": "RelatedTo"}
+{"obj_label": "goldielocks and three bear", "sub_label": "fairy tale", "predicate": "RelatedTo"}
+{"obj_label": "brush one tooth", "sub_label": "toothpaste", "predicate": "RelatedTo"}
+{"obj_label": "wife", "sub_label": "sex", "predicate": "RelatedTo"}
+{"obj_label": "blackboard", "sub_label": "classroom", "predicate": "RelatedTo"}
+{"obj_label": "fun", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "hairband", "sub_label": "hair", "predicate": "RelatedTo"}
+{"obj_label": "sister", "sub_label": "home", "predicate": "RelatedTo"}
+{"obj_label": "headache", "sub_label": "c++", "predicate": "RelatedTo"}
+{"obj_label": "graduation", "sub_label": "thesis", "predicate": "RelatedTo"}
+{"obj_label": "magarita", "sub_label": "cocktail", "predicate": "RelatedTo"}
+{"obj_label": "exam", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "mouse", "sub_label": "computer", "predicate": "RelatedTo"}
+{"obj_label": "cup of tea", "sub_label": "sofa", "predicate": "RelatedTo"}
+{"obj_label": "food", "sub_label": "television", "predicate": "RelatedTo"}
+{"obj_label": "read comic", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "watch movie", "sub_label": "fun", "predicate": "RelatedTo"}
+{"obj_label": "break", "sub_label": "damage", "predicate": "RelatedTo"}
+{"obj_label": "math", "sub_label": "study", "predicate": "RelatedTo"}
+{"obj_label": "polymorphism", "sub_label": "c++", "predicate": "RelatedTo"}

@@ -1,0 +1,2 @@
+HasFirstSubevent	attend lecture	sit
+HasFirstSubevent	skate	put skate on

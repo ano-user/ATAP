@@ -1,0 +1,17 @@
+MotivatedByGoal	work	you need money
+MotivatedByGoal	drink	you be thirsty
+MotivatedByGoal	write letter	communicate with someone
+MotivatedByGoal	take midterm	pass course
+MotivatedByGoal	play game	have fun
+MotivatedByGoal	climb	reach top
+MotivatedByGoal	sell your new book	money
+MotivatedByGoal	go to zoo	see animal
+MotivatedByGoal	cry	you be sad
+MotivatedByGoal	sleep	you be tire
+MotivatedByGoal	bury cat	it be dead
+MotivatedByGoal	reproduce	have child
+MotivatedByGoal	sit down	rest
+MotivatedByGoal	remember phone number	call someone
+MotivatedByGoal	breathe	live
+MotivatedByGoal	work	money
+MotivatedByGoal	sing	you be happy

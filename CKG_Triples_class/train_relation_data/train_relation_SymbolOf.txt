@@ -1,0 +1,318 @@
+SymbolOf	trophy	victory
+SymbolOf	scale	justice
+SymbolOf	four leaf clover	luck
+SymbolOf	cross	christianity
+SymbolOf	red	passion
+SymbolOf	sunflower	passion
+SymbolOf	cloud	cream cheese
+SymbolOf	tiger	korea university
+SymbolOf	scale	justice system
+SymbolOf	christmas tree	christmas
+SymbolOf	red rose	love
+SymbolOf	give rose	love
+SymbolOf	brain	knowledge
+SymbolOf	sword	honour
+SymbolOf	sword	violence
+SymbolOf	rose	love
+SymbolOf	couch	nap
+SymbolOf	crescent	islam
+SymbolOf	red	anger
+SymbolOf	fire	passion
+SymbolOf	white	purity
+SymbolOf	river	change
+SymbolOf	green	environmentalism
+SymbolOf	green	inexperience
+SymbolOf	six point star	judaism
+SymbolOf	santaclaus	christmas
+SymbolOf	climb mountain	life
+SymbolOf	fire	primitive
+SymbolOf	castle	samurai
+SymbolOf	black	death
+SymbolOf	cow	diligence
+SymbolOf	choi seok-ho	monkey
+SymbolOf	coffee	sweet taste
+SymbolOf	pet	pitiness
+SymbolOf	yongsan	computer
+SymbolOf	hospital	operation
+SymbolOf	christmas	present
+SymbolOf	olympic game	1988
+SymbolOf	pet dog	comfortableness
+SymbolOf	coffee	sweetness
+SymbolOf	coffee	taste bitter
+SymbolOf	darkness	despair
+SymbolOf	corn dolly	curse
+SymbolOf	south pole	penguin
+SymbolOf	rabbit	moon
+SymbolOf	heavy metal rock	violence
+SymbolOf	gust of wind	memory
+SymbolOf	money	richness
+SymbolOf	swastika	nazi germany
+SymbolOf	circus	clown
+SymbolOf	rat	uncleanliness
+SymbolOf	cherry blossom	spring
+SymbolOf	ocean	your mother
+SymbolOf	night	rest
+SymbolOf	fish	christianity
+SymbolOf	four season	life cycle
+SymbolOf	road	person life
+SymbolOf	statue of liberty	new york city
+SymbolOf	star of david	judaism
+SymbolOf	australia	wilderness
+SymbolOf	gun	war
+SymbolOf	sun	passion
+SymbolOf	bullet	money
+SymbolOf	hospital	patient
+SymbolOf	olympics	gold medal
+SymbolOf	knife	power
+SymbolOf	picture	your past memory
+SymbolOf	red	blood
+SymbolOf	olympics	medal
+SymbolOf	diligence	of cow
+SymbolOf	love	loneliness
+SymbolOf	coffee	caffeine
+SymbolOf	fox muffler	girl friend
+SymbolOf	19	r rate movie
+SymbolOf	flower	beauty of it
+SymbolOf	bee	sharpness
+SymbolOf	native american	reservation
+SymbolOf	shovel	vain effort
+SymbolOf	circle	life
+SymbolOf	cake	calorie
+SymbolOf	red color	blood
+SymbolOf	index card	thing that you wil mention during presentation
+SymbolOf	couple	couple look
+SymbolOf	cigarette	lung cancer
+SymbolOf	christopher columbus	indian
+SymbolOf	pet dog	sweetness
+SymbolOf	choi suk ho	typical mrs. in korea
+SymbolOf	olympics	1988
+SymbolOf	hospital	sickness
+SymbolOf	pill	suicide
+SymbolOf	wed ring	wed
+SymbolOf	sweat	hard work
+SymbolOf	authority	power
+SymbolOf	crimson	korea university
+SymbolOf	couplelook	couple
+SymbolOf	man of character	modesty
+SymbolOf	index card	give presentation
+SymbolOf	marriage ring	marry couple
+SymbolOf	money	currency
+SymbolOf	cloud	cotton candy
+SymbolOf	white color	purity
+SymbolOf	cocoon	human body
+SymbolOf	red color	warn
+SymbolOf	pilgrim	body stench
+SymbolOf	pet dog	pity
+SymbolOf	blue color	hope
+SymbolOf	hospital	surgery
+SymbolOf	formal clothe	presentation
+SymbolOf	nation	korea university
+SymbolOf	kiss	love
+SymbolOf	cotton blanket	cloud
+SymbolOf	rainbow	peace
+SymbolOf	rainbow flag	peace
+SymbolOf	street	human life
+SymbolOf	night	sleep
+SymbolOf	circle of sun	japan
+SymbolOf	fox-muffler	girl friend
+SymbolOf	orange	sour taste
+SymbolOf	red color	passion
+SymbolOf	temple	thailand
+SymbolOf	book	knowledge
+SymbolOf	santa claus	christmas
+SymbolOf	heavy metal music	destruction
+SymbolOf	white	cloud
+SymbolOf	cloud	airplane
+SymbolOf	marriage	love
+SymbolOf	white	innocence
+SymbolOf	worldcup	hiddink
+SymbolOf	moon	memory
+SymbolOf	flower	sweat smell
+SymbolOf	black	evil
+SymbolOf	white	good
+SymbolOf	cockroach	uncleanliness
+SymbolOf	windmill	holland
+SymbolOf	penguin	linux
+SymbolOf	dollar sign	wealth
+SymbolOf	snow	winter
+SymbolOf	kangaroo	australia
+SymbolOf	red	danger
+SymbolOf	sword	military intervention
+SymbolOf	sword	masculinity
+SymbolOf	sword	combat
+SymbolOf	sword	war
+SymbolOf	sword	justice
+SymbolOf	color red	fire
+SymbolOf	pencil	study
+SymbolOf	surgery	hospital
+SymbolOf	baby	life
+SymbolOf	this	utopian cult
+SymbolOf	star and stripe	unite state
+SymbolOf	yellow ribbon	rememberence
+SymbolOf	rose plant	love
+SymbolOf	lab coat	scientific expertise
+SymbolOf	bridge	close ideological or ethical gap
+SymbolOf	corn-on-the-cob	harvest and thanksgiving
+SymbolOf	magnify glass	forensic science
+SymbolOf	statue of liberty	unite state
+SymbolOf	many person consider horseshoe to	good luck
+SymbolOf	yellow ribbon	hope
+SymbolOf	trophy	victory
+SymbolOf	scale	justice
+SymbolOf	four leaf clover	luck
+SymbolOf	cross	christianity
+SymbolOf	red	passion
+SymbolOf	sunflower	passion
+SymbolOf	cloud	cream cheese
+SymbolOf	tiger	korea university
+SymbolOf	scale	justice system
+SymbolOf	christmas tree	christmas
+SymbolOf	red rose	love
+SymbolOf	give rose	love
+SymbolOf	brain	knowledge
+SymbolOf	sword	honour
+SymbolOf	sword	violence
+SymbolOf	rose	love
+SymbolOf	couch	nap
+SymbolOf	crescent	islam
+SymbolOf	red	anger
+SymbolOf	fire	passion
+SymbolOf	white	purity
+SymbolOf	river	change
+SymbolOf	green	environmentalism
+SymbolOf	green	inexperience
+SymbolOf	six point star	judaism
+SymbolOf	santaclaus	christmas
+SymbolOf	climb mountain	life
+SymbolOf	fire	primitive
+SymbolOf	castle	samurai
+SymbolOf	black	death
+SymbolOf	cow	diligence
+SymbolOf	choi seok-ho	monkey
+SymbolOf	coffee	sweet taste
+SymbolOf	pet	pitiness
+SymbolOf	yongsan	computer
+SymbolOf	hospital	operation
+SymbolOf	christmas	present
+SymbolOf	olympic game	1988
+SymbolOf	pet dog	comfortableness
+SymbolOf	coffee	sweetness
+SymbolOf	coffee	taste bitter
+SymbolOf	darkness	despair
+SymbolOf	corn dolly	curse
+SymbolOf	south pole	penguin
+SymbolOf	rabbit	moon
+SymbolOf	heavy metal rock	violence
+SymbolOf	gust of wind	memory
+SymbolOf	money	richness
+SymbolOf	swastika	nazi germany
+SymbolOf	circus	clown
+SymbolOf	rat	uncleanliness
+SymbolOf	cherry blossom	spring
+SymbolOf	ocean	your mother
+SymbolOf	night	rest
+SymbolOf	fish	christianity
+SymbolOf	four season	life cycle
+SymbolOf	road	person life
+SymbolOf	statue of liberty	new york city
+SymbolOf	star of david	judaism
+SymbolOf	australia	wilderness
+SymbolOf	gun	war
+SymbolOf	sun	passion
+SymbolOf	bullet	money
+SymbolOf	hospital	patient
+SymbolOf	olympics	gold medal
+SymbolOf	knife	power
+SymbolOf	picture	your past memory
+SymbolOf	red	blood
+SymbolOf	olympics	medal
+SymbolOf	diligence	of cow
+SymbolOf	love	loneliness
+SymbolOf	coffee	caffeine
+SymbolOf	fox muffler	girl friend
+SymbolOf	19	r rate movie
+SymbolOf	flower	beauty of it
+SymbolOf	bee	sharpness
+SymbolOf	native american	reservation
+SymbolOf	shovel	vain effort
+SymbolOf	circle	life
+SymbolOf	cake	calorie
+SymbolOf	red color	blood
+SymbolOf	index card	thing that you wil mention during presentation
+SymbolOf	couple	couple look
+SymbolOf	cigarette	lung cancer
+SymbolOf	christopher columbus	indian
+SymbolOf	pet dog	sweetness
+SymbolOf	choi suk ho	typical mrs. in korea
+SymbolOf	olympics	1988
+SymbolOf	hospital	sickness
+SymbolOf	pill	suicide
+SymbolOf	wed ring	wed
+SymbolOf	sweat	hard work
+SymbolOf	authority	power
+SymbolOf	crimson	korea university
+SymbolOf	couplelook	couple
+SymbolOf	man of character	modesty
+SymbolOf	index card	give presentation
+SymbolOf	marriage ring	marry couple
+SymbolOf	money	currency
+SymbolOf	cloud	cotton candy
+SymbolOf	white color	purity
+SymbolOf	cocoon	human body
+SymbolOf	red color	warn
+SymbolOf	pilgrim	body stench
+SymbolOf	pet dog	pity
+SymbolOf	blue color	hope
+SymbolOf	hospital	surgery
+SymbolOf	formal clothe	presentation
+SymbolOf	nation	korea university
+SymbolOf	kiss	love
+SymbolOf	cotton blanket	cloud
+SymbolOf	rainbow	peace
+SymbolOf	rainbow flag	peace
+SymbolOf	street	human life
+SymbolOf	night	sleep
+SymbolOf	circle of sun	japan
+SymbolOf	fox-muffler	girl friend
+SymbolOf	orange	sour taste
+SymbolOf	red color	passion
+SymbolOf	temple	thailand
+SymbolOf	book	knowledge
+SymbolOf	santa claus	christmas
+SymbolOf	heavy metal music	destruction
+SymbolOf	white	cloud
+SymbolOf	cloud	airplane
+SymbolOf	marriage	love
+SymbolOf	white	innocence
+SymbolOf	worldcup	hiddink
+SymbolOf	moon	memory
+SymbolOf	flower	sweat smell
+SymbolOf	black	evil
+SymbolOf	white	good
+SymbolOf	cockroach	uncleanliness
+SymbolOf	windmill	holland
+SymbolOf	penguin	linux
+SymbolOf	dollar sign	wealth
+SymbolOf	snow	winter
+SymbolOf	kangaroo	australia
+SymbolOf	red	danger
+SymbolOf	sword	military intervention
+SymbolOf	sword	masculinity
+SymbolOf	sword	combat
+SymbolOf	sword	war
+SymbolOf	sword	justice
+SymbolOf	color red	fire
+SymbolOf	pencil	study
+SymbolOf	surgery	hospital
+SymbolOf	baby	life
+SymbolOf	this	utopian cult
+SymbolOf	star and stripe	unite state
+SymbolOf	yellow ribbon	rememberence
+SymbolOf	rose plant	love
+SymbolOf	lab coat	scientific expertise
+SymbolOf	bridge	close ideological or ethical gap
+SymbolOf	corn-on-the-cob	harvest and thanksgiving
+SymbolOf	magnify glass	forensic science
+SymbolOf	statue of liberty	unite state
+SymbolOf	many person consider horseshoe to	good luck
+SymbolOf	yellow ribbon	hope

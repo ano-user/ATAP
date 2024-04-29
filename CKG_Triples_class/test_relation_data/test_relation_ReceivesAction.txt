@@ -1,0 +1,11 @@
+ReceivesAction	book	read
+ReceivesAction	food	eat
+ReceivesAction	hat	wear on head
+ReceivesAction	car	drive
+ReceivesAction	book	write
+ReceivesAction	apple	eat
+ReceivesAction	horse	ride
+ReceivesAction	shoe	wear on foot
+ReceivesAction	tank	use in war
+ReceivesAction	some plastic	recycle
+ReceivesAction	sailboat	propel by wind

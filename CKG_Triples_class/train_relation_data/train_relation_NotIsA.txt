@@ -1,0 +1,304 @@
+NotIsA	win	everything but it something
+NotIsA	house	home
+NotIsA	tortoise	turtle
+NotIsA	horse	human
+NotIsA	atheism	religion
+NotIsA	earth	ball
+NotIsA	cat	all domesticate
+NotIsA	white	color
+NotIsA	lie	truth
+NotIsA	cat	dog
+NotIsA	cause trouble	bad thing
+NotIsA	hate	wonderful feel
+NotIsA	sherlock holmes	real person
+NotIsA	wrench	screwdriver
+NotIsA	apple	vegetable
+NotIsA	machine	animal
+NotIsA	usa	democracy
+NotIsA	poodle	cat
+NotIsA	cry	bad thing
+NotIsA	astrology	science
+NotIsA	car	animal
+NotIsA	map	territory
+NotIsA	lobotomy	joy
+NotIsA	rub alcohol	lubricant
+NotIsA	carrot	law
+NotIsA	esperanto	native lanuage for anyone
+NotIsA	car	toy
+NotIsA	child	toy
+NotIsA	lie	good idea
+NotIsA	sushi	raw fish
+NotIsA	soccer	safe sport
+NotIsA	human	only intelligent animal
+NotIsA	stripe	same color
+NotIsA	fire	color of sulphur
+NotIsA	paint	that good
+NotIsA	map	true representation of reality
+NotIsA	bill clinton	hero
+NotIsA	salvation	possibility
+NotIsA	pig	pink or ceramic
+NotIsA	give pleasure	function of age or gender
+NotIsA	reflect image	reality except of itself
+NotIsA	choke chicken	act of violence
+NotIsA	drink coffee	good idea
+NotIsA	rotary telephone	use anymore
+NotIsA	statue of liberty	wear any underwear
+NotIsA	book	leatherbound anymore
+NotIsA	golden retriever	bright dog in world
+NotIsA	groundhog	type of pig
+NotIsA	person with medal	true hero
+NotIsA	house be home but home	house
+NotIsA	phone with dial	see anymore
+NotIsA	movie picture	happen
+NotIsA	scale	use nowadays
+NotIsA	helicopter ejector seat	good idea
+NotIsA	pepsi bottle	size
+NotIsA	tile floor	comfortable place to sleep
+NotIsA	gamble	sure way to win money
+NotIsA	hour glass	very accurate time measurer
+NotIsA	book worm	worm
+NotIsA	good lyricist	good singer
+NotIsA	fruit basket	good thing
+NotIsA	this	rainforest
+NotIsA	chew bone	real bone
+NotIsA	this	real duck
+NotIsA	person	wear life preserver
+NotIsA	he	shove penis down her throat
+NotIsA	plastic	naturally occur substance
+NotIsA	earth	sphere but elipse
+NotIsA	minute	very long time
+NotIsA	peace mean that there	any war
+NotIsA	delicious	nutricious
+NotIsA	couch	bed
+NotIsA	reptile	same thing as mammal
+NotIsA	sixty	proud time for fashion
+NotIsA	orange	only fruit
+NotIsA	this	swiss army knife
+NotIsA	turtle	machine
+NotIsA	pocket watch	use anymore
+NotIsA	monkey wrench	animal
+NotIsA	zoo	natural habitat of animal
+NotIsA	plunger	law enforcement tool
+NotIsA	this	metal coat hanger
+NotIsA	monarchy	representative form of government
+NotIsA	picture of pipe	pipe
+NotIsA	golf	physically rigorous sport
+NotIsA	man	only gregarious animal
+NotIsA	juice	100 natural
+NotIsA	seasickness	good thing
+NotIsA	model of duck	real duck
+NotIsA	sucess	accident
+NotIsA	chalk board	use any more
+NotIsA	lip read	efficient mode of communication
+NotIsA	american sign language	same language as speak english
+NotIsA	human be	plant
+NotIsA	age	exclusive factor in golf competition
+NotIsA	golf	real sport
+NotIsA	nothing	simple as it look
+NotIsA	tan	go 2 aford this
+NotIsA	there	enough time
+NotIsA	mercury	small planet
+NotIsA	this	dagger
+NotIsA	this	dagger i see before me
+NotIsA	automobile	major lifeform on earth
+NotIsA	turtle and tortoise	same thing
+NotIsA	fish be fun even if you	catch lot
+NotIsA	object	full circle
+NotIsA	too much junk food	healthy thing
+NotIsA	apple	pear
+NotIsA	picture	photograph
+NotIsA	antique jewelry	fine jewelry
+NotIsA	traffic jam	kind of jam you eat
+NotIsA	archery	team sport
+NotIsA	justice and judicial process	same thing
+NotIsA	machinery which	shield can hurt person
+NotIsA	cookie	healthy food
+NotIsA	be poor	have lot of money
+NotIsA	turtle and tortoise	same animal
+NotIsA	child	tabula rasa
+NotIsA	gek	solid or liquid
+NotIsA	gamble	good financial pasttime
+NotIsA	highway	crowd today
+NotIsA	brown	nice color for furniture
+NotIsA	puck	touch hockey stick
+NotIsA	this represent chicken but	chicken
+NotIsA	turner	suicide case
+NotIsA	it black underground because there	any light
+NotIsA	red indian	india
+NotIsA	word hill	verb
+NotIsA	knife edge	serrate
+NotIsA	steel	precious metal
+NotIsA	toy dog	same as real dog
+NotIsA	hot dog	consider gourmet food
+NotIsA	exam table	same as examination board
+NotIsA	man give dog bone	current event
+NotIsA	corn	rock band
+NotIsA	acid-free paper	new invention
+NotIsA	staircase	case of stair
+NotIsA	train ticket	license to train
+NotIsA	fire	metal
+NotIsA	nebraska	color
+NotIsA	catherine havasi	fire breathe chipmunk
+NotIsA	orange	president
+NotIsA	paper	metal
+NotIsA	nickel	lot of money
+NotIsA	pain	pleasurable sensation
+NotIsA	yellow	president
+NotIsA	water	metal
+NotIsA	watch tv	good thing
+NotIsA	santa claus	real person
+NotIsA	there	old mountain bike user
+NotIsA	karaoke	art form
+NotIsA	passageway	hall
+NotIsA	win	everything but it something
+NotIsA	house	home
+NotIsA	tortoise	turtle
+NotIsA	horse	human
+NotIsA	atheism	religion
+NotIsA	earth	ball
+NotIsA	cat	all domesticate
+NotIsA	white	color
+NotIsA	lie	truth
+NotIsA	cat	dog
+NotIsA	cause trouble	bad thing
+NotIsA	hate	wonderful feel
+NotIsA	sherlock holmes	real person
+NotIsA	wrench	screwdriver
+NotIsA	apple	vegetable
+NotIsA	machine	animal
+NotIsA	usa	democracy
+NotIsA	poodle	cat
+NotIsA	cry	bad thing
+NotIsA	astrology	science
+NotIsA	car	animal
+NotIsA	map	territory
+NotIsA	lobotomy	joy
+NotIsA	rub alcohol	lubricant
+NotIsA	carrot	law
+NotIsA	esperanto	native lanuage for anyone
+NotIsA	car	toy
+NotIsA	child	toy
+NotIsA	lie	good idea
+NotIsA	sushi	raw fish
+NotIsA	soccer	safe sport
+NotIsA	human	only intelligent animal
+NotIsA	stripe	same color
+NotIsA	fire	color of sulphur
+NotIsA	paint	that good
+NotIsA	map	true representation of reality
+NotIsA	bill clinton	hero
+NotIsA	salvation	possibility
+NotIsA	pig	pink or ceramic
+NotIsA	give pleasure	function of age or gender
+NotIsA	reflect image	reality except of itself
+NotIsA	choke chicken	act of violence
+NotIsA	drink coffee	good idea
+NotIsA	rotary telephone	use anymore
+NotIsA	statue of liberty	wear any underwear
+NotIsA	book	leatherbound anymore
+NotIsA	golden retriever	bright dog in world
+NotIsA	groundhog	type of pig
+NotIsA	person with medal	true hero
+NotIsA	house be home but home	house
+NotIsA	phone with dial	see anymore
+NotIsA	movie picture	happen
+NotIsA	scale	use nowadays
+NotIsA	helicopter ejector seat	good idea
+NotIsA	pepsi bottle	size
+NotIsA	tile floor	comfortable place to sleep
+NotIsA	gamble	sure way to win money
+NotIsA	hour glass	very accurate time measurer
+NotIsA	book worm	worm
+NotIsA	good lyricist	good singer
+NotIsA	fruit basket	good thing
+NotIsA	this	rainforest
+NotIsA	chew bone	real bone
+NotIsA	this	real duck
+NotIsA	person	wear life preserver
+NotIsA	he	shove penis down her throat
+NotIsA	plastic	naturally occur substance
+NotIsA	earth	sphere but elipse
+NotIsA	minute	very long time
+NotIsA	peace mean that there	any war
+NotIsA	delicious	nutricious
+NotIsA	couch	bed
+NotIsA	reptile	same thing as mammal
+NotIsA	sixty	proud time for fashion
+NotIsA	orange	only fruit
+NotIsA	this	swiss army knife
+NotIsA	turtle	machine
+NotIsA	pocket watch	use anymore
+NotIsA	monkey wrench	animal
+NotIsA	zoo	natural habitat of animal
+NotIsA	plunger	law enforcement tool
+NotIsA	this	metal coat hanger
+NotIsA	monarchy	representative form of government
+NotIsA	picture of pipe	pipe
+NotIsA	golf	physically rigorous sport
+NotIsA	man	only gregarious animal
+NotIsA	juice	100 natural
+NotIsA	seasickness	good thing
+NotIsA	model of duck	real duck
+NotIsA	sucess	accident
+NotIsA	chalk board	use any more
+NotIsA	lip read	efficient mode of communication
+NotIsA	american sign language	same language as speak english
+NotIsA	human be	plant
+NotIsA	age	exclusive factor in golf competition
+NotIsA	golf	real sport
+NotIsA	nothing	simple as it look
+NotIsA	tan	go 2 aford this
+NotIsA	there	enough time
+NotIsA	mercury	small planet
+NotIsA	this	dagger
+NotIsA	this	dagger i see before me
+NotIsA	automobile	major lifeform on earth
+NotIsA	turtle and tortoise	same thing
+NotIsA	fish be fun even if you	catch lot
+NotIsA	object	full circle
+NotIsA	too much junk food	healthy thing
+NotIsA	apple	pear
+NotIsA	picture	photograph
+NotIsA	antique jewelry	fine jewelry
+NotIsA	traffic jam	kind of jam you eat
+NotIsA	archery	team sport
+NotIsA	justice and judicial process	same thing
+NotIsA	machinery which	shield can hurt person
+NotIsA	cookie	healthy food
+NotIsA	be poor	have lot of money
+NotIsA	turtle and tortoise	same animal
+NotIsA	child	tabula rasa
+NotIsA	gek	solid or liquid
+NotIsA	gamble	good financial pasttime
+NotIsA	highway	crowd today
+NotIsA	brown	nice color for furniture
+NotIsA	puck	touch hockey stick
+NotIsA	this represent chicken but	chicken
+NotIsA	turner	suicide case
+NotIsA	it black underground because there	any light
+NotIsA	red indian	india
+NotIsA	word hill	verb
+NotIsA	knife edge	serrate
+NotIsA	steel	precious metal
+NotIsA	toy dog	same as real dog
+NotIsA	hot dog	consider gourmet food
+NotIsA	exam table	same as examination board
+NotIsA	man give dog bone	current event
+NotIsA	corn	rock band
+NotIsA	acid-free paper	new invention
+NotIsA	staircase	case of stair
+NotIsA	train ticket	license to train
+NotIsA	fire	metal
+NotIsA	nebraska	color
+NotIsA	catherine havasi	fire breathe chipmunk
+NotIsA	orange	president
+NotIsA	paper	metal
+NotIsA	nickel	lot of money
+NotIsA	pain	pleasurable sensation
+NotIsA	yellow	president
+NotIsA	water	metal
+NotIsA	watch tv	good thing
+NotIsA	santa claus	real person
+NotIsA	there	old mountain bike user
+NotIsA	karaoke	art form
+NotIsA	passageway	hall

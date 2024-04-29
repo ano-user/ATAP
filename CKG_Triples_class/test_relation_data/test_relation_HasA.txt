@@ -1,0 +1,41 @@
+HasA	bird	feather
+HasA	plant	leave
+HasA	car	seat
+HasA	guitar	six string
+HasA	ocean	salt water
+HasA	swiss cheese	hole
+HasA	tree	leave
+HasA	horse	four leg
+HasA	house	window
+HasA	car	four wheel
+HasA	earth	one moon
+HasA	bicycle	two wheel
+HasA	fruit	seed
+HasA	dice	six side
+HasA	cat	whisker
+HasA	bottle	liquid
+HasA	cat	four leg
+HasA	book	knowledge
+HasA	woman	baby
+HasA	guitar	6 string
+HasA	triangle	three side
+HasA	dog	four leg
+HasA	pen	ink
+HasA	dog	fur
+HasA	human	five finger on each hand
+HasA	library	book
+HasA	book	story
+HasA	cat	fur
+HasA	most pizza	cheese on it
+HasA	house	door
+HasA	wine	alcohol
+HasA	rose	thorn
+HasA	duck	bill
+HasA	man	penis
+HasA	car	headlight
+HasA	house	room
+HasA	cat	claw
+HasA	two person	sex
+HasA	chess board	64 square
+HasA	duck	web foot
+HasA	plant	green leave

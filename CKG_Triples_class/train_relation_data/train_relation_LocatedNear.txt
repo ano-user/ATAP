@@ -1,0 +1,6 @@
+LocatedNear	chair	table
+LocatedNear	shore	ocean
+LocatedNear	hot spring	volcano
+LocatedNear	chair	table
+LocatedNear	shore	ocean
+LocatedNear	hot spring	volcano

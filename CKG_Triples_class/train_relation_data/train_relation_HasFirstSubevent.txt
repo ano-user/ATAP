@@ -1,0 +1,1922 @@
+HasFirstSubevent	use calculator	turn it on
+HasFirstSubevent	travel	pack
+HasFirstSubevent	exercise	stretch
+HasFirstSubevent	write	think
+HasFirstSubevent	meet girl	say hello
+HasFirstSubevent	meet person	introduce yourself
+HasFirstSubevent	study	open your book
+HasFirstSubevent	make bread	gather ingredient
+HasFirstSubevent	eat	open your mouth
+HasFirstSubevent	drive to work	get in car
+HasFirstSubevent	meet friend	say hello
+HasFirstSubevent	go to get haircut	choose hairstyle
+HasFirstSubevent	have physical examination	go to doctor office
+HasFirstSubevent	live	be born
+HasFirstSubevent	read newspaper	read headline
+HasFirstSubevent	go to performance	get dress
+HasFirstSubevent	attend meet	greet everyone present
+HasFirstSubevent	jump out of window	fall
+HasFirstSubevent	have rest	lie down
+HasFirstSubevent	chop firewood	get axe
+HasFirstSubevent	wash your face	go to bathroom
+HasFirstSubevent	when you read	open book
+HasFirstSubevent	flirt	make eye contact
+HasFirstSubevent	play sport	warm up
+HasFirstSubevent	examine thing	look at thing
+HasFirstSubevent	sit down	bend your leg
+HasFirstSubevent	paint house	choose color
+HasFirstSubevent	make phone call	dial number
+HasFirstSubevent	jump rope	pick up rope
+HasFirstSubevent	teach other person	get their attention
+HasFirstSubevent	chat with friend	say hello
+HasFirstSubevent	go to sport event	get ticket
+HasFirstSubevent	pay bill	open envelope
+HasFirstSubevent	see movie	buy ticket
+HasFirstSubevent	light fire	light match
+HasFirstSubevent	start fire	make sure it doe not spread
+HasFirstSubevent	test your strength	look at others
+HasFirstSubevent	read book	open it
+HasFirstSubevent	eat dinner	sit down at your chair
+HasFirstSubevent	do housework	get out your clean supply
+HasFirstSubevent	have haircut	come to barber shop
+HasFirstSubevent	sleep	close your eye
+HasFirstSubevent	have bath	get wet
+HasFirstSubevent	have nervous breakdown	cry
+HasFirstSubevent	drill hole	get drill
+HasFirstSubevent	go to sport event	hand over your ticket
+HasFirstSubevent	meet interest person	introduce yourself
+HasFirstSubevent	have checkup	take off your clothe
+HasFirstSubevent	run	stretch
+HasFirstSubevent	jog	stretch
+HasFirstSubevent	hit bottle	open bottle
+HasFirstSubevent	jump up and down	bend your knee
+HasFirstSubevent	eat hamburger	salivate
+HasFirstSubevent	go to restaurant	look at menu
+HasFirstSubevent	socialize	approach someone
+HasFirstSubevent	go to sleep	lie down
+HasFirstSubevent	attend classical concert	buy ticket
+HasFirstSubevent	wash clothe	put them in wash machine
+HasFirstSubevent	hear sing	listen
+HasFirstSubevent	make it grow	water it
+HasFirstSubevent	bury cat	dig hole
+HasFirstSubevent	remember something	think about it for while
+HasFirstSubevent	take phone call	pick up receiver
+HasFirstSubevent	sew	get needle
+HasFirstSubevent	drive car	get in car
+HasFirstSubevent	send e-mail	turn on your computer
+HasFirstSubevent	die	stop breathe
+HasFirstSubevent	sing	open your mouth
+HasFirstSubevent	take shower	take off your clothe
+HasFirstSubevent	go to movie	buy ticket
+HasFirstSubevent	be born	cry
+HasFirstSubevent	make love	kiss
+HasFirstSubevent	have sex	get in bed
+HasFirstSubevent	apply for job	fill out application
+HasFirstSubevent	cross street	look both way
+HasFirstSubevent	clean your clothe	put them in wash machine
+HasFirstSubevent	look through telescope	focus
+HasFirstSubevent	go for jog	warm up
+HasFirstSubevent	do housework	clean
+HasFirstSubevent	drive your car	get into your car
+HasFirstSubevent	sew	thread needle
+HasFirstSubevent	sleep	close eye
+HasFirstSubevent	sleep at night	lie down
+HasFirstSubevent	breathe	inhale
+HasFirstSubevent	have friend over	welcome them
+HasFirstSubevent	express how funny something	be laugh
+HasFirstSubevent	meet girl	ask them their name
+HasFirstSubevent	talk to someone	open your mouth
+HasFirstSubevent	have checkup	make doctor appointment
+HasFirstSubevent	paint house	buy paint
+HasFirstSubevent	meet person	greet them
+HasFirstSubevent	watch film	sit down
+HasFirstSubevent	see friend	give them hug
+HasFirstSubevent	sit at computer	move mouse
+HasFirstSubevent	hunger	make your tummy growl
+HasFirstSubevent	sneeze	sniffle
+HasFirstSubevent	meditate	relax
+HasFirstSubevent	wish	clear mind
+HasFirstSubevent	shovel snow	get shovel
+HasFirstSubevent	want to have conversation	find somebody to talk to
+HasFirstSubevent	pick penny off floor	bend over
+HasFirstSubevent	go to market	count your money
+HasFirstSubevent	pass course	get your grade
+HasFirstSubevent	express information	think
+HasFirstSubevent	stand in line	wait
+HasFirstSubevent	wash your hand	turn on faucet
+HasFirstSubevent	go public	call newspaper
+HasFirstSubevent	wage war	get bad
+HasFirstSubevent	examine thing	pick it up
+HasFirstSubevent	cook curry	turn on stove
+HasFirstSubevent	play hockey	put on skate
+HasFirstSubevent	bring home some fish	clean them
+HasFirstSubevent	follow recipe	add ingredient in set order
+HasFirstSubevent	play chess	move piece
+HasFirstSubevent	bring in verdict	come to end
+HasFirstSubevent	chew your food	close your mouth
+HasFirstSubevent	play sport	put on appropriate clothe
+HasFirstSubevent	have conversation	choose subject to discuss
+HasFirstSubevent	ski	put on warm clothe
+HasFirstSubevent	attend school	register for class
+HasFirstSubevent	buy fresh fruit and vegetable	wash them
+HasFirstSubevent	set cup on table	pick up cup
+HasFirstSubevent	play game	know rule
+HasFirstSubevent	snore	fall deep asleep
+HasFirstSubevent	visit other country	find your passport
+HasFirstSubevent	buy food	select what you want
+HasFirstSubevent	hear crowd go mad	join in fun
+HasFirstSubevent	urinate	open your pant
+HasFirstSubevent	drive your car	turn key
+HasFirstSubevent	take midterm	study
+HasFirstSubevent	watch television	switch tv on
+HasFirstSubevent	do crossword puzzle	read clue
+HasFirstSubevent	become scuba diver	take licence
+HasFirstSubevent	see person play game	watch
+HasFirstSubevent	get drunk	drink more alcohol
+HasFirstSubevent	answer question	say answer
+HasFirstSubevent	wait your turn	keep quiet
+HasFirstSubevent	surf web	connect to web
+HasFirstSubevent	create something to help other person	give to other person
+HasFirstSubevent	keep thing orderly and tidy	organize thing
+HasFirstSubevent	be go to drive	fest you seat belt
+HasFirstSubevent	go on stage	perform
+HasFirstSubevent	get away with crime	hide
+HasFirstSubevent	program computer	open source code
+HasFirstSubevent	take shower	take you clothe of
+HasFirstSubevent	be in charge of project	separate function
+HasFirstSubevent	hear music	listen to harmony
+HasFirstSubevent	take stand	have strong opinion
+HasFirstSubevent	go to sleep	close your eye
+HasFirstSubevent	howl with laughter	take deep breath
+HasFirstSubevent	get divorce	have some freedom
+HasFirstSubevent	make phone call	lift receiver
+HasFirstSubevent	play chess	set up figure
+HasFirstSubevent	want to answer phone call	pick up telephone receiver
+HasFirstSubevent	switch on light	locate next light switch
+HasFirstSubevent	attend class	find seat
+HasFirstSubevent	get exercise	change into exercise clothe
+HasFirstSubevent	tickle	laugh
+HasFirstSubevent	wage war	write proclamation declare war
+HasFirstSubevent	play golf	get tee time
+HasFirstSubevent	cook	gather what you need
+HasFirstSubevent	determine truth	find out fact
+HasFirstSubevent	go see play	go to theatre
+HasFirstSubevent	wait for someone	find out where they be
+HasFirstSubevent	run marathon	get proper equipment
+HasFirstSubevent	conquer nation	invade it
+HasFirstSubevent	plan vacation	decide where you want to go
+HasFirstSubevent	go to pub	ask for beer
+HasFirstSubevent	sell your new book	smile
+HasFirstSubevent	make patchwork quilt	cut your fabric piece
+HasFirstSubevent	have food	take it to your mouth
+HasFirstSubevent	play violin	tune it
+HasFirstSubevent	go to store	look at your enviroment
+HasFirstSubevent	go to hairdresser	count your money
+HasFirstSubevent	serve justice	find truth
+HasFirstSubevent	prepare for vote	learn about candidate
+HasFirstSubevent	sate your hunger	stop eat
+HasFirstSubevent	play guitar	put your hand on neck
+HasFirstSubevent	buy christmas present	burn them
+HasFirstSubevent	score homer	wear protection
+HasFirstSubevent	kiss someone	feel very happy
+HasFirstSubevent	write	get idea
+HasFirstSubevent	holiday shop	buy useless junk
+HasFirstSubevent	contemplate	use your brain
+HasFirstSubevent	kill	grab weapon
+HasFirstSubevent	fight war	prepare army
+HasFirstSubevent	go outside for even	step outside
+HasFirstSubevent	go on strike	sit down
+HasFirstSubevent	meet person	you greet them
+HasFirstSubevent	play ball	throw ball to friend
+HasFirstSubevent	drive car	insert key in ignition
+HasFirstSubevent	go outside for even	open door
+HasFirstSubevent	wait on table	take food or drink order
+HasFirstSubevent	run marathon	move
+HasFirstSubevent	work	attend to task
+HasFirstSubevent	buy beer	wait for faom to settle
+HasFirstSubevent	go public	send out press release
+HasFirstSubevent	fight enemy	gird your loin
+HasFirstSubevent	solve problem	learn about problem domain
+HasFirstSubevent	fly in airplane	run through your checklist
+HasFirstSubevent	start fire	light match
+HasFirstSubevent	drive car	adjust your seat
+HasFirstSubevent	get divorce	tell other
+HasFirstSubevent	hang out at bar	look around
+HasFirstSubevent	have lunch	prepare meal
+HasFirstSubevent	have conversation	greet person
+HasFirstSubevent	make phone call	raise your arm
+HasFirstSubevent	commit murder	kill person
+HasFirstSubevent	see exhibit	look at art
+HasFirstSubevent	go for jog	put on jog shoe
+HasFirstSubevent	buy something for love one	think about what they like
+HasFirstSubevent	conquer your opponent	congratulate him
+HasFirstSubevent	fart	release gas from your intestine
+HasFirstSubevent	weed garden	find glove
+HasFirstSubevent	run marathon	drink lot of water
+HasFirstSubevent	empty your bladder	find toilet
+HasFirstSubevent	have nervous breakdown	squeeze bug
+HasFirstSubevent	read news	pick nose
+HasFirstSubevent	fish	go to bait shop
+HasFirstSubevent	take in film	get bucket of popcorn
+HasFirstSubevent	propose to woman	panic
+HasFirstSubevent	go to market	get basket
+HasFirstSubevent	get clean	take off all your clothe
+HasFirstSubevent	run twenty-six mile	collapse
+HasFirstSubevent	wait on line	get impatient
+HasFirstSubevent	watch film	listen
+HasFirstSubevent	fix computer	call hotline
+HasFirstSubevent	start fire	get match
+HasFirstSubevent	have heart attack	call 911
+HasFirstSubevent	work box office	take ticket
+HasFirstSubevent	enjoy day	smile
+HasFirstSubevent	watch tv show	turn on tv
+HasFirstSubevent	find information	remember it
+HasFirstSubevent	become scuba diver	learn to use gear
+HasFirstSubevent	go see play	find your seat
+HasFirstSubevent	play harp	choose song to play
+HasFirstSubevent	visit museum	decide which museum to visit
+HasFirstSubevent	wash your car	go to car wash
+HasFirstSubevent	clean your room	locate mess
+HasFirstSubevent	die	stop live
+HasFirstSubevent	open business	have product or service to sell
+HasFirstSubevent	see movie	get seat
+HasFirstSubevent	take walk	go outside
+HasFirstSubevent	go to school	put on your shoe
+HasFirstSubevent	memorize	repeat subject
+HasFirstSubevent	see movie	drive to theatre
+HasFirstSubevent	teach other person	make sure they be listen
+HasFirstSubevent	get drunk	open bottle or can
+HasFirstSubevent	run twenty-six mile	practice run short distance
+HasFirstSubevent	get away with crime	lie low
+HasFirstSubevent	lie	think of lie
+HasFirstSubevent	love another	tell them
+HasFirstSubevent	buy something	go shop
+HasFirstSubevent	start flame or fire	light match
+HasFirstSubevent	play piano	sit on bench
+HasFirstSubevent	drive car	get inside
+HasFirstSubevent	keep thing orderly and tidy	get organize
+HasFirstSubevent	play game	read rule
+HasFirstSubevent	take midterm	receive test
+HasFirstSubevent	commit perjury	think of good lie
+HasFirstSubevent	go to pub	find seat
+HasFirstSubevent	see pretty woman	try to make eye contact
+HasFirstSubevent	hang out at bar	order beer
+HasFirstSubevent	drive your car	get in car
+HasFirstSubevent	buy something small	go into shop
+HasFirstSubevent	write letter	compose your thought
+HasFirstSubevent	sate your hunger	obtain food
+HasFirstSubevent	conquer nation	you beat their army
+HasFirstSubevent	discover truth	search for evidence
+HasFirstSubevent	surf net	log on
+HasFirstSubevent	enjoy company of your friend	say hello
+HasFirstSubevent	go to work and earn money	save
+HasFirstSubevent	do housework	find sponge
+HasFirstSubevent	go to sport event	purchase ticket
+HasFirstSubevent	reach tentative agreement	agree on something
+HasFirstSubevent	buy product	pay for them
+HasFirstSubevent	eat healthily	eat fruit
+HasFirstSubevent	get clean	wash yourself
+HasFirstSubevent	give gift	purchase gift
+HasFirstSubevent	get away with crime	celebrate
+HasFirstSubevent	sit on chair	align your body
+HasFirstSubevent	dance	turn on some music
+HasFirstSubevent	do crossword puzzle	get pencil or pen
+HasFirstSubevent	groom	wash
+HasFirstSubevent	buy something	decide what to buy
+HasFirstSubevent	go for jog	take deep breath
+HasFirstSubevent	go fish	cast
+HasFirstSubevent	breathe	feel refresh
+HasFirstSubevent	go on vacation	reserve lodge
+HasFirstSubevent	relax	sit or lie down
+HasFirstSubevent	run twenty-six mile	stretch
+HasFirstSubevent	howl with laughter	breath
+HasFirstSubevent	play baseball	get bat
+HasFirstSubevent	pay cash	take money out of wallet
+HasFirstSubevent	talk	move your tounge
+HasFirstSubevent	buy something for love one	think about what they want
+HasFirstSubevent	fiddle	waste time
+HasFirstSubevent	go for walk	put on your walk shoe
+HasFirstSubevent	shop	get money
+HasFirstSubevent	receive cut	apply direct pressure
+HasFirstSubevent	go grocery shop	make list
+HasFirstSubevent	determine truth	determine what be not truth
+HasFirstSubevent	make out	decide who to make out with
+HasFirstSubevent	play ball	find ball to play with
+HasFirstSubevent	get in shape	start be more physically active
+HasFirstSubevent	clean your room	start sort through pile of stuff
+HasFirstSubevent	attend meet	start take note
+HasFirstSubevent	soak in hotspring	get into water
+HasFirstSubevent	have shower	adjust water temperature
+HasFirstSubevent	make patchwork quilt	gather material
+HasFirstSubevent	wash your clothe	put them in wash machine
+HasFirstSubevent	surf web	make decision to do so
+HasFirstSubevent	visit art gallery	enter build
+HasFirstSubevent	drink bottle of coke	screw open lid
+HasFirstSubevent	stand in line	observe how long line be
+HasFirstSubevent	boot up computer	push power button
+HasFirstSubevent	cook curry	check you have nessicary ingredient
+HasFirstSubevent	conquer nation	change name of city
+HasFirstSubevent	play guitar	pick it up
+HasFirstSubevent	walk around lake	start to walk
+HasFirstSubevent	play lacrosse	put on your shoe
+HasFirstSubevent	have fun	find place to party
+HasFirstSubevent	fish	put bait on your hook
+HasFirstSubevent	get away with crime	breathe sigh of relief
+HasFirstSubevent	remember phone number	concentrate
+HasFirstSubevent	buy beer	select brand
+HasFirstSubevent	chop firewood	pick up ax
+HasFirstSubevent	bake cake	find recipe
+HasFirstSubevent	fly in airplane	hope you do not crash
+HasFirstSubevent	type	put finger on keyboard
+HasFirstSubevent	play poker	shuffle card
+HasFirstSubevent	clean your room	look around
+HasFirstSubevent	play cribbage	cut to see who go first
+HasFirstSubevent	sail boat	get in boat
+HasFirstSubevent	play poker	ante up
+HasFirstSubevent	bury cat	dig grind
+HasFirstSubevent	act in play	learn script
+HasFirstSubevent	cool off	drink beer
+HasFirstSubevent	christmas shop	buy present for your wife
+HasFirstSubevent	eat apple	pick it up
+HasFirstSubevent	watch tv show	look for remote
+HasFirstSubevent	take examination	read question carefully
+HasFirstSubevent	urinate	unzip your pant
+HasFirstSubevent	go somewhere	find direction
+HasFirstSubevent	go to laundromat	bring clothe
+HasFirstSubevent	look through telescope	adjust focus
+HasFirstSubevent	kill person	give yourself up to police
+HasFirstSubevent	connect internet in germany	type your password
+HasFirstSubevent	play ball	pick up ball
+HasFirstSubevent	check vital sign	look at person
+HasFirstSubevent	wait table	walk to table
+HasFirstSubevent	relax	stop think
+HasFirstSubevent	jump rope	swing rope over your head
+HasFirstSubevent	clean your clothe	put them away
+HasFirstSubevent	look through telescope	put your eye to eyepiece
+HasFirstSubevent	hear sing be determine what song	be sing
+HasFirstSubevent	urinate	go to washroom
+HasFirstSubevent	take stand	get swear in
+HasFirstSubevent	take shower	turn on water
+HasFirstSubevent	listen to music	get comfortable
+HasFirstSubevent	eat in fast food restaurant	order food
+HasFirstSubevent	wake up in morning	open your eye
+HasFirstSubevent	have shower	get undress
+HasFirstSubevent	take break	stop work
+HasFirstSubevent	go for haircut	sit in chair
+HasFirstSubevent	take class	pay for it
+HasFirstSubevent	get hit	feel pressure
+HasFirstSubevent	type	put your finger on keyboard
+HasFirstSubevent	tie your shoe	bend over
+HasFirstSubevent	do housework	get out clean supply
+HasFirstSubevent	program	create alogrithm
+HasFirstSubevent	use calculator	turn on calculator
+HasFirstSubevent	wait your turn	twiddle my thumb
+HasFirstSubevent	eat apple	wash
+HasFirstSubevent	cook	wash my hand
+HasFirstSubevent	play chess	set up board
+HasFirstSubevent	dance	listen to music
+HasFirstSubevent	chop firewood	take axe
+HasFirstSubevent	commit murder	find reason
+HasFirstSubevent	procreate	find mate
+HasFirstSubevent	play baseball	set up base
+HasFirstSubevent	fight enemy	get weapon
+HasFirstSubevent	get job	decide to get job
+HasFirstSubevent	follow recipe	read recipe
+HasFirstSubevent	work	check email
+HasFirstSubevent	watch television show	turn television on
+HasFirstSubevent	go for walk	put your walk shoe on
+HasFirstSubevent	meet girl	introduce yourself
+HasFirstSubevent	go off strike	go back to work
+HasFirstSubevent	kill someone	panic
+HasFirstSubevent	go to performance	get ticket
+HasFirstSubevent	listen to radio	tune to right channel
+HasFirstSubevent	go to bed	take your clothe off
+HasFirstSubevent	hike	stretch
+HasFirstSubevent	have pee	go to restroom
+HasFirstSubevent	get some money from someone	count money
+HasFirstSubevent	get some money from someone	ask them for it
+HasFirstSubevent	run in marathon	drink lot of water
+HasFirstSubevent	comfort friend	hug
+HasFirstSubevent	read book	open cover
+HasFirstSubevent	take examination	get out your pencil
+HasFirstSubevent	commit perjury	make up convince story
+HasFirstSubevent	listen	shut up
+HasFirstSubevent	set cup on table	let go of handle
+HasFirstSubevent	bathe	remove your clothe
+HasFirstSubevent	punch someone	make fist
+HasFirstSubevent	drive car	turn key
+HasFirstSubevent	pay bill	receive bill in mail
+HasFirstSubevent	reach tentative agreement	deliver your point of view
+HasFirstSubevent	win baseball game	start game
+HasFirstSubevent	make bread	get out flour
+HasFirstSubevent	hear testimony	think about it
+HasFirstSubevent	buy shirt	go to store
+HasFirstSubevent	start fire	get wood
+HasFirstSubevent	dream	fall asleep
+HasFirstSubevent	stay in bed	sleep
+HasFirstSubevent	stop stand in it	get out of it
+HasFirstSubevent	copulate	smile
+HasFirstSubevent	taste something sweet	smile
+HasFirstSubevent	have heart attack	panic
+HasFirstSubevent	bathe	get naked
+HasFirstSubevent	clean your room	go to your room
+HasFirstSubevent	stay fit	excercise
+HasFirstSubevent	answer question	open your mouth
+HasFirstSubevent	play chess	make open move
+HasFirstSubevent	meet person	greet
+HasFirstSubevent	have party	send invitation
+HasFirstSubevent	hike	start walk
+HasFirstSubevent	memorize	study
+HasFirstSubevent	give assistance	assess need
+HasFirstSubevent	jump up and down	jump up
+HasFirstSubevent	play guitar	pick up your guitar
+HasFirstSubevent	jump out of window	scream
+HasFirstSubevent	reach tentative agreement	shake hand
+HasFirstSubevent	attend lecture	find seat
+HasFirstSubevent	talk	open your mouth
+HasFirstSubevent	groom	take shower
+HasFirstSubevent	examine thing	look at it
+HasFirstSubevent	determine truth	think
+HasFirstSubevent	tie your shoelace	grasp shoelace
+HasFirstSubevent	tie your shoelace	grasp shoe string
+HasFirstSubevent	debate politics	have opinion
+HasFirstSubevent	enjoy day	wake up
+HasFirstSubevent	find lose item	search
+HasFirstSubevent	study	read
+HasFirstSubevent	play chess	move your pawn
+HasFirstSubevent	lose weight	buy new clothe
+HasFirstSubevent	get onto web	check email
+HasFirstSubevent	bring suit	contact lawyer
+HasFirstSubevent	go for walk	put my shoe on
+HasFirstSubevent	swim	get in water
+HasFirstSubevent	do crossword puzzle	get pencil
+HasFirstSubevent	have shower	get wet
+HasFirstSubevent	change society	write manifesto
+HasFirstSubevent	get some money from someone	thank them
+HasFirstSubevent	go to laundromat	open wash machine
+HasFirstSubevent	eat	find food
+HasFirstSubevent	read to your child	choose story
+HasFirstSubevent	start family	find partner
+HasFirstSubevent	meet friend	greet him
+HasFirstSubevent	paint house	buy some paint
+HasFirstSubevent	bathe	take off your clothe
+HasFirstSubevent	diminish your own hunger	eat
+HasFirstSubevent	talk with someone far away	telephone them
+HasFirstSubevent	go out at night	get ready
+HasFirstSubevent	bake cake	preheat oven
+HasFirstSubevent	listen	stop talk
+HasFirstSubevent	program	make coffee
+HasFirstSubevent	skate	put on your skate
+HasFirstSubevent	fix computer	turn it off
+HasFirstSubevent	get contract	read it
+HasFirstSubevent	do some exercise	stretch
+HasFirstSubevent	get good grade	smile
+HasFirstSubevent	go to mall	look around for friend
+HasFirstSubevent	sleigh ride	get into sleigh
+HasFirstSubevent	sleep	lie down
+HasFirstSubevent	play lacrosse	learn rule
+HasFirstSubevent	tie your shoelace	put your shoe on
+HasFirstSubevent	reproduce	whip it out
+HasFirstSubevent	diminish your own hunger	eat food
+HasFirstSubevent	dance samba	find partner
+HasFirstSubevent	tickle	find someone to tickle
+HasFirstSubevent	hear sing	smile
+HasFirstSubevent	send e-mail	write e-mail
+HasFirstSubevent	attend meet	take seat
+HasFirstSubevent	have lunch	get out dish
+HasFirstSubevent	go on stage	bow to audience
+HasFirstSubevent	go on stage	acknowledge audience applause
+HasFirstSubevent	go on stage	walk to microphone
+HasFirstSubevent	go on stage	say your first line
+HasFirstSubevent	have lunch	enter kitchen
+HasFirstSubevent	go on stage	smile at audience
+HasFirstSubevent	bake cake	purchase ingredient
+HasFirstSubevent	advance into battle	generate some adrenaline
+HasFirstSubevent	shop	enter shop
+HasFirstSubevent	wash your hand	roll up sleeve
+HasFirstSubevent	have lunch	get out book
+HasFirstSubevent	drill hole	put in drill bite
+HasFirstSubevent	have lunch	get out something to read
+HasFirstSubevent	make shop list	establish priority
+HasFirstSubevent	drill hole	use vise
+HasFirstSubevent	buy beer	attract bartender attention
+HasFirstSubevent	have lunch	read menu
+HasFirstSubevent	empty your bladder	relax select muscle
+HasFirstSubevent	go on stage	take your position
+HasFirstSubevent	drill hole	plug in drill
+HasFirstSubevent	read book	read dust cover
+HasFirstSubevent	drill hole	mark spot
+HasFirstSubevent	play piano	put your hand on key
+HasFirstSubevent	have lunch	find good restaurant
+HasFirstSubevent	relax	slow breathe
+HasFirstSubevent	create art	get art supply
+HasFirstSubevent	have lunch	get company
+HasFirstSubevent	drive your car	check visibility
+HasFirstSubevent	cut your hair	hold very still
+HasFirstSubevent	write program	determine purpose
+HasFirstSubevent	take walk	dress for occasion
+HasFirstSubevent	drill hole	get tool from garage
+HasFirstSubevent	play piano	exercise
+HasFirstSubevent	have lunch	get tray
+HasFirstSubevent	paint picture	see it in mind eye
+HasFirstSubevent	have food	start plan meal
+HasFirstSubevent	design software	create prototype
+HasFirstSubevent	fall	accelerate downward
+HasFirstSubevent	have lunch	evaluate your hunger
+HasFirstSubevent	have lunch	make choice
+HasFirstSubevent	jump up and down	make sure that you have clearance
+HasFirstSubevent	eat in restaurant	sit down at table
+HasFirstSubevent	have party	invite person
+HasFirstSubevent	have asthma attack	use inhaler
+HasFirstSubevent	have conversation	listen
+HasFirstSubevent	drive your car	adjust seat
+HasFirstSubevent	rest	lie down
+HasFirstSubevent	express information	speak
+HasFirstSubevent	surf web	turn on your computer
+HasFirstSubevent	rest	sit down
+HasFirstSubevent	make phone call	pick up receiver
+HasFirstSubevent	agree with someone	nod your head
+HasFirstSubevent	read letter	open envelope
+HasFirstSubevent	get fit	exercise
+HasFirstSubevent	get good grade	celebrate
+HasFirstSubevent	pray	kneel down
+HasFirstSubevent	take bath	take clothe off
+HasFirstSubevent	read to your child	choose book
+HasFirstSubevent	clean your room	pick up clutter
+HasFirstSubevent	cogitate	think
+HasFirstSubevent	have heart attack	feel pain in your arm or chest
+HasFirstSubevent	see something new	want to buy it
+HasFirstSubevent	change society	know everyone
+HasFirstSubevent	clean house	make sure you have clean fluid
+HasFirstSubevent	learn something new	never think about it again
+HasFirstSubevent	go to restaurant	decide what to eat
+HasFirstSubevent	watch musician perform	sit down and listen
+HasFirstSubevent	mail letter	seal envelope
+HasFirstSubevent	write	put pen down
+HasFirstSubevent	contemplate	relax
+HasFirstSubevent	see	open your eye
+HasFirstSubevent	make love	turn off light
+HasFirstSubevent	want equality for everyone	choose specific ideology
+HasFirstSubevent	commit crime	form plan
+HasFirstSubevent	have prohibitionist society	prohibit person
+HasFirstSubevent	commit genocide	start kill specific group
+HasFirstSubevent	make wine	ferment grape juice
+HasFirstSubevent	want something	think about how to get it
+HasFirstSubevent	change clothe	remove your clothe
+HasFirstSubevent	make tea	boil water
+HasFirstSubevent	write paper	choose topic
+HasFirstSubevent	get dress	put on underwear
+HasFirstSubevent	get up in morning	urinate
+HasFirstSubevent	wake up	get out of bed
+HasFirstSubevent	be get ready for bed	brush your tooth
+HasFirstSubevent	get on train	find vacant seat
+HasFirstSubevent	choose book	check author of book
+HasFirstSubevent	make telephone call	pick up telephone receiver
+HasFirstSubevent	go swim	put on bathe suit
+HasFirstSubevent	cross street	look leave and right
+HasFirstSubevent	go out	wear clothe
+HasFirstSubevent	wake up	stretch out
+HasFirstSubevent	turn on tv	find channel to watch
+HasFirstSubevent	drink coffee	prepare water
+HasFirstSubevent	want to do research on something	find resource that be relevant to your research
+HasFirstSubevent	drive	turn on engine
+HasFirstSubevent	want to do research	find relevant research
+HasFirstSubevent	clean	clean with rugged cloth
+HasFirstSubevent	want to sleep	brush your tooth
+HasFirstSubevent	construct	design layout
+HasFirstSubevent	wakt up in morning	open your eye
+HasFirstSubevent	sing song	level your voice
+HasFirstSubevent	study	open book
+HasFirstSubevent	travel to suburb	reserve seat for transportation
+HasFirstSubevent	want to play game	study
+HasFirstSubevent	connect internet	boot
+HasFirstSubevent	put computer on	press start button
+HasFirstSubevent	sleep	brush your tooth
+HasFirstSubevent	take exercise	warm up
+HasFirstSubevent	go swim	put on your swim suit
+HasFirstSubevent	read	open book
+HasFirstSubevent	clean clothe	put them in wash machine
+HasFirstSubevent	chew your food	bite it
+HasFirstSubevent	buy something for love one	decide what to buy
+HasFirstSubevent	use vcr	put tape in
+HasFirstSubevent	go to sleep	turn off light
+HasFirstSubevent	have penis	play with it
+HasFirstSubevent	deal drug	find buyer
+HasFirstSubevent	wake up	brush tooth
+HasFirstSubevent	make tea	put water in kettle
+HasFirstSubevent	phone someone	find phone number
+HasFirstSubevent	work out	stretch
+HasFirstSubevent	eat ice cream cone	lick up drip
+HasFirstSubevent	unlock door	get out key
+HasFirstSubevent	lock your key in car	swear
+HasFirstSubevent	report emergency	dial 911
+HasFirstSubevent	study for test	review material
+HasFirstSubevent	scratch itch	reach for it
+HasFirstSubevent	be lonely	cry
+HasFirstSubevent	find something funny	laugh
+HasFirstSubevent	be happy	smile
+HasFirstSubevent	search for answer	start think
+HasFirstSubevent	wake	start new day
+HasFirstSubevent	die	stop think
+HasFirstSubevent	drive car	start car
+HasFirstSubevent	mow lawn	get out lawnmower
+HasFirstSubevent	use internet	connect via your computer
+HasFirstSubevent	brush your hair	pick up brush
+HasFirstSubevent	bathe	undress
+HasFirstSubevent	drink beer	open container
+HasFirstSubevent	start car engine	insert key
+HasFirstSubevent	sneeze	inhale
+HasFirstSubevent	sue someone	file complaint
+HasFirstSubevent	buy pet	choose kind of pet
+HasFirstSubevent	die	leave your physical body
+HasFirstSubevent	clean your room	put away book and other thing
+HasFirstSubevent	get sick	become infect by disease
+HasFirstSubevent	wake up in morning	shut off your alarm clock
+HasFirstSubevent	make dinner	select recipe
+HasFirstSubevent	get dress	pick out your clothe
+HasFirstSubevent	wake up	turnoff alarm clock
+HasFirstSubevent	eat banana	take off skin
+HasFirstSubevent	win horse race	go to winner circle
+HasFirstSubevent	buy house	clean it
+HasFirstSubevent	break up with your boyfriend	get drunk
+HasFirstSubevent	prepare meal	wash your hand
+HasFirstSubevent	meet new person	use good manner
+HasFirstSubevent	break horse	make friend with him
+HasFirstSubevent	graduate	party
+HasFirstSubevent	get bite by mosquito	swat it
+HasFirstSubevent	wake up	drink coffee
+HasFirstSubevent	ride horse	put on bridle
+HasFirstSubevent	meet new person	shake his hand
+HasFirstSubevent	ride in horse race	break out of gate
+HasFirstSubevent	fall off horse	say dirty word
+HasFirstSubevent	get new kitten	relinquish your authority
+HasFirstSubevent	make hard boil egg	fill pan with water
+HasFirstSubevent	adopt kitten	buy catfood
+HasFirstSubevent	cut yourself	bleed
+HasFirstSubevent	get dress	put on clothe
+HasFirstSubevent	sing	take breath
+HasFirstSubevent	emulate game	download rom
+HasFirstSubevent	leave house	shut door
+HasFirstSubevent	go swim	get change into your costume
+HasFirstSubevent	when you make phone call	pick up phone
+HasFirstSubevent	brush your tooth	pick up your toothbrush
+HasFirstSubevent	make tea	heat water
+HasFirstSubevent	slime somebody	cover them with slime
+HasFirstSubevent	kick somebody ass	punch them in face
+HasFirstSubevent	eat dick	open your mouth wide
+HasFirstSubevent	kick somebody in nut	yell
+HasFirstSubevent	ask girl out	get nervous
+HasFirstSubevent	get dress	put on underware
+HasFirstSubevent	win lottery	buy expensive thing
+HasFirstSubevent	be born	come out of your mother
+HasFirstSubevent	fence	salute your oponent
+HasFirstSubevent	meet someone	tell them your name
+HasFirstSubevent	become doctor	get into medical school
+HasFirstSubevent	meet someone	introduce yourself
+HasFirstSubevent	watch movie	turn on tv
+HasFirstSubevent	call someone on phone	look up phone number
+HasFirstSubevent	take test	write down your name
+HasFirstSubevent	sue someone	prepare to spend lot of money
+HasFirstSubevent	see someone you know	greet that person
+HasFirstSubevent	get seat in restaurant	read menu
+HasFirstSubevent	board train	buy ticket
+HasFirstSubevent	piss	open your zip
+HasFirstSubevent	cook	have fire
+HasFirstSubevent	read book	look at page
+HasFirstSubevent	enter	count person inside
+HasFirstSubevent	sign contract	use your brain
+HasFirstSubevent	leave room	open door
+HasFirstSubevent	get home	take shower
+HasFirstSubevent	leave home	check weather
+HasFirstSubevent	wake up	brush your tooth
+HasFirstSubevent	buy book	read something about it
+HasFirstSubevent	get in your car	buckle up
+HasFirstSubevent	put food in your mouth	chew
+HasFirstSubevent	hear bad joke	groan
+HasFirstSubevent	have poor employee	threaten to fire her
+HasFirstSubevent	quit your job	feel free
+HasFirstSubevent	go to bathroom	unzip your pant
+HasFirstSubevent	become religious fundamentalist	turn off your mind
+HasFirstSubevent	kick ball	swing your leg backward
+HasFirstSubevent	when cut bread	acquire knife
+HasFirstSubevent	eat	wash your hand
+HasFirstSubevent	you get marry	say i do
+HasFirstSubevent	want to watch tv	turn tv on
+HasFirstSubevent	take shower or bath	remove all your clothe
+HasFirstSubevent	pay by credit card	get your credit card out
+HasFirstSubevent	want to sit down	look for something to sit on
+HasFirstSubevent	travel	decide how
+HasFirstSubevent	lose your curiosity	stop grow
+HasFirstSubevent	read newspaper	look at headline
+HasFirstSubevent	laugh	show your tooth
+HasFirstSubevent	wake up	hit snooze button
+HasFirstSubevent	take test	fill in your name
+HasFirstSubevent	pick up phone	say hello
+HasFirstSubevent	change gear	take your foot off accelerator
+HasFirstSubevent	eat burger	open your mouth
+HasFirstSubevent	open can	use can opener
+HasFirstSubevent	fall hungry	find something to eat
+HasFirstSubevent	go on stage	walk on stage
+HasFirstSubevent	give gift	get gift
+HasFirstSubevent	scuba dive	get scuba gear
+HasFirstSubevent	eat hamburger	get it
+HasFirstSubevent	meet interest person	see them
+HasFirstSubevent	start fire	find burnable material
+HasFirstSubevent	conduct trial	call court to order
+HasFirstSubevent	grow vegetable	clear grind for garden
+HasFirstSubevent	have haircut	schedule appointment
+HasFirstSubevent	stand in queue	sigh
+HasFirstSubevent	procreate	form will to do so
+HasFirstSubevent	destroy your enemy	victory dance
+HasFirstSubevent	find information	store it in memory
+HasFirstSubevent	fight enemy	determine who enemy be
+HasFirstSubevent	teach other person	learn material yourself
+HasFirstSubevent	use calculator	make sure it be on
+HasFirstSubevent	read news	sit down
+HasFirstSubevent	go to movie	leave house
+HasFirstSubevent	give clue	make sure it be accurate
+HasFirstSubevent	hear crowd go mad	wonder what happen
+HasFirstSubevent	fly in airplane	go to airport
+HasFirstSubevent	wait for someone	stand around
+HasFirstSubevent	talk to someone	walk away
+HasFirstSubevent	move car	put it in gear
+HasFirstSubevent	know how stock market perform	check your account balance
+HasFirstSubevent	taste something sweet	savor it
+HasFirstSubevent	pretend	willingly suspend your disbelief
+HasFirstSubevent	celebrate	get happy
+HasFirstSubevent	go into coma be	suffer insult to brain
+HasFirstSubevent	love someone else	sympathise with them
+HasFirstSubevent	strike match	grsp it firmly
+HasFirstSubevent	sate your hunger	take nap
+HasFirstSubevent	ride bike	put up kick stand
+HasFirstSubevent	help someone	notice that they need help
+HasFirstSubevent	catch mumps	feel bad
+HasFirstSubevent	learn about science	take note
+HasFirstSubevent	make patchwork quilt	decide on pattern
+HasFirstSubevent	howl with laughter	see or hear something funny
+HasFirstSubevent	thank someone be	look them in eye
+HasFirstSubevent	write term paper	decide upon topic
+HasFirstSubevent	scuba dive	find deep water
+HasFirstSubevent	commit perjury	get your lie straight
+HasFirstSubevent	see particular program	stop and watch
+HasFirstSubevent	take bath	take off your shoe
+HasFirstSubevent	attend lecture	find good seat
+HasFirstSubevent	sign contract	add your signature
+HasFirstSubevent	get job	buy appropriate attire
+HasFirstSubevent	play soccer	join team
+HasFirstSubevent	pass course	exhale
+HasFirstSubevent	do crossword puzzle	find pencil
+HasFirstSubevent	ride bicycle	fall over
+HasFirstSubevent	kill person	say oppps
+HasFirstSubevent	drink alcohol	open bottle
+HasFirstSubevent	fix computer	look at it in consternation
+HasFirstSubevent	have checkup	roll up my sleeve
+HasFirstSubevent	hear sing	ear
+HasFirstSubevent	meet girl	tell them lie
+HasFirstSubevent	know how stock market perform	celebrate
+HasFirstSubevent	wash your clothe	check button
+HasFirstSubevent	watch movie	open your eye
+HasFirstSubevent	run out of steam	fall over
+HasFirstSubevent	cook curry	go to store
+HasFirstSubevent	score homer	walk to home plate
+HasFirstSubevent	eat lunch	buy or make some food
+HasFirstSubevent	take examination	get pencil
+HasFirstSubevent	sit on chair	face away from chair
+HasFirstSubevent	score homer	hit ball
+HasFirstSubevent	get up early	get out of bed
+HasFirstSubevent	climb mountain	get to top
+HasFirstSubevent	lose consciousness	pass out
+HasFirstSubevent	stand up	straighten your body
+HasFirstSubevent	play sport	wear right clothe
+HasFirstSubevent	listen to music	select music to listen to
+HasFirstSubevent	fish	go to body of water
+HasFirstSubevent	hear news	pay attention
+HasFirstSubevent	teach other person	determine what they already know
+HasFirstSubevent	get divorce	have unhappy marriage
+HasFirstSubevent	tell story	narrate
+HasFirstSubevent	relax	slow down
+HasFirstSubevent	take bus	ride to location
+HasFirstSubevent	drink alcohol	put alcohol in your mouth
+HasFirstSubevent	relax	sigh
+HasFirstSubevent	read magazine	look at magazine cover
+HasFirstSubevent	eat in restaurant	sit at table
+HasFirstSubevent	taste something sweet	enjoy
+HasFirstSubevent	weed garden	pull weed out of grind
+HasFirstSubevent	breathe	take air into your body
+HasFirstSubevent	create art	express yourself
+HasFirstSubevent	relax	calm down
+HasFirstSubevent	stand in queue	wait behind other person
+HasFirstSubevent	bring home some fish	wash your hand
+HasFirstSubevent	tell many person about something	call your friend
+HasFirstSubevent	test your strength	set up dumbbell
+HasFirstSubevent	pass sentence	ask defendant to stand
+HasFirstSubevent	paint	lie down tarp
+HasFirstSubevent	help someone	ask permission
+HasFirstSubevent	act in play	rehearse
+HasFirstSubevent	weed garden	gather your tool
+HasFirstSubevent	go to mall	find your car key
+HasFirstSubevent	pay by check	date check
+HasFirstSubevent	comfort friend	find out what be wrong
+HasFirstSubevent	entertain person	take their coat
+HasFirstSubevent	go to work	boot your computer
+HasFirstSubevent	urinate	put toilet lid up
+HasFirstSubevent	sate your hunger	choose what to eat
+HasFirstSubevent	cook dinner	find recipe
+HasFirstSubevent	use vcr	make sure it be turn on
+HasFirstSubevent	travel	find out where you be go
+HasFirstSubevent	play	pick game
+HasFirstSubevent	meet interest person	talk to person
+HasFirstSubevent	see story	read title
+HasFirstSubevent	tie your shoelace	kneel down on one knee
+HasFirstSubevent	visit art gallery	look at art
+HasFirstSubevent	ride bike	put your hand on handlebar
+HasFirstSubevent	play chess	set up game piece
+HasFirstSubevent	find lose item	return it to owner
+HasFirstSubevent	go on internet	read email
+HasFirstSubevent	get divorce	drink beer
+HasFirstSubevent	learn about world	cry
+HasFirstSubevent	get job	fill out paperwork
+HasFirstSubevent	go public	issue press release
+HasFirstSubevent	decide criminal fate	act in favor of justice
+HasFirstSubevent	wait your turn	take your place in line
+HasFirstSubevent	kill	choose victim
+HasFirstSubevent	judge someone	find out truth
+HasFirstSubevent	pay cash	count your change
+HasFirstSubevent	go to zoo	pay to get in
+HasFirstSubevent	play game of chess	decide on strategy
+HasFirstSubevent	take course	register for course
+HasFirstSubevent	go to bed	pull cover over your head
+HasFirstSubevent	live life	be happy
+HasFirstSubevent	know if you healthy	keep eat right and exercise
+HasFirstSubevent	create something to help other person	think
+HasFirstSubevent	release your energy	breathe
+HasFirstSubevent	learn	try to memorize
+HasFirstSubevent	enjoy company of your friend	goof off
+HasFirstSubevent	play game of chess	put piece on board
+HasFirstSubevent	convict suspect for crime	blame them
+HasFirstSubevent	see exhibit	look
+HasFirstSubevent	start fire	get some wood together
+HasFirstSubevent	get some physical activity	put on comfartable clothe
+HasFirstSubevent	go for swim	put on your bathe suit
+HasFirstSubevent	attend meet	sit down and listen
+HasFirstSubevent	jump rope	drink water
+HasFirstSubevent	paint	dip brush in paint
+HasFirstSubevent	go into trance	close your eye
+HasFirstSubevent	learn	remember
+HasFirstSubevent	bring home some fish	warm oil
+HasFirstSubevent	pay by credit card	select desirable product
+HasFirstSubevent	awake	regain consciousness
+HasFirstSubevent	go to play	get dress
+HasFirstSubevent	play frisbee	find frisbee
+HasFirstSubevent	program computer	analyse problem
+HasFirstSubevent	build cathedral	find build site
+HasFirstSubevent	find truth	say ah ha
+HasFirstSubevent	clean house	tidy it
+HasFirstSubevent	eat apple	wash apple
+HasFirstSubevent	go to pub	drink
+HasFirstSubevent	get some money from someone	say thank
+HasFirstSubevent	kill person	you dont kil person
+HasFirstSubevent	buy fresh fruit and vegetable	store it in freez
+HasFirstSubevent	eat in fast food restaurant	order
+HasFirstSubevent	exercise	weigh
+HasFirstSubevent	dress nice	look at yourself
+HasFirstSubevent	go on strike	make poster
+HasFirstSubevent	reach tentative agreement	smile
+HasFirstSubevent	clean house	do laundry
+HasFirstSubevent	send criminal to prison	resocialize
+HasFirstSubevent	compete	prepare
+HasFirstSubevent	enjoy company of your friend	have good time
+HasFirstSubevent	eat dinner	wash my hand
+HasFirstSubevent	light match	watch with awe
+HasFirstSubevent	make sure you healthy	check your hearbeat
+HasFirstSubevent	jump at chance	seize opportunity
+HasFirstSubevent	make person laugh	laugh with them
+HasFirstSubevent	get pay	buy something
+HasFirstSubevent	open gift	cut ribbon
+HasFirstSubevent	make shop list	think of what you need
+HasFirstSubevent	play chess	think
+HasFirstSubevent	see person play game	try to learn each person strategy
+HasFirstSubevent	fix computer	open sc
+HasFirstSubevent	decide criminal fate	go to congical visit
+HasFirstSubevent	get drunk	fall down
+HasFirstSubevent	please your parent	clean your room
+HasFirstSubevent	hike	pick path
+HasFirstSubevent	see your favorite show	turn up volume
+HasFirstSubevent	place basketball	pick team
+HasFirstSubevent	stop be marry to someone	start look for someone else
+HasFirstSubevent	learn about subject	absorb information
+HasFirstSubevent	fight war	declare war
+HasFirstSubevent	empty your bladder	go to toilet
+HasFirstSubevent	cook meal	buy food
+HasFirstSubevent	have checkup	arrive on time
+HasFirstSubevent	memorize	read
+HasFirstSubevent	read newspaper	find interest article
+HasFirstSubevent	make patchwork quilt	gather material need for sew
+HasFirstSubevent	maintain muscle strength	exercise
+HasFirstSubevent	fish	dig up worm
+HasFirstSubevent	pretend	imagine
+HasFirstSubevent	see movie	sit down in seat
+HasFirstSubevent	go to opera	listen
+HasFirstSubevent	love another	care about them
+HasFirstSubevent	watch film	be quite
+HasFirstSubevent	receive degree	get job
+HasFirstSubevent	catch mumps	get sick
+HasFirstSubevent	compete	win
+HasFirstSubevent	start flame or fire	find match
+HasFirstSubevent	sit down	look for glue on chair
+HasFirstSubevent	play card	cheat
+HasFirstSubevent	stab to death	die
+HasFirstSubevent	travel	leave
+HasFirstSubevent	play violin	buy earplug
+HasFirstSubevent	write poem	die
+HasFirstSubevent	see person play game	keep drive
+HasFirstSubevent	bungee jump from high bridge	see psychiatrist
+HasFirstSubevent	sew	smoke
+HasFirstSubevent	buy food	pay by check
+HasFirstSubevent	program computer	type
+HasFirstSubevent	mail letter	write it
+HasFirstSubevent	find information	use it
+HasFirstSubevent	go to get haircut	grow hair
+HasFirstSubevent	have lunch	buy food
+HasFirstSubevent	pay bill	take out my wallet
+HasFirstSubevent	remember	write it down
+HasFirstSubevent	cross street	wait for light to change
+HasFirstSubevent	die	rest
+HasFirstSubevent	play baseball	go outside
+HasFirstSubevent	play game	agree on rule
+HasFirstSubevent	fiddle	ejaculate
+HasFirstSubevent	love another	fuck man in ass
+HasFirstSubevent	make good world	ejaculate
+HasFirstSubevent	paint	get paint and brush
+HasFirstSubevent	drive your car	sit at driver seat
+HasFirstSubevent	kiss someone	stand close to them
+HasFirstSubevent	play chess	determine who play white
+HasFirstSubevent	light match	open matchbox
+HasFirstSubevent	entertain person	think up something to do
+HasFirstSubevent	bring in verdict	enter courtroom
+HasFirstSubevent	obstruct justice	refuse to testify
+HasFirstSubevent	compute sum	collect value
+HasFirstSubevent	make patchwork quilt	collect piece of cloth
+HasFirstSubevent	get job	go to work
+HasFirstSubevent	water plant	get water can
+HasFirstSubevent	use calculator	turn it on
+HasFirstSubevent	travel	pack
+HasFirstSubevent	exercise	stretch
+HasFirstSubevent	write	think
+HasFirstSubevent	meet girl	say hello
+HasFirstSubevent	meet person	introduce yourself
+HasFirstSubevent	study	open your book
+HasFirstSubevent	make bread	gather ingredient
+HasFirstSubevent	eat	open your mouth
+HasFirstSubevent	drive to work	get in car
+HasFirstSubevent	meet friend	say hello
+HasFirstSubevent	go to get haircut	choose hairstyle
+HasFirstSubevent	have physical examination	go to doctor office
+HasFirstSubevent	live	be born
+HasFirstSubevent	read newspaper	read headline
+HasFirstSubevent	go to performance	get dress
+HasFirstSubevent	attend meet	greet everyone present
+HasFirstSubevent	jump out of window	fall
+HasFirstSubevent	have rest	lie down
+HasFirstSubevent	chop firewood	get axe
+HasFirstSubevent	wash your face	go to bathroom
+HasFirstSubevent	when you read	open book
+HasFirstSubevent	flirt	make eye contact
+HasFirstSubevent	play sport	warm up
+HasFirstSubevent	examine thing	look at thing
+HasFirstSubevent	sit down	bend your leg
+HasFirstSubevent	paint house	choose color
+HasFirstSubevent	make phone call	dial number
+HasFirstSubevent	jump rope	pick up rope
+HasFirstSubevent	teach other person	get their attention
+HasFirstSubevent	chat with friend	say hello
+HasFirstSubevent	go to sport event	get ticket
+HasFirstSubevent	pay bill	open envelope
+HasFirstSubevent	see movie	buy ticket
+HasFirstSubevent	light fire	light match
+HasFirstSubevent	start fire	make sure it doe not spread
+HasFirstSubevent	test your strength	look at others
+HasFirstSubevent	read book	open it
+HasFirstSubevent	eat dinner	sit down at your chair
+HasFirstSubevent	do housework	get out your clean supply
+HasFirstSubevent	have haircut	come to barber shop
+HasFirstSubevent	sleep	close your eye
+HasFirstSubevent	have bath	get wet
+HasFirstSubevent	have nervous breakdown	cry
+HasFirstSubevent	drill hole	get drill
+HasFirstSubevent	go to sport event	hand over your ticket
+HasFirstSubevent	meet interest person	introduce yourself
+HasFirstSubevent	have checkup	take off your clothe
+HasFirstSubevent	run	stretch
+HasFirstSubevent	jog	stretch
+HasFirstSubevent	hit bottle	open bottle
+HasFirstSubevent	jump up and down	bend your knee
+HasFirstSubevent	eat hamburger	salivate
+HasFirstSubevent	go to restaurant	look at menu
+HasFirstSubevent	socialize	approach someone
+HasFirstSubevent	go to sleep	lie down
+HasFirstSubevent	attend classical concert	buy ticket
+HasFirstSubevent	wash clothe	put them in wash machine
+HasFirstSubevent	hear sing	listen
+HasFirstSubevent	make it grow	water it
+HasFirstSubevent	bury cat	dig hole
+HasFirstSubevent	remember something	think about it for while
+HasFirstSubevent	take phone call	pick up receiver
+HasFirstSubevent	sew	get needle
+HasFirstSubevent	drive car	get in car
+HasFirstSubevent	send e-mail	turn on your computer
+HasFirstSubevent	die	stop breathe
+HasFirstSubevent	sing	open your mouth
+HasFirstSubevent	take shower	take off your clothe
+HasFirstSubevent	go to movie	buy ticket
+HasFirstSubevent	be born	cry
+HasFirstSubevent	make love	kiss
+HasFirstSubevent	have sex	get in bed
+HasFirstSubevent	apply for job	fill out application
+HasFirstSubevent	cross street	look both way
+HasFirstSubevent	clean your clothe	put them in wash machine
+HasFirstSubevent	look through telescope	focus
+HasFirstSubevent	go for jog	warm up
+HasFirstSubevent	do housework	clean
+HasFirstSubevent	drive your car	get into your car
+HasFirstSubevent	sew	thread needle
+HasFirstSubevent	sleep	close eye
+HasFirstSubevent	sleep at night	lie down
+HasFirstSubevent	breathe	inhale
+HasFirstSubevent	have friend over	welcome them
+HasFirstSubevent	express how funny something	be laugh
+HasFirstSubevent	meet girl	ask them their name
+HasFirstSubevent	talk to someone	open your mouth
+HasFirstSubevent	have checkup	make doctor appointment
+HasFirstSubevent	paint house	buy paint
+HasFirstSubevent	meet person	greet them
+HasFirstSubevent	watch film	sit down
+HasFirstSubevent	see friend	give them hug
+HasFirstSubevent	sit at computer	move mouse
+HasFirstSubevent	hunger	make your tummy growl
+HasFirstSubevent	sneeze	sniffle
+HasFirstSubevent	meditate	relax
+HasFirstSubevent	wish	clear mind
+HasFirstSubevent	shovel snow	get shovel
+HasFirstSubevent	want to have conversation	find somebody to talk to
+HasFirstSubevent	pick penny off floor	bend over
+HasFirstSubevent	go to market	count your money
+HasFirstSubevent	pass course	get your grade
+HasFirstSubevent	express information	think
+HasFirstSubevent	stand in line	wait
+HasFirstSubevent	wash your hand	turn on faucet
+HasFirstSubevent	go public	call newspaper
+HasFirstSubevent	wage war	get bad
+HasFirstSubevent	examine thing	pick it up
+HasFirstSubevent	cook curry	turn on stove
+HasFirstSubevent	play hockey	put on skate
+HasFirstSubevent	bring home some fish	clean them
+HasFirstSubevent	follow recipe	add ingredient in set order
+HasFirstSubevent	play chess	move piece
+HasFirstSubevent	bring in verdict	come to end
+HasFirstSubevent	chew your food	close your mouth
+HasFirstSubevent	play sport	put on appropriate clothe
+HasFirstSubevent	have conversation	choose subject to discuss
+HasFirstSubevent	ski	put on warm clothe
+HasFirstSubevent	attend school	register for class
+HasFirstSubevent	buy fresh fruit and vegetable	wash them
+HasFirstSubevent	set cup on table	pick up cup
+HasFirstSubevent	play game	know rule
+HasFirstSubevent	snore	fall deep asleep
+HasFirstSubevent	visit other country	find your passport
+HasFirstSubevent	buy food	select what you want
+HasFirstSubevent	hear crowd go mad	join in fun
+HasFirstSubevent	urinate	open your pant
+HasFirstSubevent	drive your car	turn key
+HasFirstSubevent	take midterm	study
+HasFirstSubevent	watch television	switch tv on
+HasFirstSubevent	do crossword puzzle	read clue
+HasFirstSubevent	become scuba diver	take licence
+HasFirstSubevent	see person play game	watch
+HasFirstSubevent	get drunk	drink more alcohol
+HasFirstSubevent	answer question	say answer
+HasFirstSubevent	wait your turn	keep quiet
+HasFirstSubevent	surf web	connect to web
+HasFirstSubevent	create something to help other person	give to other person
+HasFirstSubevent	keep thing orderly and tidy	organize thing
+HasFirstSubevent	be go to drive	fest you seat belt
+HasFirstSubevent	go on stage	perform
+HasFirstSubevent	get away with crime	hide
+HasFirstSubevent	program computer	open source code
+HasFirstSubevent	take shower	take you clothe of
+HasFirstSubevent	be in charge of project	separate function
+HasFirstSubevent	hear music	listen to harmony
+HasFirstSubevent	take stand	have strong opinion
+HasFirstSubevent	go to sleep	close your eye
+HasFirstSubevent	howl with laughter	take deep breath
+HasFirstSubevent	get divorce	have some freedom
+HasFirstSubevent	make phone call	lift receiver
+HasFirstSubevent	play chess	set up figure
+HasFirstSubevent	want to answer phone call	pick up telephone receiver
+HasFirstSubevent	switch on light	locate next light switch
+HasFirstSubevent	attend class	find seat
+HasFirstSubevent	get exercise	change into exercise clothe
+HasFirstSubevent	tickle	laugh
+HasFirstSubevent	wage war	write proclamation declare war
+HasFirstSubevent	play golf	get tee time
+HasFirstSubevent	cook	gather what you need
+HasFirstSubevent	determine truth	find out fact
+HasFirstSubevent	go see play	go to theatre
+HasFirstSubevent	wait for someone	find out where they be
+HasFirstSubevent	run marathon	get proper equipment
+HasFirstSubevent	conquer nation	invade it
+HasFirstSubevent	plan vacation	decide where you want to go
+HasFirstSubevent	go to pub	ask for beer
+HasFirstSubevent	sell your new book	smile
+HasFirstSubevent	make patchwork quilt	cut your fabric piece
+HasFirstSubevent	have food	take it to your mouth
+HasFirstSubevent	play violin	tune it
+HasFirstSubevent	go to store	look at your enviroment
+HasFirstSubevent	go to hairdresser	count your money
+HasFirstSubevent	serve justice	find truth
+HasFirstSubevent	prepare for vote	learn about candidate
+HasFirstSubevent	sate your hunger	stop eat
+HasFirstSubevent	play guitar	put your hand on neck
+HasFirstSubevent	buy christmas present	burn them
+HasFirstSubevent	score homer	wear protection
+HasFirstSubevent	kiss someone	feel very happy
+HasFirstSubevent	write	get idea
+HasFirstSubevent	holiday shop	buy useless junk
+HasFirstSubevent	contemplate	use your brain
+HasFirstSubevent	kill	grab weapon
+HasFirstSubevent	fight war	prepare army
+HasFirstSubevent	go outside for even	step outside
+HasFirstSubevent	go on strike	sit down
+HasFirstSubevent	meet person	you greet them
+HasFirstSubevent	play ball	throw ball to friend
+HasFirstSubevent	drive car	insert key in ignition
+HasFirstSubevent	go outside for even	open door
+HasFirstSubevent	wait on table	take food or drink order
+HasFirstSubevent	run marathon	move
+HasFirstSubevent	work	attend to task
+HasFirstSubevent	buy beer	wait for faom to settle
+HasFirstSubevent	go public	send out press release
+HasFirstSubevent	fight enemy	gird your loin
+HasFirstSubevent	solve problem	learn about problem domain
+HasFirstSubevent	fly in airplane	run through your checklist
+HasFirstSubevent	start fire	light match
+HasFirstSubevent	drive car	adjust your seat
+HasFirstSubevent	get divorce	tell other
+HasFirstSubevent	hang out at bar	look around
+HasFirstSubevent	have lunch	prepare meal
+HasFirstSubevent	have conversation	greet person
+HasFirstSubevent	make phone call	raise your arm
+HasFirstSubevent	commit murder	kill person
+HasFirstSubevent	see exhibit	look at art
+HasFirstSubevent	go for jog	put on jog shoe
+HasFirstSubevent	buy something for love one	think about what they like
+HasFirstSubevent	conquer your opponent	congratulate him
+HasFirstSubevent	fart	release gas from your intestine
+HasFirstSubevent	weed garden	find glove
+HasFirstSubevent	run marathon	drink lot of water
+HasFirstSubevent	empty your bladder	find toilet
+HasFirstSubevent	have nervous breakdown	squeeze bug
+HasFirstSubevent	read news	pick nose
+HasFirstSubevent	fish	go to bait shop
+HasFirstSubevent	take in film	get bucket of popcorn
+HasFirstSubevent	propose to woman	panic
+HasFirstSubevent	go to market	get basket
+HasFirstSubevent	get clean	take off all your clothe
+HasFirstSubevent	run twenty-six mile	collapse
+HasFirstSubevent	wait on line	get impatient
+HasFirstSubevent	watch film	listen
+HasFirstSubevent	fix computer	call hotline
+HasFirstSubevent	start fire	get match
+HasFirstSubevent	have heart attack	call 911
+HasFirstSubevent	work box office	take ticket
+HasFirstSubevent	enjoy day	smile
+HasFirstSubevent	watch tv show	turn on tv
+HasFirstSubevent	find information	remember it
+HasFirstSubevent	become scuba diver	learn to use gear
+HasFirstSubevent	go see play	find your seat
+HasFirstSubevent	play harp	choose song to play
+HasFirstSubevent	visit museum	decide which museum to visit
+HasFirstSubevent	wash your car	go to car wash
+HasFirstSubevent	clean your room	locate mess
+HasFirstSubevent	die	stop live
+HasFirstSubevent	open business	have product or service to sell
+HasFirstSubevent	see movie	get seat
+HasFirstSubevent	take walk	go outside
+HasFirstSubevent	go to school	put on your shoe
+HasFirstSubevent	memorize	repeat subject
+HasFirstSubevent	see movie	drive to theatre
+HasFirstSubevent	teach other person	make sure they be listen
+HasFirstSubevent	get drunk	open bottle or can
+HasFirstSubevent	run twenty-six mile	practice run short distance
+HasFirstSubevent	get away with crime	lie low
+HasFirstSubevent	lie	think of lie
+HasFirstSubevent	love another	tell them
+HasFirstSubevent	buy something	go shop
+HasFirstSubevent	start flame or fire	light match
+HasFirstSubevent	play piano	sit on bench
+HasFirstSubevent	drive car	get inside
+HasFirstSubevent	keep thing orderly and tidy	get organize
+HasFirstSubevent	play game	read rule
+HasFirstSubevent	take midterm	receive test
+HasFirstSubevent	commit perjury	think of good lie
+HasFirstSubevent	go to pub	find seat
+HasFirstSubevent	see pretty woman	try to make eye contact
+HasFirstSubevent	hang out at bar	order beer
+HasFirstSubevent	drive your car	get in car
+HasFirstSubevent	buy something small	go into shop
+HasFirstSubevent	write letter	compose your thought
+HasFirstSubevent	sate your hunger	obtain food
+HasFirstSubevent	conquer nation	you beat their army
+HasFirstSubevent	discover truth	search for evidence
+HasFirstSubevent	surf net	log on
+HasFirstSubevent	enjoy company of your friend	say hello
+HasFirstSubevent	go to work and earn money	save
+HasFirstSubevent	do housework	find sponge
+HasFirstSubevent	go to sport event	purchase ticket
+HasFirstSubevent	reach tentative agreement	agree on something
+HasFirstSubevent	buy product	pay for them
+HasFirstSubevent	eat healthily	eat fruit
+HasFirstSubevent	get clean	wash yourself
+HasFirstSubevent	give gift	purchase gift
+HasFirstSubevent	get away with crime	celebrate
+HasFirstSubevent	sit on chair	align your body
+HasFirstSubevent	dance	turn on some music
+HasFirstSubevent	do crossword puzzle	get pencil or pen
+HasFirstSubevent	groom	wash
+HasFirstSubevent	buy something	decide what to buy
+HasFirstSubevent	go for jog	take deep breath
+HasFirstSubevent	go fish	cast
+HasFirstSubevent	breathe	feel refresh
+HasFirstSubevent	go on vacation	reserve lodge
+HasFirstSubevent	relax	sit or lie down
+HasFirstSubevent	run twenty-six mile	stretch
+HasFirstSubevent	howl with laughter	breath
+HasFirstSubevent	play baseball	get bat
+HasFirstSubevent	pay cash	take money out of wallet
+HasFirstSubevent	talk	move your tounge
+HasFirstSubevent	buy something for love one	think about what they want
+HasFirstSubevent	fiddle	waste time
+HasFirstSubevent	go for walk	put on your walk shoe
+HasFirstSubevent	shop	get money
+HasFirstSubevent	receive cut	apply direct pressure
+HasFirstSubevent	go grocery shop	make list
+HasFirstSubevent	determine truth	determine what be not truth
+HasFirstSubevent	make out	decide who to make out with
+HasFirstSubevent	play ball	find ball to play with
+HasFirstSubevent	get in shape	start be more physically active
+HasFirstSubevent	clean your room	start sort through pile of stuff
+HasFirstSubevent	attend meet	start take note
+HasFirstSubevent	soak in hotspring	get into water
+HasFirstSubevent	have shower	adjust water temperature
+HasFirstSubevent	make patchwork quilt	gather material
+HasFirstSubevent	wash your clothe	put them in wash machine
+HasFirstSubevent	surf web	make decision to do so
+HasFirstSubevent	visit art gallery	enter build
+HasFirstSubevent	drink bottle of coke	screw open lid
+HasFirstSubevent	stand in line	observe how long line be
+HasFirstSubevent	boot up computer	push power button
+HasFirstSubevent	cook curry	check you have nessicary ingredient
+HasFirstSubevent	conquer nation	change name of city
+HasFirstSubevent	play guitar	pick it up
+HasFirstSubevent	walk around lake	start to walk
+HasFirstSubevent	play lacrosse	put on your shoe
+HasFirstSubevent	have fun	find place to party
+HasFirstSubevent	fish	put bait on your hook
+HasFirstSubevent	get away with crime	breathe sigh of relief
+HasFirstSubevent	remember phone number	concentrate
+HasFirstSubevent	buy beer	select brand
+HasFirstSubevent	chop firewood	pick up ax
+HasFirstSubevent	bake cake	find recipe
+HasFirstSubevent	fly in airplane	hope you do not crash
+HasFirstSubevent	type	put finger on keyboard
+HasFirstSubevent	play poker	shuffle card
+HasFirstSubevent	clean your room	look around
+HasFirstSubevent	play cribbage	cut to see who go first
+HasFirstSubevent	sail boat	get in boat
+HasFirstSubevent	play poker	ante up
+HasFirstSubevent	bury cat	dig grind
+HasFirstSubevent	act in play	learn script
+HasFirstSubevent	cool off	drink beer
+HasFirstSubevent	christmas shop	buy present for your wife
+HasFirstSubevent	eat apple	pick it up
+HasFirstSubevent	watch tv show	look for remote
+HasFirstSubevent	take examination	read question carefully
+HasFirstSubevent	urinate	unzip your pant
+HasFirstSubevent	go somewhere	find direction
+HasFirstSubevent	go to laundromat	bring clothe
+HasFirstSubevent	look through telescope	adjust focus
+HasFirstSubevent	kill person	give yourself up to police
+HasFirstSubevent	connect internet in germany	type your password
+HasFirstSubevent	play ball	pick up ball
+HasFirstSubevent	check vital sign	look at person
+HasFirstSubevent	wait table	walk to table
+HasFirstSubevent	relax	stop think
+HasFirstSubevent	jump rope	swing rope over your head
+HasFirstSubevent	clean your clothe	put them away
+HasFirstSubevent	look through telescope	put your eye to eyepiece
+HasFirstSubevent	hear sing be determine what song	be sing
+HasFirstSubevent	urinate	go to washroom
+HasFirstSubevent	take stand	get swear in
+HasFirstSubevent	take shower	turn on water
+HasFirstSubevent	listen to music	get comfortable
+HasFirstSubevent	eat in fast food restaurant	order food
+HasFirstSubevent	wake up in morning	open your eye
+HasFirstSubevent	have shower	get undress
+HasFirstSubevent	take break	stop work
+HasFirstSubevent	go for haircut	sit in chair
+HasFirstSubevent	take class	pay for it
+HasFirstSubevent	get hit	feel pressure
+HasFirstSubevent	type	put your finger on keyboard
+HasFirstSubevent	tie your shoe	bend over
+HasFirstSubevent	do housework	get out clean supply
+HasFirstSubevent	program	create alogrithm
+HasFirstSubevent	use calculator	turn on calculator
+HasFirstSubevent	wait your turn	twiddle my thumb
+HasFirstSubevent	eat apple	wash
+HasFirstSubevent	cook	wash my hand
+HasFirstSubevent	play chess	set up board
+HasFirstSubevent	dance	listen to music
+HasFirstSubevent	chop firewood	take axe
+HasFirstSubevent	commit murder	find reason
+HasFirstSubevent	procreate	find mate
+HasFirstSubevent	play baseball	set up base
+HasFirstSubevent	fight enemy	get weapon
+HasFirstSubevent	get job	decide to get job
+HasFirstSubevent	follow recipe	read recipe
+HasFirstSubevent	work	check email
+HasFirstSubevent	watch television show	turn television on
+HasFirstSubevent	go for walk	put your walk shoe on
+HasFirstSubevent	meet girl	introduce yourself
+HasFirstSubevent	go off strike	go back to work
+HasFirstSubevent	kill someone	panic
+HasFirstSubevent	go to performance	get ticket
+HasFirstSubevent	listen to radio	tune to right channel
+HasFirstSubevent	go to bed	take your clothe off
+HasFirstSubevent	hike	stretch
+HasFirstSubevent	have pee	go to restroom
+HasFirstSubevent	get some money from someone	count money
+HasFirstSubevent	get some money from someone	ask them for it
+HasFirstSubevent	run in marathon	drink lot of water
+HasFirstSubevent	comfort friend	hug
+HasFirstSubevent	read book	open cover
+HasFirstSubevent	take examination	get out your pencil
+HasFirstSubevent	commit perjury	make up convince story
+HasFirstSubevent	listen	shut up
+HasFirstSubevent	set cup on table	let go of handle
+HasFirstSubevent	bathe	remove your clothe
+HasFirstSubevent	punch someone	make fist
+HasFirstSubevent	drive car	turn key
+HasFirstSubevent	pay bill	receive bill in mail
+HasFirstSubevent	reach tentative agreement	deliver your point of view
+HasFirstSubevent	win baseball game	start game
+HasFirstSubevent	make bread	get out flour
+HasFirstSubevent	hear testimony	think about it
+HasFirstSubevent	buy shirt	go to store
+HasFirstSubevent	start fire	get wood
+HasFirstSubevent	dream	fall asleep
+HasFirstSubevent	stay in bed	sleep
+HasFirstSubevent	stop stand in it	get out of it
+HasFirstSubevent	copulate	smile
+HasFirstSubevent	taste something sweet	smile
+HasFirstSubevent	have heart attack	panic
+HasFirstSubevent	bathe	get naked
+HasFirstSubevent	clean your room	go to your room
+HasFirstSubevent	stay fit	excercise
+HasFirstSubevent	answer question	open your mouth
+HasFirstSubevent	play chess	make open move
+HasFirstSubevent	meet person	greet
+HasFirstSubevent	have party	send invitation
+HasFirstSubevent	hike	start walk
+HasFirstSubevent	memorize	study
+HasFirstSubevent	give assistance	assess need
+HasFirstSubevent	jump up and down	jump up
+HasFirstSubevent	play guitar	pick up your guitar
+HasFirstSubevent	jump out of window	scream
+HasFirstSubevent	reach tentative agreement	shake hand
+HasFirstSubevent	attend lecture	find seat
+HasFirstSubevent	talk	open your mouth
+HasFirstSubevent	groom	take shower
+HasFirstSubevent	examine thing	look at it
+HasFirstSubevent	determine truth	think
+HasFirstSubevent	tie your shoelace	grasp shoelace
+HasFirstSubevent	tie your shoelace	grasp shoe string
+HasFirstSubevent	debate politics	have opinion
+HasFirstSubevent	enjoy day	wake up
+HasFirstSubevent	find lose item	search
+HasFirstSubevent	study	read
+HasFirstSubevent	play chess	move your pawn
+HasFirstSubevent	lose weight	buy new clothe
+HasFirstSubevent	get onto web	check email
+HasFirstSubevent	bring suit	contact lawyer
+HasFirstSubevent	go for walk	put my shoe on
+HasFirstSubevent	swim	get in water
+HasFirstSubevent	do crossword puzzle	get pencil
+HasFirstSubevent	have shower	get wet
+HasFirstSubevent	change society	write manifesto
+HasFirstSubevent	get some money from someone	thank them
+HasFirstSubevent	go to laundromat	open wash machine
+HasFirstSubevent	eat	find food
+HasFirstSubevent	read to your child	choose story
+HasFirstSubevent	start family	find partner
+HasFirstSubevent	meet friend	greet him
+HasFirstSubevent	paint house	buy some paint
+HasFirstSubevent	bathe	take off your clothe
+HasFirstSubevent	diminish your own hunger	eat
+HasFirstSubevent	talk with someone far away	telephone them
+HasFirstSubevent	go out at night	get ready
+HasFirstSubevent	bake cake	preheat oven
+HasFirstSubevent	listen	stop talk
+HasFirstSubevent	program	make coffee
+HasFirstSubevent	skate	put on your skate
+HasFirstSubevent	fix computer	turn it off
+HasFirstSubevent	get contract	read it
+HasFirstSubevent	do some exercise	stretch
+HasFirstSubevent	get good grade	smile
+HasFirstSubevent	go to mall	look around for friend
+HasFirstSubevent	sleigh ride	get into sleigh
+HasFirstSubevent	sleep	lie down
+HasFirstSubevent	play lacrosse	learn rule
+HasFirstSubevent	tie your shoelace	put your shoe on
+HasFirstSubevent	reproduce	whip it out
+HasFirstSubevent	diminish your own hunger	eat food
+HasFirstSubevent	dance samba	find partner
+HasFirstSubevent	tickle	find someone to tickle
+HasFirstSubevent	hear sing	smile
+HasFirstSubevent	send e-mail	write e-mail
+HasFirstSubevent	attend meet	take seat
+HasFirstSubevent	have lunch	get out dish
+HasFirstSubevent	go on stage	bow to audience
+HasFirstSubevent	go on stage	acknowledge audience applause
+HasFirstSubevent	go on stage	walk to microphone
+HasFirstSubevent	go on stage	say your first line
+HasFirstSubevent	have lunch	enter kitchen
+HasFirstSubevent	go on stage	smile at audience
+HasFirstSubevent	bake cake	purchase ingredient
+HasFirstSubevent	advance into battle	generate some adrenaline
+HasFirstSubevent	shop	enter shop
+HasFirstSubevent	wash your hand	roll up sleeve
+HasFirstSubevent	have lunch	get out book
+HasFirstSubevent	drill hole	put in drill bite
+HasFirstSubevent	have lunch	get out something to read
+HasFirstSubevent	make shop list	establish priority
+HasFirstSubevent	drill hole	use vise
+HasFirstSubevent	buy beer	attract bartender attention
+HasFirstSubevent	have lunch	read menu
+HasFirstSubevent	empty your bladder	relax select muscle
+HasFirstSubevent	go on stage	take your position
+HasFirstSubevent	drill hole	plug in drill
+HasFirstSubevent	read book	read dust cover
+HasFirstSubevent	drill hole	mark spot
+HasFirstSubevent	play piano	put your hand on key
+HasFirstSubevent	have lunch	find good restaurant
+HasFirstSubevent	relax	slow breathe
+HasFirstSubevent	create art	get art supply
+HasFirstSubevent	have lunch	get company
+HasFirstSubevent	drive your car	check visibility
+HasFirstSubevent	cut your hair	hold very still
+HasFirstSubevent	write program	determine purpose
+HasFirstSubevent	take walk	dress for occasion
+HasFirstSubevent	drill hole	get tool from garage
+HasFirstSubevent	play piano	exercise
+HasFirstSubevent	have lunch	get tray
+HasFirstSubevent	paint picture	see it in mind eye
+HasFirstSubevent	have food	start plan meal
+HasFirstSubevent	design software	create prototype
+HasFirstSubevent	fall	accelerate downward
+HasFirstSubevent	have lunch	evaluate your hunger
+HasFirstSubevent	have lunch	make choice
+HasFirstSubevent	jump up and down	make sure that you have clearance
+HasFirstSubevent	eat in restaurant	sit down at table
+HasFirstSubevent	have party	invite person
+HasFirstSubevent	have asthma attack	use inhaler
+HasFirstSubevent	have conversation	listen
+HasFirstSubevent	drive your car	adjust seat
+HasFirstSubevent	rest	lie down
+HasFirstSubevent	express information	speak
+HasFirstSubevent	surf web	turn on your computer
+HasFirstSubevent	rest	sit down
+HasFirstSubevent	make phone call	pick up receiver
+HasFirstSubevent	agree with someone	nod your head
+HasFirstSubevent	read letter	open envelope
+HasFirstSubevent	get fit	exercise
+HasFirstSubevent	get good grade	celebrate
+HasFirstSubevent	pray	kneel down
+HasFirstSubevent	take bath	take clothe off
+HasFirstSubevent	read to your child	choose book
+HasFirstSubevent	clean your room	pick up clutter
+HasFirstSubevent	cogitate	think
+HasFirstSubevent	have heart attack	feel pain in your arm or chest
+HasFirstSubevent	see something new	want to buy it
+HasFirstSubevent	change society	know everyone
+HasFirstSubevent	clean house	make sure you have clean fluid
+HasFirstSubevent	learn something new	never think about it again
+HasFirstSubevent	go to restaurant	decide what to eat
+HasFirstSubevent	watch musician perform	sit down and listen
+HasFirstSubevent	mail letter	seal envelope
+HasFirstSubevent	write	put pen down
+HasFirstSubevent	contemplate	relax
+HasFirstSubevent	see	open your eye
+HasFirstSubevent	make love	turn off light
+HasFirstSubevent	want equality for everyone	choose specific ideology
+HasFirstSubevent	commit crime	form plan
+HasFirstSubevent	have prohibitionist society	prohibit person
+HasFirstSubevent	commit genocide	start kill specific group
+HasFirstSubevent	make wine	ferment grape juice
+HasFirstSubevent	want something	think about how to get it
+HasFirstSubevent	change clothe	remove your clothe
+HasFirstSubevent	make tea	boil water
+HasFirstSubevent	write paper	choose topic
+HasFirstSubevent	get dress	put on underwear
+HasFirstSubevent	get up in morning	urinate
+HasFirstSubevent	wake up	get out of bed
+HasFirstSubevent	be get ready for bed	brush your tooth
+HasFirstSubevent	get on train	find vacant seat
+HasFirstSubevent	choose book	check author of book
+HasFirstSubevent	make telephone call	pick up telephone receiver
+HasFirstSubevent	go swim	put on bathe suit
+HasFirstSubevent	cross street	look leave and right
+HasFirstSubevent	go out	wear clothe
+HasFirstSubevent	wake up	stretch out
+HasFirstSubevent	turn on tv	find channel to watch
+HasFirstSubevent	drink coffee	prepare water
+HasFirstSubevent	want to do research on something	find resource that be relevant to your research
+HasFirstSubevent	drive	turn on engine
+HasFirstSubevent	want to do research	find relevant research
+HasFirstSubevent	clean	clean with rugged cloth
+HasFirstSubevent	want to sleep	brush your tooth
+HasFirstSubevent	construct	design layout
+HasFirstSubevent	wakt up in morning	open your eye
+HasFirstSubevent	sing song	level your voice
+HasFirstSubevent	study	open book
+HasFirstSubevent	travel to suburb	reserve seat for transportation
+HasFirstSubevent	want to play game	study
+HasFirstSubevent	connect internet	boot
+HasFirstSubevent	put computer on	press start button
+HasFirstSubevent	sleep	brush your tooth
+HasFirstSubevent	take exercise	warm up
+HasFirstSubevent	go swim	put on your swim suit
+HasFirstSubevent	read	open book
+HasFirstSubevent	clean clothe	put them in wash machine
+HasFirstSubevent	chew your food	bite it
+HasFirstSubevent	buy something for love one	decide what to buy
+HasFirstSubevent	use vcr	put tape in
+HasFirstSubevent	go to sleep	turn off light
+HasFirstSubevent	have penis	play with it
+HasFirstSubevent	deal drug	find buyer
+HasFirstSubevent	wake up	brush tooth
+HasFirstSubevent	make tea	put water in kettle
+HasFirstSubevent	phone someone	find phone number
+HasFirstSubevent	work out	stretch
+HasFirstSubevent	eat ice cream cone	lick up drip
+HasFirstSubevent	unlock door	get out key
+HasFirstSubevent	lock your key in car	swear
+HasFirstSubevent	report emergency	dial 911
+HasFirstSubevent	study for test	review material
+HasFirstSubevent	scratch itch	reach for it
+HasFirstSubevent	be lonely	cry
+HasFirstSubevent	find something funny	laugh
+HasFirstSubevent	be happy	smile
+HasFirstSubevent	search for answer	start think
+HasFirstSubevent	wake	start new day
+HasFirstSubevent	die	stop think
+HasFirstSubevent	drive car	start car
+HasFirstSubevent	mow lawn	get out lawnmower
+HasFirstSubevent	use internet	connect via your computer
+HasFirstSubevent	brush your hair	pick up brush
+HasFirstSubevent	bathe	undress
+HasFirstSubevent	drink beer	open container
+HasFirstSubevent	start car engine	insert key
+HasFirstSubevent	sneeze	inhale
+HasFirstSubevent	sue someone	file complaint
+HasFirstSubevent	buy pet	choose kind of pet
+HasFirstSubevent	die	leave your physical body
+HasFirstSubevent	clean your room	put away book and other thing
+HasFirstSubevent	get sick	become infect by disease
+HasFirstSubevent	wake up in morning	shut off your alarm clock
+HasFirstSubevent	make dinner	select recipe
+HasFirstSubevent	get dress	pick out your clothe
+HasFirstSubevent	wake up	turnoff alarm clock
+HasFirstSubevent	eat banana	take off skin
+HasFirstSubevent	win horse race	go to winner circle
+HasFirstSubevent	buy house	clean it
+HasFirstSubevent	break up with your boyfriend	get drunk
+HasFirstSubevent	prepare meal	wash your hand
+HasFirstSubevent	meet new person	use good manner
+HasFirstSubevent	break horse	make friend with him
+HasFirstSubevent	graduate	party
+HasFirstSubevent	get bite by mosquito	swat it
+HasFirstSubevent	wake up	drink coffee
+HasFirstSubevent	ride horse	put on bridle
+HasFirstSubevent	meet new person	shake his hand
+HasFirstSubevent	ride in horse race	break out of gate
+HasFirstSubevent	fall off horse	say dirty word
+HasFirstSubevent	get new kitten	relinquish your authority
+HasFirstSubevent	make hard boil egg	fill pan with water
+HasFirstSubevent	adopt kitten	buy catfood
+HasFirstSubevent	cut yourself	bleed
+HasFirstSubevent	get dress	put on clothe
+HasFirstSubevent	sing	take breath
+HasFirstSubevent	emulate game	download rom
+HasFirstSubevent	leave house	shut door
+HasFirstSubevent	go swim	get change into your costume
+HasFirstSubevent	when you make phone call	pick up phone
+HasFirstSubevent	brush your tooth	pick up your toothbrush
+HasFirstSubevent	make tea	heat water
+HasFirstSubevent	slime somebody	cover them with slime
+HasFirstSubevent	kick somebody ass	punch them in face
+HasFirstSubevent	eat dick	open your mouth wide
+HasFirstSubevent	kick somebody in nut	yell
+HasFirstSubevent	ask girl out	get nervous
+HasFirstSubevent	get dress	put on underware
+HasFirstSubevent	win lottery	buy expensive thing
+HasFirstSubevent	be born	come out of your mother
+HasFirstSubevent	fence	salute your oponent
+HasFirstSubevent	meet someone	tell them your name
+HasFirstSubevent	become doctor	get into medical school
+HasFirstSubevent	meet someone	introduce yourself
+HasFirstSubevent	watch movie	turn on tv
+HasFirstSubevent	call someone on phone	look up phone number
+HasFirstSubevent	take test	write down your name
+HasFirstSubevent	sue someone	prepare to spend lot of money
+HasFirstSubevent	see someone you know	greet that person
+HasFirstSubevent	get seat in restaurant	read menu
+HasFirstSubevent	board train	buy ticket
+HasFirstSubevent	piss	open your zip
+HasFirstSubevent	cook	have fire
+HasFirstSubevent	read book	look at page
+HasFirstSubevent	enter	count person inside
+HasFirstSubevent	sign contract	use your brain
+HasFirstSubevent	leave room	open door
+HasFirstSubevent	get home	take shower
+HasFirstSubevent	leave home	check weather
+HasFirstSubevent	wake up	brush your tooth
+HasFirstSubevent	buy book	read something about it
+HasFirstSubevent	get in your car	buckle up
+HasFirstSubevent	put food in your mouth	chew
+HasFirstSubevent	hear bad joke	groan
+HasFirstSubevent	have poor employee	threaten to fire her
+HasFirstSubevent	quit your job	feel free
+HasFirstSubevent	go to bathroom	unzip your pant
+HasFirstSubevent	become religious fundamentalist	turn off your mind
+HasFirstSubevent	kick ball	swing your leg backward
+HasFirstSubevent	when cut bread	acquire knife
+HasFirstSubevent	eat	wash your hand
+HasFirstSubevent	you get marry	say i do
+HasFirstSubevent	want to watch tv	turn tv on
+HasFirstSubevent	take shower or bath	remove all your clothe
+HasFirstSubevent	pay by credit card	get your credit card out
+HasFirstSubevent	want to sit down	look for something to sit on
+HasFirstSubevent	travel	decide how
+HasFirstSubevent	lose your curiosity	stop grow
+HasFirstSubevent	read newspaper	look at headline
+HasFirstSubevent	laugh	show your tooth
+HasFirstSubevent	wake up	hit snooze button
+HasFirstSubevent	take test	fill in your name
+HasFirstSubevent	pick up phone	say hello
+HasFirstSubevent	change gear	take your foot off accelerator
+HasFirstSubevent	eat burger	open your mouth
+HasFirstSubevent	open can	use can opener
+HasFirstSubevent	fall hungry	find something to eat
+HasFirstSubevent	go on stage	walk on stage
+HasFirstSubevent	give gift	get gift
+HasFirstSubevent	scuba dive	get scuba gear
+HasFirstSubevent	eat hamburger	get it
+HasFirstSubevent	meet interest person	see them
+HasFirstSubevent	start fire	find burnable material
+HasFirstSubevent	conduct trial	call court to order
+HasFirstSubevent	grow vegetable	clear grind for garden
+HasFirstSubevent	have haircut	schedule appointment
+HasFirstSubevent	stand in queue	sigh
+HasFirstSubevent	procreate	form will to do so
+HasFirstSubevent	destroy your enemy	victory dance
+HasFirstSubevent	find information	store it in memory
+HasFirstSubevent	fight enemy	determine who enemy be
+HasFirstSubevent	teach other person	learn material yourself
+HasFirstSubevent	use calculator	make sure it be on
+HasFirstSubevent	read news	sit down
+HasFirstSubevent	go to movie	leave house
+HasFirstSubevent	give clue	make sure it be accurate
+HasFirstSubevent	hear crowd go mad	wonder what happen
+HasFirstSubevent	fly in airplane	go to airport
+HasFirstSubevent	wait for someone	stand around
+HasFirstSubevent	talk to someone	walk away
+HasFirstSubevent	move car	put it in gear
+HasFirstSubevent	know how stock market perform	check your account balance
+HasFirstSubevent	taste something sweet	savor it
+HasFirstSubevent	pretend	willingly suspend your disbelief
+HasFirstSubevent	celebrate	get happy
+HasFirstSubevent	go into coma be	suffer insult to brain
+HasFirstSubevent	love someone else	sympathise with them
+HasFirstSubevent	strike match	grsp it firmly
+HasFirstSubevent	sate your hunger	take nap
+HasFirstSubevent	ride bike	put up kick stand
+HasFirstSubevent	help someone	notice that they need help
+HasFirstSubevent	catch mumps	feel bad
+HasFirstSubevent	learn about science	take note
+HasFirstSubevent	make patchwork quilt	decide on pattern
+HasFirstSubevent	howl with laughter	see or hear something funny
+HasFirstSubevent	thank someone be	look them in eye
+HasFirstSubevent	write term paper	decide upon topic
+HasFirstSubevent	scuba dive	find deep water
+HasFirstSubevent	commit perjury	get your lie straight
+HasFirstSubevent	see particular program	stop and watch
+HasFirstSubevent	take bath	take off your shoe
+HasFirstSubevent	attend lecture	find good seat
+HasFirstSubevent	sign contract	add your signature
+HasFirstSubevent	get job	buy appropriate attire
+HasFirstSubevent	play soccer	join team
+HasFirstSubevent	pass course	exhale
+HasFirstSubevent	do crossword puzzle	find pencil
+HasFirstSubevent	ride bicycle	fall over
+HasFirstSubevent	kill person	say oppps
+HasFirstSubevent	drink alcohol	open bottle
+HasFirstSubevent	fix computer	look at it in consternation
+HasFirstSubevent	have checkup	roll up my sleeve
+HasFirstSubevent	hear sing	ear
+HasFirstSubevent	meet girl	tell them lie
+HasFirstSubevent	know how stock market perform	celebrate
+HasFirstSubevent	wash your clothe	check button
+HasFirstSubevent	watch movie	open your eye
+HasFirstSubevent	run out of steam	fall over
+HasFirstSubevent	cook curry	go to store
+HasFirstSubevent	score homer	walk to home plate
+HasFirstSubevent	eat lunch	buy or make some food
+HasFirstSubevent	take examination	get pencil
+HasFirstSubevent	sit on chair	face away from chair
+HasFirstSubevent	score homer	hit ball
+HasFirstSubevent	get up early	get out of bed
+HasFirstSubevent	climb mountain	get to top
+HasFirstSubevent	lose consciousness	pass out
+HasFirstSubevent	stand up	straighten your body
+HasFirstSubevent	play sport	wear right clothe
+HasFirstSubevent	listen to music	select music to listen to
+HasFirstSubevent	fish	go to body of water
+HasFirstSubevent	hear news	pay attention
+HasFirstSubevent	teach other person	determine what they already know
+HasFirstSubevent	get divorce	have unhappy marriage
+HasFirstSubevent	tell story	narrate
+HasFirstSubevent	relax	slow down
+HasFirstSubevent	take bus	ride to location
+HasFirstSubevent	drink alcohol	put alcohol in your mouth
+HasFirstSubevent	relax	sigh
+HasFirstSubevent	read magazine	look at magazine cover
+HasFirstSubevent	eat in restaurant	sit at table
+HasFirstSubevent	taste something sweet	enjoy
+HasFirstSubevent	weed garden	pull weed out of grind
+HasFirstSubevent	breathe	take air into your body
+HasFirstSubevent	create art	express yourself
+HasFirstSubevent	relax	calm down
+HasFirstSubevent	stand in queue	wait behind other person
+HasFirstSubevent	bring home some fish	wash your hand
+HasFirstSubevent	tell many person about something	call your friend
+HasFirstSubevent	test your strength	set up dumbbell
+HasFirstSubevent	pass sentence	ask defendant to stand
+HasFirstSubevent	paint	lie down tarp
+HasFirstSubevent	help someone	ask permission
+HasFirstSubevent	act in play	rehearse
+HasFirstSubevent	weed garden	gather your tool
+HasFirstSubevent	go to mall	find your car key
+HasFirstSubevent	pay by check	date check
+HasFirstSubevent	comfort friend	find out what be wrong
+HasFirstSubevent	entertain person	take their coat
+HasFirstSubevent	go to work	boot your computer
+HasFirstSubevent	urinate	put toilet lid up
+HasFirstSubevent	sate your hunger	choose what to eat
+HasFirstSubevent	cook dinner	find recipe
+HasFirstSubevent	use vcr	make sure it be turn on
+HasFirstSubevent	travel	find out where you be go
+HasFirstSubevent	play	pick game
+HasFirstSubevent	meet interest person	talk to person
+HasFirstSubevent	see story	read title
+HasFirstSubevent	tie your shoelace	kneel down on one knee
+HasFirstSubevent	visit art gallery	look at art
+HasFirstSubevent	ride bike	put your hand on handlebar
+HasFirstSubevent	play chess	set up game piece
+HasFirstSubevent	find lose item	return it to owner
+HasFirstSubevent	go on internet	read email
+HasFirstSubevent	get divorce	drink beer
+HasFirstSubevent	learn about world	cry
+HasFirstSubevent	get job	fill out paperwork
+HasFirstSubevent	go public	issue press release
+HasFirstSubevent	decide criminal fate	act in favor of justice
+HasFirstSubevent	wait your turn	take your place in line
+HasFirstSubevent	kill	choose victim
+HasFirstSubevent	judge someone	find out truth
+HasFirstSubevent	pay cash	count your change
+HasFirstSubevent	go to zoo	pay to get in
+HasFirstSubevent	play game of chess	decide on strategy
+HasFirstSubevent	take course	register for course
+HasFirstSubevent	go to bed	pull cover over your head
+HasFirstSubevent	live life	be happy
+HasFirstSubevent	know if you healthy	keep eat right and exercise
+HasFirstSubevent	create something to help other person	think
+HasFirstSubevent	release your energy	breathe
+HasFirstSubevent	learn	try to memorize
+HasFirstSubevent	enjoy company of your friend	goof off
+HasFirstSubevent	play game of chess	put piece on board
+HasFirstSubevent	convict suspect for crime	blame them
+HasFirstSubevent	see exhibit	look
+HasFirstSubevent	start fire	get some wood together
+HasFirstSubevent	get some physical activity	put on comfartable clothe
+HasFirstSubevent	go for swim	put on your bathe suit
+HasFirstSubevent	attend meet	sit down and listen
+HasFirstSubevent	jump rope	drink water
+HasFirstSubevent	paint	dip brush in paint
+HasFirstSubevent	go into trance	close your eye
+HasFirstSubevent	learn	remember
+HasFirstSubevent	bring home some fish	warm oil
+HasFirstSubevent	pay by credit card	select desirable product
+HasFirstSubevent	awake	regain consciousness
+HasFirstSubevent	go to play	get dress
+HasFirstSubevent	play frisbee	find frisbee
+HasFirstSubevent	program computer	analyse problem
+HasFirstSubevent	build cathedral	find build site
+HasFirstSubevent	find truth	say ah ha
+HasFirstSubevent	clean house	tidy it
+HasFirstSubevent	eat apple	wash apple
+HasFirstSubevent	go to pub	drink
+HasFirstSubevent	get some money from someone	say thank
+HasFirstSubevent	kill person	you dont kil person
+HasFirstSubevent	buy fresh fruit and vegetable	store it in freez
+HasFirstSubevent	eat in fast food restaurant	order
+HasFirstSubevent	exercise	weigh
+HasFirstSubevent	dress nice	look at yourself
+HasFirstSubevent	go on strike	make poster
+HasFirstSubevent	reach tentative agreement	smile
+HasFirstSubevent	clean house	do laundry
+HasFirstSubevent	send criminal to prison	resocialize
+HasFirstSubevent	compete	prepare
+HasFirstSubevent	enjoy company of your friend	have good time
+HasFirstSubevent	eat dinner	wash my hand
+HasFirstSubevent	light match	watch with awe
+HasFirstSubevent	make sure you healthy	check your hearbeat
+HasFirstSubevent	jump at chance	seize opportunity
+HasFirstSubevent	make person laugh	laugh with them
+HasFirstSubevent	get pay	buy something
+HasFirstSubevent	open gift	cut ribbon
+HasFirstSubevent	make shop list	think of what you need
+HasFirstSubevent	play chess	think
+HasFirstSubevent	see person play game	try to learn each person strategy
+HasFirstSubevent	fix computer	open sc
+HasFirstSubevent	decide criminal fate	go to congical visit
+HasFirstSubevent	get drunk	fall down
+HasFirstSubevent	please your parent	clean your room
+HasFirstSubevent	hike	pick path
+HasFirstSubevent	see your favorite show	turn up volume
+HasFirstSubevent	place basketball	pick team
+HasFirstSubevent	stop be marry to someone	start look for someone else
+HasFirstSubevent	learn about subject	absorb information
+HasFirstSubevent	fight war	declare war
+HasFirstSubevent	empty your bladder	go to toilet
+HasFirstSubevent	cook meal	buy food
+HasFirstSubevent	have checkup	arrive on time
+HasFirstSubevent	memorize	read
+HasFirstSubevent	read newspaper	find interest article
+HasFirstSubevent	make patchwork quilt	gather material need for sew
+HasFirstSubevent	maintain muscle strength	exercise
+HasFirstSubevent	fish	dig up worm
+HasFirstSubevent	pretend	imagine
+HasFirstSubevent	see movie	sit down in seat
+HasFirstSubevent	go to opera	listen
+HasFirstSubevent	love another	care about them
+HasFirstSubevent	watch film	be quite
+HasFirstSubevent	receive degree	get job
+HasFirstSubevent	catch mumps	get sick
+HasFirstSubevent	compete	win
+HasFirstSubevent	start flame or fire	find match
+HasFirstSubevent	sit down	look for glue on chair
+HasFirstSubevent	play card	cheat
+HasFirstSubevent	stab to death	die
+HasFirstSubevent	travel	leave
+HasFirstSubevent	play violin	buy earplug
+HasFirstSubevent	write poem	die
+HasFirstSubevent	see person play game	keep drive
+HasFirstSubevent	bungee jump from high bridge	see psychiatrist
+HasFirstSubevent	sew	smoke
+HasFirstSubevent	buy food	pay by check
+HasFirstSubevent	program computer	type
+HasFirstSubevent	mail letter	write it
+HasFirstSubevent	find information	use it
+HasFirstSubevent	go to get haircut	grow hair
+HasFirstSubevent	have lunch	buy food
+HasFirstSubevent	pay bill	take out my wallet
+HasFirstSubevent	remember	write it down
+HasFirstSubevent	cross street	wait for light to change
+HasFirstSubevent	die	rest
+HasFirstSubevent	play baseball	go outside
+HasFirstSubevent	play game	agree on rule
+HasFirstSubevent	fiddle	ejaculate
+HasFirstSubevent	love another	fuck man in ass
+HasFirstSubevent	make good world	ejaculate
+HasFirstSubevent	paint	get paint and brush
+HasFirstSubevent	drive your car	sit at driver seat
+HasFirstSubevent	kiss someone	stand close to them
+HasFirstSubevent	play chess	determine who play white
+HasFirstSubevent	light match	open matchbox
+HasFirstSubevent	entertain person	think up something to do
+HasFirstSubevent	bring in verdict	enter courtroom
+HasFirstSubevent	obstruct justice	refuse to testify
+HasFirstSubevent	compute sum	collect value
+HasFirstSubevent	make patchwork quilt	collect piece of cloth
+HasFirstSubevent	get job	go to work
+HasFirstSubevent	water plant	get water can

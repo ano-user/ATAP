@@ -1,0 +1,63 @@
+HasProperty	most rock	hard
+HasProperty	exercise	very good for you
+HasProperty	sailboat	power by wind
+HasProperty	robin egg	blue
+HasProperty	storm	dangerous
+HasProperty	explosive	dangerous
+HasProperty	leave	green
+HasProperty	thumbtack	sharp
+HasProperty	tree	alive
+HasProperty	summer	hot
+HasProperty	sun	hot
+HasProperty	some person	superstitious
+HasProperty	some animal	dangerous
+HasProperty	rollercoasters	scary
+HasProperty	urine	yellow
+HasProperty	ribbon	yellow
+HasProperty	some men	gay
+HasProperty	dinner party	fun
+HasProperty	build	man make
+HasProperty	person	weird
+HasProperty	sky	blue during day
+HasProperty	some plant	edible
+HasProperty	globe	round
+HasProperty	planet	round
+HasProperty	smoke	bad
+HasProperty	rock	hard
+HasProperty	axe	sharp
+HasProperty	ink	black
+HasProperty	butter	yellow
+HasProperty	glass	clear
+HasProperty	water	blue
+HasProperty	house	expensive
+HasProperty	fire	hot
+HasProperty	earth	round
+HasProperty	sun	bright
+HasProperty	roller coaster	fun
+HasProperty	metal	shiny
+HasProperty	walk on beach	relax
+HasProperty	man	sing
+HasProperty	marijuana	legal
+HasProperty	sphere	round
+HasProperty	some person	stupid
+HasProperty	baseball	round
+HasProperty	horseback ride	fun
+HasProperty	play	fun
+HasProperty	smoke	bad for you
+HasProperty	drive	dangerous
+HasProperty	cat	cute
+HasProperty	bird bone	hollow
+HasProperty	peace	good
+HasProperty	flower	fragrant
+HasProperty	animal	alive
+HasProperty	person	human
+HasProperty	gun	dangerous
+HasProperty	ice	hard
+HasProperty	salt	salty
+HasProperty	car	expensive
+HasProperty	game	fun
+HasProperty	thumb tack	sharp
+HasProperty	tornado	very destructive
+HasProperty	most baby	cute
+HasProperty	floppy disk	obsolete
+HasProperty	gun	very dangerous

@@ -1,0 +1,10 @@
+MadeOf	money	paper
+MadeOf	table	wood
+MadeOf	cake	flour
+MadeOf	stick	wood
+MadeOf	boot	leather
+MadeOf	cup	glass
+MadeOf	chair	wood
+MadeOf	cup	plastic
+MadeOf	wallet	leather
+MadeOf	seaweed soup	seaweed

@@ -1,0 +1,5 @@
+NotCapableOf	person	walk on water
+NotCapableOf	sound	travel in space
+NotCapableOf	cat	talk
+NotCapableOf	oil and water	mix
+NotCapableOf	god	exist

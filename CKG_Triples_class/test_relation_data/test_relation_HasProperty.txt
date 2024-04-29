@@ -1,0 +1,70 @@
+HasProperty	something that be very good	good
+HasProperty	sex	fun
+HasProperty	apple	red
+HasProperty	basketball player	tall
+HasProperty	sky	blue
+HasProperty	music	soothe
+HasProperty	ball	round
+HasProperty	doctor	smart
+HasProperty	sunset	pretty
+HasProperty	fruit	good for you
+HasProperty	apple	green
+HasProperty	earth	spherical
+HasProperty	circle	round
+HasProperty	sex	enjoyable
+HasProperty	water	essential to all life
+HasProperty	water	liquid
+HasProperty	horse	brown
+HasProperty	glue	sticky
+HasProperty	world	round
+HasProperty	wheel	round
+HasProperty	sex	pleasurable
+HasProperty	paper	crumple
+HasProperty	day	bright
+HasProperty	fruit	healthy
+HasProperty	puppy	cute
+HasProperty	sex	good
+HasProperty	planet earth	round
+HasProperty	coffee	serve hot
+HasProperty	basketball	round
+HasProperty	needle	sharp
+HasProperty	cookie	sweet
+HasProperty	tack	sharp
+HasProperty	school bus	yellow
+HasProperty	sport	fun
+HasProperty	chair	comfortable
+HasProperty	cake	sweet
+HasProperty	exercise	good for you
+HasProperty	build	big
+HasProperty	gamble	addictive
+HasProperty	lizard	cold blood
+HasProperty	winter	cold
+HasProperty	banana	yellow
+HasProperty	some car	expensive
+HasProperty	frisbee	round
+HasProperty	plant	green
+HasProperty	fruit	sweet
+HasProperty	night	dark
+HasProperty	sword	sharp
+HasProperty	most person	right hand
+HasProperty	most person	right-handed
+HasProperty	apple	good for you
+HasProperty	glass	half full
+HasProperty	paper	recyclable
+HasProperty	dog	very loyal
+HasProperty	grain of sand	very small
+HasProperty	party	fun
+HasProperty	fire engine	red
+HasProperty	canada	north of unite state
+HasProperty	rubber duck	yellow
+HasProperty	baby animal	cute
+HasProperty	lemon	sour
+HasProperty	oil	slippery
+HasProperty	rock	heavy
+HasProperty	paper	white
+HasProperty	fruit	edible
+HasProperty	apple	good to eat
+HasProperty	kill	wrong
+HasProperty	music	relax
+HasProperty	men and woman	different
+HasProperty	sail	fun

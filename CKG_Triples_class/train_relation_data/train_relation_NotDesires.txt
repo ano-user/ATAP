@@ -1,0 +1,3252 @@
+NotDesires	person	itch
+NotDesires	person	bore job
+NotDesires	person	break finger
+NotDesires	person	lose friend
+NotDesires	person	die
+NotDesires	person	pain
+NotDesires	student	study
+NotDesires	person	pimple
+NotDesires	person	be ridiculous
+NotDesires	person	std
+NotDesires	person	computer virus
+NotDesires	person	be in prison
+NotDesires	person	hangnail
+NotDesires	person	speed ticket
+NotDesires	person	be alienate
+NotDesires	person	fall out of love
+NotDesires	person	die alone
+NotDesires	person	be dirty
+NotDesires	person	break tooth
+NotDesires	person	be ill
+NotDesires	person	slow internet connection
+NotDesires	person	bleed
+NotDesires	person	be punish
+NotDesires	animal	pain
+NotDesires	cat	be wet
+NotDesires	person	do something he be not good at
+NotDesires	person	bad thing
+NotDesires	person	eat worm
+NotDesires	person	be in danger
+NotDesires	person	fall off cliff
+NotDesires	person	paper cut
+NotDesires	singer	sore throat
+NotDesires	person	work all time
+NotDesires	person	freeze
+NotDesires	person	love one to die
+NotDesires	person	break arm
+NotDesires	person	seem unattractive
+NotDesires	person	be rude
+NotDesires	cat	it tail pull
+NotDesires	person	die before their time
+NotDesires	person	get hurt
+NotDesires	student	be reject
+NotDesires	person	be hurt
+NotDesires	dog	flea
+NotDesires	person	schizophrenia
+NotDesires	cat	bath
+NotDesires	person	have no home
+NotDesires	person	break her leg
+NotDesires	person	be fearful
+NotDesires	person	abuse
+NotDesires	person	boredom
+NotDesires	person	be restrict
+NotDesires	person	be lay off
+NotDesires	person	be betray
+NotDesires	person	be uncomfortable
+NotDesires	person	be make fun of
+NotDesires	person	be execute
+NotDesires	person	be hate
+NotDesires	person	mistrust
+NotDesires	person	sneeze
+NotDesires	person	be rain on
+NotDesires	person	be miserable
+NotDesires	person	sour milk
+NotDesires	person	be force to do thing
+NotDesires	animal	drown
+NotDesires	person	restriction
+NotDesires	person	low back pain
+NotDesires	person	chicken pox
+NotDesires	gay person	homophobia
+NotDesires	criminal	get catch by police
+NotDesires	political party	lose election
+NotDesires	person	be call name
+NotDesires	person	be unattractive
+NotDesires	person	heart attack
+NotDesires	person	anxiety
+NotDesires	person	harm others
+NotDesires	person	go to war
+NotDesires	person	tax audit
+NotDesires	person	trip
+NotDesires	person	burp in public
+NotDesires	person	clothe that do not fit
+NotDesires	person	get sick
+NotDesires	person	be embarassed
+NotDesires	person	bad feel
+NotDesires	person	bad food
+NotDesires	person	migraine
+NotDesires	person	get burn
+NotDesires	dog	cat
+NotDesires	student	do his homework
+NotDesires	person	break bone
+NotDesires	person	debt
+NotDesires	athlete	lose
+NotDesires	person	see rat
+NotDesires	cockroach	light
+NotDesires	pet	be in surgery
+NotDesires	person	do job over
+NotDesires	person	everything to be same
+NotDesires	person	sprain ankle
+NotDesires	person	brain tumor
+NotDesires	person	be victim of crime
+NotDesires	person	cold sore
+NotDesires	person	do what doe not interest him
+NotDesires	person	tear ligament
+NotDesires	person	be thirsty
+NotDesires	person	be mislead
+NotDesires	person	truth
+NotDesires	person	loud noise
+NotDesires	person	open sore
+NotDesires	person	bad grade on test
+NotDesires	person	be shameful
+NotDesires	person	terrorism
+NotDesires	person	his or her computer to crash
+NotDesires	person	sunburn
+NotDesires	person	boss
+NotDesires	person	crash their car
+NotDesires	person	see bad movie
+NotDesires	person	blister
+NotDesires	person	unpleasant thing
+NotDesires	person	take test
+NotDesires	person	have to go to war
+NotDesires	person	deception
+NotDesires	person	hear bad news
+NotDesires	person	be manipulate
+NotDesires	person	ache back
+NotDesires	person	nuclear war
+NotDesires	person	small pox
+NotDesires	person	ingrown toenail
+NotDesires	cat	go into water
+NotDesires	person	have his ass kick
+NotDesires	person	too little money
+NotDesires	person	eat spoil food
+NotDesires	person	become sick
+NotDesires	person	be embarrased
+NotDesires	person	pollute air
+NotDesires	person	become blind
+NotDesires	person	have flu
+NotDesires	person	lose their wallet
+NotDesires	person	dandruff
+NotDesires	person	confinement
+NotDesires	person	get hurt by anyone
+NotDesires	person	park ticket
+NotDesires	person	tooth decay
+NotDesires	person	spoil meat
+NotDesires	person	high tax
+NotDesires	person	skin his knee
+NotDesires	person	dirty dish
+NotDesires	person	cold oatmeal
+NotDesires	person	be despise
+NotDesires	person	become homeless
+NotDesires	person	hatred
+NotDesires	person	complication
+NotDesires	person	bad report card
+NotDesires	person	his computer to crash
+NotDesires	person	lot of problem
+NotDesires	person	eye poke out
+NotDesires	person	break watch
+NotDesires	person	dishonest politician
+NotDesires	person	be strangle
+NotDesires	person	earache
+NotDesires	person	break neck
+NotDesires	person	break nose
+NotDesires	person	break back
+NotDesires	person	disappointment
+NotDesires	person	legal problem
+NotDesires	person	go bald
+NotDesires	person	dead battery
+NotDesires	person	fail out of college
+NotDesires	person	eat liver
+NotDesires	person	be put in jail
+NotDesires	person	be idiot
+NotDesires	person	be foolish
+NotDesires	person	feel cold
+NotDesires	home-owner	rise damp
+NotDesires	kid	have no friend
+NotDesires	dog	bath
+NotDesires	cook	burn meal they prepare
+NotDesires	share market investor	stock market crash
+NotDesires	cat	be chase by dog
+NotDesires	goth	tan
+NotDesires	sailor	hole in their boat
+NotDesires	camper	wet match
+NotDesires	person	be abandon
+NotDesires	person	be mistreat
+NotDesires	person	boil
+NotDesires	person	feel sick
+NotDesires	person	louse
+NotDesires	person	feel alone
+NotDesires	person	dirty clothe
+NotDesires	person	eat rotten fruit
+NotDesires	person	be trick
+NotDesires	person	feel threaten
+NotDesires	person	lonliness
+NotDesires	person	mean boss
+NotDesires	person	be push around
+NotDesires	person	house fire
+NotDesires	person	be punch in mouth
+NotDesires	person	feel ugly
+NotDesires	person	be offend
+NotDesires	person	be in solitude
+NotDesires	person	their mate to die
+NotDesires	person	lose face
+NotDesires	person	loose friend
+NotDesires	person	feel useless
+NotDesires	person	be in constant pain
+NotDesires	person	cold coffee
+NotDesires	person	overcook steak
+NotDesires	person	bad luck
+NotDesires	person	backache
+NotDesires	person	be shun
+NotDesires	person	be unemployed
+NotDesires	person	fail test
+NotDesires	person	wake up too early
+NotDesires	person	be impotent
+NotDesires	person	guilt
+NotDesires	person	see love one die
+NotDesires	person	loose his job
+NotDesires	person	bad grade
+NotDesires	person	anger
+NotDesires	person	stupidity
+NotDesires	cat	be bathe
+NotDesires	person	bad review
+NotDesires	person	be deaf
+NotDesires	person	feel pain
+NotDesires	person	death
+NotDesires	person	stress
+NotDesires	person	war
+NotDesires	person	conflict
+NotDesires	person	be sick
+NotDesires	person	be alone
+NotDesires	person	be embarrass
+NotDesires	student	take exam
+NotDesires	criminal	get catch
+NotDesires	person	influenza
+NotDesires	person	be scold
+NotDesires	person	be poor
+NotDesires	person	be eat
+NotDesires	monkey	swim
+NotDesires	student	teacher
+NotDesires	typist	break finger
+NotDesires	boy	look like girl
+NotDesires	celibate	have sex
+NotDesires	gregarious person	be alone
+NotDesires	vegetarian	eat meat
+NotDesires	person	misfortune
+NotDesires	inanimate object	anything
+NotDesires	baton twirler	break finger
+NotDesires	person	be in car accident
+NotDesires	person	sexually transmit disease
+NotDesires	person	live in poverty
+NotDesires	person	hurt person
+NotDesires	person	false information
+NotDesires	person	sore muscle
+NotDesires	person	be abuse
+NotDesires	person	be in traffic-jam
+NotDesires	person	go to work
+NotDesires	person	be different
+NotDesires	person	be pester
+NotDesires	person	vomit on themselves
+NotDesires	person	have pimple
+NotDesires	person	danger
+NotDesires	person	be interrupt
+NotDesires	person	break heart
+NotDesires	person	injustice
+NotDesires	person	flu
+NotDesires	person	be leave out in cold
+NotDesires	person	feel hate
+NotDesires	person	their child to suffer
+NotDesires	most person	look at park area
+NotDesires	person	be rich
+NotDesires	person	be treat like commodity
+NotDesires	person	criticism
+NotDesires	person	horn
+NotDesires	person	be eat by shark
+NotDesires	person	annoyance
+NotDesires	person	isolation
+NotDesires	person	irs audit
+NotDesires	child	have sex
+NotDesires	person	god
+NotDesires	most person	hurt other person
+NotDesires	person	their computer to crash
+NotDesires	person	disgust thing
+NotDesires	person	starve to death
+NotDesires	person	loose job
+NotDesires	person	be hospitalize
+NotDesires	person	miss out
+NotDesires	person	person to be mean
+NotDesires	person	die in pain
+NotDesires	person	have heart attack
+NotDesires	person	meanness
+NotDesires	person	break limb
+NotDesires	person	not be harm
+NotDesires	person	be run down
+NotDesires	person	plague
+NotDesires	plant	die
+NotDesires	person	be see as stupid
+NotDesires	person	catch cold
+NotDesires	dog	be leave home alone
+NotDesires	person	stop learn
+NotDesires	person	have possesions steal
+NotDesires	person	get speed ticket
+NotDesires	person	face death
+NotDesires	person	trouble with boss
+NotDesires	person	engage in pointless argument
+NotDesires	person	small shoe
+NotDesires	person	pollute water
+NotDesires	person	lose confidence
+NotDesires	person	keep answer same question
+NotDesires	person	annoy others
+NotDesires	person	not to be love
+NotDesires	person	be injure or disable
+NotDesires	person	have their freedom take away
+NotDesires	person	eat rot food
+NotDesires	person	be bleed
+NotDesires	person	be catch in rainstorm
+NotDesires	person	wait in long line
+NotDesires	person	feel stress
+NotDesires	person	be patient in hospital
+NotDesires	person	feel tire
+NotDesires	person	be sniffly
+NotDesires	person	obligation
+NotDesires	person	be yell at by her lover
+NotDesires	person	friend to die
+NotDesires	person	too much pollution
+NotDesires	person	overly busy schedule
+NotDesires	person	be hungry for several day
+NotDesires	rabbit	be kill
+NotDesires	person	sufer
+NotDesires	person	be exclude from society
+NotDesires	animal	learn how to dance
+NotDesires	hospital patient	be forget
+NotDesires	person	numbness
+NotDesires	person	dirt
+NotDesires	person	feel shame
+NotDesires	person	fail at their job
+NotDesires	person	despair
+NotDesires	person	dangerous job
+NotDesires	person	low-paying job
+NotDesires	person	crash his car
+NotDesires	person	radioactive food
+NotDesires	person	work on weekend
+NotDesires	person	smelly sock
+NotDesires	person	monday to come
+NotDesires	person	have his ear talk off
+NotDesires	person	pay cut
+NotDesires	person	car wreck
+NotDesires	person	small and cheap car
+NotDesires	person	flood
+NotDesires	person	be hungrey
+NotDesires	person	dirty cloth
+NotDesires	person	hole in their head
+NotDesires	person	step on nail
+NotDesires	person	weekend to end
+NotDesires	person	blizzard
+NotDesires	person	go to work on monday
+NotDesires	person	bust engine
+NotDesires	person	not be in control
+NotDesires	person	queue
+NotDesires	person	bad advice
+NotDesires	person	jail time
+NotDesires	person	grape juice on his shirt
+NotDesires	person	sleep outside in cold
+NotDesires	person	his toe step on
+NotDesires	person	hear harsh word
+NotDesires	person	night blindness
+NotDesires	person	frostbite
+NotDesires	person	lose their lover
+NotDesires	animal	be confine
+NotDesires	animal	suffer
+NotDesires	soldier	displease their commander
+NotDesires	soldier	lose war
+NotDesires	person	lose their friend
+NotDesires	animal	be burn
+NotDesires	animal	die
+NotDesires	person	lose their spouse
+NotDesires	soldier	be detect
+NotDesires	spy	be detect
+NotDesires	animal	be hurt
+NotDesires	person	grow old and infirm
+NotDesires	person	be view as stupid
+NotDesires	person	be abandonded
+NotDesires	person	tire blow out
+NotDesires	person	tight shoe
+NotDesires	person	back pain
+NotDesires	person	dirty world
+NotDesires	person	cable to go out
+NotDesires	person	be jobless
+NotDesires	person	lose at game or bet
+NotDesires	person	terror
+NotDesires	person	irritation
+NotDesires	person	mind control
+NotDesires	person	teal car
+NotDesires	person	distress
+NotDesires	person	have their appendix out without anasthetic
+NotDesires	person	be alcoholic
+NotDesires	person	be afraid of dark
+NotDesires	person	forget to go to work
+NotDesires	person	losy his car key
+NotDesires	person	make others angry
+NotDesires	person	rotten tooth
+NotDesires	person	embarrassment
+NotDesires	person	little money
+NotDesires	live entity	die
+NotDesires	person	tho be poor
+NotDesires	person	eat raw meat
+NotDesires	person	bad boss
+NotDesires	person	hip surgery
+NotDesires	person	break wrist
+NotDesires	person	slow access to net
+NotDesires	person	eat poorly
+NotDesires	person	bad skin
+NotDesires	person	his pet to die
+NotDesires	person	break femur
+NotDesires	person	be too heavy
+NotDesires	person	bad complexion
+NotDesires	person	loose game
+NotDesires	person	athelte foot
+NotDesires	person	false friend
+NotDesires	person	get black eye
+NotDesires	person	bruise
+NotDesires	person	crack rib
+NotDesires	person	look stupid
+NotDesires	person	bld complexion
+NotDesires	person	unkempt look
+NotDesires	person	be draft
+NotDesires	person	fail class
+NotDesires	person	be slob
+NotDesires	person	bad break
+NotDesires	person	loose their job
+NotDesires	person	14.4 modem
+NotDesires	person	bad kidney
+NotDesires	person	break window
+NotDesires	person	gall stone
+NotDesires	person	fine
+NotDesires	person	be exclude
+NotDesires	person	be mess with
+NotDesires	person	his arm amputate
+NotDesires	person	his leg to be amputate
+NotDesires	woman	be unloved
+NotDesires	person	be without friend
+NotDesires	person	be hook on drug
+NotDesires	person	their computer to brake
+NotDesires	person	read same book twice
+NotDesires	person	obey without question
+NotDesires	person	theft
+NotDesires	person	lump of coal
+NotDesires	person	thing to be complex
+NotDesires	person	die usually
+NotDesires	person	scald themselves
+NotDesires	person	cockroach in their kitchen
+NotDesires	person	be beat unconscious
+NotDesires	person	be draft into military
+NotDesires	person	know truth sometimes
+NotDesires	person	bad neighbor
+NotDesires	person	damp house
+NotDesires	person	expose himself to ridicule
+NotDesires	person	be naughty
+NotDesires	person	suffer violence
+NotDesires	person	answer to silly question
+NotDesires	person	stay alone
+NotDesires	person	live in constant pain
+NotDesires	person	fail at their job marriage sport
+NotDesires	person	low wage
+NotDesires	person	filth
+NotDesires	person	ripoff
+NotDesires	person	police brutaility
+NotDesires	person	inconvenience
+NotDesires	person	racial profile
+NotDesires	person	all hell to break loose
+NotDesires	person	death penalty
+NotDesires	person	traffic congestion
+NotDesires	person	error
+NotDesires	person	oppression
+NotDesires	person	dry rot
+NotDesires	person	become poor
+NotDesires	person	hard knock
+NotDesires	person	their toy break
+NotDesires	person	complacency
+NotDesires	person	acne and boil
+NotDesires	person	be heavily inebriate
+NotDesires	person	moldy food
+NotDesires	person	emergency
+NotDesires	person	life to be tedious
+NotDesires	person	project unfinished
+NotDesires	person	feel humiliation
+NotDesires	parent	see their child come to harm
+NotDesires	cat	be spray with water
+NotDesires	doctor	his patient to die
+NotDesires	person	have ear-ache
+NotDesires	person	step on expose nail
+NotDesires	astronomer	cloudy sky at night
+NotDesires	scientist	statistically insignificant research result
+NotDesires	hungry person	cupboard to be empty
+NotDesires	dog	be shoo off couch
+NotDesires	person	forget their sibling birthday
+NotDesires	party host	sound system to fail
+NotDesires	event promoter	bad weather
+NotDesires	king	regicide
+NotDesires	person	malice
+NotDesires	marry person	their partner to have affair
+NotDesires	manager	high rate of absenteeism
+NotDesires	hostess	acrimonious argument at her dinner party
+NotDesires	tradesman	blunt tool
+NotDesires	scientist	lack of government fund for research
+NotDesires	person	their lamp to fall over
+NotDesires	home-owner	white ant
+NotDesires	painter	drip paint on floor
+NotDesires	person with new pierce	pierce to get infect
+NotDesires	goth	brightly colour clothe
+NotDesires	plant	lack of sunshine
+NotDesires	farmer	no rain
+NotDesires	author	their manuscript to be reject
+NotDesires	book lover	their local library to close down
+NotDesires	priest	sacrilege
+NotDesires	sport fan	their team to lose
+NotDesires	traveller	baggage-handlers strike
+NotDesires	gardener	their plant to die
+NotDesires	photographer	poor light
+NotDesires	kid	their pet to die
+NotDesires	cockroach	bug spray
+NotDesires	cat	worm tablet
+NotDesires	shopper	pushy salesperson
+NotDesires	traveller	miss her flight
+NotDesires	child	their parent to be cranky
+NotDesires	renter	rise in rent
+NotDesires	person	overspend
+NotDesires	lesbian	be hit on by macho men
+NotDesires	person	difficulty
+NotDesires	person	fail class in school
+NotDesires	person	milk if she be lactose intolerant
+NotDesires	person	be by themselves
+NotDesires	person	be stick by lighten
+NotDesires	person	unwanted surprise
+NotDesires	person	envy
+NotDesires	person	negative energy
+NotDesires	person	argument
+NotDesires	person	be exile
+NotDesires	person	waste their life
+NotDesires	person	their cat to scratch them
+NotDesires	person	have cavity in their tooth
+NotDesires	person	perish
+NotDesires	person	die in vain
+NotDesires	person	feel smother
+NotDesires	person	live bore life
+NotDesires	person	be in abusive relationship
+NotDesires	person	feel unappreciated
+NotDesires	person	eat rotten apple
+NotDesires	person	have hair in their food
+NotDesires	person	hair in their food
+NotDesires	person	spend holiday alone
+NotDesires	person	be discriminate against
+NotDesires	person	have stage fright
+NotDesires	person	be infertile
+NotDesires	person	be ban from something
+NotDesires	person	feel like they be bore
+NotDesires	person	feel blue
+NotDesires	person	feel unwanted
+NotDesires	person	be shelter
+NotDesires	person	feel outrage
+NotDesires	person	their mate to ignore them
+NotDesires	person	be keep wait
+NotDesires	person	100 cat
+NotDesires	person	unattractive mate
+NotDesires	person	feel uncertain
+NotDesires	person	be molest
+NotDesires	person	their house to catch on fire
+NotDesires	person	dead end job
+NotDesires	person	be hold prisioner
+NotDesires	person	be suicidal
+NotDesires	person	feel shelter
+NotDesires	person	nervous breakdown
+NotDesires	person	drink expire milk
+NotDesires	person	feel hopeless
+NotDesires	person	cheap cigar
+NotDesires	person	feel unattractive
+NotDesires	person	be attack by wolf
+NotDesires	person	their spouse to die
+NotDesires	person	mean pet
+NotDesires	person	terminal disease
+NotDesires	person	fly in their soup
+NotDesires	person	confrontation
+NotDesires	person	virus
+NotDesires	person	live meaningless life
+NotDesires	person	spouse who beat them
+NotDesires	person	feel famish
+NotDesires	person	feel undesirable
+NotDesires	person	their possession steal
+NotDesires	person	be cast out
+NotDesires	person	be chastise
+NotDesires	person	feel like idiot
+NotDesires	person	wooden leg
+NotDesires	person	turmoil
+NotDesires	person	be alone in dark
+NotDesires	person	be selfish
+NotDesires	person	blemish
+NotDesires	person	their mate to leave them
+NotDesires	person	fall on their head
+NotDesires	person	jump from high place
+NotDesires	person	bad date
+NotDesires	person	be put down
+NotDesires	person	their family to fight
+NotDesires	person	be imprisioned
+NotDesires	person	roach in house
+NotDesires	person	be greedy
+NotDesires	person	tragedy
+NotDesires	person	bad childhood
+NotDesires	person	be punch
+NotDesires	person	fall from high place
+NotDesires	person	miss someone
+NotDesires	person	be patronize
+NotDesires	person	stupid friend
+NotDesires	person	family member to die
+NotDesires	person	conflict hunger poverty pain
+NotDesires	person	feel isolate
+NotDesires	person	hard work
+NotDesires	person	noise
+NotDesires	animal	be attack
+NotDesires	person	be make to feel unwelcome
+NotDesires	person	hit his head
+NotDesires	vegetarian be someone who	eat meat
+NotDesires	person	outlive those dear to her
+NotDesires	person	miss thing
+NotDesires	person	be think ignorant
+NotDesires	person	their government to be corrupt
+NotDesires	person	be scorn
+NotDesires	person	drug
+NotDesires	person	evil
+NotDesires	person	alcohol
+NotDesires	person	warm pepsi
+NotDesires	person	be in dark
+NotDesires	person	have tooth ache
+NotDesires	person	bad weather
+NotDesires	person	get virus
+NotDesires	person	bull droppings
+NotDesires	person	be illiterate
+NotDesires	person	be expose to harsh weather
+NotDesires	person	have their privacy take away
+NotDesires	person	be blackmail into do something
+NotDesires	person	be unintelligent
+NotDesires	person	forget important date
+NotDesires	person	see blood
+NotDesires	person	seem bore
+NotDesires	person	be forget by others
+NotDesires	person	see person they love get hurt
+NotDesires	person	touch gross stuff
+NotDesires	person	sing out of tune
+NotDesires	person	break mirror
+NotDesires	person	be snub
+NotDesires	person	fart
+NotDesires	person	trip on their shoelace
+NotDesires	person	forget important thing
+NotDesires	person	be startle
+NotDesires	person	get paper cut
+NotDesires	person	wear old clothe
+NotDesires	person	be timid
+NotDesires	person	trust others
+NotDesires	person	phone call at midnight
+NotDesires	person	mess up their hair
+NotDesires	person	be bum
+NotDesires	person	be bother when they be busy
+NotDesires	person	bee inferior
+NotDesires	person	discord
+NotDesires	person	make bad mistake
+NotDesires	person	be punish for no reason
+NotDesires	person	bee in too hot weather
+NotDesires	person	be disapprove by other person
+NotDesires	person	get hurt physically or mentally
+NotDesires	person	make other person miserable
+NotDesires	person	get annoy phone call
+NotDesires	person	have bore job
+NotDesires	person	live in sqallor
+NotDesires	person	dirty cat
+NotDesires	person	walk
+NotDesires	person	drink cork wine
+NotDesires	person	eat lousy food
+NotDesires	person	other person to hate them
+NotDesires	person	tax
+NotDesires	person	be catch do illegal act
+NotDesires	person	sicness
+NotDesires	person	toxic waste site near their house
+NotDesires	person	fairness
+NotDesires	person	get snake bite
+NotDesires	person	others to be angry at him
+NotDesires	person	be store
+NotDesires	person	excuse
+NotDesires	person	too much information
+NotDesires	person	vermin in house
+NotDesires	person	toe jam
+NotDesires	person	be bother by telemarketers
+NotDesires	person	moldy fruit
+NotDesires	coach	his team to lose
+NotDesires	person	their class cancel
+NotDesires	person	pay too much for thing
+NotDesires	person	be strand at airport
+NotDesires	employee	lose his job
+NotDesires	animal	death
+NotDesires	person	make same mistake twice
+NotDesires	person	split her pant
+NotDesires	person	lose child
+NotDesires	person	fight
+NotDesires	person	feel bad
+NotDesires	person	be hungry
+NotDesires	person	suffer
+NotDesires	person	fear
+NotDesires	person	feel ill
+NotDesires	person	lose money
+NotDesires	person	be ugly
+NotDesires	person	be mug
+NotDesires	person	hardship
+NotDesires	person	disease
+NotDesires	person	enemy
+NotDesires	person	amputation
+NotDesires	person	jump out of window
+NotDesires	person	be bother
+NotDesires	person	be kill
+NotDesires	person	hurt other person
+NotDesires	person	loose money
+NotDesires	person	be beat
+NotDesires	person	hate
+NotDesires	person	lose love one
+NotDesires	person	be bore
+NotDesires	person	feel sad
+NotDesires	person	be victim
+NotDesires	person	lie
+NotDesires	person	lose game
+NotDesires	person	headache
+NotDesires	person	get divorce
+NotDesires	person	be control
+NotDesires	democrat	republican to be president
+NotDesires	senator	lose election
+NotDesires	security guard	robbery
+NotDesires	cyclist	flat tire
+NotDesires	cat	live with dog
+NotDesires	child	be bore
+NotDesires	gambler	lose
+NotDesires	atheist	believe in god
+NotDesires	baseball player	strike out
+NotDesires	dog	be abandon
+NotDesires	libertarian	government to control his life
+NotDesires	teacher	huge class
+NotDesires	jesus	person to go to hell
+NotDesires	wife	abuse
+NotDesires	mouse	be catch by cat
+NotDesires	person	unfaithful lover
+NotDesires	sysadmin	his machine hack
+NotDesires	nun	sex
+NotDesires	gambler	lose money
+NotDesires	human	be alone
+NotDesires	organism	die
+NotDesires	government	revolution
+NotDesires	normal person	lobotomy
+NotDesires	politician	scandal
+NotDesires	dog	hear loud noise
+NotDesires	student	fail their course
+NotDesires	stapler	run out of staple
+NotDesires	person	feel powerless
+NotDesires	person	hopeless
+NotDesires	person	get drunk
+NotDesires	person	shit in their pant
+NotDesires	person	heartache
+NotDesires	person	have car accident
+NotDesires	person	be swindle
+NotDesires	person	head louse
+NotDesires	person	starvation
+NotDesires	person	have limb amputate
+NotDesires	person	be stalk
+NotDesires	person	water pollution
+NotDesires	person	air pollution
+NotDesires	person	answer silly question
+NotDesires	person	ugliness
+NotDesires	person	change
+NotDesires	person	gray hair
+NotDesires	person	wait in line for too long
+NotDesires	person	be oppress
+NotDesires	person	hear bad news from doctor
+NotDesires	person	go to dentist
+NotDesires	person	be set on fire
+NotDesires	person	stagnation
+NotDesires	person	give up
+NotDesires	person	have stupid friend
+NotDesires	person	have gangreen
+NotDesires	person	work too much
+NotDesires	person	burn his hand
+NotDesires	person	waste money
+NotDesires	most person	sit in dental chair
+NotDesires	person	be worry
+NotDesires	person	poorness
+NotDesires	person	moldy cheese
+NotDesires	person	be sad all time
+NotDesires	person	unreliable car
+NotDesires	person	get hit by base ball
+NotDesires	person	choke
+NotDesires	person	unfair boss
+NotDesires	person	excessive heat
+NotDesires	person	get in car accident
+NotDesires	person	die painful death
+NotDesires	person	be laughingstock
+NotDesires	person	gain weight
+NotDesires	person	be bald
+NotDesires	person	fall on his head
+NotDesires	i	tell you my password
+NotDesires	person	imprisonment
+NotDesires	person	athlete foot
+NotDesires	person	urine
+NotDesires	person	live alone
+NotDesires	person	their pet to die
+NotDesires	person	be dumb
+NotDesires	person	go to baseball game
+NotDesires	person	body odor
+NotDesires	person	investment to tank
+NotDesires	some person	swim in ocean
+NotDesires	person	have to clean house
+NotDesires	person	be cannibalize
+NotDesires	person	go into debt
+NotDesires	garbage be stuff that person	keep
+NotDesires	person	interruption
+NotDesires	person	be sting by bee
+NotDesires	person	go insane
+NotDesires	person	be in flood
+NotDesires	person	be negative
+NotDesires	person	leaky roof
+NotDesires	person	miss boat
+NotDesires	person	be leave behind
+NotDesires	person	be broke
+NotDesires	person	genital wart
+NotDesires	person	thing that do not taste good
+NotDesires	person	be without money
+NotDesires	person	fall down flight of stair
+NotDesires	person	eat bad food
+NotDesires	person	be pooped on
+NotDesires	person	be nervous
+NotDesires	person	go blind
+NotDesires	garbage be stuff that person	eat
+NotDesires	person	hiv
+NotDesires	person	be cook
+NotDesires	person	be in traffic jam
+NotDesires	person	have tax audit
+NotDesires	person	be obese
+NotDesires	person	disability
+NotDesires	person	thing to be dirty
+NotDesires	person	be bite by other thing
+NotDesires	person	hear bad music
+NotDesires	person	be under pressure
+NotDesires	person	it to rain
+NotDesires	person	betrayal
+NotDesires	person	be scratch
+NotDesires	person	suffer with pain
+NotDesires	person	hear very loud noise
+NotDesires	person	wind
+NotDesires	person	forget everything
+NotDesires	person	stub their toe
+NotDesires	person	rain on their wed day
+NotDesires	person	eat cat food
+NotDesires	person	thing to break
+NotDesires	person	sit in dental chair
+NotDesires	person	american wife
+NotDesires	person	egg on his face
+NotDesires	person	work only for pay
+NotDesires	person	third degree burn
+NotDesires	person	papercut
+NotDesires	person	stroke
+NotDesires	person	cat scratch
+NotDesires	person	more government
+NotDesires	person	be punch in face
+NotDesires	person	law
+NotDesires	person	be screw up
+NotDesires	person	lose his spouse
+NotDesires	person	be push
+NotDesires	person	personal harm
+NotDesires	person	sexually-transmitted disease
+NotDesires	person	burn food
+NotDesires	person	diarrhea
+NotDesires	person	root canal
+NotDesires	person	be persecute
+NotDesires	person	uncomfortableness
+NotDesires	person	be avoid
+NotDesires	person	ice cream that be all melt
+NotDesires	person	see frown of disapproval
+NotDesires	person	endless repetition
+NotDesires	person	fly in soup
+NotDesires	person	thing to wear out
+NotDesires	person	lose control
+NotDesires	person	friend to be hurt
+NotDesires	person	be force to do anything
+NotDesires	person	thorn in his foot
+NotDesires	person	have to go to hospital
+NotDesires	person	nosy neighbor
+NotDesires	person	not see clearly
+NotDesires	person	slip and fall
+NotDesires	person	be unpopular
+NotDesires	person	shit
+NotDesires	person	be think of as stupid
+NotDesires	person	repeat themselves
+NotDesires	person	be insane
+NotDesires	person	chap lip
+NotDesires	person	lose their arm
+NotDesires	person	allergy
+NotDesires	person	be decapitate
+NotDesires	person	low self-esteem
+NotDesires	person	be treat badly
+NotDesires	person	early death
+NotDesires	person	damage themselves
+NotDesires	person	be victim of prejudice
+NotDesires	person	have smelly foot
+NotDesires	person	feel helpless
+NotDesires	die person	be alone
+NotDesires	person	low pay job
+NotDesires	person	other person to get hurt
+NotDesires	person	wake up early
+NotDesires	person	their friend to die
+NotDesires	person	be stress
+NotDesires	person	failure
+NotDesires	person	microsoft
+NotDesires	person	lose their love one
+NotDesires	person	live forever
+NotDesires	person	be deceive
+NotDesires	theatre-goer	cough during performance
+NotDesires	nurse	suicide case
+NotDesires	person	be threaten
+NotDesires	person	be freeze
+NotDesires	tree	be cut down
+NotDesires	person	manure
+NotDesires	person	hear loud noise
+NotDesires	person	wet hair
+NotDesires	student	fail
+NotDesires	cat	go in dirty litter box
+NotDesires	cat	stay home alone
+NotDesires	cat	sleep on floor
+NotDesires	cat	eat his cat food
+NotDesires	you	anoy human
+NotDesires	you	harm human
+NotDesires	you	kill yourself
+NotDesires	you	kill human
+NotDesires	cook	burn food
+NotDesires	person	lose bet
+NotDesires	cook	food to spoil
+NotDesires	diner	eat bad food
+NotDesires	diner	overpay
+NotDesires	diner	overeat
+NotDesires	cook	food to go uneaten
+NotDesires	customer	overpay
+NotDesires	penguin	fly in sky
+NotDesires	student	drop off
+NotDesires	build	collapse
+NotDesires	perfectionist	error
+NotDesires	high school student	take sit
+NotDesires	wisdom	foolishness
+NotDesires	chastity	sexual intercourse
+NotDesires	student	mess up his exam
+NotDesires	person	get threat
+NotDesires	passionate person	be lead
+NotDesires	athlete	be injure
+NotDesires	human	get sick
+NotDesires	driver	car accident
+NotDesires	lesbian	make love to men
+NotDesires	lesbian	marry man
+NotDesires	teenager	rejection
+NotDesires	teenager	body odor
+NotDesires	mountain climber	accident
+NotDesires	teenager	pimple
+NotDesires	parent	unhappiness for their child
+NotDesires	driver	sudden accident
+NotDesires	butterfly	be catch in net
+NotDesires	man	join army
+NotDesires	student	screw up his exam
+NotDesires	student	speak in public
+NotDesires	cat	be let out
+NotDesires	office worker	go on business trip
+NotDesires	person	see catepillers
+NotDesires	student	fail her exam
+NotDesires	tv drama	get criticize
+NotDesires	hero	slide
+NotDesires	cartoonist	have fan pry into his work
+NotDesires	alarm clock	be use as radio
+NotDesires	teacher	have student eat thier lunch before lunch time
+NotDesires	person who life alone	do his laundry
+NotDesires	parent	thier child to go astray
+NotDesires	husband	drive
+NotDesires	bus driver	argue
+NotDesires	driver	make mistake while he be drive
+NotDesires	cockroach	see light
+NotDesires	student	exam
+NotDesires	cartoonist	make mistake
+NotDesires	student	be on spot
+NotDesires	person	see cockroach
+NotDesires	drugdealer	get rob
+NotDesires	teacher	have rowdy student
+NotDesires	person	hear someone boast about himself
+NotDesires	tv drama	be cancel
+NotDesires	lawyer	do probono
+NotDesires	graduate student	do project
+NotDesires	your husand	do dish
+NotDesires	president	change in situation
+NotDesires	woman	get heartbroken
+NotDesires	high school student	mid tem exam
+NotDesires	high school student	have final
+NotDesires	person	hear another person boast
+NotDesires	graduate student	meet
+NotDesires	life	end
+NotDesires	person	dirty thing
+NotDesires	person	experience tragedy
+NotDesires	drugdealer	get into trouble
+NotDesires	tv drama	be too predictable
+NotDesires	hero	get old
+NotDesires	person	dance
+NotDesires	office worker	monday to come
+NotDesires	driver	make mistakeswhile drive
+NotDesires	woman	grow old
+NotDesires	butterfly	sting like bee
+NotDesires	cat	feed too much
+NotDesires	person	see catepillars
+NotDesires	tv drama	make climax bore
+NotDesires	husband	eat unpalatable side dish
+NotDesires	student	pop quiz
+NotDesires	student	be fail
+NotDesires	bus driver	slow down
+NotDesires	person	live occasionally
+NotDesires	high school student	homework
+NotDesires	person	see insect
+NotDesires	office worker	conference
+NotDesires	fish	getcaught and eat
+NotDesires	life	be bore
+NotDesires	person who life alone	clean house
+NotDesires	president	peace breaker
+NotDesires	student	do thier homework
+NotDesires	employee	get pay cut
+NotDesires	patient	hear about his illness
+NotDesires	business man	get fire
+NotDesires	player	fall down
+NotDesires	cancer cell	spread
+NotDesires	person who life by himself	do his laundry
+NotDesires	alarm clock	ring all day
+NotDesires	student	be spank
+NotDesires	drugdealer	get catch
+NotDesires	person	see monster
+NotDesires	office worker	picky superintendant
+NotDesires	person	talk
+NotDesires	person	see something repugnant
+NotDesires	life	be melodramatic
+NotDesires	high school student	have final exam
+NotDesires	butterfly	be kill
+NotDesires	alarm clock	be mistreat
+NotDesires	your husband	eat unpalatable side dish
+NotDesires	alarm clock	break
+NotDesires	wife	clean house
+NotDesires	bus driver	speed
+NotDesires	cat	be torture
+NotDesires	cancer cell	kill you
+NotDesires	student	not graduate
+NotDesires	cancer cell	destroy you
+NotDesires	person	see tragic thing
+NotDesires	student	be late for school
+NotDesires	cancer cell	be take out
+NotDesires	person	be in tragedy
+NotDesires	person	eat
+NotDesires	woman	be slap
+NotDesires	patient	know about his situation
+NotDesires	president	ramble criticism
+NotDesires	hero	fail
+NotDesires	fairy tale	kill it hero
+NotDesires	grad student	professor around
+NotDesires	teacher	be absent
+NotDesires	dog	be with cat
+NotDesires	person	die old
+NotDesires	student	go to school
+NotDesires	life	be sad
+NotDesires	man	get down on his knee
+NotDesires	computer	be moist
+NotDesires	cat	be leave alone
+NotDesires	bus driver	stop at bus stop
+NotDesires	person	snap at someone
+NotDesires	fairy tale	have bad end
+NotDesires	butterfly	be squish
+NotDesires	office worker	night shift
+NotDesires	pet	be abandon
+NotDesires	drugdealer	get high
+NotDesires	hero	fade away
+NotDesires	graduate student	program
+NotDesires	person	be saint
+NotDesires	cat	die
+NotDesires	cat	be hurt
+NotDesires	mouse	die
+NotDesires	mouse	eat
+NotDesires	cat	throw out of window
+NotDesires	mouse	kill
+NotDesires	cat	be lonly
+NotDesires	mother	her child to be sick
+NotDesires	mother	her child to steal
+NotDesires	mother	her child to drink
+NotDesires	mother	her child to be unhappy
+NotDesires	high school student	final term
+NotDesires	examinee	be reject
+NotDesires	doctor	see patient die
+NotDesires	person	be busy
+NotDesires	parent	their child to be stupid
+NotDesires	parent	their child smoke
+NotDesires	parent	their child to be rude
+NotDesires	parent	their child always hang out all night
+NotDesires	student	flunk
+NotDesires	person	sue person
+NotDesires	animal	illness
+NotDesires	person	be look down at
+NotDesires	dog	get trample on
+NotDesires	animal	handicap
+NotDesires	person	do thing against his will
+NotDesires	man	get sick
+NotDesires	player	lose
+NotDesires	cat	be alone
+NotDesires	teacher	be contradict
+NotDesires	lover	have rivale
+NotDesires	lover	be leave
+NotDesires	teacher	be find out fool
+NotDesires	mother	pamper
+NotDesires	lover	be sad
+NotDesires	teacher	be laugh stick
+NotDesires	lover	be betray
+NotDesires	teacher	be embarrass
+NotDesires	mom	her child to hurt
+NotDesires	mom	her child to go hungry
+NotDesires	mom	her child to be lonely
+NotDesires	mom	her child to cry
+NotDesires	mankind	earthquake
+NotDesires	mankind	volcano
+NotDesires	mankind	tornado
+NotDesires	mankind	nuclear waste
+NotDesires	husband	wash dish
+NotDesires	worker	business trip
+NotDesires	wife	laundry
+NotDesires	student	do homework
+NotDesires	woman	get hurt
+NotDesires	individual	die
+NotDesires	pet	be discard
+NotDesires	businessman	incompetent person
+NotDesires	doctor	lose patient
+NotDesires	doctor	lose medical license
+NotDesires	doctor	be sue
+NotDesires	city	sprawl
+NotDesires	city	pollution
+NotDesires	doctor	make patient worse
+NotDesires	city	lose population
+NotDesires	city	crime
+NotDesires	animal	thirst
+NotDesires	animal	hunger
+NotDesires	race driver	lose
+NotDesires	race driver	crash their car
+NotDesires	mother	child to die
+NotDesires	mother	child to be unhappy
+NotDesires	mother	child to be inpolite
+NotDesires	person	dog
+NotDesires	person	gerbil
+NotDesires	person	make love
+NotDesires	person	eat pussy
+NotDesires	person	faith
+NotDesires	person	get catch
+NotDesires	person	warm beer and cold woman
+NotDesires	person	cook
+NotDesires	homosexual	make love to woman
+NotDesires	homosexual	marry woman
+NotDesires	person	swim
+NotDesires	pianist	study physic
+NotDesires	architect	destruct build
+NotDesires	workaholic	go home
+NotDesires	tv network	get bad rate
+NotDesires	parent	their child to get arrest
+NotDesires	babysitter	sit for bratty kid
+NotDesires	bug	be step on
+NotDesires	dog	go to vet
+NotDesires	doctor	malpractice suit
+NotDesires	slesman	lose sale
+NotDesires	pool clean	empty pool
+NotDesires	drinker	run out of alcohol
+NotDesires	clown	have no joke
+NotDesires	farmer	spoil fruit crop
+NotDesires	queen	lose her crown
+NotDesires	animal trainer	beeaten by tiger
+NotDesires	pianist	break piano
+NotDesires	woman	quit be female
+NotDesires	car salesman	day without sale
+NotDesires	gym teacher	doctor excuse form
+NotDesires	computer programmer	break computer
+NotDesires	sleeper	wake up
+NotDesires	artist	be unable to create art
+NotDesires	secretary	indecisive boss
+NotDesires	reader	have no book
+NotDesires	pet owner	their pet to leave them
+NotDesires	salesman	angry customer
+NotDesires	pool hustler	expert pool player
+NotDesires	fighter	lose
+NotDesires	driver	stop drive
+NotDesires	stunt man	accident
+NotDesires	harpist	give up play harp
+NotDesires	teacher	be ignore
+NotDesires	farmer	bad crop
+NotDesires	author	be unable to write
+NotDesires	man	quit be male
+NotDesires	trapeze artist	perform without net
+NotDesires	ship captain	get ship lose
+NotDesires	bigot	advice
+NotDesires	golfer	lose game of golf
+NotDesires	doctor	incurable disease
+NotDesires	cougher	cough in his hand
+NotDesires	weather reporter	surprise weather
+NotDesires	clean crew	unremovable stain
+NotDesires	king	lose his kingdom
+NotDesires	owner	his possession to be steal
+NotDesires	engineer	chaotic system
+NotDesires	pauper	be poor
+NotDesires	child	kiss another child
+NotDesires	floor sweeper	new carpet
+NotDesires	contestant	lose contest
+NotDesires	smoker	give up cigarette
+NotDesires	stunt-driver	break car
+NotDesires	organist	give away their organ
+NotDesires	singer	laryngitis
+NotDesires	public speaker	hack cough
+NotDesires	pet owner	their pet to be sick
+NotDesires	yellow journalist	bore story
+NotDesires	pianist	break wrist
+NotDesires	pianist	stop play piano
+NotDesires	editor	slow writer
+NotDesires	football coach	lose team
+NotDesires	person	stand in long queue
+NotDesires	dog	punishment
+NotDesires	president bush	saddam hussein
+NotDesires	my dog	eat her dinner
+NotDesires	my wife	me to stay up too late
+NotDesires	bill clinton	be remember for his sexual misconduct
+NotDesires	cat	take bath
+NotDesires	baby	be hungry
+NotDesires	drunkard	be sober
+NotDesires	lawyer	lose case
+NotDesires	racoon	shoe
+NotDesires	agoraphobe	leave house
+NotDesires	liar	tell truth
+NotDesires	stubborn person	give up
+NotDesires	investor	lose money
+NotDesires	believer	lose her faith
+NotDesires	carnivore	avoid meat
+NotDesires	lover	fight
+NotDesires	nomad	stay in one place
+NotDesires	team	lose
+NotDesires	mother	her child to suffer
+NotDesires	father	his child to suffer
+NotDesires	scientist	guess
+NotDesires	bully	show any mercy
+NotDesires	teacher	discourage student
+NotDesires	leader	his person to go astray
+NotDesires	build	anything
+NotDesires	slug	be dry
+NotDesires	plexen osantro mother	him to die
+NotDesires	president bush mother	him to die
+NotDesires	your mother	you to die
+NotDesires	person	crap for present
+NotDesires	fish	be dry
+NotDesires	intelligent person	what he cannot have
+NotDesires	live be	die
+NotDesires	my mother	me to die
+NotDesires	deer	be shoot by hunter
+NotDesires	ant	be step on
+NotDesires	see person	become blind
+NotDesires	meme	die out
+NotDesires	capture spy	truth serum
+NotDesires	cat	wool sweater
+NotDesires	person	get enema
+NotDesires	rat	drown
+NotDesires	hamster	messy burrow
+NotDesires	hen	flag
+NotDesires	horse	be slow than other horse
+NotDesires	government	be depose
+NotDesires	fish	person eat it
+NotDesires	comic	person to throw tomato at them
+NotDesires	tree	be without sunlight
+NotDesires	kitten	be throw in lake
+NotDesires	person	get punch in face
+NotDesires	student	fail class
+NotDesires	person	unattractive partner
+NotDesires	person	pay for wi-fi
+NotDesires	person	spontaneously combust
+NotDesires	parent	his child to be hurt
+NotDesires	person	lose contest
+NotDesires	woman	bisexual boyfriend
+NotDesires	white person	listen to rap music
+NotDesires	rider	cartiledge damage in her knee
+NotDesires	trainer	horse with bad foot
+NotDesires	golddigger	poor boyfriend
+NotDesires	insecure man	independent woman
+NotDesires	capitalist	socialism
+NotDesires	far-sighted person	book with small print
+NotDesires	woman	smell like wet dog
+NotDesires	horse	be spur
+NotDesires	coyote	be catch in trap
+NotDesires	fly	get spray with bug spray
+NotDesires	cop	backtalk
+NotDesires	cheapskate	golddigger
+NotDesires	driver	be tailgate
+NotDesires	communist	face reality of human nature
+NotDesires	womanizer	jealous girlfriend
+NotDesires	mother	useless son-in-law
+NotDesires	athlete	sore knee
+NotDesires	politician	embarrass thing from his past reveal
+NotDesires	cat	be run over by car
+NotDesires	fish	mercury in water
+NotDesires	insomniac	amphetamine
+NotDesires	corn	drought
+NotDesires	rider	horse to fall on her
+NotDesires	welfare queen	go to work
+NotDesires	horse	moldy hay
+NotDesires	animal-rights activist	fur coat
+NotDesires	nudist	cold weather
+NotDesires	deadbeat	job
+NotDesires	dentist	patient with bad breath
+NotDesires	lady	facial hair
+NotDesires	ship captain	his ship to hit iceberg
+NotDesires	investor	stock market to crash
+NotDesires	student	fail course
+NotDesires	dieter	gain weight
+NotDesires	subway rider	crowd subway car
+NotDesires	bill clinton	be impeach
+NotDesires	person	chop off their finger
+NotDesires	worker	be fire
+NotDesires	taxpayer	get audit
+NotDesires	person	their drug steal
+NotDesires	president	be impeach
+NotDesires	comedian	audience to stop laugh
+NotDesires	general	lose war
+NotDesires	person	botulism
+NotDesires	executive	productivity to decline
+NotDesires	comedy improviser	say no
+NotDesires	esthete	ugly thing
+NotDesires	person	burn down house
+NotDesires	person	their arch rival to win
+NotDesires	person	lose argument
+NotDesires	math teacher	her student to fail
+NotDesires	nikolai tesla	encounter pearl necklace
+NotDesires	spider	run short of fly
+NotDesires	somebody on diet	cake
+NotDesires	pig farmer	vegetarian
+NotDesires	commuter	person talk on their mobile phone
+NotDesires	computer programmer	bug
+NotDesires	dog	be leave alone
+NotDesires	animal	starve
+NotDesires	animal	live in fear
+NotDesires	animal	feel hunger
+NotDesires	my friend	be cold
+NotDesires	insect	be squash
+NotDesires	president bush	democrat
+NotDesires	hungry person	starve
+NotDesires	country	be invade
+NotDesires	child	lose his mother
+NotDesires	tire person	stay awake
+NotDesires	fat person	be make fun of
+NotDesires	society	be rule by dictator
+NotDesires	my brother	kill me
+NotDesires	our president	answere question
+NotDesires	my wife	wash dish anymore
+NotDesires	my daughter	go to bed
+NotDesires	baker	bad yeast
+NotDesires	farmer	drought
+NotDesires	cat	dog in house
+NotDesires	person	be show no mercy
+NotDesires	person	be victim of abuse
+NotDesires	person	hurt love one
+NotDesires	person	his boat to crash
+NotDesires	person	lose control of his life
+NotDesires	person	flat soda
+NotDesires	person	be betray by lover
+NotDesires	person	be hit by bus
+NotDesires	person	be hurt by love one
+NotDesires	person	bad service at restaurant
+NotDesires	person	fall down well
+NotDesires	person	run in her hose
+NotDesires	person	cut themselves
+NotDesires	person	feel embarassed
+NotDesires	person	be take advantage of
+NotDesires	person	brain damage
+NotDesires	person	be attack by vicious animal
+NotDesires	person	see love one get hurt
+NotDesires	person	be victim of gossip
+NotDesires	person	their computer to malfunction
+NotDesires	computer	their computer to crash
+NotDesires	spouse	divore
+NotDesires	woman	be ugly
+NotDesires	bald man	comb
+NotDesires	skier	warm weather
+NotDesires	snowman	warm weather
+NotDesires	snow boarder	warm weather
+NotDesires	child	be ground
+NotDesires	hiker	blister
+NotDesires	republican	high tax
+NotDesires	student	detention
+NotDesires	climber	break arm
+NotDesires	hockey player	slip and fall on ice
+NotDesires	corporation	lose money
+NotDesires	cat	be wash
+NotDesires	good person	cheat
+NotDesires	s person	ruin his clothe
+NotDesires	fish	bicycle
+NotDesires	person	be intimidate
+NotDesires	minority	hate and bigotry
+NotDesires	person	tofu
+NotDesires	waiter	small tip
+NotDesires	vegitarian	meat
+NotDesires	driver	traffic
+NotDesires	world	unilateralism
+NotDesires	california	high gas price
+NotDesires	cook	food poison
+NotDesires	dog	starve
+NotDesires	bald person	hair
+NotDesires	child	be lose
+NotDesires	child	boredom
+NotDesires	person	arthritis
+NotDesires	person	witness suffer
+NotDesires	police officer	admit he commit crime
+NotDesires	someone who feel pain	keep feel it
+NotDesires	someone who be smart	ever stop learn
+NotDesires	vegetarian	meat
+NotDesires	soldier	die
+NotDesires	tiger	vegetable
+NotDesires	boat	sink
+NotDesires	drive instructor	blind student
+NotDesires	teacher	bore student
+NotDesires	parent	irresponsible child
+NotDesires	tightrope walker	fall down
+NotDesires	woman	suffer violence
+NotDesires	child	go to school
+NotDesires	wild game	be hunt
+NotDesires	employee of company	that company stock price to decrease
+NotDesires	pope	woman to abort unwanted pregnancy
+NotDesires	cat	eat vegetable
+NotDesires	spy	be discover
+NotDesires	criminal	leave behind evidence
+NotDesires	mouse	be eat by cat
+NotDesires	child	spank
+NotDesires	pilot	fly into large thunderstorm
+NotDesires	pilot	crash
+NotDesires	sensitive person	be reject
+NotDesires	animal	be eat
+NotDesires	coffee drinker	coffee embargo
+NotDesires	wage-slave	go to his dead end job
+NotDesires	kitten	be eat by owl
+NotDesires	despot	free speech
+NotDesires	religious leader	rational question
+NotDesires	rational person	any more pavement
+NotDesires	pilot	crash and burn
+NotDesires	free man	be enslave again
+NotDesires	child	abuse from parent
+NotDesires	cook	burn toast
+NotDesires	spouse	his wife to have affair
+NotDesires	car owner	energy crisis
+NotDesires	pilot	rough air
+NotDesires	communist	counter revolution
+NotDesires	cat	work too hard
+NotDesires	preacher	answer intelligent question
+NotDesires	dog	be hit with newspaper
+NotDesires	cat	be lock up
+NotDesires	marry person	celibate marriage
+NotDesires	child	mean pet
+NotDesires	boss	you to call in sick
+NotDesires	child	her parent to divorce
+NotDesires	life	become extinct
+NotDesires	man as general rule	wear dress
+NotDesires	chemist	lab explosion
+NotDesires	mammal	pain or hunger
+NotDesires	pilot	run out of fuel
+NotDesires	astronaut	rocket explosion
+NotDesires	cat	too much attention
+NotDesires	painter	run out of paint
+NotDesires	woman	abusive boyfriend
+NotDesires	loner	be in big crowd
+NotDesires	writer	writer block
+NotDesires	hard worker	relax
+NotDesires	dancer	break leg
+NotDesires	lazy person	work
+NotDesires	rabbit	go into it hutch after play
+NotDesires	horserider	sick horse
+NotDesires	student	forget to do their homework
+NotDesires	child	eat vegetable
+NotDesires	teacher	bad class
+NotDesires	pacifist	gun
+NotDesires	employee	his job
+NotDesires	liar	person to know truth
+NotDesires	person	do bad thing
+NotDesires	refrigerator	be unplug
+NotDesires	person	be without knowledge
+NotDesires	person	have prejudice
+NotDesires	person	be without water
+NotDesires	person or animal	be use in inappropriate way
+NotDesires	muslim	go to hell
+NotDesires	cheater	get catch
+NotDesires	woman	her husband to fool around
+NotDesires	employee	be fire
+NotDesires	religious person	sin
+NotDesires	child	do her homework
+NotDesires	driver	have accident
+NotDesires	teacher	her student to fail
+NotDesires	muslim	eat pork
+NotDesires	i	be your monkey wrench
+NotDesires	cat	be hit
+NotDesires	person	wait in doctor office
+NotDesires	human will	be control by computer
+NotDesires	guitar be for person who	real job
+NotDesires	person	eat alone
+NotDesires	many child	learn
+NotDesires	cat	do this very much
+NotDesires	heterosexual man	be interior decorator
+NotDesires	person	be alone for very long
+NotDesires	i	join navy
+NotDesires	we like rain	get wet
+NotDesires	one	sit on this
+NotDesires	dog	be box
+NotDesires	some person	ride on roller coaster
+NotDesires	most adult	wear silly hat
+NotDesires	american	eat eyeball
+NotDesires	person like to win but	lose
+NotDesires	person	get wet from rain
+NotDesires	person sit on chair when they	stand
+NotDesires	they	take it in head
+NotDesires	you	be on island by yourself
+NotDesires	mailman	climb stair
+NotDesires	child	wear their eyeglass
+NotDesires	person	sore
+NotDesires	person	ebola
+NotDesires	person	incompetent doctor
+NotDesires	person	flipper
+NotDesires	person	chaos
+NotDesires	person	disgrace
+NotDesires	person	be overlook
+NotDesires	person	drop something heavy on their foot
+NotDesires	person	get chew out
+NotDesires	person	be in airplane that crash
+NotDesires	person	stub their toe in dark
+NotDesires	person	be interrupt while they be talk
+NotDesires	person	be interrupt when they be concentrate
+NotDesires	person	be tell they be wrong
+NotDesires	person	eat something they do not like
+NotDesires	person	find worm in their apple
+NotDesires	person	be evict from their home
+NotDesires	person	become invalid
+NotDesires	person	egg on their face
+NotDesires	person	forget important appointment
+NotDesires	person	have root canal do
+NotDesires	person	smash their finger with hammer
+NotDesires	person	fatal disease
+NotDesires	person	clog toilet
+NotDesires	person	eat raw animal
+NotDesires	person	shoe that do not fit
+NotDesires	person	be unprepared for exam
+NotDesires	person	bad day
+NotDesires	person	earth to tremble
+NotDesires	person	find fungus in their house
+NotDesires	person	see others hurt
+NotDesires	person	mouldy bread
+NotDesires	most person	be in car accident
+NotDesires	person	hurt themselves
+NotDesires	person	be dislike by others
+NotDesires	person	be meaningless
+NotDesires	person	go through life without mean
+NotDesires	person	listen
+NotDesires	person	see their love one suffer
+NotDesires	bomb be often something you	hear
+NotDesires	person	get ill
+NotDesires	person	eat yucky food
+NotDesires	person	do chore
+NotDesires	beaver	eat bean
+NotDesires	person	be unfulfilled
+NotDesires	person	be unsuccessful
+NotDesires	person	work on sunday
+NotDesires	person	get sunburn
+NotDesires	person	feel hungry
+NotDesires	person	it
+NotDesires	person	this prompt
+NotDesires	person	desease
+NotDesires	person	be humilliated
+NotDesires	person	shit their pant
+NotDesires	person	have old clothe
+NotDesires	person	have diabetes
+NotDesires	person	broke leg
+NotDesires	person	be hatet
+NotDesires	person	go to hospital
+NotDesires	person	have others control his life
+NotDesires	person	be embaresed
+NotDesires	you	be catch in tornado
+NotDesires	person	bad hair cut
+NotDesires	person	body oder
+NotDesires	person	hair in their mouth
+NotDesires	person	eat brussel sprout for every meal
+NotDesires	person	smell foul odor
+NotDesires	person	nag wife
+NotDesires	person	crap their pant
+NotDesires	person	bald head
+NotDesires	person	listen to cry baby
+NotDesires	person	sit on tack
+NotDesires	person	beat up car
+NotDesires	person	be around negitive person
+NotDesires	person	die from cancer
+NotDesires	person	be drug addict
+NotDesires	person	get stick in eye
+NotDesires	person	junk in their home
+NotDesires	thomas lin	eat toothpaste
+NotDesires	kid	study
+NotDesires	you	make mistake
+NotDesires	you	make error
+NotDesires	person	vermin infest their apartment
+NotDesires	person	razor burn
+NotDesires	person	be trample by moose
+NotDesires	person	pay late fee
+NotDesires	person	splinter in their finger
+NotDesires	person	clog artery
+NotDesires	person	krazy glue in their hair
+NotDesires	person	miss their plane
+NotDesires	person	be party pooper
+NotDesires	person	hold up line
+NotDesires	person	late fee
+NotDesires	person	be scapegoat
+NotDesires	person	be in no-win situation
+NotDesires	person	cause someone else pain
+NotDesires	person	live in unite state
+NotDesires	person	be dupe
+NotDesires	person	out of date food
+NotDesires	person	pressure
+NotDesires	person	end
+NotDesires	person	have sex
+NotDesires	person	sleep
+NotDesires	person	live
+NotDesires	person	global thermonuclear war
+NotDesires	person	loss
+NotDesires	person	be maim
+NotDesires	person	itch
+NotDesires	person	bore job
+NotDesires	person	break finger
+NotDesires	person	lose friend
+NotDesires	person	die
+NotDesires	person	pain
+NotDesires	student	study
+NotDesires	person	pimple
+NotDesires	person	be ridiculous
+NotDesires	person	std
+NotDesires	person	computer virus
+NotDesires	person	be in prison
+NotDesires	person	hangnail
+NotDesires	person	speed ticket
+NotDesires	person	be alienate
+NotDesires	person	fall out of love
+NotDesires	person	die alone
+NotDesires	person	be dirty
+NotDesires	person	break tooth
+NotDesires	person	be ill
+NotDesires	person	slow internet connection
+NotDesires	person	bleed
+NotDesires	person	be punish
+NotDesires	animal	pain
+NotDesires	cat	be wet
+NotDesires	person	do something he be not good at
+NotDesires	person	bad thing
+NotDesires	person	eat worm
+NotDesires	person	be in danger
+NotDesires	person	fall off cliff
+NotDesires	person	paper cut
+NotDesires	singer	sore throat
+NotDesires	person	work all time
+NotDesires	person	freeze
+NotDesires	person	love one to die
+NotDesires	person	break arm
+NotDesires	person	seem unattractive
+NotDesires	person	be rude
+NotDesires	cat	it tail pull
+NotDesires	person	die before their time
+NotDesires	person	get hurt
+NotDesires	student	be reject
+NotDesires	person	be hurt
+NotDesires	dog	flea
+NotDesires	person	schizophrenia
+NotDesires	cat	bath
+NotDesires	person	have no home
+NotDesires	person	break her leg
+NotDesires	person	be fearful
+NotDesires	person	abuse
+NotDesires	person	boredom
+NotDesires	person	be restrict
+NotDesires	person	be lay off
+NotDesires	person	be betray
+NotDesires	person	be uncomfortable
+NotDesires	person	be make fun of
+NotDesires	person	be execute
+NotDesires	person	be hate
+NotDesires	person	mistrust
+NotDesires	person	sneeze
+NotDesires	person	be rain on
+NotDesires	person	be miserable
+NotDesires	person	sour milk
+NotDesires	person	be force to do thing
+NotDesires	animal	drown
+NotDesires	person	restriction
+NotDesires	person	low back pain
+NotDesires	person	chicken pox
+NotDesires	gay person	homophobia
+NotDesires	criminal	get catch by police
+NotDesires	political party	lose election
+NotDesires	person	be call name
+NotDesires	person	be unattractive
+NotDesires	person	heart attack
+NotDesires	person	anxiety
+NotDesires	person	harm others
+NotDesires	person	go to war
+NotDesires	person	tax audit
+NotDesires	person	trip
+NotDesires	person	burp in public
+NotDesires	person	clothe that do not fit
+NotDesires	person	get sick
+NotDesires	person	be embarassed
+NotDesires	person	bad feel
+NotDesires	person	bad food
+NotDesires	person	migraine
+NotDesires	person	get burn
+NotDesires	dog	cat
+NotDesires	student	do his homework
+NotDesires	person	break bone
+NotDesires	person	debt
+NotDesires	athlete	lose
+NotDesires	person	see rat
+NotDesires	cockroach	light
+NotDesires	pet	be in surgery
+NotDesires	person	do job over
+NotDesires	person	everything to be same
+NotDesires	person	sprain ankle
+NotDesires	person	brain tumor
+NotDesires	person	be victim of crime
+NotDesires	person	cold sore
+NotDesires	person	do what doe not interest him
+NotDesires	person	tear ligament
+NotDesires	person	be thirsty
+NotDesires	person	be mislead
+NotDesires	person	truth
+NotDesires	person	loud noise
+NotDesires	person	open sore
+NotDesires	person	bad grade on test
+NotDesires	person	be shameful
+NotDesires	person	terrorism
+NotDesires	person	his or her computer to crash
+NotDesires	person	sunburn
+NotDesires	person	boss
+NotDesires	person	crash their car
+NotDesires	person	see bad movie
+NotDesires	person	blister
+NotDesires	person	unpleasant thing
+NotDesires	person	take test
+NotDesires	person	have to go to war
+NotDesires	person	deception
+NotDesires	person	hear bad news
+NotDesires	person	be manipulate
+NotDesires	person	ache back
+NotDesires	person	nuclear war
+NotDesires	person	small pox
+NotDesires	person	ingrown toenail
+NotDesires	cat	go into water
+NotDesires	person	have his ass kick
+NotDesires	person	too little money
+NotDesires	person	eat spoil food
+NotDesires	person	become sick
+NotDesires	person	be embarrased
+NotDesires	person	pollute air
+NotDesires	person	become blind
+NotDesires	person	have flu
+NotDesires	person	lose their wallet
+NotDesires	person	dandruff
+NotDesires	person	confinement
+NotDesires	person	get hurt by anyone
+NotDesires	person	park ticket
+NotDesires	person	tooth decay
+NotDesires	person	spoil meat
+NotDesires	person	high tax
+NotDesires	person	skin his knee
+NotDesires	person	dirty dish
+NotDesires	person	cold oatmeal
+NotDesires	person	be despise
+NotDesires	person	become homeless
+NotDesires	person	hatred
+NotDesires	person	complication
+NotDesires	person	bad report card
+NotDesires	person	his computer to crash
+NotDesires	person	lot of problem
+NotDesires	person	eye poke out
+NotDesires	person	break watch
+NotDesires	person	dishonest politician
+NotDesires	person	be strangle
+NotDesires	person	earache
+NotDesires	person	break neck
+NotDesires	person	break nose
+NotDesires	person	break back
+NotDesires	person	disappointment
+NotDesires	person	legal problem
+NotDesires	person	go bald
+NotDesires	person	dead battery
+NotDesires	person	fail out of college
+NotDesires	person	eat liver
+NotDesires	person	be put in jail
+NotDesires	person	be idiot
+NotDesires	person	be foolish
+NotDesires	person	feel cold
+NotDesires	home-owner	rise damp
+NotDesires	kid	have no friend
+NotDesires	dog	bath
+NotDesires	cook	burn meal they prepare
+NotDesires	share market investor	stock market crash
+NotDesires	cat	be chase by dog
+NotDesires	goth	tan
+NotDesires	sailor	hole in their boat
+NotDesires	camper	wet match
+NotDesires	person	be abandon
+NotDesires	person	be mistreat
+NotDesires	person	boil
+NotDesires	person	feel sick
+NotDesires	person	louse
+NotDesires	person	feel alone
+NotDesires	person	dirty clothe
+NotDesires	person	eat rotten fruit
+NotDesires	person	be trick
+NotDesires	person	feel threaten
+NotDesires	person	lonliness
+NotDesires	person	mean boss
+NotDesires	person	be push around
+NotDesires	person	house fire
+NotDesires	person	be punch in mouth
+NotDesires	person	feel ugly
+NotDesires	person	be offend
+NotDesires	person	be in solitude
+NotDesires	person	their mate to die
+NotDesires	person	lose face
+NotDesires	person	loose friend
+NotDesires	person	feel useless
+NotDesires	person	be in constant pain
+NotDesires	person	cold coffee
+NotDesires	person	overcook steak
+NotDesires	person	bad luck
+NotDesires	person	backache
+NotDesires	person	be shun
+NotDesires	person	be unemployed
+NotDesires	person	fail test
+NotDesires	person	wake up too early
+NotDesires	person	be impotent
+NotDesires	person	guilt
+NotDesires	person	see love one die
+NotDesires	person	loose his job
+NotDesires	person	bad grade
+NotDesires	person	anger
+NotDesires	person	stupidity
+NotDesires	cat	be bathe
+NotDesires	person	bad review
+NotDesires	person	be deaf
+NotDesires	person	feel pain
+NotDesires	person	death
+NotDesires	person	stress
+NotDesires	person	war
+NotDesires	person	conflict
+NotDesires	person	be sick
+NotDesires	person	be alone
+NotDesires	person	be embarrass
+NotDesires	student	take exam
+NotDesires	criminal	get catch
+NotDesires	person	influenza
+NotDesires	person	be scold
+NotDesires	person	be poor
+NotDesires	person	be eat
+NotDesires	monkey	swim
+NotDesires	student	teacher
+NotDesires	typist	break finger
+NotDesires	boy	look like girl
+NotDesires	celibate	have sex
+NotDesires	gregarious person	be alone
+NotDesires	vegetarian	eat meat
+NotDesires	person	misfortune
+NotDesires	inanimate object	anything
+NotDesires	baton twirler	break finger
+NotDesires	person	be in car accident
+NotDesires	person	sexually transmit disease
+NotDesires	person	live in poverty
+NotDesires	person	hurt person
+NotDesires	person	false information
+NotDesires	person	sore muscle
+NotDesires	person	be abuse
+NotDesires	person	be in traffic-jam
+NotDesires	person	go to work
+NotDesires	person	be different
+NotDesires	person	be pester
+NotDesires	person	vomit on themselves
+NotDesires	person	have pimple
+NotDesires	person	danger
+NotDesires	person	be interrupt
+NotDesires	person	break heart
+NotDesires	person	injustice
+NotDesires	person	flu
+NotDesires	person	be leave out in cold
+NotDesires	person	feel hate
+NotDesires	person	their child to suffer
+NotDesires	most person	look at park area
+NotDesires	person	be rich
+NotDesires	person	be treat like commodity
+NotDesires	person	criticism
+NotDesires	person	horn
+NotDesires	person	be eat by shark
+NotDesires	person	annoyance
+NotDesires	person	isolation
+NotDesires	person	irs audit
+NotDesires	child	have sex
+NotDesires	person	god
+NotDesires	most person	hurt other person
+NotDesires	person	their computer to crash
+NotDesires	person	disgust thing
+NotDesires	person	starve to death
+NotDesires	person	loose job
+NotDesires	person	be hospitalize
+NotDesires	person	miss out
+NotDesires	person	person to be mean
+NotDesires	person	die in pain
+NotDesires	person	have heart attack
+NotDesires	person	meanness
+NotDesires	person	break limb
+NotDesires	person	not be harm
+NotDesires	person	be run down
+NotDesires	person	plague
+NotDesires	plant	die
+NotDesires	person	be see as stupid
+NotDesires	person	catch cold
+NotDesires	dog	be leave home alone
+NotDesires	person	stop learn
+NotDesires	person	have possesions steal
+NotDesires	person	get speed ticket
+NotDesires	person	face death
+NotDesires	person	trouble with boss
+NotDesires	person	engage in pointless argument
+NotDesires	person	small shoe
+NotDesires	person	pollute water
+NotDesires	person	lose confidence
+NotDesires	person	keep answer same question
+NotDesires	person	annoy others
+NotDesires	person	not to be love
+NotDesires	person	be injure or disable
+NotDesires	person	have their freedom take away
+NotDesires	person	eat rot food
+NotDesires	person	be bleed
+NotDesires	person	be catch in rainstorm
+NotDesires	person	wait in long line
+NotDesires	person	feel stress
+NotDesires	person	be patient in hospital
+NotDesires	person	feel tire
+NotDesires	person	be sniffly
+NotDesires	person	obligation
+NotDesires	person	be yell at by her lover
+NotDesires	person	friend to die
+NotDesires	person	too much pollution
+NotDesires	person	overly busy schedule
+NotDesires	person	be hungry for several day
+NotDesires	rabbit	be kill
+NotDesires	person	sufer
+NotDesires	person	be exclude from society
+NotDesires	animal	learn how to dance
+NotDesires	hospital patient	be forget
+NotDesires	person	numbness
+NotDesires	person	dirt
+NotDesires	person	feel shame
+NotDesires	person	fail at their job
+NotDesires	person	despair
+NotDesires	person	dangerous job
+NotDesires	person	low-paying job
+NotDesires	person	crash his car
+NotDesires	person	radioactive food
+NotDesires	person	work on weekend
+NotDesires	person	smelly sock
+NotDesires	person	monday to come
+NotDesires	person	have his ear talk off
+NotDesires	person	pay cut
+NotDesires	person	car wreck
+NotDesires	person	small and cheap car
+NotDesires	person	flood
+NotDesires	person	be hungrey
+NotDesires	person	dirty cloth
+NotDesires	person	hole in their head
+NotDesires	person	step on nail
+NotDesires	person	weekend to end
+NotDesires	person	blizzard
+NotDesires	person	go to work on monday
+NotDesires	person	bust engine
+NotDesires	person	not be in control
+NotDesires	person	queue
+NotDesires	person	bad advice
+NotDesires	person	jail time
+NotDesires	person	grape juice on his shirt
+NotDesires	person	sleep outside in cold
+NotDesires	person	his toe step on
+NotDesires	person	hear harsh word
+NotDesires	person	night blindness
+NotDesires	person	frostbite
+NotDesires	person	lose their lover
+NotDesires	animal	be confine
+NotDesires	animal	suffer
+NotDesires	soldier	displease their commander
+NotDesires	soldier	lose war
+NotDesires	person	lose their friend
+NotDesires	animal	be burn
+NotDesires	animal	die
+NotDesires	person	lose their spouse
+NotDesires	soldier	be detect
+NotDesires	spy	be detect
+NotDesires	animal	be hurt
+NotDesires	person	grow old and infirm
+NotDesires	person	be view as stupid
+NotDesires	person	be abandonded
+NotDesires	person	tire blow out
+NotDesires	person	tight shoe
+NotDesires	person	back pain
+NotDesires	person	dirty world
+NotDesires	person	cable to go out
+NotDesires	person	be jobless
+NotDesires	person	lose at game or bet
+NotDesires	person	terror
+NotDesires	person	irritation
+NotDesires	person	mind control
+NotDesires	person	teal car
+NotDesires	person	distress
+NotDesires	person	have their appendix out without anasthetic
+NotDesires	person	be alcoholic
+NotDesires	person	be afraid of dark
+NotDesires	person	forget to go to work
+NotDesires	person	losy his car key
+NotDesires	person	make others angry
+NotDesires	person	rotten tooth
+NotDesires	person	embarrassment
+NotDesires	person	little money
+NotDesires	live entity	die
+NotDesires	person	tho be poor
+NotDesires	person	eat raw meat
+NotDesires	person	bad boss
+NotDesires	person	hip surgery
+NotDesires	person	break wrist
+NotDesires	person	slow access to net
+NotDesires	person	eat poorly
+NotDesires	person	bad skin
+NotDesires	person	his pet to die
+NotDesires	person	break femur
+NotDesires	person	be too heavy
+NotDesires	person	bad complexion
+NotDesires	person	loose game
+NotDesires	person	athelte foot
+NotDesires	person	false friend
+NotDesires	person	get black eye
+NotDesires	person	bruise
+NotDesires	person	crack rib
+NotDesires	person	look stupid
+NotDesires	person	bld complexion
+NotDesires	person	unkempt look
+NotDesires	person	be draft
+NotDesires	person	fail class
+NotDesires	person	be slob
+NotDesires	person	bad break
+NotDesires	person	loose their job
+NotDesires	person	14.4 modem
+NotDesires	person	bad kidney
+NotDesires	person	break window
+NotDesires	person	gall stone
+NotDesires	person	fine
+NotDesires	person	be exclude
+NotDesires	person	be mess with
+NotDesires	person	his arm amputate
+NotDesires	person	his leg to be amputate
+NotDesires	woman	be unloved
+NotDesires	person	be without friend
+NotDesires	person	be hook on drug
+NotDesires	person	their computer to brake
+NotDesires	person	read same book twice
+NotDesires	person	obey without question
+NotDesires	person	theft
+NotDesires	person	lump of coal
+NotDesires	person	thing to be complex
+NotDesires	person	die usually
+NotDesires	person	scald themselves
+NotDesires	person	cockroach in their kitchen
+NotDesires	person	be beat unconscious
+NotDesires	person	be draft into military
+NotDesires	person	know truth sometimes
+NotDesires	person	bad neighbor
+NotDesires	person	damp house
+NotDesires	person	expose himself to ridicule
+NotDesires	person	be naughty
+NotDesires	person	suffer violence
+NotDesires	person	answer to silly question
+NotDesires	person	stay alone
+NotDesires	person	live in constant pain
+NotDesires	person	fail at their job marriage sport
+NotDesires	person	low wage
+NotDesires	person	filth
+NotDesires	person	ripoff
+NotDesires	person	police brutaility
+NotDesires	person	inconvenience
+NotDesires	person	racial profile
+NotDesires	person	all hell to break loose
+NotDesires	person	death penalty
+NotDesires	person	traffic congestion
+NotDesires	person	error
+NotDesires	person	oppression
+NotDesires	person	dry rot
+NotDesires	person	become poor
+NotDesires	person	hard knock
+NotDesires	person	their toy break
+NotDesires	person	complacency
+NotDesires	person	acne and boil
+NotDesires	person	be heavily inebriate
+NotDesires	person	moldy food
+NotDesires	person	emergency
+NotDesires	person	life to be tedious
+NotDesires	person	project unfinished
+NotDesires	person	feel humiliation
+NotDesires	parent	see their child come to harm
+NotDesires	cat	be spray with water
+NotDesires	doctor	his patient to die
+NotDesires	person	have ear-ache
+NotDesires	person	step on expose nail
+NotDesires	astronomer	cloudy sky at night
+NotDesires	scientist	statistically insignificant research result
+NotDesires	hungry person	cupboard to be empty
+NotDesires	dog	be shoo off couch
+NotDesires	person	forget their sibling birthday
+NotDesires	party host	sound system to fail
+NotDesires	event promoter	bad weather
+NotDesires	king	regicide
+NotDesires	person	malice
+NotDesires	marry person	their partner to have affair
+NotDesires	manager	high rate of absenteeism
+NotDesires	hostess	acrimonious argument at her dinner party
+NotDesires	tradesman	blunt tool
+NotDesires	scientist	lack of government fund for research
+NotDesires	person	their lamp to fall over
+NotDesires	home-owner	white ant
+NotDesires	painter	drip paint on floor
+NotDesires	person with new pierce	pierce to get infect
+NotDesires	goth	brightly colour clothe
+NotDesires	plant	lack of sunshine
+NotDesires	farmer	no rain
+NotDesires	author	their manuscript to be reject
+NotDesires	book lover	their local library to close down
+NotDesires	priest	sacrilege
+NotDesires	sport fan	their team to lose
+NotDesires	traveller	baggage-handlers strike
+NotDesires	gardener	their plant to die
+NotDesires	photographer	poor light
+NotDesires	kid	their pet to die
+NotDesires	cockroach	bug spray
+NotDesires	cat	worm tablet
+NotDesires	shopper	pushy salesperson
+NotDesires	traveller	miss her flight
+NotDesires	child	their parent to be cranky
+NotDesires	renter	rise in rent
+NotDesires	person	overspend
+NotDesires	lesbian	be hit on by macho men
+NotDesires	person	difficulty
+NotDesires	person	fail class in school
+NotDesires	person	milk if she be lactose intolerant
+NotDesires	person	be by themselves
+NotDesires	person	be stick by lighten
+NotDesires	person	unwanted surprise
+NotDesires	person	envy
+NotDesires	person	negative energy
+NotDesires	person	argument
+NotDesires	person	be exile
+NotDesires	person	waste their life
+NotDesires	person	their cat to scratch them
+NotDesires	person	have cavity in their tooth
+NotDesires	person	perish
+NotDesires	person	die in vain
+NotDesires	person	feel smother
+NotDesires	person	live bore life
+NotDesires	person	be in abusive relationship
+NotDesires	person	feel unappreciated
+NotDesires	person	eat rotten apple
+NotDesires	person	have hair in their food
+NotDesires	person	hair in their food
+NotDesires	person	spend holiday alone
+NotDesires	person	be discriminate against
+NotDesires	person	have stage fright
+NotDesires	person	be infertile
+NotDesires	person	be ban from something
+NotDesires	person	feel like they be bore
+NotDesires	person	feel blue
+NotDesires	person	feel unwanted
+NotDesires	person	be shelter
+NotDesires	person	feel outrage
+NotDesires	person	their mate to ignore them
+NotDesires	person	be keep wait
+NotDesires	person	100 cat
+NotDesires	person	unattractive mate
+NotDesires	person	feel uncertain
+NotDesires	person	be molest
+NotDesires	person	their house to catch on fire
+NotDesires	person	dead end job
+NotDesires	person	be hold prisioner
+NotDesires	person	be suicidal
+NotDesires	person	feel shelter
+NotDesires	person	nervous breakdown
+NotDesires	person	drink expire milk
+NotDesires	person	feel hopeless
+NotDesires	person	cheap cigar
+NotDesires	person	feel unattractive
+NotDesires	person	be attack by wolf
+NotDesires	person	their spouse to die
+NotDesires	person	mean pet
+NotDesires	person	terminal disease
+NotDesires	person	fly in their soup
+NotDesires	person	confrontation
+NotDesires	person	virus
+NotDesires	person	live meaningless life
+NotDesires	person	spouse who beat them
+NotDesires	person	feel famish
+NotDesires	person	feel undesirable
+NotDesires	person	their possession steal
+NotDesires	person	be cast out
+NotDesires	person	be chastise
+NotDesires	person	feel like idiot
+NotDesires	person	wooden leg
+NotDesires	person	turmoil
+NotDesires	person	be alone in dark
+NotDesires	person	be selfish
+NotDesires	person	blemish
+NotDesires	person	their mate to leave them
+NotDesires	person	fall on their head
+NotDesires	person	jump from high place
+NotDesires	person	bad date
+NotDesires	person	be put down
+NotDesires	person	their family to fight
+NotDesires	person	be imprisioned
+NotDesires	person	roach in house
+NotDesires	person	be greedy
+NotDesires	person	tragedy
+NotDesires	person	bad childhood
+NotDesires	person	be punch
+NotDesires	person	fall from high place
+NotDesires	person	miss someone
+NotDesires	person	be patronize
+NotDesires	person	stupid friend
+NotDesires	person	family member to die
+NotDesires	person	conflict hunger poverty pain
+NotDesires	person	feel isolate
+NotDesires	person	hard work
+NotDesires	person	noise
+NotDesires	animal	be attack
+NotDesires	person	be make to feel unwelcome
+NotDesires	person	hit his head
+NotDesires	vegetarian be someone who	eat meat
+NotDesires	person	outlive those dear to her
+NotDesires	person	miss thing
+NotDesires	person	be think ignorant
+NotDesires	person	their government to be corrupt
+NotDesires	person	be scorn
+NotDesires	person	drug
+NotDesires	person	evil
+NotDesires	person	alcohol
+NotDesires	person	warm pepsi
+NotDesires	person	be in dark
+NotDesires	person	have tooth ache
+NotDesires	person	bad weather
+NotDesires	person	get virus
+NotDesires	person	bull droppings
+NotDesires	person	be illiterate
+NotDesires	person	be expose to harsh weather
+NotDesires	person	have their privacy take away
+NotDesires	person	be blackmail into do something
+NotDesires	person	be unintelligent
+NotDesires	person	forget important date
+NotDesires	person	see blood
+NotDesires	person	seem bore
+NotDesires	person	be forget by others
+NotDesires	person	see person they love get hurt
+NotDesires	person	touch gross stuff
+NotDesires	person	sing out of tune
+NotDesires	person	break mirror
+NotDesires	person	be snub
+NotDesires	person	fart
+NotDesires	person	trip on their shoelace
+NotDesires	person	forget important thing
+NotDesires	person	be startle
+NotDesires	person	get paper cut
+NotDesires	person	wear old clothe
+NotDesires	person	be timid
+NotDesires	person	trust others
+NotDesires	person	phone call at midnight
+NotDesires	person	mess up their hair
+NotDesires	person	be bum
+NotDesires	person	be bother when they be busy
+NotDesires	person	bee inferior
+NotDesires	person	discord
+NotDesires	person	make bad mistake
+NotDesires	person	be punish for no reason
+NotDesires	person	bee in too hot weather
+NotDesires	person	be disapprove by other person
+NotDesires	person	get hurt physically or mentally
+NotDesires	person	make other person miserable
+NotDesires	person	get annoy phone call
+NotDesires	person	have bore job
+NotDesires	person	live in sqallor
+NotDesires	person	dirty cat
+NotDesires	person	walk
+NotDesires	person	drink cork wine
+NotDesires	person	eat lousy food
+NotDesires	person	other person to hate them
+NotDesires	person	tax
+NotDesires	person	be catch do illegal act
+NotDesires	person	sicness
+NotDesires	person	toxic waste site near their house
+NotDesires	person	fairness
+NotDesires	person	get snake bite
+NotDesires	person	others to be angry at him
+NotDesires	person	be store
+NotDesires	person	excuse
+NotDesires	person	too much information
+NotDesires	person	vermin in house
+NotDesires	person	toe jam
+NotDesires	person	be bother by telemarketers
+NotDesires	person	moldy fruit
+NotDesires	coach	his team to lose
+NotDesires	person	their class cancel
+NotDesires	person	pay too much for thing
+NotDesires	person	be strand at airport
+NotDesires	employee	lose his job
+NotDesires	animal	death
+NotDesires	person	make same mistake twice
+NotDesires	person	split her pant
+NotDesires	person	lose child
+NotDesires	person	fight
+NotDesires	person	feel bad
+NotDesires	person	be hungry
+NotDesires	person	suffer
+NotDesires	person	fear
+NotDesires	person	feel ill
+NotDesires	person	lose money
+NotDesires	person	be ugly
+NotDesires	person	be mug
+NotDesires	person	hardship
+NotDesires	person	disease
+NotDesires	person	enemy
+NotDesires	person	amputation
+NotDesires	person	jump out of window
+NotDesires	person	be bother
+NotDesires	person	be kill
+NotDesires	person	hurt other person
+NotDesires	person	loose money
+NotDesires	person	be beat
+NotDesires	person	hate
+NotDesires	person	lose love one
+NotDesires	person	be bore
+NotDesires	person	feel sad
+NotDesires	person	be victim
+NotDesires	person	lie
+NotDesires	person	lose game
+NotDesires	person	headache
+NotDesires	person	get divorce
+NotDesires	person	be control
+NotDesires	democrat	republican to be president
+NotDesires	senator	lose election
+NotDesires	security guard	robbery
+NotDesires	cyclist	flat tire
+NotDesires	cat	live with dog
+NotDesires	child	be bore
+NotDesires	gambler	lose
+NotDesires	atheist	believe in god
+NotDesires	baseball player	strike out
+NotDesires	dog	be abandon
+NotDesires	libertarian	government to control his life
+NotDesires	teacher	huge class
+NotDesires	jesus	person to go to hell
+NotDesires	wife	abuse
+NotDesires	mouse	be catch by cat
+NotDesires	person	unfaithful lover
+NotDesires	sysadmin	his machine hack
+NotDesires	nun	sex
+NotDesires	gambler	lose money
+NotDesires	human	be alone
+NotDesires	organism	die
+NotDesires	government	revolution
+NotDesires	normal person	lobotomy
+NotDesires	politician	scandal
+NotDesires	dog	hear loud noise
+NotDesires	student	fail their course
+NotDesires	stapler	run out of staple
+NotDesires	person	feel powerless
+NotDesires	person	hopeless
+NotDesires	person	get drunk
+NotDesires	person	shit in their pant
+NotDesires	person	heartache
+NotDesires	person	have car accident
+NotDesires	person	be swindle
+NotDesires	person	head louse
+NotDesires	person	starvation
+NotDesires	person	have limb amputate
+NotDesires	person	be stalk
+NotDesires	person	water pollution
+NotDesires	person	air pollution
+NotDesires	person	answer silly question
+NotDesires	person	ugliness
+NotDesires	person	change
+NotDesires	person	gray hair
+NotDesires	person	wait in line for too long
+NotDesires	person	be oppress
+NotDesires	person	hear bad news from doctor
+NotDesires	person	go to dentist
+NotDesires	person	be set on fire
+NotDesires	person	stagnation
+NotDesires	person	give up
+NotDesires	person	have stupid friend
+NotDesires	person	have gangreen
+NotDesires	person	work too much
+NotDesires	person	burn his hand
+NotDesires	person	waste money
+NotDesires	most person	sit in dental chair
+NotDesires	person	be worry
+NotDesires	person	poorness
+NotDesires	person	moldy cheese
+NotDesires	person	be sad all time
+NotDesires	person	unreliable car
+NotDesires	person	get hit by base ball
+NotDesires	person	choke
+NotDesires	person	unfair boss
+NotDesires	person	excessive heat
+NotDesires	person	get in car accident
+NotDesires	person	die painful death
+NotDesires	person	be laughingstock
+NotDesires	person	gain weight
+NotDesires	person	be bald
+NotDesires	person	fall on his head
+NotDesires	i	tell you my password
+NotDesires	person	imprisonment
+NotDesires	person	athlete foot
+NotDesires	person	urine
+NotDesires	person	live alone
+NotDesires	person	their pet to die
+NotDesires	person	be dumb
+NotDesires	person	go to baseball game
+NotDesires	person	body odor
+NotDesires	person	investment to tank
+NotDesires	some person	swim in ocean
+NotDesires	person	have to clean house
+NotDesires	person	be cannibalize
+NotDesires	person	go into debt
+NotDesires	garbage be stuff that person	keep
+NotDesires	person	interruption
+NotDesires	person	be sting by bee
+NotDesires	person	go insane
+NotDesires	person	be in flood
+NotDesires	person	be negative
+NotDesires	person	leaky roof
+NotDesires	person	miss boat
+NotDesires	person	be leave behind
+NotDesires	person	be broke
+NotDesires	person	genital wart
+NotDesires	person	thing that do not taste good
+NotDesires	person	be without money
+NotDesires	person	fall down flight of stair
+NotDesires	person	eat bad food
+NotDesires	person	be pooped on
+NotDesires	person	be nervous
+NotDesires	person	go blind
+NotDesires	garbage be stuff that person	eat
+NotDesires	person	hiv
+NotDesires	person	be cook
+NotDesires	person	be in traffic jam
+NotDesires	person	have tax audit
+NotDesires	person	be obese
+NotDesires	person	disability
+NotDesires	person	thing to be dirty
+NotDesires	person	be bite by other thing
+NotDesires	person	hear bad music
+NotDesires	person	be under pressure
+NotDesires	person	it to rain
+NotDesires	person	betrayal
+NotDesires	person	be scratch
+NotDesires	person	suffer with pain
+NotDesires	person	hear very loud noise
+NotDesires	person	wind
+NotDesires	person	forget everything
+NotDesires	person	stub their toe
+NotDesires	person	rain on their wed day
+NotDesires	person	eat cat food
+NotDesires	person	thing to break
+NotDesires	person	sit in dental chair
+NotDesires	person	american wife
+NotDesires	person	egg on his face
+NotDesires	person	work only for pay
+NotDesires	person	third degree burn
+NotDesires	person	papercut
+NotDesires	person	stroke
+NotDesires	person	cat scratch
+NotDesires	person	more government
+NotDesires	person	be punch in face
+NotDesires	person	law
+NotDesires	person	be screw up
+NotDesires	person	lose his spouse
+NotDesires	person	be push
+NotDesires	person	personal harm
+NotDesires	person	sexually-transmitted disease
+NotDesires	person	burn food
+NotDesires	person	diarrhea
+NotDesires	person	root canal
+NotDesires	person	be persecute
+NotDesires	person	uncomfortableness
+NotDesires	person	be avoid
+NotDesires	person	ice cream that be all melt
+NotDesires	person	see frown of disapproval
+NotDesires	person	endless repetition
+NotDesires	person	fly in soup
+NotDesires	person	thing to wear out
+NotDesires	person	lose control
+NotDesires	person	friend to be hurt
+NotDesires	person	be force to do anything
+NotDesires	person	thorn in his foot
+NotDesires	person	have to go to hospital
+NotDesires	person	nosy neighbor
+NotDesires	person	not see clearly
+NotDesires	person	slip and fall
+NotDesires	person	be unpopular
+NotDesires	person	shit
+NotDesires	person	be think of as stupid
+NotDesires	person	repeat themselves
+NotDesires	person	be insane
+NotDesires	person	chap lip
+NotDesires	person	lose their arm
+NotDesires	person	allergy
+NotDesires	person	be decapitate
+NotDesires	person	low self-esteem
+NotDesires	person	be treat badly
+NotDesires	person	early death
+NotDesires	person	damage themselves
+NotDesires	person	be victim of prejudice
+NotDesires	person	have smelly foot
+NotDesires	person	feel helpless
+NotDesires	die person	be alone
+NotDesires	person	low pay job
+NotDesires	person	other person to get hurt
+NotDesires	person	wake up early
+NotDesires	person	their friend to die
+NotDesires	person	be stress
+NotDesires	person	failure
+NotDesires	person	microsoft
+NotDesires	person	lose their love one
+NotDesires	person	live forever
+NotDesires	person	be deceive
+NotDesires	theatre-goer	cough during performance
+NotDesires	nurse	suicide case
+NotDesires	person	be threaten
+NotDesires	person	be freeze
+NotDesires	tree	be cut down
+NotDesires	person	manure
+NotDesires	person	hear loud noise
+NotDesires	person	wet hair
+NotDesires	student	fail
+NotDesires	cat	go in dirty litter box
+NotDesires	cat	stay home alone
+NotDesires	cat	sleep on floor
+NotDesires	cat	eat his cat food
+NotDesires	you	anoy human
+NotDesires	you	harm human
+NotDesires	you	kill yourself
+NotDesires	you	kill human
+NotDesires	cook	burn food
+NotDesires	person	lose bet
+NotDesires	cook	food to spoil
+NotDesires	diner	eat bad food
+NotDesires	diner	overpay
+NotDesires	diner	overeat
+NotDesires	cook	food to go uneaten
+NotDesires	customer	overpay
+NotDesires	penguin	fly in sky
+NotDesires	student	drop off
+NotDesires	build	collapse
+NotDesires	perfectionist	error
+NotDesires	high school student	take sit
+NotDesires	wisdom	foolishness
+NotDesires	chastity	sexual intercourse
+NotDesires	student	mess up his exam
+NotDesires	person	get threat
+NotDesires	passionate person	be lead
+NotDesires	athlete	be injure
+NotDesires	human	get sick
+NotDesires	driver	car accident
+NotDesires	lesbian	make love to men
+NotDesires	lesbian	marry man
+NotDesires	teenager	rejection
+NotDesires	teenager	body odor
+NotDesires	mountain climber	accident
+NotDesires	teenager	pimple
+NotDesires	parent	unhappiness for their child
+NotDesires	driver	sudden accident
+NotDesires	butterfly	be catch in net
+NotDesires	man	join army
+NotDesires	student	screw up his exam
+NotDesires	student	speak in public
+NotDesires	cat	be let out
+NotDesires	office worker	go on business trip
+NotDesires	person	see catepillers
+NotDesires	student	fail her exam
+NotDesires	tv drama	get criticize
+NotDesires	hero	slide
+NotDesires	cartoonist	have fan pry into his work
+NotDesires	alarm clock	be use as radio
+NotDesires	teacher	have student eat thier lunch before lunch time
+NotDesires	person who life alone	do his laundry
+NotDesires	parent	thier child to go astray
+NotDesires	husband	drive
+NotDesires	bus driver	argue
+NotDesires	driver	make mistake while he be drive
+NotDesires	cockroach	see light
+NotDesires	student	exam
+NotDesires	cartoonist	make mistake
+NotDesires	student	be on spot
+NotDesires	person	see cockroach
+NotDesires	drugdealer	get rob
+NotDesires	teacher	have rowdy student
+NotDesires	person	hear someone boast about himself
+NotDesires	tv drama	be cancel
+NotDesires	lawyer	do probono
+NotDesires	graduate student	do project
+NotDesires	your husand	do dish
+NotDesires	president	change in situation
+NotDesires	woman	get heartbroken
+NotDesires	high school student	mid tem exam
+NotDesires	high school student	have final
+NotDesires	person	hear another person boast
+NotDesires	graduate student	meet
+NotDesires	life	end
+NotDesires	person	dirty thing
+NotDesires	person	experience tragedy
+NotDesires	drugdealer	get into trouble
+NotDesires	tv drama	be too predictable
+NotDesires	hero	get old
+NotDesires	person	dance
+NotDesires	office worker	monday to come
+NotDesires	driver	make mistakeswhile drive
+NotDesires	woman	grow old
+NotDesires	butterfly	sting like bee
+NotDesires	cat	feed too much
+NotDesires	person	see catepillars
+NotDesires	tv drama	make climax bore
+NotDesires	husband	eat unpalatable side dish
+NotDesires	student	pop quiz
+NotDesires	student	be fail
+NotDesires	bus driver	slow down
+NotDesires	person	live occasionally
+NotDesires	high school student	homework
+NotDesires	person	see insect
+NotDesires	office worker	conference
+NotDesires	fish	getcaught and eat
+NotDesires	life	be bore
+NotDesires	person who life alone	clean house
+NotDesires	president	peace breaker
+NotDesires	student	do thier homework
+NotDesires	employee	get pay cut
+NotDesires	patient	hear about his illness
+NotDesires	business man	get fire
+NotDesires	player	fall down
+NotDesires	cancer cell	spread
+NotDesires	person who life by himself	do his laundry
+NotDesires	alarm clock	ring all day
+NotDesires	student	be spank
+NotDesires	drugdealer	get catch
+NotDesires	person	see monster
+NotDesires	office worker	picky superintendant
+NotDesires	person	talk
+NotDesires	person	see something repugnant
+NotDesires	life	be melodramatic
+NotDesires	high school student	have final exam
+NotDesires	butterfly	be kill
+NotDesires	alarm clock	be mistreat
+NotDesires	your husband	eat unpalatable side dish
+NotDesires	alarm clock	break
+NotDesires	wife	clean house
+NotDesires	bus driver	speed
+NotDesires	cat	be torture
+NotDesires	cancer cell	kill you
+NotDesires	student	not graduate
+NotDesires	cancer cell	destroy you
+NotDesires	person	see tragic thing
+NotDesires	student	be late for school
+NotDesires	cancer cell	be take out
+NotDesires	person	be in tragedy
+NotDesires	person	eat
+NotDesires	woman	be slap
+NotDesires	patient	know about his situation
+NotDesires	president	ramble criticism
+NotDesires	hero	fail
+NotDesires	fairy tale	kill it hero
+NotDesires	grad student	professor around
+NotDesires	teacher	be absent
+NotDesires	dog	be with cat
+NotDesires	person	die old
+NotDesires	student	go to school
+NotDesires	life	be sad
+NotDesires	man	get down on his knee
+NotDesires	computer	be moist
+NotDesires	cat	be leave alone
+NotDesires	bus driver	stop at bus stop
+NotDesires	person	snap at someone
+NotDesires	fairy tale	have bad end
+NotDesires	butterfly	be squish
+NotDesires	office worker	night shift
+NotDesires	pet	be abandon
+NotDesires	drugdealer	get high
+NotDesires	hero	fade away
+NotDesires	graduate student	program
+NotDesires	person	be saint
+NotDesires	cat	die
+NotDesires	cat	be hurt
+NotDesires	mouse	die
+NotDesires	mouse	eat
+NotDesires	cat	throw out of window
+NotDesires	mouse	kill
+NotDesires	cat	be lonly
+NotDesires	mother	her child to be sick
+NotDesires	mother	her child to steal
+NotDesires	mother	her child to drink
+NotDesires	mother	her child to be unhappy
+NotDesires	high school student	final term
+NotDesires	examinee	be reject
+NotDesires	doctor	see patient die
+NotDesires	person	be busy
+NotDesires	parent	their child to be stupid
+NotDesires	parent	their child smoke
+NotDesires	parent	their child to be rude
+NotDesires	parent	their child always hang out all night
+NotDesires	student	flunk
+NotDesires	person	sue person
+NotDesires	animal	illness
+NotDesires	person	be look down at
+NotDesires	dog	get trample on
+NotDesires	animal	handicap
+NotDesires	person	do thing against his will
+NotDesires	man	get sick
+NotDesires	player	lose
+NotDesires	cat	be alone
+NotDesires	teacher	be contradict
+NotDesires	lover	have rivale
+NotDesires	lover	be leave
+NotDesires	teacher	be find out fool
+NotDesires	mother	pamper
+NotDesires	lover	be sad
+NotDesires	teacher	be laugh stick
+NotDesires	lover	be betray
+NotDesires	teacher	be embarrass
+NotDesires	mom	her child to hurt
+NotDesires	mom	her child to go hungry
+NotDesires	mom	her child to be lonely
+NotDesires	mom	her child to cry
+NotDesires	mankind	earthquake
+NotDesires	mankind	volcano
+NotDesires	mankind	tornado
+NotDesires	mankind	nuclear waste
+NotDesires	husband	wash dish
+NotDesires	worker	business trip
+NotDesires	wife	laundry
+NotDesires	student	do homework
+NotDesires	woman	get hurt
+NotDesires	individual	die
+NotDesires	pet	be discard
+NotDesires	businessman	incompetent person
+NotDesires	doctor	lose patient
+NotDesires	doctor	lose medical license
+NotDesires	doctor	be sue
+NotDesires	city	sprawl
+NotDesires	city	pollution
+NotDesires	doctor	make patient worse
+NotDesires	city	lose population
+NotDesires	city	crime
+NotDesires	animal	thirst
+NotDesires	animal	hunger
+NotDesires	race driver	lose
+NotDesires	race driver	crash their car
+NotDesires	mother	child to die
+NotDesires	mother	child to be unhappy
+NotDesires	mother	child to be inpolite
+NotDesires	person	dog
+NotDesires	person	gerbil
+NotDesires	person	make love
+NotDesires	person	eat pussy
+NotDesires	person	faith
+NotDesires	person	get catch
+NotDesires	person	warm beer and cold woman
+NotDesires	person	cook
+NotDesires	homosexual	make love to woman
+NotDesires	homosexual	marry woman
+NotDesires	person	swim
+NotDesires	pianist	study physic
+NotDesires	architect	destruct build
+NotDesires	workaholic	go home
+NotDesires	tv network	get bad rate
+NotDesires	parent	their child to get arrest
+NotDesires	babysitter	sit for bratty kid
+NotDesires	bug	be step on
+NotDesires	dog	go to vet
+NotDesires	doctor	malpractice suit
+NotDesires	slesman	lose sale
+NotDesires	pool clean	empty pool
+NotDesires	drinker	run out of alcohol
+NotDesires	clown	have no joke
+NotDesires	farmer	spoil fruit crop
+NotDesires	queen	lose her crown
+NotDesires	animal trainer	beeaten by tiger
+NotDesires	pianist	break piano
+NotDesires	woman	quit be female
+NotDesires	car salesman	day without sale
+NotDesires	gym teacher	doctor excuse form
+NotDesires	computer programmer	break computer
+NotDesires	sleeper	wake up
+NotDesires	artist	be unable to create art
+NotDesires	secretary	indecisive boss
+NotDesires	reader	have no book
+NotDesires	pet owner	their pet to leave them
+NotDesires	salesman	angry customer
+NotDesires	pool hustler	expert pool player
+NotDesires	fighter	lose
+NotDesires	driver	stop drive
+NotDesires	stunt man	accident
+NotDesires	harpist	give up play harp
+NotDesires	teacher	be ignore
+NotDesires	farmer	bad crop
+NotDesires	author	be unable to write
+NotDesires	man	quit be male
+NotDesires	trapeze artist	perform without net
+NotDesires	ship captain	get ship lose
+NotDesires	bigot	advice
+NotDesires	golfer	lose game of golf
+NotDesires	doctor	incurable disease
+NotDesires	cougher	cough in his hand
+NotDesires	weather reporter	surprise weather
+NotDesires	clean crew	unremovable stain
+NotDesires	king	lose his kingdom
+NotDesires	owner	his possession to be steal
+NotDesires	engineer	chaotic system
+NotDesires	pauper	be poor
+NotDesires	child	kiss another child
+NotDesires	floor sweeper	new carpet
+NotDesires	contestant	lose contest
+NotDesires	smoker	give up cigarette
+NotDesires	stunt-driver	break car
+NotDesires	organist	give away their organ
+NotDesires	singer	laryngitis
+NotDesires	public speaker	hack cough
+NotDesires	pet owner	their pet to be sick
+NotDesires	yellow journalist	bore story
+NotDesires	pianist	break wrist
+NotDesires	pianist	stop play piano
+NotDesires	editor	slow writer
+NotDesires	football coach	lose team
+NotDesires	person	stand in long queue
+NotDesires	dog	punishment
+NotDesires	president bush	saddam hussein
+NotDesires	my dog	eat her dinner
+NotDesires	my wife	me to stay up too late
+NotDesires	bill clinton	be remember for his sexual misconduct
+NotDesires	cat	take bath
+NotDesires	baby	be hungry
+NotDesires	drunkard	be sober
+NotDesires	lawyer	lose case
+NotDesires	racoon	shoe
+NotDesires	agoraphobe	leave house
+NotDesires	liar	tell truth
+NotDesires	stubborn person	give up
+NotDesires	investor	lose money
+NotDesires	believer	lose her faith
+NotDesires	carnivore	avoid meat
+NotDesires	lover	fight
+NotDesires	nomad	stay in one place
+NotDesires	team	lose
+NotDesires	mother	her child to suffer
+NotDesires	father	his child to suffer
+NotDesires	scientist	guess
+NotDesires	bully	show any mercy
+NotDesires	teacher	discourage student
+NotDesires	leader	his person to go astray
+NotDesires	build	anything
+NotDesires	slug	be dry
+NotDesires	plexen osantro mother	him to die
+NotDesires	president bush mother	him to die
+NotDesires	your mother	you to die
+NotDesires	person	crap for present
+NotDesires	fish	be dry
+NotDesires	intelligent person	what he cannot have
+NotDesires	live be	die
+NotDesires	my mother	me to die
+NotDesires	deer	be shoot by hunter
+NotDesires	ant	be step on
+NotDesires	see person	become blind
+NotDesires	meme	die out
+NotDesires	capture spy	truth serum
+NotDesires	cat	wool sweater
+NotDesires	person	get enema
+NotDesires	rat	drown
+NotDesires	hamster	messy burrow
+NotDesires	hen	flag
+NotDesires	horse	be slow than other horse
+NotDesires	government	be depose
+NotDesires	fish	person eat it
+NotDesires	comic	person to throw tomato at them
+NotDesires	tree	be without sunlight
+NotDesires	kitten	be throw in lake
+NotDesires	person	get punch in face
+NotDesires	student	fail class
+NotDesires	person	unattractive partner
+NotDesires	person	pay for wi-fi
+NotDesires	person	spontaneously combust
+NotDesires	parent	his child to be hurt
+NotDesires	person	lose contest
+NotDesires	woman	bisexual boyfriend
+NotDesires	white person	listen to rap music
+NotDesires	rider	cartiledge damage in her knee
+NotDesires	trainer	horse with bad foot
+NotDesires	golddigger	poor boyfriend
+NotDesires	insecure man	independent woman
+NotDesires	capitalist	socialism
+NotDesires	far-sighted person	book with small print
+NotDesires	woman	smell like wet dog
+NotDesires	horse	be spur
+NotDesires	coyote	be catch in trap
+NotDesires	fly	get spray with bug spray
+NotDesires	cop	backtalk
+NotDesires	cheapskate	golddigger
+NotDesires	driver	be tailgate
+NotDesires	communist	face reality of human nature
+NotDesires	womanizer	jealous girlfriend
+NotDesires	mother	useless son-in-law
+NotDesires	athlete	sore knee
+NotDesires	politician	embarrass thing from his past reveal
+NotDesires	cat	be run over by car
+NotDesires	fish	mercury in water
+NotDesires	insomniac	amphetamine
+NotDesires	corn	drought
+NotDesires	rider	horse to fall on her
+NotDesires	welfare queen	go to work
+NotDesires	horse	moldy hay
+NotDesires	animal-rights activist	fur coat
+NotDesires	nudist	cold weather
+NotDesires	deadbeat	job
+NotDesires	dentist	patient with bad breath
+NotDesires	lady	facial hair
+NotDesires	ship captain	his ship to hit iceberg
+NotDesires	investor	stock market to crash
+NotDesires	student	fail course
+NotDesires	dieter	gain weight
+NotDesires	subway rider	crowd subway car
+NotDesires	bill clinton	be impeach
+NotDesires	person	chop off their finger
+NotDesires	worker	be fire
+NotDesires	taxpayer	get audit
+NotDesires	person	their drug steal
+NotDesires	president	be impeach
+NotDesires	comedian	audience to stop laugh
+NotDesires	general	lose war
+NotDesires	person	botulism
+NotDesires	executive	productivity to decline
+NotDesires	comedy improviser	say no
+NotDesires	esthete	ugly thing
+NotDesires	person	burn down house
+NotDesires	person	their arch rival to win
+NotDesires	person	lose argument
+NotDesires	math teacher	her student to fail
+NotDesires	nikolai tesla	encounter pearl necklace
+NotDesires	spider	run short of fly
+NotDesires	somebody on diet	cake
+NotDesires	pig farmer	vegetarian
+NotDesires	commuter	person talk on their mobile phone
+NotDesires	computer programmer	bug
+NotDesires	dog	be leave alone
+NotDesires	animal	starve
+NotDesires	animal	live in fear
+NotDesires	animal	feel hunger
+NotDesires	my friend	be cold
+NotDesires	insect	be squash
+NotDesires	president bush	democrat
+NotDesires	hungry person	starve
+NotDesires	country	be invade
+NotDesires	child	lose his mother
+NotDesires	tire person	stay awake
+NotDesires	fat person	be make fun of
+NotDesires	society	be rule by dictator
+NotDesires	my brother	kill me
+NotDesires	our president	answere question
+NotDesires	my wife	wash dish anymore
+NotDesires	my daughter	go to bed
+NotDesires	baker	bad yeast
+NotDesires	farmer	drought
+NotDesires	cat	dog in house
+NotDesires	person	be show no mercy
+NotDesires	person	be victim of abuse
+NotDesires	person	hurt love one
+NotDesires	person	his boat to crash
+NotDesires	person	lose control of his life
+NotDesires	person	flat soda
+NotDesires	person	be betray by lover
+NotDesires	person	be hit by bus
+NotDesires	person	be hurt by love one
+NotDesires	person	bad service at restaurant
+NotDesires	person	fall down well
+NotDesires	person	run in her hose
+NotDesires	person	cut themselves
+NotDesires	person	feel embarassed
+NotDesires	person	be take advantage of
+NotDesires	person	brain damage
+NotDesires	person	be attack by vicious animal
+NotDesires	person	see love one get hurt
+NotDesires	person	be victim of gossip
+NotDesires	person	their computer to malfunction
+NotDesires	computer	their computer to crash
+NotDesires	spouse	divore
+NotDesires	woman	be ugly
+NotDesires	bald man	comb
+NotDesires	skier	warm weather
+NotDesires	snowman	warm weather
+NotDesires	snow boarder	warm weather
+NotDesires	child	be ground
+NotDesires	hiker	blister
+NotDesires	republican	high tax
+NotDesires	student	detention
+NotDesires	climber	break arm
+NotDesires	hockey player	slip and fall on ice
+NotDesires	corporation	lose money
+NotDesires	cat	be wash
+NotDesires	good person	cheat
+NotDesires	s person	ruin his clothe
+NotDesires	fish	bicycle
+NotDesires	person	be intimidate
+NotDesires	minority	hate and bigotry
+NotDesires	person	tofu
+NotDesires	waiter	small tip
+NotDesires	vegitarian	meat
+NotDesires	driver	traffic
+NotDesires	world	unilateralism
+NotDesires	california	high gas price
+NotDesires	cook	food poison
+NotDesires	dog	starve
+NotDesires	bald person	hair
+NotDesires	child	be lose
+NotDesires	child	boredom
+NotDesires	person	arthritis
+NotDesires	person	witness suffer
+NotDesires	police officer	admit he commit crime
+NotDesires	someone who feel pain	keep feel it
+NotDesires	someone who be smart	ever stop learn
+NotDesires	vegetarian	meat
+NotDesires	soldier	die
+NotDesires	tiger	vegetable
+NotDesires	boat	sink
+NotDesires	drive instructor	blind student
+NotDesires	teacher	bore student
+NotDesires	parent	irresponsible child
+NotDesires	tightrope walker	fall down
+NotDesires	woman	suffer violence
+NotDesires	child	go to school
+NotDesires	wild game	be hunt
+NotDesires	employee of company	that company stock price to decrease
+NotDesires	pope	woman to abort unwanted pregnancy
+NotDesires	cat	eat vegetable
+NotDesires	spy	be discover
+NotDesires	criminal	leave behind evidence
+NotDesires	mouse	be eat by cat
+NotDesires	child	spank
+NotDesires	pilot	fly into large thunderstorm
+NotDesires	pilot	crash
+NotDesires	sensitive person	be reject
+NotDesires	animal	be eat
+NotDesires	coffee drinker	coffee embargo
+NotDesires	wage-slave	go to his dead end job
+NotDesires	kitten	be eat by owl
+NotDesires	despot	free speech
+NotDesires	religious leader	rational question
+NotDesires	rational person	any more pavement
+NotDesires	pilot	crash and burn
+NotDesires	free man	be enslave again
+NotDesires	child	abuse from parent
+NotDesires	cook	burn toast
+NotDesires	spouse	his wife to have affair
+NotDesires	car owner	energy crisis
+NotDesires	pilot	rough air
+NotDesires	communist	counter revolution
+NotDesires	cat	work too hard
+NotDesires	preacher	answer intelligent question
+NotDesires	dog	be hit with newspaper
+NotDesires	cat	be lock up
+NotDesires	marry person	celibate marriage
+NotDesires	child	mean pet
+NotDesires	boss	you to call in sick
+NotDesires	child	her parent to divorce
+NotDesires	life	become extinct
+NotDesires	man as general rule	wear dress
+NotDesires	chemist	lab explosion
+NotDesires	mammal	pain or hunger
+NotDesires	pilot	run out of fuel
+NotDesires	astronaut	rocket explosion
+NotDesires	cat	too much attention
+NotDesires	painter	run out of paint
+NotDesires	woman	abusive boyfriend
+NotDesires	loner	be in big crowd
+NotDesires	writer	writer block
+NotDesires	hard worker	relax
+NotDesires	dancer	break leg
+NotDesires	lazy person	work
+NotDesires	rabbit	go into it hutch after play
+NotDesires	horserider	sick horse
+NotDesires	student	forget to do their homework
+NotDesires	child	eat vegetable
+NotDesires	teacher	bad class
+NotDesires	pacifist	gun
+NotDesires	employee	his job
+NotDesires	liar	person to know truth
+NotDesires	person	do bad thing
+NotDesires	refrigerator	be unplug
+NotDesires	person	be without knowledge
+NotDesires	person	have prejudice
+NotDesires	person	be without water
+NotDesires	person or animal	be use in inappropriate way
+NotDesires	muslim	go to hell
+NotDesires	cheater	get catch
+NotDesires	woman	her husband to fool around
+NotDesires	employee	be fire
+NotDesires	religious person	sin
+NotDesires	child	do her homework
+NotDesires	driver	have accident
+NotDesires	teacher	her student to fail
+NotDesires	muslim	eat pork
+NotDesires	i	be your monkey wrench
+NotDesires	cat	be hit
+NotDesires	person	wait in doctor office
+NotDesires	human will	be control by computer
+NotDesires	guitar be for person who	real job
+NotDesires	person	eat alone
+NotDesires	many child	learn
+NotDesires	cat	do this very much
+NotDesires	heterosexual man	be interior decorator
+NotDesires	person	be alone for very long
+NotDesires	i	join navy
+NotDesires	we like rain	get wet
+NotDesires	one	sit on this
+NotDesires	dog	be box
+NotDesires	some person	ride on roller coaster
+NotDesires	most adult	wear silly hat
+NotDesires	american	eat eyeball
+NotDesires	person like to win but	lose
+NotDesires	person	get wet from rain
+NotDesires	person sit on chair when they	stand
+NotDesires	they	take it in head
+NotDesires	you	be on island by yourself
+NotDesires	mailman	climb stair
+NotDesires	child	wear their eyeglass
+NotDesires	person	sore
+NotDesires	person	ebola
+NotDesires	person	incompetent doctor
+NotDesires	person	flipper
+NotDesires	person	chaos
+NotDesires	person	disgrace
+NotDesires	person	be overlook
+NotDesires	person	drop something heavy on their foot
+NotDesires	person	get chew out
+NotDesires	person	be in airplane that crash
+NotDesires	person	stub their toe in dark
+NotDesires	person	be interrupt while they be talk
+NotDesires	person	be interrupt when they be concentrate
+NotDesires	person	be tell they be wrong
+NotDesires	person	eat something they do not like
+NotDesires	person	find worm in their apple
+NotDesires	person	be evict from their home
+NotDesires	person	become invalid
+NotDesires	person	egg on their face
+NotDesires	person	forget important appointment
+NotDesires	person	have root canal do
+NotDesires	person	smash their finger with hammer
+NotDesires	person	fatal disease
+NotDesires	person	clog toilet
+NotDesires	person	eat raw animal
+NotDesires	person	shoe that do not fit
+NotDesires	person	be unprepared for exam
+NotDesires	person	bad day
+NotDesires	person	earth to tremble
+NotDesires	person	find fungus in their house
+NotDesires	person	see others hurt
+NotDesires	person	mouldy bread
+NotDesires	most person	be in car accident
+NotDesires	person	hurt themselves
+NotDesires	person	be dislike by others
+NotDesires	person	be meaningless
+NotDesires	person	go through life without mean
+NotDesires	person	listen
+NotDesires	person	see their love one suffer
+NotDesires	bomb be often something you	hear
+NotDesires	person	get ill
+NotDesires	person	eat yucky food
+NotDesires	person	do chore
+NotDesires	beaver	eat bean
+NotDesires	person	be unfulfilled
+NotDesires	person	be unsuccessful
+NotDesires	person	work on sunday
+NotDesires	person	get sunburn
+NotDesires	person	feel hungry
+NotDesires	person	it
+NotDesires	person	this prompt
+NotDesires	person	desease
+NotDesires	person	be humilliated
+NotDesires	person	shit their pant
+NotDesires	person	have old clothe
+NotDesires	person	have diabetes
+NotDesires	person	broke leg
+NotDesires	person	be hatet
+NotDesires	person	go to hospital
+NotDesires	person	have others control his life
+NotDesires	person	be embaresed
+NotDesires	you	be catch in tornado
+NotDesires	person	bad hair cut
+NotDesires	person	body oder
+NotDesires	person	hair in their mouth
+NotDesires	person	eat brussel sprout for every meal
+NotDesires	person	smell foul odor
+NotDesires	person	nag wife
+NotDesires	person	crap their pant
+NotDesires	person	bald head
+NotDesires	person	listen to cry baby
+NotDesires	person	sit on tack
+NotDesires	person	beat up car
+NotDesires	person	be around negitive person
+NotDesires	person	die from cancer
+NotDesires	person	be drug addict
+NotDesires	person	get stick in eye
+NotDesires	person	junk in their home
+NotDesires	thomas lin	eat toothpaste
+NotDesires	kid	study
+NotDesires	you	make mistake
+NotDesires	you	make error
+NotDesires	person	vermin infest their apartment
+NotDesires	person	razor burn
+NotDesires	person	be trample by moose
+NotDesires	person	pay late fee
+NotDesires	person	splinter in their finger
+NotDesires	person	clog artery
+NotDesires	person	krazy glue in their hair
+NotDesires	person	miss their plane
+NotDesires	person	be party pooper
+NotDesires	person	hold up line
+NotDesires	person	late fee
+NotDesires	person	be scapegoat
+NotDesires	person	be in no-win situation
+NotDesires	person	cause someone else pain
+NotDesires	person	live in unite state
+NotDesires	person	be dupe
+NotDesires	person	out of date food
+NotDesires	person	pressure
+NotDesires	person	end
+NotDesires	person	have sex
+NotDesires	person	sleep
+NotDesires	person	live
+NotDesires	person	global thermonuclear war
+NotDesires	person	loss
+NotDesires	person	be maim

@@ -1,0 +1,138 @@
+InstanceOf	friend	sitcom
+InstanceOf	titanic	movie
+InstanceOf	monkey	animal
+InstanceOf	michael jordan	basketball player
+InstanceOf	einstein	genius
+InstanceOf	coke	soft drink
+InstanceOf	hwang woosuk	scientist
+InstanceOf	jaeju island	tourist attraction
+InstanceOf	walkie talkie	toy
+InstanceOf	dog	pet
+InstanceOf	brazil	country
+InstanceOf	s	city
+InstanceOf	ufscar	university
+InstanceOf	houryuji	japanese temple
+InstanceOf	liberal democratic party	japanese political party
+InstanceOf	fuji	apple
+InstanceOf	jung hye-min	fool
+InstanceOf	queen	rock band
+InstanceOf	final fantasy	video game
+InstanceOf	shin sing yong	genius
+InstanceOf	rainbow bridge	japanese bridge
+InstanceOf	north korea	country
+InstanceOf	hitachi ltd	large company
+InstanceOf	bump of chicken	rock band
+InstanceOf	asimo	robot
+InstanceOf	apricot	fruit
+InstanceOf	go with wind	novel
+InstanceOf	swatch	watch brand
+InstanceOf	hanhwa eagle	professional baseball team in korea
+InstanceOf	melon	fruit
+InstanceOf	kyushi university	university
+InstanceOf	pepper	season
+InstanceOf	hydroelectric	power generation
+InstanceOf	rainbow bridge	bridge in japan
+InstanceOf	canon	large corporation
+InstanceOf	soy sauce	condiment
+InstanceOf	barley tea	tea
+InstanceOf	slide	playground equipment
+InstanceOf	tuna	fish
+InstanceOf	freinds	sitcom
+InstanceOf	srilanka	war
+InstanceOf	lineage	online game
+InstanceOf	micheal jordan	basketball player
+InstanceOf	hanhwa eagle	baseball team
+InstanceOf	jawoorim	music band
+InstanceOf	song kangho	male actor
+InstanceOf	hwang woosuk	fraud
+InstanceOf	earth	planet in solar system
+InstanceOf	asia	continent
+InstanceOf	ferrarri	car
+InstanceOf	lion	atrocious animal
+InstanceOf	jaoorim	of music band
+InstanceOf	ichiban shibari	beer
+InstanceOf	super mario brother	videogame
+InstanceOf	pele	soccer player
+InstanceOf	earth	planet of solar system
+InstanceOf	eunha sim	actress
+InstanceOf	hyemin	weirdo
+InstanceOf	ipod	portable music player
+InstanceOf	titanic	film
+InstanceOf	clementine orange	fruit
+InstanceOf	strawberry	fruit
+InstanceOf	mit	engineer school
+InstanceOf	david byrne	singer
+InstanceOf	mit	university
+InstanceOf	dr. pepper	soft drink
+InstanceOf	marvin minsky	scientist
+InstanceOf	real madrid	football club
+InstanceOf	lee yong ar	beautiful person
+InstanceOf	friend	sitcom
+InstanceOf	titanic	movie
+InstanceOf	monkey	animal
+InstanceOf	michael jordan	basketball player
+InstanceOf	einstein	genius
+InstanceOf	coke	soft drink
+InstanceOf	hwang woosuk	scientist
+InstanceOf	jaeju island	tourist attraction
+InstanceOf	walkie talkie	toy
+InstanceOf	dog	pet
+InstanceOf	brazil	country
+InstanceOf	s	city
+InstanceOf	ufscar	university
+InstanceOf	houryuji	japanese temple
+InstanceOf	liberal democratic party	japanese political party
+InstanceOf	fuji	apple
+InstanceOf	jung hye-min	fool
+InstanceOf	queen	rock band
+InstanceOf	final fantasy	video game
+InstanceOf	shin sing yong	genius
+InstanceOf	rainbow bridge	japanese bridge
+InstanceOf	north korea	country
+InstanceOf	hitachi ltd	large company
+InstanceOf	bump of chicken	rock band
+InstanceOf	asimo	robot
+InstanceOf	apricot	fruit
+InstanceOf	go with wind	novel
+InstanceOf	swatch	watch brand
+InstanceOf	hanhwa eagle	professional baseball team in korea
+InstanceOf	melon	fruit
+InstanceOf	kyushi university	university
+InstanceOf	pepper	season
+InstanceOf	hydroelectric	power generation
+InstanceOf	rainbow bridge	bridge in japan
+InstanceOf	canon	large corporation
+InstanceOf	soy sauce	condiment
+InstanceOf	barley tea	tea
+InstanceOf	slide	playground equipment
+InstanceOf	tuna	fish
+InstanceOf	freinds	sitcom
+InstanceOf	srilanka	war
+InstanceOf	lineage	online game
+InstanceOf	micheal jordan	basketball player
+InstanceOf	hanhwa eagle	baseball team
+InstanceOf	jawoorim	music band
+InstanceOf	song kangho	male actor
+InstanceOf	hwang woosuk	fraud
+InstanceOf	earth	planet in solar system
+InstanceOf	asia	continent
+InstanceOf	ferrarri	car
+InstanceOf	lion	atrocious animal
+InstanceOf	jaoorim	of music band
+InstanceOf	ichiban shibari	beer
+InstanceOf	super mario brother	videogame
+InstanceOf	pele	soccer player
+InstanceOf	earth	planet of solar system
+InstanceOf	eunha sim	actress
+InstanceOf	hyemin	weirdo
+InstanceOf	ipod	portable music player
+InstanceOf	titanic	film
+InstanceOf	clementine orange	fruit
+InstanceOf	strawberry	fruit
+InstanceOf	mit	engineer school
+InstanceOf	david byrne	singer
+InstanceOf	mit	university
+InstanceOf	dr. pepper	soft drink
+InstanceOf	marvin minsky	scientist
+InstanceOf	real madrid	football club
+InstanceOf	lee yong ar	beautiful person

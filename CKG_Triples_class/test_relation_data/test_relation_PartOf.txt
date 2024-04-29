@@ -1,0 +1,22 @@
+PartOf	keyboard	computer
+PartOf	toe	foot
+PartOf	finger	hand
+PartOf	page	book
+PartOf	tire	car
+PartOf	book	library
+PartOf	cpu	computer
+PartOf	nose	face
+PartOf	cornea	eye
+PartOf	arm	body
+PartOf	monitor	computer
+PartOf	usenet newsgroup	usenet
+PartOf	death	life
+PartOf	wheel	car
+PartOf	galaxy	universe
+PartOf	person	society
+PartOf	son	family
+PartOf	leaf	tree
+PartOf	god	religion
+PartOf	trigger	gun
+PartOf	door	house
+PartOf	palm	hand

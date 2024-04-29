@@ -1,0 +1,8 @@
+MotivatedByGoal	play	have some fun
+MotivatedByGoal	read newspaper	be inform
+MotivatedByGoal	urinate	your bladder be full
+MotivatedByGoal	sleep	rest
+MotivatedByGoal	read	learn
+MotivatedByGoal	compete	win
+MotivatedByGoal	have rest	you be very tire
+MotivatedByGoal	propose to woman	you love her

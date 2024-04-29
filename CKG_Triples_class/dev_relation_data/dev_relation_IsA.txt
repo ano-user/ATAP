@@ -1,0 +1,197 @@
+IsA	tool	object
+IsA	helium	gas
+IsA	pet	animal
+IsA	orange	colour
+IsA	bus	form of public transportation
+IsA	pink	color
+IsA	arkansas	state
+IsA	island	land
+IsA	penny	coin
+IsA	dog	domesticate animal
+IsA	tea	drink
+IsA	music	language
+IsA	fire	combustion
+IsA	read	activity
+IsA	german	language
+IsA	avenue	street
+IsA	fear	emotion
+IsA	something you find outside	tree
+IsA	sex	good thing
+IsA	water	reflective surface
+IsA	violence	bad thing
+IsA	pear	fruit
+IsA	flag	symbol
+IsA	horse	large mammal
+IsA	dollar	money
+IsA	flute	wind instrument
+IsA	library	quiet place
+IsA	library	good place to study
+IsA	square	rectangle
+IsA	girl	female
+IsA	pen	write instrument
+IsA	new mexico	state
+IsA	south dakota	state
+IsA	woman	female
+IsA	linen	cloth
+IsA	strawberry	fruit
+IsA	rubber duck	toy
+IsA	screw	simple machine
+IsA	son	parent male child
+IsA	lion	feline
+IsA	tomato	fruit
+IsA	beagle	dog
+IsA	lily	flower
+IsA	celery	vegetable
+IsA	dress	clothe
+IsA	mango	fruit
+IsA	cinnamon	spice
+IsA	sew	hobby
+IsA	salt	spice
+IsA	insect	animal
+IsA	grass	plant
+IsA	elephant	animal
+IsA	spinach	vegetable
+IsA	iris	flower
+IsA	bread	food
+IsA	novel	story
+IsA	owl	bird
+IsA	lemon	fruit
+IsA	africa	continent
+IsA	ferret	animal
+IsA	shark	fish
+IsA	rodent	mammal
+IsA	horse	mammal
+IsA	penguin	bird
+IsA	rat	mammal
+IsA	tuna	fish
+IsA	flamingo	bird
+IsA	green	colour
+IsA	catfish	fish
+IsA	man	human
+IsA	cheese	dairy product
+IsA	ping pong	call table tennis
+IsA	war	hell
+IsA	horse	jump
+IsA	bagel	food
+IsA	horse	jump over fence
+IsA	chemistry	science
+IsA	cappuccino	drink
+IsA	ski	activity
+IsA	paris	in france
+IsA	ignorance	bliss
+IsA	book	often
+IsA	happiness	emotion
+IsA	ice	solid
+IsA	germany	in europe
+IsA	spaniel	dog
+IsA	michigan	state
+IsA	dog	good friend
+IsA	play	form of entertainment
+IsA	mother	woman
+IsA	baby	very young child
+IsA	wine	alcoholic beverage
+IsA	write	form of communication
+IsA	hibiscus	flower
+IsA	dove	bird
+IsA	maine	state
+IsA	desert	terrain
+IsA	seven	number
+IsA	coffee	stimulant
+IsA	america	country
+IsA	gorilla	ape
+IsA	pike	fish
+IsA	kayak	boat
+IsA	horse	social animal
+IsA	puppy	immature dog
+IsA	eye	complex organ
+IsA	human	biped
+IsA	jog	exercise
+IsA	woodwind	musical instrument
+IsA	rat	rodent
+IsA	saxaphone	musical instrument
+IsA	short distance between two point	straight line
+IsA	chess	board game
+IsA	puppy	dog
+IsA	viola	musical instrument
+IsA	tiger	cat
+IsA	jazz	music
+IsA	pepper	spice
+IsA	flute	instrument
+IsA	yellow	color
+IsA	flower	plant
+IsA	buddhism	religion
+IsA	swan	bird
+IsA	lisp	program language
+IsA	bear	mammal
+IsA	horse	animal
+IsA	japan	country
+IsA	aid	disease
+IsA	cancer	disease
+IsA	blue	colour
+IsA	falcon	bird
+IsA	this	see
+IsA	man	write in book
+IsA	island	land mass
+IsA	niece	girl
+IsA	texas	state
+IsA	pistol	weapon
+IsA	math	subject
+IsA	mercury	planet
+IsA	milk	liquid
+IsA	screwdriver	drink
+IsA	orange	citrus fruit
+IsA	college	school
+IsA	submarine	boat
+IsA	georgia	state
+IsA	jar	container
+IsA	orange	color
+IsA	turkey	name of country
+IsA	bible	book
+IsA	canada	in north america
+IsA	tuba	large musical instrument
+IsA	sex	three letter word
+IsA	steak	food
+IsA	fruit	good source of vitamin
+IsA	cash	another word for money
+IsA	bagel	bread
+IsA	moon	long way away
+IsA	doctor	person
+IsA	car	machine
+IsA	space	area
+IsA	boat	form of transportation
+IsA	rhode island	state
+IsA	drink	liquid
+IsA	airplane	form of transportation
+IsA	oldsmobile	car
+IsA	student	person
+IsA	computer	machine
+IsA	french horn	musical instrument
+IsA	tulip	flower
+IsA	trumpet	musical instrument
+IsA	guitar	instrument
+IsA	dictionary	book
+IsA	woman	human
+IsA	watermelon	fruit
+IsA	copper	metal
+IsA	oak	tree
+IsA	turkey	country
+IsA	uranus	planet
+IsA	pig	mammal
+IsA	squirrel	mammal
+IsA	hamburger	food
+IsA	korea university	university
+IsA	goldfish	fish
+IsA	mouse	animal
+IsA	nightingale	bird
+IsA	gull	bird
+IsA	euro	currency
+IsA	parrot	bird
+IsA	bicycle be	mean of transportation
+IsA	backgammon	board game
+IsA	u2	band
+IsA	massachusetts	state
+IsA	lip	kiss
+IsA	piano	instrument of music
+IsA	wicca	religion
+IsA	boy	young human male
+IsA	snow	freeze water

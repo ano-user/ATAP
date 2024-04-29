@@ -1,0 +1,45 @@
+Causes	do housework	clean house
+Causes	read	learn
+Causes	do housework	have clean house
+Causes	smoke	lung cancer
+Causes	exercise	sweat
+Causes	light match	fire
+Causes	go to get haircut	your hair will be short
+Causes	fall	injury
+Causes	play	fun
+Causes	kill	death
+Causes	go on vacation	relaxation
+Causes	sex	child
+Causes	read	learn something
+Causes	have haircut	have short hair
+Causes	tickle	laughter
+Causes	smoke	cancer
+Causes	play game with your friend	fun
+Causes	apply for job	get job
+Causes	maintain good health	long life
+Causes	procreate	have child
+Causes	go to zoo	see animal
+Causes	go to laundromat	clean clothe
+Causes	play violin	music
+Causes	stay healthy	long life
+Causes	see your favorite show	laugh
+Causes	go to play	be entertain
+Causes	sing	sore throat
+Causes	cross street	get to other side
+Causes	chew your food	good digestion
+Causes	open gift	surprise
+Causes	have sex	baby
+Causes	move car	accident
+Causes	walk in rain	you get wet
+Causes	go to bed	sleep
+Causes	tickle	laugh
+Causes	propose to woman	marriage
+Causes	wait in line	boredom
+Causes	chat with friend	laughter
+Causes	relax	sleep
+Causes	bathe	be clean
+Causes	reproduce	child
+Causes	sex	orgasm
+Causes	fart	bad smell
+Causes	smoke cigarette	lung cancer
+Causes	strike match	fire

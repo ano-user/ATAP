@@ -1,0 +1,250 @@
+AtLocation	fish	water
+AtLocation	cloud	sky
+AtLocation	child	school
+AtLocation	computer	office
+AtLocation	clothe	closet
+AtLocation	book	shelf
+AtLocation	coat	closet
+AtLocation	computer	library
+AtLocation	paper clip	desk
+AtLocation	shark	any ocean
+AtLocation	word	book
+AtLocation	animal	zoo
+AtLocation	dog	kennel
+AtLocation	librarian	library
+AtLocation	water	lake
+AtLocation	shoe	closet
+AtLocation	chair	office
+AtLocation	food	refrigerator
+AtLocation	knife	kitchen
+AtLocation	pen	office
+AtLocation	car	park lot
+AtLocation	bird	sky
+AtLocation	book	library
+AtLocation	seven day	week
+AtLocation	bookshelf	library
+AtLocation	carpet	house
+AtLocation	glass	cupboard
+AtLocation	shirt	closet
+AtLocation	seven continent	earth
+AtLocation	shingle	roof
+AtLocation	someone	hospital
+AtLocation	bicycle	garage
+AtLocation	money	bank
+AtLocation	cat	bed
+AtLocation	water	river
+AtLocation	bed	bedroom
+AtLocation	jellyfish	most ocean
+AtLocation	boat	water
+AtLocation	elephant	zoo
+AtLocation	prisoner	jail
+AtLocation	airplane	sky
+AtLocation	tile	roof
+AtLocation	plate	cupboard
+AtLocation	human	school
+AtLocation	literature	library
+AtLocation	glass	cabinet
+AtLocation	cat	lap
+AtLocation	nurse	hospital
+AtLocation	star	space
+AtLocation	chimney	roof
+AtLocation	bicycle	street
+AtLocation	lawn mower	garage
+AtLocation	tablecloth	table
+AtLocation	galaxy	universe
+AtLocation	cat	windowsill
+AtLocation	bride	wed
+AtLocation	star	sky
+AtLocation	bread	breadbox
+AtLocation	dresser	bedroom
+AtLocation	toilet	bathroom
+AtLocation	window	house
+AtLocation	neighbour	door
+AtLocation	pickle	jar
+AtLocation	opera singer	opera
+AtLocation	something	something else
+AtLocation	bird	roof
+AtLocation	plate	table
+AtLocation	key	pocket
+AtLocation	jellyfish	aquarium
+AtLocation	potato	kitchen
+AtLocation	sink	kitchen
+AtLocation	wallet	pocket
+AtLocation	money	wallet
+AtLocation	build	city
+AtLocation	book	bookshelf
+AtLocation	human	love
+AtLocation	car	freeway
+AtLocation	frisbee	park
+AtLocation	stapler	your desk
+AtLocation	student	classroom
+AtLocation	human	country
+AtLocation	human	home
+AtLocation	potato	restaurant
+AtLocation	state	country
+AtLocation	stapler	desk
+AtLocation	toilet paper	bathroom
+AtLocation	giraffe	zoo
+AtLocation	pillow	bedroom
+AtLocation	food	supermarket
+AtLocation	eiffel tower	paris
+AtLocation	food	table
+AtLocation	grass	park
+AtLocation	milk	fridge
+AtLocation	black hole	space
+AtLocation	criminal	jail
+AtLocation	car	car show
+AtLocation	creek	forest
+AtLocation	bowl	cupboard
+AtLocation	coffee cup	desk
+AtLocation	peanut butter	jar
+AtLocation	seat	theatre
+AtLocation	someone	museum
+AtLocation	letter	post office
+AtLocation	motherboard	computer
+AtLocation	7 continent	earth
+AtLocation	capital	country
+AtLocation	water	pool
+AtLocation	snow	mountain
+AtLocation	lizard	dessert
+AtLocation	whale	ocean
+AtLocation	student	school
+AtLocation	telephone	your desk
+AtLocation	door	build
+AtLocation	dust bunny	bed
+AtLocation	student	university
+AtLocation	chair	desk
+AtLocation	slide	park
+AtLocation	rock	mountain
+AtLocation	tool	garage
+AtLocation	sand	desert
+AtLocation	mouse	garage
+AtLocation	lock	door
+AtLocation	crab	sand
+AtLocation	corner cupboard	kitchen
+AtLocation	water	waterfall
+AtLocation	leaf	tree
+AtLocation	lion	zoo
+AtLocation	brain	head
+AtLocation	neighbor	door
+AtLocation	hanger	closet
+AtLocation	program	television
+AtLocation	teacher	classroom
+AtLocation	book	your desk
+AtLocation	commercial	television
+AtLocation	someone	post office
+AtLocation	weasel	zoo
+AtLocation	lizard	bush
+AtLocation	mouse	laboratory
+AtLocation	grass	lawn
+AtLocation	your tooth	your mouth
+AtLocation	food	oven
+AtLocation	computer	your house
+AtLocation	seat	theater
+AtLocation	car	city
+AtLocation	food	fridge
+AtLocation	computer	school
+AtLocation	fish	ocean
+AtLocation	book	classroom
+AtLocation	floor	table
+AtLocation	can food	pantry
+AtLocation	something	school
+AtLocation	telephone	office
+AtLocation	fork	table
+AtLocation	star	night sky
+AtLocation	bird	air
+AtLocation	pantry	kitchen
+AtLocation	towel rack	bathroom
+AtLocation	drawer	desk
+AtLocation	tiger	zoo
+AtLocation	information	internet
+AtLocation	something	library
+AtLocation	something	store
+AtLocation	your neighbor	door
+AtLocation	food	kitchen
+AtLocation	moon	space
+AtLocation	flower	park
+AtLocation	human	park
+AtLocation	jewish person	synagogue
+AtLocation	human	workplace
+AtLocation	mirror	bedroom
+AtLocation	girl	school
+AtLocation	someone	zoo
+AtLocation	submarine	water
+AtLocation	hamburger	fast-food restaurant
+AtLocation	carpet pad	carpet
+AtLocation	someone	lake
+AtLocation	something	beach
+AtLocation	bird	forest
+AtLocation	traveller	airport
+AtLocation	something	tree
+AtLocation	something	mall
+AtLocation	someone	theater
+AtLocation	cake	oven
+AtLocation	fish	river
+AtLocation	salt	ocean
+AtLocation	card catalog	library
+AtLocation	cd	cd player
+AtLocation	planet	space
+AtLocation	clarinet	orchestra
+AtLocation	wine list	restaurant
+AtLocation	mouthwash	bathroom
+AtLocation	rosebush	backyard
+AtLocation	elephant	circus
+AtLocation	student	at school
+AtLocation	notebook	desk
+AtLocation	nose	face
+AtLocation	clothe	drawer
+AtLocation	sock	drawer
+AtLocation	sock	sock drawer
+AtLocation	floor	carpet
+AtLocation	bunsen burner	chemistry lab
+AtLocation	horse	race track
+AtLocation	rope	boat
+AtLocation	puck	hockey game
+AtLocation	bill	mail box
+AtLocation	bell	church
+AtLocation	book	backpack
+AtLocation	movie	theater
+AtLocation	actor	movie
+AtLocation	knife	drawer
+AtLocation	gideon bible	motel
+AtLocation	clothe	store
+AtLocation	rack	oven
+AtLocation	something	sea
+AtLocation	something	refrigerator
+AtLocation	someone	shop
+AtLocation	egg	supermarket
+AtLocation	sun	center of solar system
+AtLocation	tenor	opera
+AtLocation	audience	theatre
+AtLocation	human	church
+AtLocation	staple	stapler
+AtLocation	key	purse
+AtLocation	trash	dumpster
+AtLocation	city	county
+AtLocation	shop basket	supermarket
+AtLocation	science	university
+AtLocation	closet	bedroom
+AtLocation	foot	shoe
+AtLocation	cavity	tooth
+AtLocation	statue	museum
+AtLocation	table	kitchen
+AtLocation	tree	forest
+AtLocation	fish	aquarium
+AtLocation	twenty four hour	day
+AtLocation	phone	your desk
+AtLocation	college	city
+AtLocation	feather	bird
+AtLocation	tongue	your mouth
+AtLocation	plate	kitchen
+AtLocation	roof tile	roof
+AtLocation	foot	desk
+AtLocation	apple	apple tree
+AtLocation	school	city
+AtLocation	baggage	airport
+AtLocation	cookie	jar
+AtLocation	twenty-four hour	day
+AtLocation	furnace	basement
+AtLocation	stethoscope	doctor
+AtLocation	leave	tree

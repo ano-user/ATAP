@@ -1,0 +1,211 @@
+IsA	baseball	sport
+IsA	yo-yo	toy
+IsA	dog	mammal
+IsA	polo	game
+IsA	gold	metal
+IsA	sushi	food
+IsA	soccer	sport
+IsA	rose	flower
+IsA	linux	operate system
+IsA	fly	insect
+IsA	violin	string instrument
+IsA	bass	fish
+IsA	dog	animal
+IsA	football	game
+IsA	football	sport
+IsA	love	emotion
+IsA	see	tool
+IsA	dog	pet
+IsA	tennis	sport
+IsA	lion	animal
+IsA	statue of liberty	gift from france
+IsA	trout	fish
+IsA	turtle	reptile
+IsA	sex	activity
+IsA	vegetable	food
+IsA	statue of liberty	in new york
+IsA	doll	toy
+IsA	rock	music
+IsA	venus	planet
+IsA	rain	water
+IsA	peach	fruit
+IsA	silver	metal
+IsA	finch	bird
+IsA	corn	vegetable
+IsA	murder	crime
+IsA	golden retriever	dog
+IsA	blue	color
+IsA	iron	metal
+IsA	java	program language
+IsA	ostrich	bird
+IsA	ant	insect
+IsA	music	sound
+IsA	saxophone	musical instrument
+IsA	chicken	food
+IsA	apple	fruit
+IsA	biology	science
+IsA	telephone	communication device
+IsA	mastercard	credit card
+IsA	mushroom	fungus
+IsA	pistol	gun
+IsA	poodle	dog
+IsA	dolphin	mammal
+IsA	pineapple	fruit
+IsA	goldfish	carp
+IsA	computer	electronic device
+IsA	tuba	musical instrument
+IsA	orchid	flower
+IsA	badminton	sport
+IsA	golf	sport
+IsA	canada	country
+IsA	parakeet	bird
+IsA	yoyo	toy
+IsA	horn	musical instrument
+IsA	tree	plant
+IsA	baseball	game
+IsA	eiffel tower	in paris
+IsA	sushi	japanese food
+IsA	ping pong	game
+IsA	gravity	force
+IsA	woodwind	instrument
+IsA	piano	instrument
+IsA	guitar	string instrument
+IsA	anger	emotion
+IsA	china	country
+IsA	banana	fruit
+IsA	christianity	religion
+IsA	plastic	material
+IsA	college	place
+IsA	kiss	sign of affection
+IsA	necklace	jewelry
+IsA	lion	carnivore
+IsA	dog	man best friend
+IsA	elementary school	school
+IsA	soup	food
+IsA	chess	game
+IsA	rabbit	mammal
+IsA	cat	animal
+IsA	butterfly	insect
+IsA	rifle	gun
+IsA	robin	bird
+IsA	highway	road
+IsA	ball	toy
+IsA	butter	food
+IsA	bottle	container
+IsA	restaurant	place
+IsA	salad	food
+IsA	tomato	vegetable
+IsA	egg	food
+IsA	green	color
+IsA	islam	religion
+IsA	san francisco	city
+IsA	boat	on water
+IsA	air	gas
+IsA	dentist	doctor
+IsA	hockey	sport
+IsA	french	language
+IsA	drum	percussion instrument
+IsA	viola	instrument
+IsA	human	mammal
+IsA	rice	food
+IsA	saturn	planet
+IsA	mar	planet
+IsA	mouse	mammal
+IsA	jack	child game
+IsA	jack	game
+IsA	colorado	state
+IsA	california	state
+IsA	marijuana	drug
+IsA	box	container
+IsA	coke	soda
+IsA	brain	head
+IsA	cat	curious animal
+IsA	star trek	popular television show
+IsA	physic	science
+IsA	wine	beverage
+IsA	cucumber	vegetable
+IsA	red	color
+IsA	denim	fabric
+IsA	metal	music
+IsA	france	country
+IsA	frog	amphibian
+IsA	novel	book
+IsA	brazil	country
+IsA	pony	horse
+IsA	poker	card game
+IsA	oxygen	gas
+IsA	cheese	food
+IsA	bicycle	two wheel vehicle
+IsA	shirt	clothe
+IsA	raisin	dry grape
+IsA	tv	abbreviation for television
+IsA	saxophone	instrument
+IsA	skyscraper	build
+IsA	submarine	ship
+IsA	dog	loyal friend
+IsA	potato	vegetable
+IsA	dinner	meal
+IsA	chocolate	food
+IsA	gun	weapon
+IsA	lettuce	vegetable
+IsA	car	vehicle
+IsA	human	animal
+IsA	fall	season
+IsA	steel	metal
+IsA	chocolate	candy
+IsA	crappie	fish
+IsA	salamander	amphibian
+IsA	table tennis	sport
+IsA	pelican	bird
+IsA	paris	city
+IsA	music	form of art
+IsA	girl	hold puppy
+IsA	bicycle	form of transportation
+IsA	there	food at grocery store
+IsA	sushi	raw fish
+IsA	corn	food
+IsA	high rise	build
+IsA	chicken	meat
+IsA	sofa	sit on
+IsA	classroom	in school
+IsA	dog	canine
+IsA	soda	drink
+IsA	pocket knife	useful tool
+IsA	love	feel
+IsA	banjo	string instrument
+IsA	guitare	instrument
+IsA	stone	another word for rock
+IsA	baseball	american pastime
+IsA	beanie	hat
+IsA	fedora	hat
+IsA	shotgun	gun
+IsA	new york	state
+IsA	clarinet	instrument
+IsA	bean	vegetable
+IsA	xylophone	percussion instrument
+IsA	english	language
+IsA	london	city
+IsA	swim	sport
+IsA	fish	animal
+IsA	robot	machine
+IsA	backgammon	game
+IsA	jupiter	planet
+IsA	lake	body of water
+IsA	spider	arachnid
+IsA	whale	mammal
+IsA	beaver	mammal
+IsA	pheasant	bird
+IsA	crow	bird
+IsA	hawk	bird
+IsA	goose	bird
+IsA	perl	program language
+IsA	c	program language
+IsA	cat	carnivore
+IsA	unix	operate system
+IsA	unix	system
+IsA	boy	young man
+IsA	beer	alcoholic beverage
+IsA	city	place
+IsA	pea	vegetable
+IsA	slave	person
+IsA	spanish	language

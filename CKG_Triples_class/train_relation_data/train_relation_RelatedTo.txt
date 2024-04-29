@@ -1,0 +1,178 @@
+RelatedTo	winter	snow
+RelatedTo	keyboard	mouse
+RelatedTo	sofa	book
+RelatedTo	king	queen
+RelatedTo	king	prince
+RelatedTo	table	chair
+RelatedTo	tv	vcr
+RelatedTo	class	homework
+RelatedTo	dissertation	journal
+RelatedTo	television	radio
+RelatedTo	dissertation	graduation
+RelatedTo	chair	table
+RelatedTo	dog	dog house
+RelatedTo	language	speak
+RelatedTo	cartoon	animation
+RelatedTo	c++	object orient program
+RelatedTo	c++	memory management
+RelatedTo	chair	desk
+RelatedTo	sun	moon
+RelatedTo	press	news
+RelatedTo	men	woman
+RelatedTo	moon	star
+RelatedTo	shark	jaw
+RelatedTo	pen	pencil
+RelatedTo	needle	thread
+RelatedTo	movie	popcorn
+RelatedTo	home	parent
+RelatedTo	rice	side dish
+RelatedTo	mouse	computer
+RelatedTo	blanket	pillow
+RelatedTo	fun	play game
+RelatedTo	rain	umbrella
+RelatedTo	cold weather	snow
+RelatedTo	computer	screen
+RelatedTo	pencil	mechanical pencil
+RelatedTo	rice	kimchi
+RelatedTo	sofa	cool breeze
+RelatedTo	sex	condom
+RelatedTo	friend	joey
+RelatedTo	film	popcorn
+RelatedTo	fairy tale	robin hood
+RelatedTo	wheat	fart
+RelatedTo	home	traditional food
+RelatedTo	king	princess
+RelatedTo	olympics	five-ring olympic emblem
+RelatedTo	sleep	sofa
+RelatedTo	brush your tooth	tooth decay
+RelatedTo	needle	cross stiches
+RelatedTo	winter	chrismas
+RelatedTo	carrie in sex and city	mr. big
+RelatedTo	new york	broadway
+RelatedTo	carrie in sex and city	samantha
+RelatedTo	wheat	health
+RelatedTo	language	composition
+RelatedTo	dissertation	jounal
+RelatedTo	computer	monitor
+RelatedTo	home	maid
+RelatedTo	fairy tale	hungbu and nolbu
+RelatedTo	wheat	white rice
+RelatedTo	wed dress	wed
+RelatedTo	fairy tale	cinderella
+RelatedTo	wheat	lower cholesterol
+RelatedTo	carrie in sex and city	charlotte
+RelatedTo	cocktail	gin tonic
+RelatedTo	olympics	medal
+RelatedTo	carrie in sex and city	miranda
+RelatedTo	sofa	breeze
+RelatedTo	sex	your wife
+RelatedTo	study	mathematics
+RelatedTo	south korea	north korea
+RelatedTo	fairy tale	goldielocks and three bear
+RelatedTo	toothpaste	brush one tooth
+RelatedTo	sex	wife
+RelatedTo	classroom	blackboard
+RelatedTo	television	fun
+RelatedTo	hair	hairband
+RelatedTo	home	sister
+RelatedTo	c++	headache
+RelatedTo	thesis	graduation
+RelatedTo	cocktail	magarita
+RelatedTo	study	exam
+RelatedTo	computer	mouse
+RelatedTo	sofa	cup of tea
+RelatedTo	television	food
+RelatedTo	fun	read comic
+RelatedTo	fun	watch movie
+RelatedTo	damage	break
+RelatedTo	study	math
+RelatedTo	c++	polymorphism
+RelatedTo	winter	snow
+RelatedTo	keyboard	mouse
+RelatedTo	sofa	book
+RelatedTo	king	queen
+RelatedTo	king	prince
+RelatedTo	table	chair
+RelatedTo	tv	vcr
+RelatedTo	class	homework
+RelatedTo	dissertation	journal
+RelatedTo	television	radio
+RelatedTo	dissertation	graduation
+RelatedTo	chair	table
+RelatedTo	dog	dog house
+RelatedTo	language	speak
+RelatedTo	cartoon	animation
+RelatedTo	c++	object orient program
+RelatedTo	c++	memory management
+RelatedTo	chair	desk
+RelatedTo	sun	moon
+RelatedTo	press	news
+RelatedTo	men	woman
+RelatedTo	moon	star
+RelatedTo	shark	jaw
+RelatedTo	pen	pencil
+RelatedTo	needle	thread
+RelatedTo	movie	popcorn
+RelatedTo	home	parent
+RelatedTo	rice	side dish
+RelatedTo	mouse	computer
+RelatedTo	blanket	pillow
+RelatedTo	fun	play game
+RelatedTo	rain	umbrella
+RelatedTo	cold weather	snow
+RelatedTo	computer	screen
+RelatedTo	pencil	mechanical pencil
+RelatedTo	rice	kimchi
+RelatedTo	sofa	cool breeze
+RelatedTo	sex	condom
+RelatedTo	friend	joey
+RelatedTo	film	popcorn
+RelatedTo	fairy tale	robin hood
+RelatedTo	wheat	fart
+RelatedTo	home	traditional food
+RelatedTo	king	princess
+RelatedTo	olympics	five-ring olympic emblem
+RelatedTo	sleep	sofa
+RelatedTo	brush your tooth	tooth decay
+RelatedTo	needle	cross stiches
+RelatedTo	winter	chrismas
+RelatedTo	carrie in sex and city	mr. big
+RelatedTo	new york	broadway
+RelatedTo	carrie in sex and city	samantha
+RelatedTo	wheat	health
+RelatedTo	language	composition
+RelatedTo	dissertation	jounal
+RelatedTo	computer	monitor
+RelatedTo	home	maid
+RelatedTo	fairy tale	hungbu and nolbu
+RelatedTo	wheat	white rice
+RelatedTo	wed dress	wed
+RelatedTo	fairy tale	cinderella
+RelatedTo	wheat	lower cholesterol
+RelatedTo	carrie in sex and city	charlotte
+RelatedTo	cocktail	gin tonic
+RelatedTo	olympics	medal
+RelatedTo	carrie in sex and city	miranda
+RelatedTo	sofa	breeze
+RelatedTo	sex	your wife
+RelatedTo	study	mathematics
+RelatedTo	south korea	north korea
+RelatedTo	fairy tale	goldielocks and three bear
+RelatedTo	toothpaste	brush one tooth
+RelatedTo	sex	wife
+RelatedTo	classroom	blackboard
+RelatedTo	television	fun
+RelatedTo	hair	hairband
+RelatedTo	home	sister
+RelatedTo	c++	headache
+RelatedTo	thesis	graduation
+RelatedTo	cocktail	magarita
+RelatedTo	study	exam
+RelatedTo	computer	mouse
+RelatedTo	sofa	cup of tea
+RelatedTo	television	food
+RelatedTo	fun	read comic
+RelatedTo	fun	watch movie
+RelatedTo	damage	break
+RelatedTo	study	math
+RelatedTo	c++	polymorphism
