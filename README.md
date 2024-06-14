@@ -15,5 +15,4 @@ Due to the imbalanced distribution of entities and limited structural informatio
 ## Running
 According to the order of the paper method modules, the pre-trained language model can be downloaded from the huggingface official website.
 
-If you have any problems running the code, please send an email to 2201776@stu.neu.edu.cn
 
